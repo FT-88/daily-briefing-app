@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>每日简报</title>
+<meta name="theme-color" content="#0f1115">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="每日简报">
+<style>
+  :root {
+    --bg: #f4f3ee;
+    --card: #ffffff;
+    --text-primary: #1c1c1a;
+    --text-secondary: #57564f;
+    --text-muted: #8b8a80;
+    --border: rgba(0,0,0,0.08);
+    --accent-blue-bg: #e6f1fb; --accent-blue-text: #0c447c;
+    --accent-purple-bg: #eeedfe; --accent-purple-text: #3c3489;
+    --accent-coral-bg: #faece7; --accent-coral-text: #712b13;
+    --accent-teal-bg: #e1f5ee; --accent-teal-text: #085041;
+    --accent-teal-fill: #d8f0e6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16171a;
+      --card: #202226;
+      --text-primary: #f0efe9;
+      --text-secondary: #b7b6ae;
+      --text-muted: #7c7b74;
+      --border: rgba(255,255,255,0.08);
+      --accent-blue-bg: #0c447c; --accent-blue-text: #b5d4f4;
+      --accent-purple-bg: #3c3489; --accent-purple-text: #cecbf6;
+      --accent-coral-bg: #712b13; --accent-coral-text: #f5c4b3;
+      --accent-teal-bg: #085041; --accent-teal-text: #9fe1cb;
+      --accent-teal-fill: #0c3a30;
+    }
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin: 0; padding: 0; background: var(--bg); }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", sans-serif;
+    color: var(--text-primary);
+    padding-bottom: 40px;
+  }
+  header {
+    padding: calc(env(safe-area-inset-top, 0px) + 20px) 20px 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 10;
+  }
+  header h1 { font-size: 20px; font-weight: 600; margin: 0; }
+  header .date { font-size: 13px; color: var(--text-muted); margin-top: 2px; }
+  header .meta { font-size: 12px; color: var(--text-secondary); text-align: right; }
+  main { padding: 4px 16px 0; max-width: 480px; margin: 0 auto; }
+  section.block { margin-bottom: 20px; }
+  h2.section-title {
+    font-size: 13px; font-weight: 600; color: var(--text-muted);
+    text-transform: uppercase; letter-spacing: 0.04em;
+    margin: 0 0 8px 4px;
+  }
+  .news-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 14px 14px 12px;
+    margin-bottom: 10px;
+  }
+  .news-card-top {
+    display: flex; align-items: center; gap: 8px; margin-bottom: 8px;
+  }
+  .rank { font-size: 13px; font-weight: 600; color: var(--text-muted); width: 16px; }
+  .tag {
+    font-size: 11px; font-weight: 600; padding: 3px 9px; border-radius: 20px;
+  }
+  .tag.财经 { background: var(--accent-blue-bg); color: var(--accent-blue-text); }
+  .tag.科技 { background: var(--accent-purple-bg); color: var(--accent-purple-text); }
+  .tag.国际 { background: var(--accent-coral-bg); color: var(--accent-coral-text); }
+  .source { font-size: 11px; color: var(--text-muted); margin-left: auto; }
+  .title-en { font-size: 12px; color: var(--text-muted); margin: 0 0 4px; font-style: italic; }
+  .conclusion { font-size: 16px; font-weight: 600; margin: 0 0 6px; line-height: 1.4; }
+  .why { font-size: 14px; color: var(--text-secondary); margin: 0; line-height: 1.5; }
+  .why::before { content: "为什么重要："; font-weight: 600; color: var(--text-primary); }
+  .detail-toggle {
+    margin-top: 8px; background: none; border: none; padding: 0;
+    font-size: 13px; color: var(--accent-blue-text); font-weight: 600;
+    cursor: pointer; display: flex; align-items: center; gap: 4px;
+  }
+  .detail-toggle .arrow { transition: transform 0.2s; font-size: 11px; }
+  .detail-toggle.open .arrow { transform: rotate(180deg); }
+  .detail {
+    max-height: 0; overflow: hidden; transition: max-height 0.25s ease;
+  }
+  .detail-inner {
+    font-size: 14px; color: var(--text-secondary); line-height: 1.65;
+    padding-top: 10px; border-top: 1px solid var(--border); margin-top: 10px;
+  }
+  .tip-card {
+    background: var(--accent-teal-fill);
+    border-radius: 14px;
+    padding: 16px;
+  }
+  .tip-label { font-size: 12px; font-weight: 600; color: var(--accent-teal-text); margin: 0 0 8px; }
+  .tip-term { font-size: 17px; font-weight: 700; color: var(--accent-teal-text); margin: 0 0 8px; }
+  .tip-explain { font-size: 14px; color: var(--text-primary); margin: 0 0 8px; line-height: 1.6; }
+  .tip-example { font-size: 13px; color: var(--text-secondary); margin: 0; line-height: 1.6; }
+  .refresh-hint {
+    text-align: center; font-size: 12px; color: var(--text-muted); margin-top: 24px;
+  }
+  .empty-state { text-align: center; padding: 60px 20px; color: var(--text-muted); font-size: 14px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>每日简报</h1>
+    <div class="date" id="date-label">加载中...</div>
+  </div>
+  <div class="meta" id="meta-label"></div>
+</header>
+
+<main id="main">
+  <div class="empty-state" id="loading">正在加载今日内容...</div>
+</main>
+
+<script>
+const CATEGORY_ORDER = ["财经", "科技", "国际"];
+
+async function loadData() {
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    const data = await res.json();
+    render(data);
+  } catch (e) {
+    document.getElementById('main').innerHTML =
+      '<div class="empty-state">今日内容还没准备好，稍后再来看看。</div>';
+  }
+}
+
+function render(data) {
+  document.getElementById('date-label').textContent = data.date;
+  document.getElementById('meta-label').textContent = data.news.length + ' 条头条 · 1 条知识';
+
+  const main = document.getElementById('main');
+  main.innerHTML = '';
+
+  const newsSection = document.createElement('section');
+  newsSection.className = 'block';
+  newsSection.innerHTML = '<h2 class="section-title">全球头条</h2>';
+
+  data.news.forEach((item, i) => {
+    const card = document.createElement('div');
+    card.className = 'news-card';
+    card.innerHTML = `
+      <div class="news-card-top">
+        <span class="rank">${i + 1}</span>
+        <span class="tag ${item.category}">${item.category}</span>
+        <span class="source">${item.source}</span>
+      </div>
+      <p class="title-en">${item.titleEn}</p>
+      <p class="conclusion">${item.conclusion}</p>
+      <p class="why">${item.whyItMatters}</p>
+      <button class="detail-toggle">展开详情 <span class="arrow">▾</span></button>
+      <div class="detail"><div class="detail-inner">${item.detail}</div></div>
+    `;
+    const btn = card.querySelector('.detail-toggle');
+    const detail = card.querySelector('.detail');
+    btn.addEventListener('click', () => {
+      const isOpen = btn.classList.toggle('open');
+      if (isOpen) {
+        detail.style.maxHeight = detail.scrollHeight + 'px';
+        btn.firstChild.textContent = '收起详情 ';
+      } else {
+        detail.style.maxHeight = '0px';
+        btn.firstChild.textContent = '展开详情 ';
+      }
+    });
+    newsSection.appendChild(card);
+  });
+  main.appendChild(newsSection);
+
+  const tipSection = document.createElement('section');
+  tipSection.className = 'block';
+  tipSection.innerHTML = `
+    <h2 class="section-title">今日商业知识</h2>
+    <div class="tip-card">
+      <p class="tip-label">${data.businessTip.category}</p>
+      <p class="tip-term">${data.businessTip.term}</p>
+      <p class="tip-explain">${data.businessTip.explanation}</p>
+      <p class="tip-example">${data.businessTip.example}</p>
+    </div>
+  `;
+  main.appendChild(tipSection);
+
+  const hint = document.createElement('div');
+  hint.className = 'refresh-hint';
+  hint.textContent = '更新于 ' + new Date(data.updatedAt).toLocaleString('zh-CN', { hour12: false });
+  main.appendChild(hint);
+}
+
+loadData();
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').catch(() => {});
+}
+</script>
+</body>
+</html>

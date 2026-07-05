@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-05",
+  "updatedAt": "2026-07-05T12:03:00+08:00",
+  "news": [
+    {
+      "category": "财经",
+      "source": "Reuters",
+      "titleEn": "Fed signals rate pause amid inflation cooldown",
+      "conclusion": "美联储暗示年内可能暂停加息。",
+      "whyItMatters": "这意味着借贷成本可能见顶，对股市和房贷都是利好信号。",
+      "detail": "美联储主席在最新讲话中表示，近期通胀数据的降温给了政策制定者更多观察空间，暂不需要进一步收紧货币政策。市场普遍解读为年内转向宽松的前奏，标普500指数应声上涨1.2%，十年期美债收益率随之回落。"
+    },
+    {
+      "category": "科技",
+      "source": "Bloomberg",
+      "titleEn": "Nvidia unveils next-gen chip for AI data centers",
+      "conclusion": "英伟达发布新一代AI芯片，性能大幅提升。",
+      "whyItMatters": "算力成本下降会加速AI应用落地，也可能挤压竞争对手的市场份额。",
+      "detail": "新芯片相比上一代能效提升约40%，已获得多家云计算巨头的预订。分析师预计这将进一步巩固英伟达在AI基础设施市场的主导地位，同时给AMD、英特尔等竞争对手带来更大压力。"
+    },
+    {
+      "category": "国际",
+      "source": "BBC",
+      "titleEn": "EU and Mercosur finalize long-delayed trade deal",
+      "conclusion": "欧盟与南美四国正式签署自贸协定。",
+      "whyItMatters": "这将重塑跨大西洋贸易格局，涉及农产品、汽车等多个行业的关税调整。",
+      "detail": "历经二十余年谈判，欧盟与阿根廷、巴西、巴拉圭、乌拉圭组成的南方共同市场终于达成协议。协议将逐步取消大部分商品关税，但法国等农业大国内部仍存在反对声音，后续在欧盟内部批准程序中可能遇到阻力。"
+    }
+  ],
+  "businessTip": {
+    "term": "Sunk cost fallacy",
+    "category": "通用商业",
+    "explanation": "已经投入的钱、时间、精力不该影响未来的决策，只应该看接下来的成本和收益。",
+    "example": "比如一个项目已经烧了50万但前景不明朗，正确的决策方式是评估\"继续投入能不能带来正回报\"，而不是想着\"都投这么多了不能停\"。及时放弃一个不再有价值的项目不是失败，硬撑下去才是。"
+  }
+}
