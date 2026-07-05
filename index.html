@@ -80,9 +80,6 @@
   .tag {
     font-size: 11px; font-weight: 600; padding: 3px 9px; border-radius: 20px;
   }
-  .tag.财经 { background: var(--accent-blue-bg); color: var(--accent-blue-text); }
-  .tag.科技 { background: var(--accent-purple-bg); color: var(--accent-purple-text); }
-  .tag.国际 { background: var(--accent-coral-bg); color: var(--accent-coral-text); }
   .source { font-size: 11px; color: var(--text-muted); margin-left: auto; }
   .title-en { font-size: 12px; color: var(--text-muted); margin: 0 0 4px; font-style: italic; }
   .conclusion { font-size: 16px; font-weight: 600; margin: 0 0 6px; line-height: 1.4; }
@@ -132,7 +129,16 @@
 </main>
 
 <script>
-const CATEGORY_ORDER = ["财经", "科技", "国际"];
+const CATEGORY_COLORS = {
+  "财经": { bg: "var(--accent-blue-bg)", text: "var(--accent-blue-text)" },
+  "科技": { bg: "var(--accent-purple-bg)", text: "var(--accent-purple-text)" },
+  "国际": { bg: "var(--accent-coral-bg)", text: "var(--accent-coral-text)" },
+};
+const DEFAULT_TAG_COLOR = { bg: "var(--accent-teal-bg)", text: "var(--accent-teal-text)" };
+
+function tagColor(category) {
+  return CATEGORY_COLORS[category] || DEFAULT_TAG_COLOR;
+}
 
 async function loadData() {
   try {
@@ -159,10 +165,11 @@ function render(data) {
   data.news.forEach((item, i) => {
     const card = document.createElement('div');
     card.className = 'news-card';
+    const c = tagColor(item.category);
     card.innerHTML = `
       <div class="news-card-top">
         <span class="rank">${i + 1}</span>
-        <span class="tag ${item.category}">${item.category}</span>
+        <span class="tag" style="background:${c.bg}; color:${c.text};">${item.category}</span>
         <span class="source">${item.source}</span>
       </div>
       <p class="title-en">${item.titleEn}</p>
