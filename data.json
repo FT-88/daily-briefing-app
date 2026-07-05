@@ -6,31 +6,137 @@
       "category": "财经",
       "source": "Reuters",
       "titleEn": "Fed signals rate pause amid inflation cooldown",
-      "conclusion": "美联储暗示年内可能暂停加息。",
-      "whyItMatters": "这意味着借贷成本可能见顶，对股市和房贷都是利好信号。",
-      "detail": "美联储主席在最新讲话中表示，近期通胀数据的降温给了政策制定者更多观察空间，暂不需要进一步收紧货币政策。市场普遍解读为年内转向宽松的前奏，标普500指数应声上涨1.2%，十年期美债收益率随之回落。"
+      "conclusionEn": "The Fed hinted it may pause rate hikes for the rest of the year.",
+      "conclusionZh": "美联储暗示年内可能暂停加息。",
+      "whyEn": "Borrowing costs may have peaked, a positive signal for stocks and mortgages.",
+      "whyZh": "这意味着借贷成本可能见顶，对股市和房贷都是利好信号。",
+      "detailEn": "The Fed chair said cooling inflation data gives policymakers room to hold off on further tightening. Markets read this as a prelude to an eventual pivot toward easing, with the S&P 500 rising 1.2% and the 10-year Treasury yield pulling back.",
+      "detailZh": "美联储主席在最新讲话中表示，近期通胀数据的降温给了政策制定者更多观察空间，暂不需要进一步收紧货币政策。市场普遍解读为年内转向宽松的前奏，标普500指数应声上涨1.2%，十年期美债收益率随之回落。"
     },
     {
       "category": "科技",
       "source": "Bloomberg",
       "titleEn": "Nvidia unveils next-gen chip for AI data centers",
-      "conclusion": "英伟达发布新一代AI芯片，性能大幅提升。",
-      "whyItMatters": "算力成本下降会加速AI应用落地，也可能挤压竞争对手的市场份额。",
-      "detail": "新芯片相比上一代能效提升约40%，已获得多家云计算巨头的预订。分析师预计这将进一步巩固英伟达在AI基础设施市场的主导地位，同时给AMD、英特尔等竞争对手带来更大压力。"
+      "conclusionEn": "Nvidia launched a new-generation AI chip with a major performance boost.",
+      "conclusionZh": "英伟达发布新一代AI芯片，性能大幅提升。",
+      "whyEn": "Cheaper compute could accelerate AI adoption and squeeze competitors' market share.",
+      "whyZh": "算力成本下降会加速AI应用落地，也可能挤压竞争对手的市场份额。",
+      "detailEn": "The new chip is roughly 40% more energy-efficient than its predecessor and has already secured orders from several major cloud providers. Analysts expect this to further cement Nvidia's dominance in AI infrastructure while pressuring rivals like AMD and Intel.",
+      "detailZh": "新芯片相比上一代能效提升约40%，已获得多家云计算巨头的预订。分析师预计这将进一步巩固英伟达在AI基础设施市场的主导地位，同时给AMD、英特尔等竞争对手带来更大压力。"
     },
     {
       "category": "国际",
       "source": "BBC",
       "titleEn": "EU and Mercosur finalize long-delayed trade deal",
-      "conclusion": "欧盟与南美四国正式签署自贸协定。",
-      "whyItMatters": "这将重塑跨大西洋贸易格局，涉及农产品、汽车等多个行业的关税调整。",
-      "detail": "历经二十余年谈判，欧盟与阿根廷、巴西、巴拉圭、乌拉圭组成的南方共同市场终于达成协议。协议将逐步取消大部分商品关税，但法国等农业大国内部仍存在反对声音，后续在欧盟内部批准程序中可能遇到阻力。"
+      "conclusionEn": "The EU and four South American nations signed a long-awaited trade agreement.",
+      "conclusionZh": "欧盟与南美四国正式签署自贸协定。",
+      "whyEn": "The deal will reshape transatlantic trade, affecting tariffs on agriculture and autos.",
+      "whyZh": "这将重塑跨大西洋贸易格局，涉及农产品、汽车等多个行业的关税调整。",
+      "detailEn": "After more than two decades of negotiations, the EU and the Mercosur bloc — Argentina, Brazil, Paraguay and Uruguay — reached an agreement that will gradually eliminate most tariffs. Opposition from agricultural interests in countries like France could still complicate ratification within the EU.",
+      "detailZh": "历经二十余年谈判，欧盟与阿根廷、巴西、巴拉圭、乌拉圭组成的南方共同市场终于达成协议。协议将逐步取消大部分商品关税，但法国等农业大国内部仍存在反对声音，后续在欧盟内部批准程序中可能遇到阻力。"
+    },
+    {
+      "category": "财经",
+      "source": "Financial Times",
+      "titleEn": "Oil prices climb on OPEC+ supply cut extension",
+      "conclusionEn": "Oil prices rose after OPEC+ extended its production cuts.",
+      "conclusionZh": "OPEC+延长减产协议，油价随之上涨。",
+      "whyEn": "Higher energy prices could feed back into inflation and raise costs across industries.",
+      "whyZh": "能源价格上涨可能推高通胀，并增加多个行业的运营成本。",
+      "detailEn": "Brent crude rose above $85 a barrel after producers agreed to extend cuts into next year. Analysts warn this could complicate central banks' efforts to bring inflation down further.",
+      "detailZh": "布伦特原油价格突破每桶85美元，此前产油国同意将减产协议延长至明年。分析师警告，这可能给各国央行进一步压低通胀带来复杂性。"
+    },
+    {
+      "category": "科技",
+      "source": "The Wall Street Journal",
+      "titleEn": "Apple reportedly in talks to license AI models for Siri overhaul",
+      "conclusionEn": "Apple is reportedly negotiating to license outside AI models to revamp Siri.",
+      "conclusionZh": "苹果据报正在洽谈引入外部AI模型以改造Siri。",
+      "whyEn": "This would mark a shift in Apple's AI strategy and could reshape the assistant market.",
+      "whyZh": "这标志着苹果AI战略的转变，也可能重塑智能助手市场格局。",
+      "detailEn": "According to people familiar with the matter, Apple has held talks with several AI labs about powering a redesigned Siri. The move follows delays in Apple's in-house AI efforts and growing competitive pressure from rivals' assistants.",
+      "detailZh": "据知情人士透露，苹果已与多家AI实验室就为改版Siri提供技术支持进行洽谈。此举是在苹果内部AI项目进展受阻、且竞争对手的智能助手带来更大压力的背景下做出的。"
+    },
+    {
+      "category": "国际",
+      "source": "Reuters",
+      "titleEn": "Japan and South Korea agree on new semiconductor supply pact",
+      "conclusionEn": "Japan and South Korea signed a new agreement on semiconductor supply chains.",
+      "conclusionZh": "日本与韩国签署新的半导体供应链合作协议。",
+      "whyEn": "The pact aims to reduce reliance on any single country for critical chip materials.",
+      "whyZh": "协议旨在减少对单一国家在关键芯片材料上的依赖。",
+      "detailEn": "The agreement covers cooperation on rare materials, equipment and joint R&D. It comes as both countries seek to diversify supply chains amid ongoing global tensions over chip technology.",
+      "detailZh": "协议涵盖稀有材料、设备及联合研发等方面的合作。在全球芯片技术紧张局势持续的背景下，两国都希望借此实现供应链多元化。"
+    },
+    {
+      "category": "财经",
+      "source": "CNBC",
+      "titleEn": "Major US retailer beats earnings expectations on strong online sales",
+      "conclusionEn": "A major US retailer topped earnings estimates thanks to strong e-commerce growth.",
+      "conclusionZh": "一家美国大型零售商因线上销售强劲，业绩超预期。",
+      "whyEn": "It's an early signal of resilient consumer spending heading into the second half of the year.",
+      "whyZh": "这是下半年消费者支出韧性较强的早期信号。",
+      "detailEn": "Online sales grew double digits year-over-year, offsetting softer in-store traffic. Executives cited improved delivery speed and loyalty programs as key growth drivers, and raised full-year guidance.",
+      "detailZh": "线上销售同比实现两位数增长，抵消了实体门店客流的疲软。管理层表示配送速度提升和会员计划是主要增长动力，并上调了全年业绩指引。"
+    },
+    {
+      "category": "国际",
+      "source": "Associated Press",
+      "titleEn": "UN climate talks extended after disagreement over funding",
+      "conclusionEn": "UN climate negotiations were extended after countries clashed over funding commitments.",
+      "conclusionZh": "联合国气候谈判因资金承诺分歧而延期。",
+      "whyEn": "Delays could push back climate financing that developing nations rely on.",
+      "whyZh": "延期可能推迟发展中国家所依赖的气候资金到位时间。",
+      "detailEn": "Developed and developing nations remained split over how much wealthy countries should contribute to a climate fund. Negotiators said talks would continue into the following week to try to reach a compromise.",
+      "detailZh": "发达国家与发展中国家在富裕国家应向气候基金出资多少的问题上仍存在分歧。谈判代表表示将把谈判延续到下周，以争取达成妥协。"
+    },
+    {
+      "category": "科技",
+      "source": "Bloomberg",
+      "titleEn": "Amazon expands same-day delivery to more mid-size cities",
+      "conclusionEn": "Amazon is expanding same-day delivery coverage to more mid-size US cities.",
+      "conclusionZh": "亚马逊将当日达服务扩展至更多中型城市。",
+      "whyEn": "Faster delivery could pressure smaller retailers and regional logistics players.",
+      "whyZh": "更快的配送速度可能给中小零售商和区域物流企业带来压力。",
+      "detailEn": "The expansion adds dozens of new facilities and is part of a broader push to shorten delivery times nationwide. Analysts say it raises the bar for competitors that lack similar logistics scale.",
+      "detailZh": "此次扩张新增数十个配送设施，是亚马逊在全国范围内缩短配送时间这一更大战略的一部分。分析师表示，这为缺乏同等物流规模的竞争对手设立了更高门槛。"
+    },
+    {
+      "category": "财经",
+      "source": "Financial Times",
+      "titleEn": "China unveils new measures to support property sector",
+      "conclusionEn": "China announced fresh measures aimed at stabilizing its property sector.",
+      "conclusionZh": "中国出台新措施支持房地产行业企稳。",
+      "whyEn": "The property sector's health has broad implications for China's growth and global markets.",
+      "whyZh": "房地产行业的状况对中国经济增长及全球市场都有广泛影响。",
+      "detailEn": "The measures include lower down-payment requirements and support for developers to complete unfinished projects. Economists are divided on whether the steps go far enough to restore buyer confidence.",
+      "detailZh": "相关措施包括降低首付比例，以及支持开发商完成\"保交楼\"项目。经济学家对这些措施是否足以恢复购房者信心看法不一。"
     }
   ],
-  "businessTip": {
-    "term": "Sunk cost fallacy",
-    "category": "通用商业",
-    "explanation": "已经投入的钱、时间、精力不该影响未来的决策，只应该看接下来的成本和收益。",
-    "example": "比如一个项目已经烧了50万但前景不明朗，正确的决策方式是评估\"继续投入能不能带来正回报\"，而不是想着\"都投这么多了不能停\"。及时放弃一个不再有价值的项目不是失败，硬撑下去才是。"
-  }
+  "businessTips": [
+    {
+      "term": "Sunk cost fallacy",
+      "category": "通用商业",
+      "explanationEn": "Money, time, or effort already spent shouldn't influence future decisions — only the costs and benefits going forward should matter.",
+      "explanationZh": "已经投入的钱、时间、精力不该影响未来的决策，只应该看接下来的成本和收益。",
+      "exampleEn": "If a project has already burned through $500K with an uncertain outlook, the right question is whether continuing will generate positive returns — not how much has already been spent.",
+      "exampleZh": "比如一个项目已经烧了50万但前景不明朗，正确的决策方式是评估\"继续投入能不能带来正回报\"，而不是想着\"都投这么多了不能停\"。及时放弃一个不再有价值的项目不是失败，硬撑下去才是。"
+    },
+    {
+      "term": "Minimum viable product (MVP)",
+      "category": "创业副业",
+      "explanationEn": "Build the smallest version of a product that lets you test a core assumption with real users before investing heavily.",
+      "explanationZh": "先做出能验证核心假设的最简版本产品，让真实用户试用，再决定要不要大规模投入。",
+      "exampleEn": "Instead of spending six months building a full app, a founder might launch a simple landing page or manual service to see if anyone will actually pay for the idea.",
+      "exampleZh": "与其花六个月做一个完整的App，不如先上线一个简单的落地页或手动提供服务，看看到底有没有人愿意为这个想法付费。"
+    },
+    {
+      "term": "Dollar-cost averaging",
+      "category": "投资金融",
+      "explanationEn": "Investing a fixed amount at regular intervals, regardless of price, to smooth out the impact of market volatility over time.",
+      "explanationZh": "不论价格高低，定期投入固定金额，用时间拉平市场波动带来的影响。",
+      "exampleEn": "Someone investing $500 every month into an index fund will automatically buy more shares when prices are low and fewer when prices are high, without needing to time the market.",
+      "exampleZh": "比如每月定投500元到指数基金里，价格低时自动买到更多份额，价格高时买得少一些，完全不需要去判断市场时机。"
+    }
+  ]
 }
