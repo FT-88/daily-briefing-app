@@ -1,142 +1,140 @@
 {
-  "date": "2026-07-06",
-  "updatedAt": "2026-07-06T16:54:00+08:00",
+  "date": "2026-07-08",
+  "updatedAt": "2026-07-08T12:30:00+08:00",
   "news": [
     {
       "category": "国际",
-      "source": "CBS News",
-      "titleEn": "Iran begins mass funeral procession in Tehran for slain Supreme Leader Khamenei",
-      "conclusionEn": "Iran began a nationwide funeral procession for Supreme Leader Ayatollah Ali Khamenei, killed in a February airstrike, with officials expecting 15 to 20 million mourners.",
-      "conclusionZh": "伊朗为2月遇袭身亡的最高领袖哈梅内伊举行国葬，预计吸引1500万至2000万人悼念。",
-      "whyEn": "Crowds are chanting for revenge against the US and Israel, raising fresh fears of renewed escalation in the region just as Washington pushes for an Iran peace deal.",
-      "whyZh": "民众高喊复仇，令外界担忧地区局势再升级，恰逢美方正推动伊朗和谈。",
-      "detailEn": "Khamenei's flag-draped coffin, along with those of family members killed in the same February strike, was paraded through Tehran on Monday as hundreds of thousands lined the streets chanting \"death to America.\" Officials say the ceremonies could draw between 15 and 20 million mourners nationwide, potentially making it the largest state funeral in Iran's history. The identity of Iran's next supreme leader has not been announced, leaving the country's future leadership and its approach to ongoing talks with Washington uncertain.",
-      "detailZh": "哈梅内伊的灵柩7月6日周一被送上卡车游行穿过德黑兰街头，与他一同遇难的家属灵柩也一并送行，数十万民众沿街高喊「打倒美国」。官方预计全国悼念人数将达1500万至2000万，可能成为伊朗历史上规模最大的国葬。伊朗尚未公布新任最高领袖人选，未来领导层归属及对美谈判走向仍充满不确定性。"
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/07/07/us-strikes-iran-hormuz-ships.html",
+      "titleEn": "U.S. completes strikes on multiple Iranian targets after Hormuz Strait ship attacks, Centcom says",
+      "conclusionEn": "The U.S. struck more than 80 targets in Iran after attacks on commercial ships in the Strait of Hormuz, and Iran retaliated with missile and drone strikes on U.S. bases in Bahrain and Kuwait.",
+      "conclusionZh": "美国空袭伊朗80余目标，伊朗随后对巴林、科威特美军基地发动导弹无人机反击。",
+      "whyEn": "The rapid escalation threatens to disrupt a fifth of global oil supply that transits Hormuz and pushed Brent crude up nearly 6%, with markets bracing for further retaliation.",
+      "whyZh": "冲突升级威胁经霍尔木兹海峡的全球五分之一石油供应，布伦特原油应声大涨近6%。",
+      "detailEn": "U.S. Central Command said forces struck Iranian air defenses, command networks, coastal radar and more than 60 Revolutionary Guard boats after Iran attacked three commercial vessels, including a Saudi oil tanker, in the Strait of Hormuz. The U.S. Treasury also revoked a sanctions waiver that had allowed Iran to sell oil globally under an interim peace deal, giving traders only a 10-day wind-down period. Iran's Revolutionary Guard responded by firing missiles and drones at U.S. military sites in Bahrain and Kuwait, prompting Kuwaiti air defenses to intercept the incoming threats. Iran's lead negotiator accused Washington of violating their recent memorandum of understanding and vowed a \"crushing response,\" raising fears the fragile ceasefire could collapse entirely.",
+      "detailZh": "美国中央司令部表示，在伊朗于霍尔木兹海峡袭击包括一艘沙特油轮在内的三艘商船后，美军打击了伊朗防空系统、指挥网络、海岸雷达及60多艘革命卫队快艇。美国财政部同时撤销此前根据临时和平协议给予伊朗的石油出口豁免，仅给交易商10天缓冲期结清现有交易。伊朗革命卫队随后向巴林、科威特的美军基地发射导弹和无人机，科威特防空系统随即拦截来袭目标。伊朗首席谈判代表指责美方违反双方近期签署的谅解备忘录，并誓言将予以「毁灭性回击」，外界担忧脆弱的停火协议可能彻底破裂。"
+    },
+    {
+      "category": "财经",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-07/tech-weakness-resumes-after-samsung-misses-lofty-ai-expectations",
+      "titleEn": "Samsung Misses AI Expectations, Pressures Tech Stocks as Nasdaq Futures Drop",
+      "conclusionEn": "Samsung's record quarterly profit still fell short of sky-high AI expectations, triggering a global semiconductor selloff that dragged the Nasdaq down over 1%.",
+      "conclusionZh": "三星季度利润创纪录但不及AI预期，引发全球芯片股抛售，纳斯达克下跌逾1%。",
+      "whyEn": "The selloff, compounded by reports that China's DeepSeek is building its own AI chip, signals growing investor doubt about whether massive AI infrastructure spending can keep delivering outsized returns.",
+      "whyZh": "叠加中国DeepSeek自研AI芯片的消息，抛售显示投资者对巨额AI基建投资回报的疑虑正在加深。",
+      "detailEn": "Samsung Electronics reported a roughly 19-fold jump in quarterly profit on booming memory-chip demand, yet its shares still fell nearly 7% in Seoul because results missed the market's most bullish AI-driven forecasts. The disappointment spread globally, dragging down Micron, KLA, Marvell, Nvidia, Broadcom and AMD in U.S. premarket trading, while South Korea's Kospi tumbled almost 5%. The rout deepened after reports emerged that Chinese AI startup DeepSeek is developing its own inference chip, adding to concerns about competitive and demand pressure on Western chipmakers. The S&P 500 fell 0.45% and the Nasdaq Composite dropped 1.16% for the session as investors rotated out of AI-linked names.",
+      "detailZh": "三星电子公布季度利润同比暴增约19倍，得益于存储芯片需求旺盛，但由于业绩仍不及市场最乐观的AI相关预期，股价在首尔市场仍大跌近7%。这一失望情绪蔓延全球，美光、科磊、迈威尔、英伟达、博通及AMD等美股盘前均受拖累，韩国综合指数暴跌近5%。市场恐慌因中国AI初创公司DeepSeek正自主研发推理芯片的消息而加剧，令外界担忧西方芯片厂商面临更大竞争与需求压力。当日标普500指数下跌0.45%，纳斯达克综合指数下跌1.16%，投资者纷纷抛售AI概念股。"
     },
     {
       "category": "国际",
       "source": "NPR",
-      "titleEn": "NATO leaders look for unity as Trump attends annual summit in Ankara",
-      "conclusionEn": "NATO's 32 leaders meet in Ankara on July 7-8 with Trump attending amid friction over defense spending, and allies are set to unveil a $75 billion Ukraine aid package.",
-      "conclusionZh": "北约峰会7日在安卡拉召开，特朗普与会，盟国拟推750亿美元援乌方案。",
-      "whyEn": "Trump is pushing allies toward 5% of GDP defense spending and demanding \"loyalty,\" testing alliance cohesion at a moment of heightened Middle East tension.",
-      "whyZh": "特朗普要求盟国将防务开支提至GDP的5%并强调「忠诚」，考验北约团结。",
-      "detailEn": "The 36th NATO summit opens Tuesday in Ankara, the first hosted by Turkey since 2004, with Secretary General Mark Rutte prioritizing higher defense investment, defense-industrial capacity, and continued support for Ukraine. Trump has said he considered skipping the summit but is attending partly out of goodwill toward Turkish President Erdogan, while publicly pressing members to raise defense spending to 5% of GDP. Allies are expected to announce a landmark $75 billion military and financial aid package for Ukraine, easing pressure on the US to fund Kyiv alone. Turkey is separately seeking US approval to buy F-110 engines and rejoin the F-35 program.",
-      "detailZh": "第36届北约峰会7日在土耳其安卡拉开幕，这是继2004年伊斯坦布尔峰会后土耳其再度承办。秘书长吕特将峰会重点放在提高防务投入、扩大军工产能及持续援乌上。特朗普曾表示考虑缺席，但为给土耳其总统埃尔多安面子而与会，同时公开要求成员国将防务开支提高到GDP的5%。盟国预计将宣布一项750亿美元的对乌军事及财政援助方案，以减轻美国独自承担援乌压力。土耳其则另外寻求美方批准其采购F-110发动机并重返F-35战机项目。"
-    },
-    {
-      "category": "国际",
-      "source": "Axios",
-      "titleEn": "Trump says Netanyahu \"knows who the boss is\" ahead of expected White House visit",
-      "conclusionEn": "Trump and Netanyahu remain at odds over Israel's offensive in Lebanon even as a White House meeting is being arranged, with Trump publicly asserting control over Israeli policy.",
-      "conclusionZh": "特朗普与内塔尼亚胡就黎巴嫩军事行动分歧未消，白宫会晤仍在筹备中。",
-      "whyEn": "Rare public friction between the US and its closest Middle East ally could shape whether Israel scales back operations in Lebanon as Iran-related diplomacy continues.",
-      "whyZh": "美以罕见公开分歧，可能影响以色列黎巴嫩行动走向及伊朗相关外交进程。",
-      "detailEn": "Trump has pressed Netanyahu to restrain Israeli military operations in Lebanon, which Washington sees as an obstacle to broader efforts to end hostilities with Iran, after a heated phone call last month in which Trump reportedly called Netanyahu's approach reckless. A White House visit by Netanyahu is being discussed but is unlikely to happen immediately since Trump is traveling to the NATO summit in Turkey this week. Despite the tension, Trump told reporters \"we get along very good\" and that Netanyahu \"knows who the boss is,\" underscoring Washington's push to keep Israel aligned with US regional strategy.",
-      "detailZh": "特朗普上月与内塔尼亚胡通话时言辞激烈，据报道批评其黎巴嫩行动方式过于冒进，此后一直施压要求以方克制军事行动，因为华盛顿认为这是推进伊朗停火进程的障碍。内塔尼亚胡访问白宫一事仍在磋商中，但由于特朗普本周将赴土耳其出席北约峰会，会晤短期内难以成行。尽管存在分歧，特朗普仍对记者表示「我们关系很好」，并称内塔尼亚胡「知道谁说了算」，凸显美方希望以色列继续配合其中东战略部署。"
-    },
-    {
-      "category": "科技",
-      "source": "Bloomberg",
-      "titleEn": "Google Loses EU Court Appeal Over €4.1 Billion Android Antitrust Fine",
-      "conclusionEn": "The EU's top court finalized a record €4.1 billion ($4.7 billion) antitrust fine against Google over Android, ending the company's last avenue of appeal.",
-      "conclusionZh": "欧盟最高法院终审维持对谷歌41亿欧元反垄断罚款，谷歌已无上诉余地。",
-      "whyEn": "The ruling cements the EU's toughest-ever tech antitrust penalty and reinforces regulators' power to police how dominant platforms bundle their own services.",
-      "whyZh": "此案是欧盟史上最重的科技反垄断罚单，强化了监管机构限制平台捆绑行为的权力。",
-      "detailEn": "The European Court of Justice ruled Thursday that the European Commission was right to punish Google for pressuring Android phone makers to preinstall Google Search and Chrome, effectively shutting out rivals. The original 2018 fine of €4.34 billion was reduced to €4.1 billion by a lower EU court in 2022, and Thursday's ruling makes that reduced figure final with no further right of appeal. The decision closes an eight-year legal battle and signals that the EU's tightening scrutiny of Big Tech's platform power will continue under the newer Digital Markets Act regime.",
-      "detailZh": "欧盟法院周四裁定，欧盟委员会此前因谷歌向安卓手机厂商施压、要求预装谷歌搜索和Chrome浏览器、从而排挤竞争对手的行为进行处罚是正确的。这笔罚款原为2018年开出的43.4亿欧元，2022年被欧盟下级法院减至41亿欧元，此次终审维持该金额且谷歌已无法继续上诉。这场长达八年的法律拉锯战就此落幕，也表明欧盟在《数字市场法》框架下对大型科技平台的监管力度仍将持续收紧。"
-    },
-    {
-      "category": "科技",
-      "source": "Bloomberg",
-      "titleEn": "Meta Is Planning a Cloud Business to Sell AI Computing Power",
-      "conclusionEn": "Meta is building a new cloud unit, internally called \"Meta Compute,\" to sell its excess AI computing capacity to outside customers, competing with AWS, Azure and Google Cloud.",
-      "conclusionZh": "Meta拟组建云业务「Meta Compute」，对外出售闲置AI算力，进军云计算市场。",
-      "whyEn": "With roughly $145 billion in 2026 infrastructure spending, monetizing spare AI capacity could turn Meta's massive data-center buildout into a new revenue stream.",
-      "whyZh": "Meta今年基建投入约1450亿美元，出售闲置算力有望开辟新的收入来源。",
-      "detailEn": "The initiative is overseen by infrastructure chief Santosh Janardhan, Meta Superintelligence Labs' Daniel Gross, and Meta President Dina Powell McCormick, and will offer two products: hosted access to Meta's AI models, and raw GPU compute capacity sold directly to enterprise customers. Analysts estimate Meta's total infrastructure spending will reach about $145 billion in 2026, and the new unit aims to generate revenue from that build-out rather than let capacity sit idle. The move puts Meta in direct competition with established cloud providers and mirrors similar plays by other AI-heavy companies looking to monetize surplus compute.",
-      "detailZh": "该项目由Meta基础设施负责人Santosh Janardhan、Meta超级智能实验室的Daniel Gross及总裁Dina Powell McCormick共同负责，将推出两类产品：一是让企业调用Meta AI模型的托管服务，二是直接出售原始GPU算力。分析师预计Meta今年基础设施总支出将达约1450亿美元，新业务旨在为这些巨额投入创造收入，而非让算力闲置。此举使Meta与现有云服务巨头正面竞争，也与其他AI企业近期纷纷变现闲置算力的做法如出一辙。"
+      "sourceUrl": "https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending",
+      "titleEn": "Trump won spending promises from NATO last year. This week, he'll try to enforce them",
+      "conclusionEn": "NATO's 32 leaders gathered in Ankara for a July 7-8 summit where Trump pushed allies to accelerate defense spending toward 5% of GDP.",
+      "conclusionZh": "北约32国领导人在安卡拉召开峰会，特朗普推动盟国加速将防务开支提高至GDP的5%。",
+      "whyEn": "Enforcing last year's spending pledges tests alliance cohesion just as the U.S. is simultaneously engaged in an escalating military confrontation with Iran.",
+      "whyZh": "在美伊冲突升级之际推行防务开支承诺，考验北约团结与美国的多线应对能力。",
+      "detailEn": "The summit in Ankara, the first NATO gathering hosted by Turkey since 2004, focused on Secretary General Mark Rutte's push for allies to submit concrete plans meeting the alliance's new target of 5% of GDP on defense and security spending by 2035. European allies and Canada are already investing roughly 4% of GDP, and Trump administration officials say the president wants members to hit 5% faster than the 2035 deadline. Trump had reportedly considered skipping the summit but attended partly out of deference to Turkish President Erdogan, even as he juggles the unfolding Iran crisis from the sidelines. Turkey is separately using the summit to press Washington for approval to buy F-110 jet engines and rejoin the F-35 program.",
+      "detailZh": "此次安卡拉峰会是继2004年伊斯坦布尔峰会后北约再度由土耳其承办，秘书长吕特在会上力推各成员国提交具体计划，以在2035年前将防务及安全相关支出提高至GDP的5%。欧洲盟国和加拿大目前投入约占GDP的4%，特朗普政府官员表示，总统希望成员国能比2035年的最后期限更快达标。据报道，特朗普原本考虑缺席此次峰会，但为顾及土耳其总统埃尔多安的面子而与会，同时仍在场外应对不断升级的伊朗危机。土耳其则借峰会之机，另外向美方争取批准采购F-110发动机并重返F-35战机项目。"
     },
     {
       "category": "财经",
       "source": "CNBC",
-      "titleEn": "June jobs report: US payrolls rose by 57,000, missing expectations",
-      "conclusionEn": "US nonfarm payrolls grew just 57,000 in June, far below the 115,000 forecast, though unemployment ticked down to 4.2%.",
-      "conclusionZh": "美国6月新增就业仅5.7万人，远低于预期，失业率微降至4.2%。",
-      "whyEn": "The weak print, plus large downward revisions to April and May, adds to signs of a cooling labor market that could influence the Fed's next rate decision.",
-      "whyZh": "就业数据疲软且前两月被大幅下修，凸显劳动力市场降温，或影响美联储下次决策。",
-      "detailEn": "The Bureau of Labor Statistics said professional and business services, social assistance, and health care led job gains, while leisure and hospitality shed 61,000 positions on weaker seasonal hiring. April's payroll count was revised down by 31,000 and May's by 43,000, leaving the two months a combined 74,000 jobs weaker than first reported. Average hourly earnings rose 0.3% to $37.64, keeping annual wage growth at 3.5%. The soft report comes ahead of the Fed's July 28-29 meeting, where officials have already removed a 2026 rate cut from their projections.",
-      "detailZh": "美国劳工统计局数据显示，专业和商业服务、社会救助及医疗保健行业带动了就业增长，而休闲酒店业因季节性用工走弱减少6.1万个岗位。4月就业人数被下修3.1万，5月被下修4.3万，两月合计较此前公布数据少增7.4万个岗位。平均时薪上涨0.3%至37.64美元，同比薪资增速维持在3.5%。这份疲软报告发布之际，美联储将于7月28至29日召开会议，此前官员已从预测中撤下2026年降息的可能。"
+      "sourceUrl": "https://www.cnbc.com/2026/07/07/amazon-bond-sale-ai-debt.html",
+      "titleEn": "Amazon raising at least $25 billion in bond sale, won't issue more debt in 2026",
+      "conclusionEn": "Amazon launched an eight-part bond sale to raise at least $25 billion, with investor orders peaking near $62 billion, to fund its AI infrastructure buildout.",
+      "conclusionZh": "亚马逊发行八期债券融资至少250亿美元，认购需求一度高达620亿美元，用于AI基建扩张。",
+      "whyEn": "The debt raise underscores how capital-intensive the AI arms race has become, with Amazon's 2026 capital spending projected to reach $200 billion, up from $131 billion in 2025.",
+      "whyZh": "此举凸显AI竞赛的资本密集程度，亚马逊2026年资本支出预计达2000亿美元，较2025年的1310亿美元大增。",
+      "detailEn": "Amazon disclosed the bond offering in an SEC filing, issuing senior unsecured notes with maturities ranging from three to 40 years through joint bookrunners Barclays, Goldman Sachs, JPMorgan and Morgan Stanley. Investor demand peaked at about $62 billion before banks trimmed pricing spreads, ultimately settling around $41 billion in orders. Proceeds will fund data centers, chips and other AI infrastructure as well as refinance upcoming debt maturities, and the company has told underwriters it does not plan to issue further debt this year. The sale is one of the largest corporate bond deals of 2026 and reflects how Big Tech is increasingly turning to debt markets, not just cash flow, to finance the AI buildout.",
+      "detailZh": "亚马逊在提交给美国证券交易委员会的文件中披露此次债券发行计划，通过巴克莱、高盛、摩根大通及摩根士丹利担任联席主承销商，发行期限从3年到40年不等的高级无抵押债券。投资者认购需求一度高达约620亿美元，银行下调发行利差后最终认购规模约410亿美元。所募资金将用于数据中心、芯片等AI基础设施建设及偿还即将到期的债务，公司已告知承销商今年不会再发行新债。这是2026年规模最大的企业债券发行之一，反映出大型科技公司正越来越多依靠债务市场而非仅靠自身现金流来支撑AI基建投入。"
+    },
+    {
+      "category": "科技",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul",
+      "titleEn": "Microsoft's Xbox to Cut 3,200 Jobs, Divest Studios in Major Overhaul",
+      "conclusionEn": "Microsoft's Xbox division will cut about 3,200 jobs, roughly 20% of its workforce, and divest four game studios in what its CEO called the unit's most significant restructuring ever.",
+      "conclusionZh": "微软Xbox部门将裁员约3200人（占其员工两成），并出售四家游戏工作室，是史上最大规模重组。",
+      "whyEn": "The overhaul reflects how even major tech divisions are restructuring around AI priorities and margin pressure, adding to roughly 120,000 tech jobs cut across the industry in 2026.",
+      "whyZh": "重组反映科技公司正围绕AI优先级与利润压力调整业务，2026年全行业已裁员约12万人。",
+      "detailEn": "Xbox CEO Asha Sharma said the division's margins run three to ten times lower than comparable platform and publishing businesses, calling the current business \"not healthy.\" About 1,600 of the cuts take effect immediately, with the rest phased in through fiscal year 2027, while four studios — Ninja Theory, Undead Labs, Compulsion Games and Double Fine Productions, employing roughly 350 people combined — will be spun out or sold. Microsoft is redirecting content investment toward flagship franchises like Minecraft and Elder Scrolls. The cuts are part of a wider round of about 4,800 job losses across Microsoft and add to a wave of AI-linked layoffs that have removed roughly 120,000 tech jobs industry-wide so far in 2026.",
+      "detailZh": "Xbox首席执行官Asha Sharma表示，该部门利润率比同类平台及发行业务低3到10倍，形容目前业务「并不健康」。此次裁员中约1600人立即生效，其余将分阶段在2027财年内完成，同时Ninja Theory、Undead Labs、Compulsion Games和Double Fine Productions四家工作室（合计约350名员工）将被剥离或出售。微软正将内容投入重心转向《我的世界》《上古卷轴》等旗舰系列。此次裁员是微软全公司约4800个岗位削减计划的一部分，也是2026年以来全行业因AI相关原因裁减约12万个科技岗位浪潮的最新一例。"
     },
     {
       "category": "财经",
       "source": "CNBC",
-      "titleEn": "OPEC+ approves further oil output increase as Hormuz exports start to recover",
-      "conclusionEn": "OPEC+ agreed to raise output quotas by 188,000 barrels per day from August as flows through the Strait of Hormuz recover, pushing crude prices near $68-69 a barrel.",
-      "conclusionZh": "OPEC+决定8月起日增产18.8万桶，霍尔木兹海峡出口恢复致油价承压。",
-      "whyEn": "Falling oil prices ease inflation pressure for consumers but squeeze producer revenues, and signal easing Middle East supply risk after the Iran war.",
-      "whyZh": "油价下行利好消费者通胀压力，但冲击产油国收入，也显示中东供应风险正在缓解。",
-      "detailEn": "The core OPEC+ members, including Russia, have now raised output quotas by nearly 800,000 barrels per day since April as the UAE restored exports above 3.9 million barrels per day and Saudi Arabia ramped up shipments to Asia. Combined flows through the Strait of Hormuz have climbed back above 10 million barrels a day, reversing the disruption caused by the Iran war earlier this year. Crude has fallen to around $68-69 a barrel, its lowest since before the conflict erupted in late February, as traders weigh the risk of a supply glut against still-firm demand.",
-      "detailZh": "以俄罗斯为代表的OPEC+核心成员国自4月以来已累计增产近80万桶/日，阿联酋出口量恢复至390万桶/日以上，沙特也加大对亚洲的出口。经霍尔木兹海峡的合计原油流量已回升至每日1000万桶以上，扭转了今年早些时候伊朗战争造成的供应中断局面。国际油价已跌至2月冲突爆发前的水平，约每桶68至69美元，交易员正在权衡供应过剩风险与仍然稳健的需求前景。"
+      "sourceUrl": "https://www.cnbc.com/2026/07/06/itv-and-sky-reshape-british-tv-landscape-with-2point1-billion-deal.html",
+      "titleEn": "ITV and Sky reshape British TV landscape with $2.1 billion deal",
+      "conclusionEn": "Comcast-owned Sky agreed to buy ITV's broadcast channels, ITVX streaming service and ad business for up to £1.6 billion, splitting off ITV Studios as a separate company.",
+      "conclusionZh": "康卡斯特旗下Sky以最高16亿英镑收购ITV的电视频道、ITVX流媒体及广告业务，ITV Studios将独立分拆。",
+      "whyEn": "The combined Sky-ITV entity would control more than 70% of UK TV advertising, marking a major consolidation as British broadcasters try to compete with global streamers like Netflix and Amazon.",
+      "whyZh": "合并后的Sky-ITV将掌控超70%的英国电视广告市场，是英国广播业应对Netflix等全球流媒体竞争的重大整合。",
+      "detailEn": "Under the deal, ITV will receive £1.2 billion in cash plus up to £200 million in earn-out payments tied to 2027 advertising performance, distributing roughly £950 million to shareholders. ITV Studios, the production arm behind shows like Love Island, will remain independent and separate from the sold media and entertainment business. The tie-up merges Sky's pay-TV strength, built by Rupert Murdoch in 1989, with ITV's free-to-air channels and ITVX streaming platform, creating scale to compete against Netflix, Amazon and YouTube. The transaction is subject to regulatory approval and is expected to close in the second half of 2027.",
+      "detailZh": "根据协议，ITV将获得12亿英镑现金，外加最高2亿英镑与2027财年广告业绩挂钩的或有对价，并向股东分派约9.5亿英镑。制作《爱情岛》等节目的ITV Studios制作部门将保持独立，不在此次出售范围内。此次交易将Sky自1989年由默多克创立以来积累的付费电视优势，与ITV的免费频道及ITVX流媒体平台相结合，形成规模效应以对抗Netflix、亚马逊和YouTube等全球流媒体巨头。交易尚待监管部门批准，预计将于2027年下半年完成。"
+    },
+    {
+      "category": "财经",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/genuine-parts-is-said-to-receive-o-reilly-interest-for-auto-unit",
+      "titleEn": "Genuine Parts Draws O'Reilly Bid for Auto Unit Valued at $10 Billion",
+      "conclusionEn": "O'Reilly Automotive submitted a roughly $10 billion cash bid for Genuine Parts' NAPA auto-parts business, which Genuine Parts is trying to spin off to focus on industrials.",
+      "conclusionZh": "欧莱利汽车对Genuine Parts旗下NAPA汽配业务提出约100亿美元现金收购要约，后者正谋求专注工业业务。",
+      "whyEn": "A deal would be O'Reilly's largest acquisition since 2008 and could reshape the auto-parts distribution industry, though rival bidders or a standalone spinoff remain possible.",
+      "whyZh": "若成交将是欧莱利自2008年以来最大并购，可能重塑汽配分销行业格局，但仍存在其他竞购者或独立分拆的可能。",
+      "detailEn": "Genuine Parts announced in February it was working with JPMorgan and Guggenheim Securities to separate its automotive division, which operates over 10,000 NAPA Auto Parts locations and generated more than $15 billion in sales last year, following a cooperation agreement with activist investor Elliott Management. Genuine Parts shares jumped as much as 13% on news of O'Reilly's interest, while O'Reilly's stock fell around 5% on concerns about integration costs and debt. An announcement could come before the end of summer, though Genuine Parts may still choose to retain the unit, pursue a standalone spinoff, or entertain other bidders. A deal at this scale would be O'Reilly's largest since it bought CSK Auto for about $1 billion in 2008.",
+      "detailZh": "Genuine Parts今年2月宣布，在与维权投资者艾略特管理公司达成合作协议后，正与摩根大通及Guggenheim Securities合作，分拆旗下汽车配件业务——该业务运营超过1万家NAPA汽配门店，去年销售额超150亿美元。消息传出后，Genuine Parts股价一度大涨13%，而欧莱利股价则因整合成本及债务压力担忧下跌约5%。相关公告最快可能在夏末前发布，但Genuine Parts仍可能选择保留该业务、进行独立分拆，或考虑其他竞购者。若交易达成，这将是欧莱利自2008年以约10亿美元收购CSK Auto以来最大规模的并购。"
     },
     {
       "category": "科技",
       "source": "CNBC",
-      "titleEn": "Apple to introduce at least five new iPhone models amid memory shortages: Report",
-      "conclusionEn": "Apple reportedly plans to launch at least five new iPhone models through early 2027, headlined by its first foldable device priced around $2,500.",
-      "conclusionZh": "苹果据报明年前将推出至少五款新iPhone，首款折叠屏定价约2500美元。",
-      "whyEn": "The aggressive lineup expansion, amid a global memory chip shortage, signals Apple's bid to grab market share from Android rivals even as component costs rise.",
-      "whyZh": "在全球存储芯片短缺背景下加速推新，显示苹果欲抢占安卓阵营市场份额。",
-      "detailEn": "According to Nikkei Asia, Apple has told suppliers to prepare roughly 10 million foldable iPhones for this year, up from an earlier estimate of 7-8 million, ahead of the device's expected launch. The company has already secured components for around 80 million smartphones for the second half of 2026, with total 2026 production expected to exceed 220 million units. The push comes as a global memory shortage pushes up component prices, which could raise costs for consumers, but Apple appears to be betting that a broader model lineup, including its first foldable, will offset any pricing pressure.",
-      "detailZh": "据《日经亚洲》报道，苹果已要求供应商为今年准备约1000万部折叠屏iPhone，高于此前700万至800万部的预估，为该机型上市做准备。公司已为2026年下半年约8000万部智能手机备齐零部件，预计全年总产量将超过2.2亿部。此举是在全球存储芯片短缺推高零部件价格的背景下推进的，消费者成本可能因此上升，但苹果似乎押注更丰富的产品线（包括首款折叠屏机型）能够抵消定价压力。"
-    },
-    {
-      "category": "科技",
-      "source": "Crunchbase News",
-      "titleEn": "Global Startup Investment Hit Record $510B in H1 2026 as AI Boom Accelerates Funding and Exits",
-      "conclusionEn": "Global venture funding hit a record $510 billion in H1 2026, with OpenAI and Anthropic alone accounting for 43% of the total as AI dominates capital allocation.",
-      "conclusionZh": "全球创投融资上半年创510亿美元纪录，OpenAI与Anthropic占比高达43%。",
-      "whyEn": "The extreme concentration of capital in a handful of AI labs shows how venture investing has narrowed, with implications for founders outside the frontier-AI race.",
-      "whyZh": "资本高度集中于少数AI公司，反映创投格局收窄，对非前沿AI创业者影响深远。",
-      "detailEn": "Investors poured $305 billion into startups in Q1 and $205 billion in Q2, surpassing the previous half-year record of $375 billion set in H2 2021 and already exceeding all of 2025's full-year total of $440 billion. AI-focused companies captured more than 70% of all global startup capital in Q2, up from roughly 50% a year earlier. The period also produced the strongest exit market since 2021, including SpaceX's public listing at a $1.77 trillion valuation raising $75 billion, and Anysphere, maker of AI coding tool Cursor, being acquired for $60 billion.",
-      "detailZh": "今年一季度创投资金流入达3050亿美元，二季度再增2050亿美元，超过2021年下半年3750亿美元的历史同期纪录，也已超过2025年全年4400亿美元的总额。二季度AI相关企业获得的全球创投资金占比超过70%，较一年前的约50%大幅提升。这一时期也出现了2021年以来最强劲的退出行情，包括SpaceX以1.77万亿美元估值上市并募资750亿美元，以及AI编程工具Cursor的开发商Anysphere被以600亿美元收购。"
+      "sourceUrl": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+      "titleEn": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+      "conclusionEn": "Chinese AI models have captured 30-46% of weekly token usage by U.S. companies since February, up from just 11% a year earlier, led by Zhipu AI's low-cost GLM-5.2 model.",
+      "conclusionZh": "中国AI模型自今年2月起占美国企业每周token用量的30%至46%，较一年前的11%大幅提升，智谱GLM-5.2领跑。",
+      "whyEn": "The shift shows Chinese open-weight models are closing the performance gap with U.S. frontier labs while undercutting them on price, pressuring OpenAI and Anthropic's business models.",
+      "whyZh": "此趋势显示中国开源模型正在缩小与美国顶尖实验室的性能差距，且价格更低，冲击OpenAI与Anthropic的商业模式。",
+      "detailEn": "Data from OpenRouter shows the combined share of Chinese providers including Zhipu AI (Z.ai), DeepSeek, Alibaba, Xiaomi, MiniMax and StepFun has stayed above 30% of U.S. token usage every week since February 8, peaking at 46%, compared with roughly 11% over the prior 12 months. Zhipu's GLM-5.2, released in June, ranks fifth on Artificial Analysis' global benchmark behind three Anthropic models and one OpenAI model, yet costs only about 15% as much as comparable U.S. models when hosted in China. The model saw the fastest adoption Vercel has tracked in 2026, with daily token volume growing roughly 27-fold and customer count growing about 80-fold in its first week. The trend is forcing U.S. labs to defend pricing and performance leads as enterprises increasingly weigh cost against capability.",
+      "detailZh": "OpenRouter数据显示，智谱AI（Z.ai）、DeepSeek、阿里巴巴、小米、MiniMax及StepFun等中国厂商的合计份额，自2月8日起每周均维持在美国企业token用量的30%以上，峰值达46%，而此前12个月平均仅为11%。智谱6月发布的GLM-5.2在Artificial Analysis全球基准测试中排名第五，仅次于三款Anthropic模型和一款OpenAI模型，但若使用其中国境内托管版本，成本仅为同等美国模型的约15%。该模型是Vercel在2026年追踪到采用速度最快的模型，发布首周日均token用量增长约27倍，客户数增长约80倍。这一趋势正迫使美国实验室在客户日益权衡成本与性能的背景下，努力捍卫自身的定价与性能优势。"
     },
     {
       "category": "国际",
-      "source": "NPR",
-      "titleEn": "Pastor freed from prison in China weeks after Trump requested his release",
-      "conclusionEn": "Chinese pastor Ezra Jin Mingri was released and reunited with family in Los Angeles, less than two months after Trump raised his case directly with Xi Jinping.",
-      "conclusionZh": "中国牧师金明日获释并抵达洛杉矶，此前特朗普曾向习近平提及其案件。",
-      "whyEn": "The release highlights how high-level US-China diplomacy can affect individual human rights cases, even as most detained church members remain jailed.",
-      "whyZh": "此事显示中美高层外交可影响个案人权处境，但多数被捕教会成员仍在押。",
-      "detailEn": "Jin, a leader of the underground Zion Church, was among 18 church leaders detained in October in one of China's largest crackdowns on a single congregation in decades. His case drew attention after Trump said he raised both Jin's detention and that of jailed Hong Kong activist Jimmy Lai while returning from a state visit to Beijing in May. Jin has since arrived in Los Angeles and reunited with his family, but rights advocates note that most of the other detained Zion Church leaders remain in custody facing serious criminal charges.",
-      "detailZh": "金明日是地下教会「锡安教会」的负责人，去年10月与另外17名教会领袖一同被捕，是中国近几十年来针对单一教会规模最大的打压行动之一。他的案件受到关注，是因为特朗普今年5月结束对北京的国事访问返程途中曾表示，已就金明日及被关押的香港活动人士黎智英案向习近平提出交涉。金明日目前已抵达洛杉矶与家人团聚，但人权组织指出，锡安教会其他大多数被捕领袖仍被羁押，面临严重刑事指控。"
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-06/congo-begins-clinical-trial-of-experimental-treatments-for-bundibugyo-ebola",
+      "titleEn": "Congo Begins Clinical Trial of Experimental Treatments for Bundibugyo Ebola",
+      "conclusionEn": "Congo enrolled its first patients in a clinical trial testing the antiviral remdesivir and antibody MBP134 against the Bundibugyo Ebola strain, which has killed 438 people since May.",
+      "conclusionZh": "刚果（金）启动临床试验，测试瑞德西韦及抗体药物MBP134治疗邦迪布焦型埃博拉，该疫情自5月以来已致438人死亡。",
+      "whyEn": "No approved treatment exists for this Ebola strain, so the trial's outcome could determine whether doctors gain their first real therapeutic option during an outbreak that has already infected over 1,400 people.",
+      "whyZh": "该埃博拉毒株目前尚无获批疗法，试验结果可能决定医生能否在这波已感染逾1400人的疫情中首次获得有效治疗手段。",
+      "detailEn": "The randomized trial, run by Congo's National Institute for Biomedical Research with Oxford University and Belgium's Institute of Tropical Medicine, will compare four groups: remdesivir alone, MBP134 alone, the combination, and standard supportive care. The outbreak, declared simultaneously in Congo and Uganda on May 15, has infected more than 1,400 people and killed 438 across three eastern Congo provinces, where doctors have so far only been able to offer fluids and fever management. International health officials had pushed for this research because no antiviral or antibody therapy has ever been validated specifically against the Bundibugyo strain, unlike the more common Zaire strain. Results could shape treatment protocols for future outbreaks of this less-studied Ebola variant.",
+      "detailZh": "该随机对照试验由刚果国家生物医学研究院联合牛津大学及比利时热带医学研究所开展，共设四组：单用瑞德西韦、单用MBP134、两药联用及标准支持治疗对照组。此次疫情于5月15日在刚果与乌干达同时宣布，已波及刚果东部三省，感染人数超过1400人，死亡438人，此前医生只能提供补液和退热等支持性治疗。国际卫生官员此前一直呼吁开展此项研究，因为邦迪布焦型毒株不同于更常见的扎伊尔型，此前从未有抗病毒药物或抗体疗法获得专门验证。试验结果或将为未来这一研究较少毒株引发的疫情制定治疗方案提供依据。"
     }
   ],
   "businessTips": [
     {
-      "term": "Sunk Cost Fallacy",
+      "term": "Parkinson's Law",
       "category": "通用商业",
-      "explanationEn": "The sunk cost fallacy is the tendency to keep investing time or money into a decision because of what's already been spent, rather than evaluating it based on future value alone. Sunk costs — money, time, or effort already spent — are gone regardless of what you do next, so rational decisions should ignore them entirely. Good managers train themselves to ask \"knowing what I know now, would I start this today?\" instead of \"how much have we already put in?\" This mindset prevents organizations from throwing good resources after bad.",
-      "explanationZh": "沉没成本谬误指的是因为已经投入了时间或金钱，就继续投入某个决策，而不是单纯根据未来价值来判断是否值得继续。已经花掉的成本无论后续怎么做都无法收回，所以理性决策应该完全忽略它们。优秀的管理者会训练自己问「如果现在从零开始，我还会做这个选择吗」，而不是「我们已经投入了多少」。这种思维能避免组织在错误的方向上继续追加资源。",
-      "exampleEn": "A company has spent $2 million building a product feature that user testing shows nobody wants. The sunk cost fallacy would push the team to finish it anyway to \"justify\" the spend, while sound decision-making means killing the feature now and redirecting the remaining budget to something with real demand.",
-      "exampleZh": "某公司已投入200万美元开发一项功能，但用户测试显示几乎无人需要。若陷入沉没成本谬误，团队可能会为「对得起已花的钱」而硬着头皮做完；而正确的做法是立即砍掉该功能，把剩余预算投入真正有需求的方向。"
+      "explanationEn": "Parkinson's Law states that work expands to fill the time available for its completion — give a task a week and it takes a week, give it a day and it often still gets done. First observed by historian Cyril Northcote Parkinson studying bureaucracies, it applies broadly to any deadline-driven work. Managers who understand this set deliberately tighter deadlines and smaller time-boxes to force focus, rather than assuming more time automatically produces better output. The law is a caution against open-ended timelines, which tend to invite procrastination and scope creep.",
+      "explanationZh": "帕金森定律指出，工作会自动膨胀以填满可用完成的时间——给一项任务一周期限就会花掉一周，给一天期限往往也能按时完成。这一规律最早由历史学家西里尔·诺斯古德·帕金森在研究官僚机构时提出，但广泛适用于任何有截止日期的工作。理解这一点的管理者会刻意设定更紧凑的截止时间和更小的时间区块来逼迫团队专注，而不是想当然地认为时间越多产出就越好。这条定律提醒人们警惕开放式时间安排，因为它往往滋生拖延和范围蔓延。",
+      "exampleEn": "A team given three weeks to redesign a landing page spends the first two weeks on discussions and only rushes to execute in the final days; compressing the deadline to one week often produces a comparable result because the shorter timeline eliminates room for unnecessary deliberation.",
+      "exampleZh": "一个团队被给予三周时间重新设计落地页，结果前两周都在讨论，直到最后几天才匆忙执行；如果把截止时间压缩到一周，往往也能做出相近质量的成果，因为更短的时限压缩了不必要的犹豫空间。"
     },
     {
-      "term": "Productized Service",
+      "term": "Beachhead Market",
       "category": "创业副业",
-      "explanationEn": "A productized service packages your skills or custom work into a fixed-scope, fixed-price offering — like a menu item — instead of open-ended hourly consulting. This makes the service easier to market, sell, and deliver repeatedly, because clients know exactly what they're getting and you know exactly how much time it takes. It's a popular side-hustle model because it lets people with a specialized skill (design, writing, code audits, bookkeeping) scale beyond trading hours for dollars without needing to build a full product from scratch.",
-      "explanationZh": "产品化服务是把你的技能或定制化工作，打包成一个范围固定、价格固定的「套餐」，而不是按小时无限期地做咨询。这样客户清楚自己能得到什么，你也清楚每单大概要花多少时间，服务更容易被推广、销售和重复交付。这是很受欢迎的副业模式，让拥有专业技能（如设计、写作、代码审查、记账）的人不必从零打造完整产品，也能突破「用时间换钱」的瓶颈实现规模化。",
-      "exampleEn": "Instead of offering open-ended freelance graphic design at an hourly rate, a designer creates a fixed package: \"5 social media posts in 3 days for $300.\" Clients can buy it instantly without negotiating scope, and the designer can deliver several packages per week using a repeatable process.",
-      "exampleZh": "一位设计师不再按小时接无边界的自由设计项目，而是推出固定套餐：「3天内交付5张社媒配图，300美元」。客户无需就工作范围反复沟通即可直接下单，设计师也能借助标准化流程，一周内交付多个这样的套餐订单。"
+      "explanationEn": "A beachhead market is a small, specific, and winnable initial customer segment that a startup or side business targets first before expanding into a broader market, a concept popularized by Geoffrey Moore. Rather than trying to serve everyone at launch, founders pick one narrow niche where they can realistically dominate, build word-of-mouth, and gather focused feedback. Success in a beachhead creates a reference base and cash flow that fund expansion into adjacent segments, following a deliberate market-by-market sequence rather than a scattershot approach.",
+      "explanationZh": "滩头市场是指初创企业或副业项目在扩展到更大市场之前，最先瞄准的一个小而具体、且有把握拿下的初始客群，这一概念由杰弗里·摩尔提出并推广。创始人不是一上来就想服务所有人，而是选定一个自己能够真正做到主导地位的细分领域，借此积累口碑并获得聚焦的用户反馈。在滩头市场取得成功后积累的案例和现金流，可以为进入相邻细分市场提供资金支持，形成有计划的、逐个市场推进的扩张路径，而不是四处撒网。",
+      "exampleEn": "Instead of marketing bookkeeping services to \"all small businesses,\" a solo founder picks yoga studios in one city as a beachhead — learning their specific software, tax quirks, and cash-flow patterns deeply enough to become the obvious choice, then uses those client testimonials to expand into other wellness businesses.",
+      "exampleZh": "一位独立创业者不把记账服务泛泛地卖给「所有小企业」，而是选择某个城市的瑜伽馆作为滩头市场——深入了解它们常用的软件、税务细节和现金流规律，做到成为它们的首选服务商，再用这些客户案例去拓展到其他健康养生类业务。"
     },
     {
-      "term": "Economic Moat",
+      "term": "Dollar-Cost Averaging",
       "category": "投资金融",
-      "explanationEn": "An economic moat is a company's durable competitive advantage that protects its profits from competitors over the long run, a term popularized by Warren Buffett. Common sources of a moat include network effects, high switching costs, brand power, patents or regulatory licenses, and cost advantages from scale. Investors look for moats because a company that can defend its margins for a decade or more tends to compound shareholder value more reliably than one facing constant price competition.",
-      "explanationZh": "经济护城河是指一家公司能长期保护自身利润、抵御竞争对手侵蚀的可持续竞争优势，这一概念由巴菲特推广而广为人知。常见的护城河来源包括网络效应、高转换成本、品牌力、专利或牌照壁垒，以及规模带来的成本优势。投资者重视护城河，是因为能在十年甚至更长时间里守住利润率的公司，往往比长期陷入价格战的公司更能持续为股东创造复利式增长。",
-      "exampleEn": "Google's dominance in search and Android, the very behavior that just triggered its €4.1 billion EU antitrust fine, illustrates a moat built on network effects and default-setting power on billions of devices — hard for rivals to replicate even under regulatory pressure. Investors weigh whether such a moat can survive years of antitrust action before deciding if it's still intact.",
-      "exampleZh": "谷歌在搜索和安卓系统上的主导地位——也正是导致其被欧盟处以41亿欧元反垄断罚款的行为——体现了一种建立在网络效应和数十亿设备默认设置权之上的护城河，即便面临监管压力，竞争对手也难以复制。投资者需要判断，这样的护城河能否在多年反垄断诉讼后依然坚固。"
+      "explanationEn": "Dollar-cost averaging (DCA) means investing a fixed amount of money at regular intervals regardless of the asset's price, rather than trying to time the market with a single lump sum. Because the fixed amount buys more shares when prices are low and fewer when prices are high, it naturally smooths out the average purchase cost over time. The main benefit is behavioral: it removes the temptation to guess market tops and bottoms, which is especially valuable during volatile stretches like sudden oil-price spikes or chip-sector selloffs. The tradeoff is that DCA can underperform a lump-sum investment in a steadily rising market, since some money stays uninvested longer.",
+      "explanationZh": "定期定额投资（DCA）是指按固定金额、固定时间间隔买入某项资产，而不去猜测市场高低点、一次性投入全部资金。由于固定金额在价格低时能买到更多份额、价格高时买到更少份额，长期下来会自然拉平平均买入成本。这种方法最大的好处在于行为层面：它消除了预测市场顶部和底部的冲动，在油价骤涨或芯片股抛售这类剧烈波动时期尤其有价值。其代价是，在持续上涨的市场中，定投的收益可能不如一次性全部投入，因为部分资金会更晚才进场。",
+      "exampleEn": "An investor unsettled by today's Iran-driven oil spike and the Samsung-triggered chip stock selloff sets up an automatic $500 monthly purchase of a broad index fund instead of trying to guess whether prices will fall further, buying more shares during dips like this week's without needing to predict the bottom.",
+      "exampleZh": "一位投资者对今天因伊朗局势引发的油价飙升和三星引发的芯片股抛售感到不安，与其猜测价格会不会继续下跌，不如设置每月自动定投500美元到一只宽基指数基金，这样在本周这样的下跌中就能买到更多份额，而无需去预测最低点。"
     }
   ]
 }
