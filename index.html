@@ -83,6 +83,14 @@
   .source { font-size: 11px; color: var(--text-muted); margin-left: auto; text-decoration: none; }
   a.source { color: var(--accent-blue-text); }
   a.source:active { opacity: 0.7; }
+  .speak-btn {
+    font-size: 12px; font-weight: 600; border: none; border-radius: 20px;
+    padding: 4px 10px; margin-left: 8px; cursor: pointer;
+    background: var(--accent-blue-bg); color: var(--accent-blue-text);
+    white-space: nowrap;
+  }
+  .speak-btn.speaking { background: var(--accent-coral-bg); color: var(--accent-coral-text); }
+  .tip-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 8px; }
   .title-en { font-size: 12px; color: var(--text-muted); margin: 0 0 6px; font-style: italic; }
   .en-line { font-size: 13px; color: var(--text-muted); margin: 0 0 2px; line-height: 1.5; font-style: italic; }
   .zh-line { font-size: 16px; font-weight: 600; margin: 0 0 8px; line-height: 1.4; }
@@ -183,6 +191,7 @@ function render(data) {
         <span class="rank">${i + 1}</span>
         <span class="tag" style="background:${c.bg}; color:${c.text};">${item.category}</span>
         ${sourceHtml}
+        <button class="speak-btn" type="button">🔊</button>
       </div>
       <p class="title-en">${item.titleEn}</p>
       <p class="en-line">${item.conclusionEn}</p>
@@ -200,6 +209,10 @@ function render(data) {
         </div>
       </div>
     `;
+    const speakBtn = card.querySelector('.speak-btn');
+    const speakText = [item.titleEn, item.conclusionEn, item.whyEn, item.detailEn].join('. ');
+    speakBtn.addEventListener('click', () => toggleSpeak(speakBtn, speakText));
+
     const btn = card.querySelector('.detail-toggle');
     const detail = card.querySelector('.detail');
     btn.addEventListener('click', () => {
@@ -220,7 +233,10 @@ function render(data) {
   tipSection.className = 'block';
   const tipsHtml = data.businessTips.map((tip) => `
     <div class="tip-card">
-      <p class="tip-label">${tip.category}</p>
+      <div class="tip-top">
+        <p class="tip-label">${tip.category}</p>
+        <button class="speak-btn" type="button">🔊</button>
+      </div>
       <p class="tip-term">${tip.term}</p>
       <p class="tip-explain-en">${tip.explanationEn}</p>
       <p class="tip-explain-zh">${tip.explanationZh}</p>
@@ -231,10 +247,46 @@ function render(data) {
   tipSection.innerHTML = '<h2 class="section-title">今日商业知识</h2>' + tipsHtml;
   main.appendChild(tipSection);
 
+  tipSection.querySelectorAll('.tip-card').forEach((card, i) => {
+    const tip = data.businessTips[i];
+    const speakBtn = card.querySelector('.speak-btn');
+    const speakText = [tip.term, tip.explanationEn, tip.exampleEn].join('. ');
+    speakBtn.addEventListener('click', () => toggleSpeak(speakBtn, speakText));
+  });
+
   const hint = document.createElement('div');
   hint.className = 'refresh-hint';
   hint.textContent = '更新于 ' + new Date(data.updatedAt).toLocaleString('zh-CN', { hour12: false });
   main.appendChild(hint);
+}
+
+let currentSpeakBtn = null;
+
+function stopSpeaking() {
+  if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+  if (currentSpeakBtn) {
+    currentSpeakBtn.textContent = '🔊';
+    currentSpeakBtn.classList.remove('speaking');
+  }
+  currentSpeakBtn = null;
+}
+
+function toggleSpeak(btn, text) {
+  if (!('speechSynthesis' in window)) return;
+  if (currentSpeakBtn === btn) {
+    stopSpeaking();
+    return;
+  }
+  stopSpeaking();
+  const utter = new SpeechSynthesisUtterance(text);
+  utter.lang = 'en-US';
+  utter.rate = 0.95;
+  utter.onend = () => { if (currentSpeakBtn === btn) stopSpeaking(); };
+  utter.onerror = () => { if (currentSpeakBtn === btn) stopSpeaking(); };
+  currentSpeakBtn = btn;
+  btn.textContent = '⏸';
+  btn.classList.add('speaking');
+  window.speechSynthesis.speak(utter);
 }
 
 loadData();
