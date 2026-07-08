@@ -1,4 +1,4 @@
-const CACHE = 'daily-briefing-v5';
+const CACHE = 'daily-briefing-v6';
 const CORE = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', (e) => {
