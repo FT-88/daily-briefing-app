@@ -271,6 +271,16 @@ function stopSpeaking() {
   currentSpeakBtn = null;
 }
 
+function pickStandardVoice() {
+  const voices = window.speechSynthesis.getVoices();
+  if (!voices.length) return null;
+  return voices.find(v => v.name === 'Samantha') ||
+         voices.find(v => v.lang === 'en-US' && v.default) ||
+         voices.find(v => v.lang === 'en-US') ||
+         voices.find(v => v.lang && v.lang.startsWith('en')) ||
+         null;
+}
+
 function toggleSpeak(btn, text) {
   if (!('speechSynthesis' in window)) return;
   if (currentSpeakBtn === btn) {
@@ -280,13 +290,22 @@ function toggleSpeak(btn, text) {
   stopSpeaking();
   const utter = new SpeechSynthesisUtterance(text);
   utter.lang = 'en-US';
-  utter.rate = 0.95;
+  utter.rate = 1;
+  utter.pitch = 1;
+  utter.volume = 1;
+  const voice = pickStandardVoice();
+  if (voice) utter.voice = voice;
   utter.onend = () => { if (currentSpeakBtn === btn) stopSpeaking(); };
   utter.onerror = () => { if (currentSpeakBtn === btn) stopSpeaking(); };
   currentSpeakBtn = btn;
   btn.textContent = '⏸';
   btn.classList.add('speaking');
   window.speechSynthesis.speak(utter);
+}
+
+if ('speechSynthesis' in window) {
+  window.speechSynthesis.getVoices();
+  window.speechSynthesis.onvoiceschanged = () => window.speechSynthesis.getVoices();
 }
 
 loadData();
