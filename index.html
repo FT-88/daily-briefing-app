@@ -83,14 +83,6 @@
   .source { font-size: 11px; color: var(--text-muted); margin-left: auto; text-decoration: none; }
   a.source { color: var(--accent-blue-text); }
   a.source:active { opacity: 0.7; }
-  .speak-btn {
-    font-size: 12px; font-weight: 600; border: none; border-radius: 20px;
-    padding: 4px 10px; margin-left: 8px; cursor: pointer;
-    background: var(--accent-blue-bg); color: var(--accent-blue-text);
-    white-space: nowrap;
-  }
-  .speak-btn.speaking { background: var(--accent-coral-bg); color: var(--accent-coral-text); }
-  .tip-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 8px; }
   .title-en { font-size: 12px; color: var(--text-muted); margin: 0 0 6px; font-style: italic; }
   .en-line { font-size: 13px; color: var(--text-muted); margin: 0 0 2px; line-height: 1.5; font-style: italic; }
   .zh-line { font-size: 16px; font-weight: 600; margin: 0 0 8px; line-height: 1.4; }
@@ -129,6 +121,30 @@
     text-align: center; font-size: 12px; color: var(--text-muted); margin-top: 24px;
   }
   .empty-state { text-align: center; padding: 60px 20px; color: var(--text-muted); font-size: 14px; }
+  .tts-speed-bar {
+    max-width: 480px; margin: 0 auto; padding: 0 16px 10px;
+    display: flex; align-items: center; justify-content: flex-end; gap: 10px;
+  }
+  .tts-speed-label { font-size: 12px; color: var(--text-muted); }
+  .speed-options { display: flex; gap: 6px; }
+  .speed-btn {
+    font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 20px;
+    border: 1px solid var(--border); background: var(--card); color: var(--text-secondary);
+    cursor: pointer;
+  }
+  .speed-btn.active { background: var(--accent-blue-bg); color: var(--accent-blue-text); border-color: transparent; }
+  .tts-row { display: flex; align-items: flex-start; gap: 6px; }
+  .tts-row > p { flex: 1; min-width: 0; }
+  .tts-btn {
+    flex-shrink: 0; width: 22px; height: 22px; margin-top: 1px;
+    border: none; background: none; padding: 0; cursor: pointer;
+    font-size: 13px; line-height: 1; color: var(--text-muted);
+    display: flex; align-items: center; justify-content: center;
+    border-radius: 50%;
+  }
+  .tts-btn:active { background: var(--border); }
+  .tts-btn.playing { color: var(--accent-blue-text); }
+  .no-tts .tts-speed-bar, .no-tts .tts-btn { display: none; }
 </style>
 </head>
 <body>
@@ -140,6 +156,15 @@
   </div>
   <div class="meta" id="meta-label"></div>
 </header>
+
+<div class="tts-speed-bar">
+  <span class="tts-speed-label">朗读语速</span>
+  <div class="speed-options">
+    <button class="speed-btn" data-speed="0.5">0.5x</button>
+    <button class="speed-btn" data-speed="0.7">0.7x</button>
+    <button class="speed-btn" data-speed="1">1x</button>
+  </div>
+</div>
 
 <main id="main">
   <div class="empty-state" id="loading">正在加载今日内容...</div>
@@ -155,6 +180,90 @@ const DEFAULT_TAG_COLOR = { bg: "var(--accent-teal-bg)", text: "var(--accent-tea
 
 function tagColor(category) {
   return CATEGORY_COLORS[category] || DEFAULT_TAG_COLOR;
+}
+
+const ttsSupported = 'speechSynthesis' in window;
+if (!ttsSupported) document.body.classList.add('no-tts');
+
+let ttsRegistry = [];
+let currentSpeed = parseFloat(localStorage.getItem('ttsSpeed')) || 1;
+let currentPlayingId = null;
+let currentPlayingBtn = null;
+
+function ttsBtn(text) {
+  const id = ttsRegistry.length;
+  ttsRegistry.push(text);
+  return `<button class="tts-btn" data-tts-id="${id}" aria-label="朗读英文">🔊</button>`;
+}
+
+function pickStandardVoice() {
+  const voices = window.speechSynthesis.getVoices();
+  if (!voices.length) return null;
+  return voices.find(v => v.name === 'Samantha') ||
+         voices.find(v => v.lang === 'en-US' && v.default) ||
+         voices.find(v => v.lang === 'en-US') ||
+         voices.find(v => v.lang && v.lang.startsWith('en')) ||
+         null;
+}
+
+function stopSpeaking() {
+  if (ttsSupported) window.speechSynthesis.cancel();
+  if (currentPlayingBtn) {
+    currentPlayingBtn.textContent = '🔊';
+    currentPlayingBtn.classList.remove('playing');
+  }
+  currentPlayingId = null;
+  currentPlayingBtn = null;
+}
+
+function startSpeaking(id, btn) {
+  const text = ttsRegistry[id];
+  stopSpeaking();
+  if (!ttsSupported || !text) return;
+  const utter = new SpeechSynthesisUtterance(text);
+  utter.lang = 'en-US';
+  utter.rate = currentSpeed;
+  utter.pitch = 1;
+  utter.volume = 1;
+  const voice = pickStandardVoice();
+  if (voice) utter.voice = voice;
+  utter.onend = stopSpeaking;
+  utter.onerror = stopSpeaking;
+  currentPlayingId = id;
+  currentPlayingBtn = btn;
+  btn.textContent = '⏸';
+  btn.classList.add('playing');
+  window.speechSynthesis.speak(utter);
+}
+
+function toggleSpeaking(id, btn) {
+  if (currentPlayingId === id) {
+    stopSpeaking();
+  } else {
+    startSpeaking(id, btn);
+  }
+}
+
+document.getElementById('main').addEventListener('click', (e) => {
+  const btn = e.target.closest('.tts-btn');
+  if (!btn) return;
+  toggleSpeaking(Number(btn.dataset.ttsId), btn);
+});
+
+document.querySelectorAll('.speed-btn').forEach((b) => {
+  if (parseFloat(b.dataset.speed) === currentSpeed) b.classList.add('active');
+  b.addEventListener('click', () => {
+    document.querySelectorAll('.speed-btn').forEach((x) => x.classList.remove('active'));
+    b.classList.add('active');
+    currentSpeed = parseFloat(b.dataset.speed);
+    localStorage.setItem('ttsSpeed', currentSpeed);
+    if (currentPlayingId !== null) startSpeaking(currentPlayingId, currentPlayingBtn);
+  });
+});
+
+if (ttsSupported) {
+  window.speechSynthesis.getVoices();
+  window.speechSynthesis.onvoiceschanged = () => window.speechSynthesis.getVoices();
 }
 
 async function loadData() {
@@ -191,28 +300,23 @@ function render(data) {
         <span class="rank">${i + 1}</span>
         <span class="tag" style="background:${c.bg}; color:${c.text};">${item.category}</span>
         ${sourceHtml}
-        <button class="speak-btn" type="button">🔊</button>
       </div>
-      <p class="title-en">${item.titleEn}</p>
-      <p class="en-line">${item.conclusionEn}</p>
+      <div class="tts-row">${ttsBtn(item.titleEn)}<p class="title-en">${item.titleEn}</p></div>
+      <div class="tts-row">${ttsBtn(item.conclusionEn)}<p class="en-line">${item.conclusionEn}</p></div>
       <p class="zh-line">${item.conclusionZh}</p>
       <div class="why-block">
         <p class="why-label">Why it matters / 为什么重要</p>
-        <p class="why-en">${item.whyEn}</p>
+        <div class="tts-row">${ttsBtn(item.whyEn)}<p class="why-en">${item.whyEn}</p></div>
         <p class="why-zh">${item.whyZh}</p>
       </div>
       <button class="detail-toggle">展开详情 <span class="arrow">▾</span></button>
       <div class="detail">
         <div class="detail-inner">
-          <p class="detail-en">${item.detailEn}</p>
+          <div class="tts-row">${ttsBtn(item.detailEn)}<p class="detail-en">${item.detailEn}</p></div>
           <p class="detail-zh">${item.detailZh}</p>
         </div>
       </div>
     `;
-    const speakBtn = card.querySelector('.speak-btn');
-    const speakText = [item.titleEn, item.conclusionEn, item.whyEn, item.detailEn].join('. ');
-    speakBtn.addEventListener('click', () => toggleSpeak(speakBtn, speakText));
-
     const btn = card.querySelector('.detail-toggle');
     const detail = card.querySelector('.detail');
     btn.addEventListener('click', () => {
@@ -233,79 +337,21 @@ function render(data) {
   tipSection.className = 'block';
   const tipsHtml = data.businessTips.map((tip) => `
     <div class="tip-card">
-      <div class="tip-top">
-        <p class="tip-label">${tip.category}</p>
-        <button class="speak-btn" type="button">🔊</button>
-      </div>
+      <p class="tip-label">${tip.category}</p>
       <p class="tip-term">${tip.term}</p>
-      <p class="tip-explain-en">${tip.explanationEn}</p>
+      <div class="tts-row">${ttsBtn(tip.explanationEn)}<p class="tip-explain-en">${tip.explanationEn}</p></div>
       <p class="tip-explain-zh">${tip.explanationZh}</p>
-      <p class="tip-example-en">${tip.exampleEn}</p>
+      <div class="tts-row">${ttsBtn(tip.exampleEn)}<p class="tip-example-en">${tip.exampleEn}</p></div>
       <p class="tip-example-zh">${tip.exampleZh}</p>
     </div>
   `).join('');
   tipSection.innerHTML = '<h2 class="section-title">今日商业知识</h2>' + tipsHtml;
   main.appendChild(tipSection);
 
-  tipSection.querySelectorAll('.tip-card').forEach((card, i) => {
-    const tip = data.businessTips[i];
-    const speakBtn = card.querySelector('.speak-btn');
-    const speakText = [tip.term, tip.explanationEn, tip.exampleEn].join('. ');
-    speakBtn.addEventListener('click', () => toggleSpeak(speakBtn, speakText));
-  });
-
   const hint = document.createElement('div');
   hint.className = 'refresh-hint';
   hint.textContent = '更新于 ' + new Date(data.updatedAt).toLocaleString('zh-CN', { hour12: false });
   main.appendChild(hint);
-}
-
-let currentSpeakBtn = null;
-
-function stopSpeaking() {
-  if ('speechSynthesis' in window) window.speechSynthesis.cancel();
-  if (currentSpeakBtn) {
-    currentSpeakBtn.textContent = '🔊';
-    currentSpeakBtn.classList.remove('speaking');
-  }
-  currentSpeakBtn = null;
-}
-
-function pickStandardVoice() {
-  const voices = window.speechSynthesis.getVoices();
-  if (!voices.length) return null;
-  return voices.find(v => v.name === 'Samantha') ||
-         voices.find(v => v.lang === 'en-US' && v.default) ||
-         voices.find(v => v.lang === 'en-US') ||
-         voices.find(v => v.lang && v.lang.startsWith('en')) ||
-         null;
-}
-
-function toggleSpeak(btn, text) {
-  if (!('speechSynthesis' in window)) return;
-  if (currentSpeakBtn === btn) {
-    stopSpeaking();
-    return;
-  }
-  stopSpeaking();
-  const utter = new SpeechSynthesisUtterance(text);
-  utter.lang = 'en-US';
-  utter.rate = 1;
-  utter.pitch = 1;
-  utter.volume = 1;
-  const voice = pickStandardVoice();
-  if (voice) utter.voice = voice;
-  utter.onend = () => { if (currentSpeakBtn === btn) stopSpeaking(); };
-  utter.onerror = () => { if (currentSpeakBtn === btn) stopSpeaking(); };
-  currentSpeakBtn = btn;
-  btn.textContent = '⏸';
-  btn.classList.add('speaking');
-  window.speechSynthesis.speak(utter);
-}
-
-if ('speechSynthesis' in window) {
-  window.speechSynthesis.getVoices();
-  window.speechSynthesis.onvoiceschanged = () => window.speechSynthesis.getVoices();
 }
 
 loadData();
