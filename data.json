@@ -1,116 +1,128 @@
 {
-  "date": "2026-07-09",
-  "updatedAt": "2026-07-09T12:30:00+08:00",
+  "date": "2026-07-11",
+  "updatedAt": "2026-07-11T16:04:00+08:00",
   "news": [
     {
       "category": "国际",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
-      "titleEn": "Trump says ceasefire with Iran is 'over' as NATO summit wraps",
-      "conclusionEn": "President Trump declared the U.S.-Iran ceasefire over at the NATO summit in Ankara and said more American strikes on Iran are likely tonight.",
-      "conclusionZh": "特朗普在安卡拉北约峰会上宣布美伊停火协议「已经结束」，称美国今晚可能再度空袭伊朗。",
-      "whyEn": "The collapse of the three-week-old truce threatens to reignite full-scale conflict in the Gulf, with global energy markets and shipping through the Strait of Hormuz directly exposed.",
-      "whyZh": "这份仅维持三周的停火瓦解，可能令海湾地区冲突全面重燃，全球能源市场及霍尔木兹海峡航运首当其冲。",
-      "detailEn": "Speaking from the NATO summit in Turkey, Trump said he believes the ceasefire reached about three weeks ago to end the U.S.-Iran war is no longer holding, following a fresh exchange of attacks: Iran struck three commercial ships in the Strait of Hormuz, the U.S. retaliated with strikes on Iranian military targets, and Iran's Revolutionary Guard fired missiles and drones at U.S. bases in Bahrain and Kuwait. Trump used the summit stage to press European allies on defense spending while also confirming the U.S. will \"probably\" launch further strikes on Iran. Iran's lead negotiator accused Washington of violating their memorandum of understanding. The renewed hostilities cast a shadow over the summit, which also saw Turkey lobby Washington to buy F-110 engines and rejoin the F-35 program.",
-      "detailZh": "特朗普在土耳其举行的北约峰会上表示，他认为三周前达成的美伊停火协议已不再有效，此前双方再度交火：伊朗在霍尔木兹海峡袭击三艘商船，美国以打击伊朗军事目标作为报复，伊朗革命卫队随后向巴林、科威特的美军基地发射导弹和无人机。特朗普借峰会向欧洲盟国施压增加防务开支，同时证实美国「很可能」再次空袭伊朗。伊朗首席谈判代表指责华盛顿违反双方谅解备忘录。冲突重燃为此次峰会蒙上阴影，土耳其也借机游说美方批准出售F-110发动机并让其重返F-35项目。"
-    },
-    {
-      "category": "财经",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html",
-      "titleEn": "Oil prices today: Brent, WTI rise as U.S. targets Iran",
-      "conclusionEn": "Brent crude jumped 5.2% to settle at $78.02 a barrel and WTI rose 4.4% to $73.52 after Trump declared the Iran ceasefire over and threatened fresh strikes.",
-      "conclusionZh": "布伦特原油大涨5.2%收于78.02美元，WTI原油涨4.4%至73.52美元，因特朗普宣布对伊停火结束并威胁再度空袭。",
-      "whyEn": "Renewed fighting raises fresh fears of disruption to oil exports and shipping through the Strait of Hormuz, a chokepoint for roughly a fifth of global oil supply, feeding directly into fuel and inflation costs worldwide.",
-      "whyZh": "冲突重燃再度引发经霍尔木兹海峡出口和航运中断的担忧，该海峡承担全球约五分之一的石油供应，将直接推高全球燃油及通胀成本。",
-      "detailEn": "Oil prices jumped after Trump said the ceasefire with Iran was over and that he would likely order additional strikes, reversing a recent slide back toward pre-war price levels. The U.S. had already revoked a sanctions waiver that let Iran sell oil under the now-collapsing truce, tightening the wind-down window for traders. Analysts warned that a return to full hostilities could deter tankers and regional producers from using the Strait of Hormuz altogether, risking a much sharper supply shock than the initial war phase. Energy traders are now watching for Iranian retaliation and whether OPEC+ members would move to offset any shortfall.",
-      "detailZh": "特朗普表示对伊停火已经结束、可能下令追加打击后，油价应声跳涨，此前一度回落至战前水平的价格因此逆转。美国此前已撤销允许伊朗在停火期间出口石油的制裁豁免，进一步压缩交易商的清盘窗口。分析师警告，若冲突全面重燃，油轮及地区产油国可能彻底回避使用霍尔木兹海峡，其供应冲击或将比战争初期更为严重。能源交易员正密切关注伊朗的报复行动，以及欧佩克+是否会采取行动弥补潜在缺口。"
-    },
-    {
-      "category": "国际",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/2026/07/07/nx-s1-5884537/china-ballistic-missile-south-pacific",
-      "titleEn": "China test-launches a ballistic missile in the South Pacific and raises regional concerns",
-      "conclusionEn": "China's navy conducted its first publicly acknowledged submarine-launched ballistic missile test into the Pacific Ocean, alarming Australia, New Zealand and Japan.",
-      "conclusionZh": "中国海军首次公开进行潜射弹道导弹试射入太平洋，引发澳大利亚、新西兰和日本的担忧。",
-      "whyEn": "It is the first time Beijing has publicly demonstrated a submarine-launched strategic nuclear strike capability in the Indo-Pacific, a signal of expanding military reach that regional governments call destabilizing.",
-      "whyZh": "这是北京首次在印太地区公开展示潜射战略核打击能力，被地区各国政府称为具有破坏稳定性的信号。",
-      "detailEn": "The People's Liberation Army Navy fired a submarine-launched ballistic missile carrying a mock warhead roughly 7,300 kilometers from the South China Sea into the South Pacific Nuclear Free Zone on July 6, after giving regional governments advance notice. Australia called the launch destabilizing, New Zealand confirmed the missile landed within the zone established by the 1986 Treaty of Rarotonga, and Japan raised concerns about the trajectory passing near its territory. Analysts say the test is Beijing's clearest public signal yet of a survivable, submarine-based nuclear deterrent, a capability the U.S. and Russia have long held. The move is likely to intensify calls for a regional ballistic-missile launch notification agreement.",
-      "detailZh": "中国人民解放军海军在提前通知相关国家后，于7月6日从南海向南太平洋无核区试射一枚潜射弹道导弹，携带模拟弹头飞行约7300公里。澳大利亚称此举具有破坏稳定性，新西兰确认导弹落点位于1986年《拉罗汤加条约》设立的无核区内，日本则对导弹飞行轨迹靠近其领土表示关切。分析人士认为，此次试验是北京迄今为止最明确的公开信号，表明其已具备生存能力更强的潜射核威慑能力——这一能力此前长期为美俄所独有。此举可能促使地区各国进一步呼吁建立弹道导弹发射通报协议。"
-    },
-    {
-      "category": "财经",
-      "source": "The Jakarta Post",
-      "sourceUrl": "http://www.thejakartapost.com/business/2026/07/09/asian-shares-climb-on-chip-rally-oil-up-as-gulf-hostilities-resume",
-      "titleEn": "Asian shares climb on chip rally, oil up as Gulf hostilities resume",
-      "conclusionEn": "Asian chipmakers rebounded sharply, with South Korea's Kospi jumping as Samsung and SK Hynix surged, even as oil climbed on renewed Gulf hostilities.",
-      "conclusionZh": "亚洲芯片股大幅反弹，韩国综合指数因三星、SK海力士暴涨而走高，尽管海湾冲突重燃推高油价。",
-      "whyEn": "The rebound shows investors treating this week's AI-chip selloff as a buying opportunity rather than a structural shift, even as geopolitical risk from the Iran conflict rises in parallel.",
-      "whyZh": "反弹显示投资者将本周AI芯片股抛售视为买入机会而非结构性转向，即便伊朗冲突带来的地缘风险同步上升。",
-      "detailEn": "South Korea's Kospi jumped as Samsung Electronics rose over 3% and SK Hynix surged more than 7%, while Kioxia gained over 10% on expectations its weighting in Japan's TOPIX index will roughly triple. The rally recovers much of the ground lost earlier this week when Samsung's record profit still missed the market's loftiest AI expectations, triggering a global semiconductor selloff. The MSCI Asia Pacific Index climbed alongside the chip rebound, even as oil prices rose on the collapse of the Iran ceasefire, illustrating how AI-linked demand optimism and Middle East risk are now pulling markets in different directions simultaneously.",
-      "detailZh": "韩国综合指数走高，三星电子股价上涨逾3%，SK海力士暴涨逾7%，Kioxia股价涨逾10%，因市场预期其在日本TOPIX指数中的权重将增加约三倍。此次反弹收复了本周早些时候的大部分跌幅——当时三星创纪录利润仍不及市场最乐观的AI预期，引发全球芯片股抛售。MSCI亚太指数随芯片股反弹走高，尽管伊朗停火瓦解推高油价，显示AI需求乐观情绪与中东地缘风险正同时从不同方向拉扯市场。"
+      "source": "Anadolu Agency",
+      "sourceUrl": "https://aa.com.tr/en/americas/trump-warns-1-000-missiles-locked-and-loaded-if-iran-tries-to-assassinate-him/3994765",
+      "titleEn": "Trump warns '1,000 missiles' locked and loaded if Iran tries to assassinate him",
+      "conclusionEn": "Trump said on Truth Social that 1,000 U.S. missiles are aimed at Iran and orders have already been given to strike if Tehran attempts to assassinate him.",
+      "conclusionZh": "特朗普在社交媒体发文称，若伊朗企图刺杀他，1000枚导弹已锁定伊朗且命令已下达。",
+      "whyEn": "The threat comes just a day after Trump declared the fragile U.S.-Iran ceasefire 'over,' sharply raising the risk of renewed full-scale conflict that could disrupt Gulf oil shipping and rattle global markets.",
+      "whyZh": "此威胁紧随特朗普宣布美伊停火「已结束」之后，大幅提高冲突全面重燃的风险，可能扰乱海湾石油航运并冲击全球市场。",
+      "detailEn": "Trump wrote that '1,000 Missiles are Locked and Loaded and aimed at the Islamic Republic of Iran, with thousands more to immediately follow,' should Tehran act on an alleged plot to assassinate him, adding that the U.S. military is 'ready, willing, and able' to strike for a one-year period. The warning follows a Wall Street Journal report that Israel shared intelligence suggesting Iran had developed a new assassination plan, though some U.S. officials and CNN reporting characterized it as informal hardliner talk rather than a concrete plot. Iran's Foreign Ministry denies it has sought negotiations, while Qatar continues mediating to prevent a full collapse of the memorandum of understanding that ended the earlier war.",
+      "detailZh": "特朗普在文中写道，若伊朗对其实施所谓的刺杀图谋，「1000枚导弹已锁定并瞄准伊朗伊斯兰共和国，还有数千枚随时待命」，并称美军已「做好准备、愿意且有能力」持续打击一年。这一警告发布前，《华尔街日报》曾报道以色列向美方提供情报，称伊朗已制定新的刺杀计划，但部分美国官员及CNN报道认为这更像是伊朗强硬派内部的非正式议论，而非具体计划。伊朗外交部否认曾寻求谈判，卡塔尔则继续从中斡旋，试图阻止此前结束战争的谅解备忘录彻底破裂。"
     },
     {
       "category": "财经",
       "source": "OilPrice.com",
-      "sourceUrl": "https://oilprice.com/Company-News/Shell-Flags-Stronger-Trading-Despite-Middle-East-Impact-on-Q2-Gas-Output.html",
-      "titleEn": "Shell Flags Stronger Trading Despite Middle East Impact on Q2 Gas Output",
-      "conclusionEn": "Shell raised its Q2 integrated gas guidance slightly to 610,000-650,000 boed, still down sharply from Q1 after the Iran war halted its Pearl GTL plant in Qatar.",
-      "conclusionZh": "壳牌小幅上调第二季度综合天然气产量指引至61万至65万桶油当量/日，但仍较第一季度大幅下降，因伊朗战争导致其卡塔尔Pearl GTL工厂停产。",
-      "whyEn": "The update shows how the Iran conflict is directly cutting into Big Oil's physical output even as the same volatility boosts trading profits, a split dynamic investors are watching across the sector.",
-      "whyZh": "该指引显示伊朗冲突正直接冲击大型石油公司的实际产量，而同样的波动性却提升了交易业务利润，这一分化态势正受到投资者关注。",
-      "detailEn": "Shell's integrated gas production guidance of 610,000-650,000 barrels of oil equivalent per day is up slightly from an earlier estimate but still far below Q1's 909,000 boed, almost entirely due to the March attack on Qatar's Ras Laffan Industrial City that halted Shell's Pearl gas-to-liquids facility, with repairs expected to take about a year. Shell partly offset the hit by raising the top end of its LNG liquefaction guidance to 7.4-7.8 million tonnes. The company also flagged stronger trading results, as the same Middle East volatility that curbed physical output has widened profit margins on its oil and gas trading desks.",
-      "detailZh": "壳牌将综合天然气产量指引小幅上调至日均61万至65万桶油当量，但仍远低于第一季度的90.9万桶油当量，主因是3月对卡塔尔拉斯拉凡工业城的袭击导致其Pearl天然气制油工厂停产，预计修复需时约一年。壳牌部分抵消了这一影响，将LNG液化指引上限上调至740万至780万吨。公司还表示交易业务表现强劲，同样的中东局势波动虽然压低了实际产量，却扩大了其石油天然气交易部门的利润空间。"
+      "sourceUrl": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-on-Renewed-Hormuz-Supply-Risks.html",
+      "titleEn": "Oil Prices Rally on Renewed Hormuz Supply Risks",
+      "conclusionEn": "Oil prices stayed elevated with Brent near $76 and WTI around $72 as shipping through the Strait of Hormuz remains disrupted amid renewed U.S.-Iran hostilities.",
+      "conclusionZh": "布伦特原油维持在76美元附近、WTI约72美元，因霍尔木兹海峡航运仍受美伊冲突重燃影响而持续中断。",
+      "whyEn": "The Strait of Hormuz carries roughly a fifth of global oil and gas trade, so continued disruption keeps a geopolitical risk premium embedded in energy prices worldwide, feeding into inflation and fuel costs globally.",
+      "whyZh": "霍尔木兹海峡承担全球约五分之一的石油天然气贸易，航运持续受阻使全球能源价格中嵌入地缘风险溢价，推高全球通胀与燃料成本。",
+      "detailEn": "Crude prices swung sharply this week, with WTI ranging from a low of $67.82 to a high of $76.08 before settling lower late Thursday, then steadying Friday as traders weighed reports of possible renewed U.S.-Iran talks against the reality of continued tanker disruptions in the Strait. Qatar is pushing to mediate a de-escalation, but the U.S. has already revoked a sanctions waiver that allowed Iran to export oil under the collapsing truce, tightening the timeline for traders to adjust. Analysts warn that a full return to hostilities could push tankers to avoid the Strait altogether, risking a sharper supply shock than the initial war phase earlier this year.",
+      "detailZh": "本周原油价格剧烈波动，WTI在67.82美元至76.08美元之间大幅震荡，周四晚段回落，周五因交易员权衡美伊可能重启谈判的消息与海峡内油轮运输持续受阻的现实而趋于稳定。卡塔尔正推动斡旋以实现局势降温，但美国已撤销此前允许伊朗在停火期间出口石油的制裁豁免，进一步压缩交易商调整仓位的时间窗口。分析师警告，若冲突全面重燃，油轮可能彻底回避该海峡，其供应冲击或将比今年早些时候的战争初期更为严重。"
+    },
+    {
+      "category": "科技",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "titleEn": "SK Hynix raises $26.5B in the biggest foreign IPO in US history",
+      "conclusionEn": "SK Hynix closed its first Nasdaq trading day up about 13%, having raised $26.5 billion in the largest-ever U.S. listing by a foreign company.",
+      "conclusionZh": "SK海力士纳斯达克首日收盘上涨约13%，此次上市募资265亿美元，创外国公司在美国规模最大的IPO纪录。",
+      "whyEn": "The blockbuster listing gives U.S. investors direct access to the world's leading maker of high-bandwidth memory chips that power Nvidia's AI hardware, underscoring how AI-driven demand is reshaping global capital markets.",
+      "whyZh": "此次巨额上市让美国投资者可直接投资全球领先的高带宽内存芯片制造商（英伟达AI硬件的关键供应商），凸显AI需求正重塑全球资本市场格局。",
+      "detailEn": "SK Hynix's American depositary receipts priced at $149 and closed near $168 on debut day, valuing the deal at $26.5 billion and surpassing Alibaba's 2014 IPO as the largest first-time U.S. listing by a foreign company. Demand for the offering ran at roughly seven times the shares available. SK Hynix controls more than half the global market for high-bandwidth memory, the specialized chips essential to Nvidia's AI accelerators, and U.S. officials are now pressing the company to build new fabrication plants domestically to reduce reliance on Asian supply chains.",
+      "detailZh": "SK海力士美国存托凭证发行价为149美元，首日收盘价接近168美元，交易规模达265亿美元，超越阿里巴巴2014年的IPO纪录，成为外国公司在美国规模最大的首次上市。该发行认购需求约为可售股份的七倍。SK海力士在全球高带宽内存市场占据过半份额，这类芯片是英伟达AI加速器不可或缺的核心部件，美国官员目前正敦促该公司在美国本土新建晶圆厂，以降低对亚洲供应链的依赖。"
+    },
+    {
+      "category": "财经",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html",
+      "titleEn": "S&P 500 notches weekly gain as Nvidia, Meta lead tech higher",
+      "conclusionEn": "The S&P 500 rose 0.42% to 7,575.39 and the Nasdaq gained 0.29%, with Nvidia up about 4% and Meta up about 6% on the week, even as oil prices climbed on Middle East risk.",
+      "conclusionZh": "标普500指数上涨0.42%报7575.39点，纳斯达克涨0.29%，英伟达单日涨约4%、Meta本周涨约6%，尽管中东风险推高油价。",
+      "whyEn": "Big Tech's gains show investors are still rewarding AI-linked growth stories even while geopolitical risk and volatile energy prices complicate the broader market picture heading into earnings season.",
+      "whyZh": "科技巨头上涨显示投资者仍看好AI相关成长股，即便地缘风险与油价波动为即将到来的财报季增添了不确定性。",
+      "detailEn": "The Dow Jones Industrial Average added 149.60 points to close at 52,637.01, marking a broadly positive week for U.S. equities despite a volatile stretch tied to the Iran conflict and Strait of Hormuz shipping disruptions. Meta Platforms posted its best weekly performance since early 2024 with a nearly 15% gain, while Nvidia's rise helped offset drag from energy-sensitive sectors. Investors are now turning attention to next week's bank earnings, semiconductor results from ASML and Taiwan Semiconductor, and Fed Chair Kevin Warsh's first congressional testimony.",
+      "detailZh": "道琼斯工业平均指数上涨149.60点，收于52637.01点，尽管受伊朗冲突及霍尔木兹海峡航运中断影响市场波动较大，美股本周整体仍录得涨幅。Meta股价本周累计上涨近15%，创2024年初以来最佳单周表现，英伟达的上涨也抵消了能源敏感板块的拖累。投资者目前正将注意力转向下周的银行财报、ASML与台积电的半导体业绩，以及美联储主席凯文·沃什首次国会作证。"
     },
     {
       "category": "商业",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html",
-      "titleEn": "Delta launches 'basic business' fares without lounge access, seat selection",
-      "conclusionEn": "Delta introduced stripped-down 'Basic' fares for Delta One, first class and premium economy, cutting perks like lounge access and seat selection in exchange for lower prices.",
-      "conclusionZh": "达美航空推出精简版「基础」头等舱、公务舱及高端经济舱票价，取消贵宾室、选座等权益以换取更低价格。",
-      "whyEn": "The move mirrors United's earlier unbundling of premium cabins and signals airlines are extending budget-style segmentation into their most profitable, highest-paying customer segment.",
-      "whyZh": "此举效仿美联航此前对高端舱位的拆分策略，标志航空公司正将廉价化的分级定价扩展至利润最高的高端客户群体。",
-      "detailEn": "Delta First Basic began flying July 8 on select domestic and Latin American routes, while Basic Business and Premium Select Basic go on sale the same day but won't start flying until September. Passengers booking the new fares keep lie-flat seats and meals but lose access to Delta One Lounges and Sky Clubs, get seats assigned only after check-in, earn fewer miles, receive a reduced bag allowance, and face fees for changes. Delta's commercial chief framed it as giving customers \"more ways to choose\" the experience that fits their trip. The change follows a similar move by United to its Polaris business class earlier in 2026, suggesting a broader industry shift toward segmenting premium cabins the way carriers already segment economy.",
-      "detailZh": "达美航空的「头等舱基础版」已于7月8日在部分国内及拉美航线开始销售并投入运营，「商务舱基础版」和「高端经济舱基础版」同日开售，但要到9月才开始执飞。购买新票价的乘客仍可享有平躺座椅和餐食，但无法使用达美头等舱贵宾室及Sky Club休息室，座位需在办理登机后才分配，累积里程减少，行李额度降低，且更改行程需支付费用。达美商务负责人表示，此举旨在为顾客「提供更多方式」选择适合自己行程的服务。该调整紧随美联航2026年早些时候对其Polaris商务舱的类似改革，显示行业正广泛将经济舱式的分级定价扩展至高端舱位。"
+      "sourceUrl": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
+      "titleEn": "Delta beats Q2 earnings estimates, reaffirms full-year guidance despite record fuel costs",
+      "conclusionEn": "Delta reported Q2 adjusted earnings of $1.56 per share on $17.7 billion revenue, beating estimates, and reaffirmed its full-year outlook despite fuel costs up 75% year-over-year.",
+      "conclusionZh": "达美航空第二季度调整后每股盈利1.56美元、营收177亿美元均超预期，尽管燃油成本同比上涨75%，公司仍维持全年业绩指引。",
+      "whyEn": "Delta's ability to pass sharply higher fuel costs on to customers through fare increases signals resilient travel demand, a closely watched indicator for the broader consumer spending and airline sector outlook.",
+      "whyZh": "达美能将大幅上升的燃油成本转嫁给消费者，显示旅游需求依然强劲，是判断整体消费支出与航空业前景的重要风向标。",
+      "detailEn": "Delta's adjusted earnings of $1.56 per share topped Wall Street's $1.48 estimate, with adjusted revenue of $17.7 billion beating the $17.53 billion consensus, even as it paid a record $3.93 per gallon for fuel, up from $2.25 a year earlier. The revenue gain came almost entirely from higher fares and premium mix rather than added capacity, which grew only about 1%. Delta reaffirmed full-year adjusted earnings guidance of $6.50 to $7.50 per share, above analysts' $5.97 estimate, and forecast third-quarter adjusted earnings of $2.00 to $2.50 per share.",
+      "detailZh": "达美调整后每股盈利1.56美元，超过华尔街1.48美元的预期，调整后营收177亿美元也高于市场预期的175.3亿美元，尽管其燃油成本创纪录达到每加仑3.93美元，较去年同期的2.25美元大幅上涨。此次营收增长几乎全部来自票价上涨及高端舱位占比提升，而非运力扩张——运力仅增长约1%。达美维持全年调整后每股盈利6.50至7.50美元的指引，高于分析师预期的5.97美元，并预测第三季度调整后每股盈利为2.00至2.50美元。"
     },
     {
       "category": "财经",
+      "source": "Reuters",
+      "sourceUrl": "https://www.investing.com/news/economy-news/fed-chair-warsh-to-testify-before-lawmakers-on-july-14-4753916",
+      "titleEn": "Fed Chair Warsh to testify before lawmakers on July 14",
+      "conclusionEn": "Federal Reserve Chair Kevin Warsh will deliver his first semiannual monetary policy testimony to the House on July 14 and the Senate on July 15.",
+      "conclusionZh": "美联储主席凯文·沃什将于7月14日和15日分别向众议院、参议院首次作半年度货币政策证词。",
+      "whyEn": "Markets will parse Warsh's debut testimony for signals on whether the Fed is leaning toward a September rate hike, given inflation running at a three-year high partly driven by energy costs from the Iran conflict.",
+      "whyZh": "市场将密切关注沃什首次作证释放的信号，判断美联储是否倾向于9月加息，当前通胀率因伊朗冲突推高能源成本已达三年新高。",
+      "detailEn": "Warsh, who became the Fed's 17th chair on May 22, will testify before the House Financial Services Committee on July 14 and the Senate Banking Committee the following day, presenting the central bank's semiannual monetary policy report. His first FOMC meeting in June held rates steady but revealed a hawkish internal split, with nine committee members signaling support for higher rates amid inflation near a three-year high of 4.2%. Warsh has said his priorities include refocusing the Fed on its dual mandate, shrinking its balance sheet, and reforming how it communicates policy signals to markets.",
+      "detailZh": "5月22日就任美联储第17任主席的沃什，将于7月14日在众议院金融服务委员会、次日在参议院银行委员会作证，提交半年度货币政策报告。他今年6月主持的首次联邦公开市场委员会会议维持利率不变，但内部立场出现明显分歧，九名委员表示支持加息，当时通胀率已逼近三年新高的4.2%。沃什表示，其施政重点包括让美联储重新聚焦物价稳定与充分就业的双重使命、缩减资产负债表，并改革与市场沟通政策信号的方式。"
+    },
+    {
+      "category": "国际",
       "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-06/strategy-sells-216-million-of-bitcoin-as-saylor-begins-overhaul",
-      "titleEn": "Strategy Sells $216 Million of Bitcoin as Saylor Begins Overhaul",
-      "conclusionEn": "Michael Saylor's Strategy sold 3,588 bitcoin for about $216 million, its largest sale since it started accumulating Bitcoin in 2020, to fund preferred-stock dividends.",
-      "conclusionZh": "迈克尔·塞勒旗下Strategy公司出售3588枚比特币，套现约2.16亿美元，为2020年开始囤币以来最大规模抛售，用于支付优先股股息。",
-      "whyEn": "The sale marks a strategic reversal for the world's largest corporate Bitcoin holder, raising questions about whether other crypto-treasury companies will follow suit under similar dividend and financing pressure.",
-      "whyZh": "此次抛售标志着全球最大企业比特币持有者的策略逆转，引发市场关注其他加密货币储备公司是否会在类似股息与融资压力下效仿。",
-      "detailEn": "According to an SEC filing, Strategy sold the bitcoin at an average price of roughly $60,000 per coin, reducing its holdings to 843,775 BTC while still remaining the largest corporate Bitcoin treasury in the world. The company said proceeds would fund distributions on its preferred stock and replenish cash reserves used for those payments, following a prolonged slump in both Bitcoin and Strategy's own share price. It is only the third time the company has sold Bitcoin since 2020 and by far its largest, coming as part of a broader financing overhaul Saylor has begun rolling out, including a previously announced buyback program and adjustments to its capital framework.",
-      "detailZh": "根据美国证券交易委员会文件，Strategy以每枚约6万美元的均价出售比特币，持仓降至84.3775万枚，但仍是全球最大的企业比特币储备方。公司表示，所得款项将用于支付优先股股息，并补充此前用于该项支付而消耗的现金储备，此前比特币价格及公司自身股价均经历了长期低迷。这是该公司自2020年以来第三次出售比特币，也是迄今规模最大的一次，属于塞勒近期启动的更广泛融资改革的一部分，此前公司已宣布回购计划并调整了资本框架。"
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/cuba-hit-by-second-nationwide-blackout-this-week",
+      "titleEn": "Cuba Hit by Second Nationwide Blackout This Week",
+      "conclusionEn": "Cuba's national electric grid collapsed for the second time in four days on July 10, cutting power across the island amid a worsening fuel crisis.",
+      "conclusionZh": "古巴全国电网7月10日再度崩溃，这是四天内第二次全国性停电，正值该国燃料危机日益加剧。",
+      "whyEn": "The repeated grid failures reflect how a U.S.-driven fuel blockade is deepening Cuba's worst economic crisis in decades, with cascading effects on hospitals, transportation and food production.",
+      "whyZh": "反复停电反映美国主导的燃料封锁正加深古巴数十年来最严重的经济危机，对医院、交通及食品生产造成连锁冲击。",
+      "detailEn": "Cuba's Ministry of Energy and Mines confirmed a total disconnection of the national grid on Friday, activating emergency recovery protocols and beginning restart procedures at key thermoelectric plants in Nuevitas, Cienfuegos and Matanzas. It was the ninth nationwide blackout since October 2025 and the second in less than a week, following one on July 6 that left roughly 10 million people without power and forced cancellation of tens of thousands of scheduled surgeries. The crisis stems largely from the Trump administration's cutoff of fuel shipments from Venezuela and pressure on Mexico to halt deliveries, part of a broader push to force reforms on Havana.",
+      "detailZh": "古巴能源和矿业部证实，全国电网于周五（7月10日）全面断网，随即启动应急恢复程序，位于新维塔斯、西恩富戈斯及马坦萨斯的关键火电厂开始重启。这是自2025年10月以来第九次全国性停电，也是不到一周内的第二次，此前7月6日的停电曾导致约1000万人断电，数万台预定手术被迫取消。此次危机主要源于特朗普政府切断委内瑞拉对古巴的燃料供应，并向墨西哥施压要求停止供油，是其迫使哈瓦那进行改革的更广泛施压措施的一部分。"
+    },
+    {
+      "category": "国际",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/9/venezuela-earthquakes-toll-rises-to-3889-as-risk-of-disease-grows",
+      "titleEn": "Venezuela earthquakes toll rises to 3,889 as risk of disease grows",
+      "conclusionEn": "The death toll from Venezuela's twin June 24 earthquakes has climbed to 3,889, with over 16,700 injured and growing fears of disease outbreaks among displaced survivors.",
+      "conclusionZh": "委内瑞拉6月24日双震死亡人数升至3889人，超1.67万人受伤，流离失所者中疾病爆发风险正在上升。",
+      "whyEn": "As the toll from one of the deadliest earthquakes in the region's recent history keeps climbing, deteriorating sanitation in displacement camps threatens a secondary public-health crisis on top of the disaster itself.",
+      "whyZh": "这场该地区近年最致命地震之一的死亡人数持续攀升，安置营卫生条件恶化正引发次生公共卫生危机的担忧。",
+      "detailEn": "Venezuelan authorities said 6,462 people have been rescued so far, while 856 buildings were damaged and 190 collapsed across the regions hit by the magnitude 7.2 and 7.5 quakes, which struck within seconds of each other near Yaracuy state. Aid workers are increasingly focused on disease risk as displaced survivors crowd into makeshift shelters with limited clean water and sanitation. Portugal's government has confirmed 107 of its citizens or people of Portuguese descent died in the disaster, underscoring its international reach, and search-and-recovery operations continue more than two weeks after the quakes.",
+      "detailZh": "委内瑞拉当局表示，目前已救出6462人，受灾地区共有856栋建筑受损、190栋倒塌，两次地震（7.2级和7.5级）发生在亚拉奎州附近，间隔仅数秒。随着流离失所的幸存者挤入简陋避难所，缺乏清洁饮水和卫生设施，救援人员愈发担忧疾病风险。葡萄牙政府已确认107名该国公民或葡萄牙裔死于此次灾难，凸显灾害的国际影响，搜救工作在地震发生两周多后仍在继续。"
     }
   ],
   "businessTips": [
     {
-      "term": "The Pareto Principle (80/20 Rule)",
+      "term": "Economies of Scale",
       "category": "通用商业",
-      "explanationEn": "The Pareto Principle holds that roughly 80% of outcomes come from just 20% of causes — 80% of revenue from 20% of clients, or 80% of complaints from 20% of product issues. Named after economist Vilfredo Pareto, who observed that 80% of Italy's land was owned by 20% of the population, the pattern shows up repeatedly across business data. Managers use it to focus limited time and resources on the small set of inputs that drive the majority of results, rather than spreading effort evenly across everything. It is a diagnostic heuristic, not an exact ratio — the real split might be 70/30 or 90/10, but the core lesson is that impact is rarely distributed evenly.",
-      "explanationZh": "帕累托原则（80/20法则）指出，约80%的结果往往来自仅20%的原因——例如80%的营收来自20%的客户，或80%的投诉源于20%的产品问题。这一规律以经济学家维尔弗雷多·帕累托命名，他曾发现意大利80%的土地由20%的人口所拥有，而这种分布模式在商业数据中反复出现。管理者借此将有限的时间和资源集中投入到驱动大部分结果的少数关键因素上，而不是平均分摊精力。这是一种诊断性经验法则，而非精确比例——实际比例可能是70/30或90/10，但核心启示是：影响力很少是均匀分布的。",
-      "exampleEn": "A small consulting firm reviews its client list and finds that just three of its fifteen clients generate 78% of annual revenue; it then reallocates its best account managers to those three relationships instead of splitting attention equally across all fifteen.",
-      "exampleZh": "一家小型咨询公司审查客户名单后发现，15个客户中仅3个贡献了全年78%的营收；于是公司将最优秀的客户经理重新分配给这三个核心客户，而不是把精力平均分给全部15个客户。"
+      "explanationEn": "Economies of scale describe how a company's average cost per unit falls as its total production volume rises, because fixed costs like factories, equipment and R&D get spread across more units sold. This is why larger companies can often price more aggressively than smaller rivals while maintaining similar or better margins. The effect has limits, though — past a certain size, coordination costs, bureaucracy and complexity can start pushing average costs back up, a phenomenon known as diseconomies of scale. Understanding where a business sits on this curve helps managers decide whether to pursue growth, consolidation, or a leaner focused strategy.",
+      "explanationZh": "规模经济是指企业总产量增加时，单位平均成本随之下降的现象，原因是工厂、设备、研发等固定成本被分摊到更多产品上。这也是为什么大公司往往能比小竞争对手定价更具攻击性，同时保持相近甚至更高的利润率。但这种效应并非没有边界——规模超过某个临界点后，协调成本、官僚层级和复杂性会开始把平均成本重新推高，这种现象称为「规模不经济」。了解企业在这条曲线上所处的位置，有助于管理者判断应追求扩张、整合，还是采取更精简聚焦的策略。",
+      "exampleEn": "A regional bakery chain doubles its store count and negotiates flour and packaging contracts directly with suppliers at bulk rates, cutting per-loaf ingredient costs by 15% even though it hasn't changed its recipe or process at all.",
+      "exampleZh": "一家区域连锁面包店门店数量翻倍后，直接与供应商就面粉和包装签订大宗采购合同，即便配方和工艺完全没变，每条面包的原料成本也下降了15%。"
     },
     {
-      "term": "Minimum Viable Product (MVP)",
+      "term": "Bootstrapping",
       "category": "创业副业",
-      "explanationEn": "A minimum viable product is the simplest version of a new product or service that still delivers enough value to attract early users and generate real feedback, popularized by Eric Ries in the Lean Startup methodology. Instead of spending months building every planned feature before launch, founders release a stripped-down version to test core assumptions about what customers actually want. The goal is learning speed, not polish — an MVP is deliberately incomplete so that founders can validate or kill an idea before investing heavily in the wrong direction. Side-hustle builders use the same logic at a smaller scale, testing a service or product with minimal upfront investment before committing more time or money.",
-      "explanationZh": "最小可行产品（MVP）是指新产品或服务的最简化版本，但仍能提供足够价值以吸引早期用户并获得真实反馈，这一概念由埃里克·莱斯在其精益创业方法论中推广普及。创始人不必花费数月打造计划中的每一项功能后才发布，而是先推出一个精简版本，用来验证客户真正需要什么这一核心假设。MVP追求的是学习速度而非完美打磨——它刻意保持不完整，以便创始人能在大举投入错误方向之前，验证或及时放弃某个想法。做副业的人也可以在更小规模上运用同样的逻辑，用最低的前期投入先测试一项服务或产品，再决定是否投入更多时间和资金。",
-      "exampleEn": "Someone wanting to start a meal-prep side business doesn't rent a commercial kitchen and print menus first — they cook five sample meals in their own kitchen, sell them to ten neighbors through a simple group chat, and use that feedback to decide whether to invest further.",
-      "exampleZh": "一个想开展预制餐副业的人，不会一开始就租商用厨房、印刷菜单，而是先在自家厨房做出五份样品餐，通过一个简单的群聊卖给十位邻居，再根据反馈决定是否进一步投入。"
+      "explanationEn": "Bootstrapping means building a business using only personal savings, early customer revenue, and reinvested profits, without raising outside investment from venture capitalists or angel investors. It forces founders to reach profitability quickly and stay disciplined about spending, since there's no outside cash cushion to cover losses. The tradeoff is slower growth compared to well-funded competitors, but bootstrapped founders keep full ownership and control of their company and aren't pressured by investors to chase growth at the expense of sustainability. Many successful side hustles and small businesses are bootstrapped by necessity, but some founders choose it deliberately even when funding is available.",
+      "explanationZh": "自筹资金（Bootstrapping）是指仅依靠个人储蓄、早期客户营收和利润再投入来发展业务，而不引入风险投资人或天使投资人的外部资金。这要求创始人必须尽快实现盈利并严格控制支出，因为没有外部资金来弥补亏损。其代价是相较于资金充裕的竞争对手，成长速度会更慢，但自筹资金的创始人能保留公司的完全所有权与控制权，也不会被投资人逼迫为追求增长而牺牲可持续性。许多副业和小企业出于现实原因不得不自筹资金，但也有创始人在有融资渠道的情况下依然主动选择这条路。",
+      "exampleEn": "A freelance designer starts a small stationery brand using $2,000 of personal savings, sells initial batches at weekend markets to fund the next production run, and only expands to a second product line once the first is consistently profitable — never taking outside investment.",
+      "exampleZh": "一位自由设计师用2000美元个人积蓄创办了一个小型文具品牌，在周末市集出售首批产品来筹集下一批生产资金，只有在第一款产品持续盈利后才扩展第二条产品线，全程没有引入外部投资。"
     },
     {
-      "term": "The Rule of 72",
+      "term": "Dollar-Cost Averaging",
       "category": "投资金融",
-      "explanationEn": "The Rule of 72 is a quick mental-math shortcut for estimating how many years it takes an investment to double in value: divide 72 by the annual rate of return. At an 8% annual return, an investment roughly doubles in nine years (72 ÷ 8); at 4%, it takes about eighteen years. It works because of how compound interest scales, and while it is an approximation rather than an exact formula, it stays reasonably accurate for rates between roughly 4% and 15%. Investors use it to quickly compare the long-term impact of different expected returns without needing a calculator or spreadsheet.",
-      "explanationZh": "72法则是一种快速估算投资翻倍所需年数的心算捷径：用72除以年化收益率即可。以8%的年化收益率计算，投资大约9年（72÷8）就能翻倍；若收益率为4%，则需要约18年。这一法则之所以成立，源于复利增长的特性，虽然只是近似值而非精确公式，但在年化收益率大致处于4%到15%之间时依然相当准确。投资者常用它来快速比较不同预期收益率带来的长期影响，而无需借助计算器或电子表格。",
-      "exampleEn": "Comparing a savings account paying 3% with an index fund averaging 9%, an investor quickly estimates the savings account needs 24 years to double (72÷3) while the index fund needs only 8 years (72÷9), making the long-term gap immediately visible without running a full projection.",
-      "exampleZh": "在比较年利率3%的储蓄账户与年均回报9%的指数基金时，投资者可以很快估算出储蓄账户需要24年才能翻倍（72÷3），而指数基金只需8年（72÷9），无需做完整的收益预测就能立刻看出两者长期差距。"
+      "explanationEn": "Dollar-cost averaging is an investment strategy where someone invests a fixed amount of money at regular intervals — say, monthly — regardless of whether the market is up or down, rather than trying to time a single lump-sum entry point. Because the fixed amount buys more shares when prices are low and fewer when prices are high, it naturally lowers the average cost per share over time and removes the emotional guesswork of trying to pick the perfect moment to invest. It doesn't guarantee better returns than lump-sum investing in a rising market, but it reduces the risk of investing a large sum right before a downturn and helps investors stay disciplined through volatility.",
+      "explanationZh": "定投（美元成本平均法）是一种投资策略，即无论市场涨跌，都按固定周期（例如每月）投入固定金额，而不是试图择时一次性买入。由于固定金额在价格低时能买到更多份额、价格高时买到较少份额，这自然会降低长期的平均持有成本，也省去了猜测「最佳入场时机」的心理负担。在持续上涨的市场中，定投未必比一次性投入收益更高，但它能降低在下跌前重仓买入的风险，并帮助投资者在市场波动中保持纪律性。",
+      "exampleEn": "Instead of investing a $12,000 bonus all at once, an investor sets up an automatic transfer of $1,000 into an index fund on the first of every month for a year, buying more shares during a summer dip and fewer during a autumn rally, without having to actively watch the market.",
+      "exampleZh": "一位投资者没有把1.2万美元的年终奖一次性全部投入，而是设置每月1日自动转入1000美元买入指数基金，持续一年，在夏季回调时买到更多份额、在秋季上涨时买到较少份额，全程无需主动盯盘择时。"
     }
   ]
 }
