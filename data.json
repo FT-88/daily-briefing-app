@@ -1,116 +1,140 @@
 {
-  "date": "2026-07-15",
-  "updatedAt": "2026-07-15T16:35:00+08:00",
+  "date": "2026-07-19",
+  "updatedAt": "2026-07-19T13:24:59+08:00",
   "news": [
     {
-      "category": "财经",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/07/12/oil-price-strait-hormuz-iran-trump-tanker.html",
-      "titleEn": "Brent oil jumps more than 9%, biggest daily gain since 2020, after Trump reinstates Iran blockade",
-      "conclusionEn": "Brent crude surged 9.6% to close at $83.30 a barrel, its best daily performance since 2020, after Iran struck two UAE-owned supertankers in the Strait of Hormuz and Trump announced a renewed US naval blockade of Iran.",
-      "conclusionZh": "布伦特原油单日暴涨9.6%，收于每桶83.30美元，为2020年以来最大单日涨幅，此前伊朗在霍尔木兹海峡袭击两艘阿联酋籍超级油轮，特朗普宣布美国重启对伊朗的海上封锁。",
-      "whyEn": "The Strait of Hormuz carries about a fifth of global oil shipments, so a confirmed tanker attack plus a US blockade announcement removes any doubt that supply risk is real, not just rhetoric — driving fuel and shipping costs higher worldwide just as central banks assess inflation trends.",
-      "whyZh": "霍尔木兹海峡承担全球约五分之一的石油运输，油轮遇袭加上美国宣布封锁，证实供应风险已成现实而非空谈，推高全球燃料与运输成本，恰逢各国央行评估通胀走势的关键时刻。",
-      "detailEn": "Iran struck the tankers Mombasa B and Al Bahyah with cruise missiles on Tuesday, killing one sailor and injuring eight others, according to UAE officials. Trump responded by saying the US would reimpose a naval blockade against Iran and called for Gulf states benefiting from the protection — Saudi Arabia, the UAE, Qatar, Bahrain and Kuwait — to reimburse Washington 20% of the value of secured cargoes. The escalation shatters what remained of the interim ceasefire signed in mid-June, and traders are now pricing in the possibility that tanker traffic through the strait could be disrupted for an extended period.",
-      "detailZh": "据阿联酋官员称，伊朗周二用巡航导弹袭击了「蒙巴萨B号」和「巴哈亚号」两艘油轮，造成1名船员死亡、8人受伤。特朗普随即表示，美国将重新对伊朗实施海上封锁，并要求受此保护的海湾国家——沙特、阿联酋、卡塔尔、巴林和科威特——向美方支付所护送货物价值20%的费用作为补偿。此次升级使6月中旬签署的临时停火协议名存实亡，交易员目前已将海峡航运可能长期中断的风险计入油价。"
-    },
-    {
-      "category": "财经",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/us-cpi-falls-for-the-first-time-since-2020-core-gauge-unchanged",
-      "titleEn": "US Inflation: CPI Falls for First Time Since 2020, Core Gauge Unchanged",
-      "conclusionEn": "US consumer prices fell 0.4% in June, the first monthly drop since 2020, pulling annual inflation down to 3.5% from May's 4.2% as gasoline prices tumbled 9.7%.",
-      "conclusionZh": "美国6月CPI环比下降0.4%，为2020年以来首次月度下降，年通胀率从5月的4.2%降至3.5%，汽油价格暴跌9.7%。",
-      "whyEn": "The much cooler-than-expected inflation reading eases pressure on the Fed to hike rates and gives Chair Kevin Warsh more room during his debut congressional testimony this week, directly shaping expectations for stocks, bonds and the dollar.",
-      "whyZh": "远低于预期的通胀数据缓解了美联储加息的压力，也为主席沃什本周首次国会作证提供了更大空间，直接影响股市、债市和美元的预期走向。",
-      "detailEn": "Economists had forecast only a 0.2% monthly decline and a 3.8% annual rate, so the actual figures came in well below consensus. The drop was driven almost entirely by a sharp pullback in energy prices, with the broader energy index falling 5.7% after rising 3.9% in May, alongside easing housing and services costs. Core inflation, which strips out food and energy, was flat for the month versus an expected 0.2% rise, pushing the 12-month core rate down to 2.6%. Economists cautioned the relief could be temporary given the fresh oil price spike from the renewed Iran conflict, which was not yet fully reflected in June's data.",
-      "detailZh": "经济学家此前预测CPI环比仅下降0.2%、年率为3.8%，实际数据大幅低于市场共识。此次下降几乎完全由能源价格大幅回落驱动，广义能源指数下跌5.7%（此前5月上涨3.9%），住房和服务成本也有所缓和。核心通胀（剔除食品和能源）环比持平，低于预期的0.2%涨幅，12个月核心通胀率降至2.6%。经济学家提醒，鉴于伊朗冲突重燃导致的新一轮油价飙升尚未完全反映在6月数据中，这种缓解可能只是暂时的。"
-    },
-    {
-      "category": "科技",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/trillion-dollar-chip-rout-trains-spotlight-on-tsmc-asml-results",
-      "titleEn": "TSMC, ASML Face Earnings Scrutiny After $1.7 Trillion Chip Rout",
-      "conclusionEn": "ASML reports earnings July 15 and TSMC follows July 16, with investors watching capex and capacity guidance closely after a chip-sector selloff erased roughly $1.7 trillion in market value since late June.",
-      "conclusionZh": "ASML将于7月15日、台积电将于7月16日发布财报，此前芯片板块抛售潮已抹去约1.7万亿美元市值，投资者将密切关注两家公司的资本支出与产能指引。",
-      "whyEn": "As the two most important suppliers underpinning the global AI chip supply chain, their results and forward guidance will offer the clearest signal yet on whether the AI infrastructure buildout still has momentum or is starting to peak, directly moving sentiment across the entire tech sector.",
-      "whyZh": "作为支撑全球AI芯片供应链的两大核心供应商，两家公司的业绩与前瞻指引将成为判断AI基建投资热潮是否仍有动能、抑或已现顶峰的最清晰信号，直接左右整个科技板块情绪。",
-      "detailEn": "TSMC's revenue for the first half of 2026 hit NT$2.404 trillion, up 35.6% year-over-year, and the company has guided for more than 30% full-year dollar revenue growth on the back of AI-related chip demand. Capital expenditure figures from TSMC and ASML's capacity roadmap will be the most closely watched numbers, since they signal how much further semiconductor equipment makers and foundries expect the AI buildout to run. The results come at a moment of acute investor unease after memory and semiconductor stocks fell sharply from their June highs on fears that AI infrastructure spending has outrun near-term demand.",
-      "detailZh": "台积电2026年上半年营收达2.404万亿新台币，同比增长35.6%，公司此前预计全年美元营收增速将超过30%，主要受AI相关芯片需求驱动。台积电的资本支出数据及ASML的产能规划将是市场最关注的指标，因为它们将揭示半导体设备商与代工厂对AI基建热潮持续性的预期。此次财报发布正值投资者情绪高度紧张之际——此前内存和半导体股票因担忧AI基础设施支出已超出近期实际需求，从6月高点大幅回落。"
-    },
-    {
-      "category": "财经",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-      "titleEn": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-      "conclusionEn": "Goldman Sachs posted Q2 earnings of $20.98 per share versus $14.48 expected, and JPMorgan's core profit hit $6.14 per share versus $5.80 expected, as both banks logged record trading revenue fueled by AI-driven market activity.",
-      "conclusionZh": "高盛第二季度每股盈利20.98美元，远超预期的14.48美元；摩根大通核心每股盈利6.14美元，高于预期的5.80美元，两家银行的交易收入均创纪录，受AI驱动的市场活跃度提振。",
-      "whyEn": "Wall Street's biggest banks posting record trading results shows AI-related volatility and dealmaking are becoming a direct profit driver for financial firms, not just tech companies, reinforcing confidence in this earnings season even amid geopolitical turmoil.",
-      "whyZh": "华尔街大行交易业务创纪录，显示AI相关的市场波动与并购活动正成为金融机构（而不仅是科技公司）的直接利润来源，即便地缘政治动荡不断，本轮财报季信心依然稳固。",
-      "detailEn": "Goldman's revenue surged to $20.34 billion from $14.58 billion a year earlier, with shares jumping 9% as the bank posted its best-ever trading quarter. JPMorgan reported net income of $21.2 billion, including a $4.6 billion one-time gain on its Visa stake, with core operating profit still hitting a record $16.9 billion. Both banks said AI-driven volatility, algorithmic trading volumes, and a resurgence in dealmaking activity — including large tech IPOs — propelled results well above what was already an optimistic consensus heading into the quarter.",
-      "detailZh": "高盛营收从去年同期的145.8亿美元跃升至203.4亿美元，股价当日上涨9%，创下该行有史以来最佳交易业务季度。摩根大通净利润为212亿美元，其中包含46亿美元来自Visa股权的一次性收益，剔除后核心营业利润仍创下169亿美元的纪录。两家银行均表示，AI驱动的市场波动、算法交易量增长以及并购活动（包括大型科技公司IPO）的回暖，共同推动业绩大幅超越本已乐观的市场预期。"
-    },
-    {
-      "category": "科技",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
-      "titleEn": "IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning",
-      "conclusionEn": "IBM shares plunged 25% — its worst single-day drop on record, surpassing 1987's Black Monday decline — after the company preliminarily reported Q2 revenue of $17.2 billion and adjusted EPS of $2.93, both below expectations.",
-      "conclusionZh": "IBM股价暴跌25%，创该公司有史以来最大单日跌幅（超过1987年「黑色星期一」），此前公司初步公布第二季度营收172亿美元、调整后每股盈利2.93美元，均低于市场预期。",
-      "whyEn": "A legacy tech giant warning that clients are diverting budget toward AI infrastructure like memory chips and servers, at the expense of software spending, signals a broader shift in corporate IT budgets that could pressure other enterprise software companies.",
-      "whyZh": "这家老牌科技巨头警告称，客户正将预算从软件转向内存芯片、服务器等AI基础设施，这一信号预示企业IT预算的更广泛转移趋势，可能给其他企业软件公司带来压力。",
-      "detailEn": "CEO Arvind Krishna attributed the shortfall mainly to weakness in IBM's software and infrastructure businesses, as clients redirected quarterly capital spending toward servers, storage and memory purchases to secure supply-constrained hardware ahead of expected price increases. Several large deals also failed to close within the expected timeline. Analysts said the warning raises fresh concern that AI-driven infrastructure demand is disrupting established software vendors' business models even as it boosts hardware and chip makers.",
-      "detailZh": "首席执行官阿尔文德·克里希纳表示，业绩不及预期主要归因于软件与基础设施业务疲软，因为客户将季度资本支出转向服务器、存储和内存芯片采购，以在预期涨价前锁定供应紧张的硬件。此外多笔大型交易未能按预期时间完成。分析师指出，此次预警加剧了市场对AI驱动的基础设施需求正在冲击传统软件厂商商业模式的担忧，即便这一趋势正提振硬件和芯片制造商的业绩。"
-    },
-    {
       "category": "国际",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+      "titleEn": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
+      "conclusionEn": "US Central Command carried out a seventh straight night of strikes on Iranian military and infrastructure targets on Saturday, while Iran fired missiles and drones at Kuwait, which intercepted the attack, as the conflict over the Strait of Hormuz escalated toward all-out war.",
+      "conclusionZh": "美伊连续七晚互袭，霍尔木兹海峡冲突全面升级。",
+      "whyEn": "The conflict has escalated for a seventh straight day since the interim ceasefire collapsed, threatening a fifth of global oil shipments through the strait and rattling energy, shipping and financial markets worldwide.",
+      "whyZh": "冲突已持续七天，威胁全球五分之一石油运输，扰动全球能源与金融市场。",
+      "detailEn": "US Central Command said its latest wave of strikes hit surveillance sites, military logistics, underground weapons storage and maritime targets in Iran, including an electricity and desalination plant in Hormozgan province near the strait. Kuwait's military said it intercepted ballistic missiles and drones launched from Iran, forcing Kuwait International Airport to briefly halt flights. The escalation follows the collapse of a mid-June ceasefire and marks the seventh consecutive night of US strikes, with no diplomatic off-ramp currently in sight. Analysts warn that further disruption to the Strait of Hormuz, which carries about a fifth of the world's oil shipments, would keep pushing energy prices higher.",
+      "detailZh": "美国中央司令部表示，最新一轮空袭打击了伊朗境内的侦察设施、军事后勤基地、地下武器库以及海上目标，包括霍尔木兹海峡附近霍尔木兹甘省的一座电力及海水淡化厂。科威特军方称拦截了源自伊朗的弹道导弹和无人机，科威特国际机场一度暂停起降。此次冲突升级发生在6月中旬停火协议破裂之后，是美国连续第七晚发动空袭，目前尚未看到外交解决的迹象。分析人士警告，若承担全球约五分之一石油运输量的霍尔木兹海峡进一步受阻，能源价格恐将持续攀升。"
+    },
+    {
+      "category": "财经",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-16/us-drivers-are-again-paying-more-than-5-a-gallon-for-diesel",
+      "titleEn": "US Drivers Are Again Paying More Than $5 a Gallon for Diesel",
+      "conclusionEn": "US diesel prices topped $5 a gallon again on Thursday for the first time in three weeks, while gasoline climbed to $3.94, as the Iran conflict and Ukrainian strikes on Russian refineries squeezed global fuel supply.",
+      "conclusionZh": "美国柴油重回每加仑5美元，汽油涨至3.94美元。",
+      "whyEn": "Rising fuel costs directly raise shipping, trucking and manufacturing expenses across the US economy, feeding back into the inflation outlook just as markets try to gauge how durable June's cooler CPI reading really is.",
+      "whyZh": "油价上涨推高运输与制造成本，或抬升未来通胀压力。",
+      "detailEn": "The national average diesel price hit $5.005 a gallon on July 15, according to AAA, driven by the surge in crude prices after the collapse of the US-Iran ceasefire reopened fears of a Strait of Hormuz disruption. Supply pressure has been compounded by Ukrainian drone strikes that have knocked out roughly 40% of Russian refining capacity, removing a major source of diesel and other refined products from world markets. Refiners' profit margins, known as crack spreads, have hit record highs as a result. Gasoline has followed diesel higher, with the national average reaching $3.94 a gallon, adding pressure on consumers and freight-dependent businesses just as the summer driving season peaks.",
+      "detailZh": "据美国汽车协会（AAA）数据，7月15日美国柴油全国平均价格达到每加仑5.005美元，主因是美伊停火协议破裂后，市场重新担忧霍尔木兹海峡运输中断，推高原油价格。乌克兰对俄罗斯炼油设施的无人机袭击进一步加剧供应紧张，已导致俄罗斯约40%的炼油产能中断，全球成品油市场因此减少了一大供应来源。受此影响，炼厂利润率（裂解价差）升至历史高位。汽油价格也随柴油走高，全国平均达每加仑3.94美元，在夏季出行高峰期给消费者和依赖货运的企业带来额外压力。"
+    },
+    {
+      "category": "科技",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/2026/07/17/china-moonshot-kimi-k3-markets-china-ai/",
+      "titleEn": "Markets experience new DeepSeek shock after Moonshot AI releases Kimi K3",
+      "conclusionEn": "Chinese startup Moonshot AI released Kimi K3, a 2.8-trillion-parameter open-weight model priced far below US rivals, triggering a global selloff that drove the Philadelphia Semiconductor Index into a bear market, down over 20% from its June peak.",
+      "conclusionZh": "月之暗面发布Kimi K3，引发全球芯片股进入熊市。",
+      "whyEn": "The release revived DeepSeek-style fears that China can build frontier-class AI models far more cheaply than assumed, calling into question the scale of AI infrastructure spending that has been propping up chip and hardware valuations.",
+      "whyZh": "市场担忧中国能以更低成本追赶AI前沿，冲击芯片股估值逻辑。",
+      "detailEn": "Kimi K3, unveiled July 16-17, is the world's largest open-weight AI model at launch and reportedly performs competitively with leading US systems on coding benchmarks, while being priced at roughly $3 per million input tokens versus premium pricing for top US models. The Philadelphia Semiconductor Index fell into bear-market territory, down more than 20% from its June high in its steepest weekly drop since April 2025, with Taiwan's market down 6% and Japan's down 4%. TSMC shares fell 7% despite reporting a 77% jump in quarterly profit, and Asian AI-linked stocks such as Z.ai and MiniMax dropped as much as 30%. Investors compared the reaction to the January 2025 DeepSeek shock, when a cheaply built Chinese model wiped hundreds of billions of dollars off Nvidia's market value in a single session.",
+      "detailZh": "Kimi K3于7月16日至17日发布，是目前全球规模最大的开放权重AI模型，据称在编程基准测试中可与美国主流模型竞争，而定价仅约每百万输入token 3美元，远低于美国头部模型的高端定价。费城半导体指数较6月高点回落超过20%，进入技术性熊市，创下2025年4月以来最大单周跌幅，台湾股市下跌6%，日本股市下跌4%。台积电股价当日下跌7%，尽管公司刚公布季度利润大增77%；智谱AI（Z.ai）、MiniMax等亚洲AI概念股跌幅一度高达30%。投资者将此次反应与2025年1月的DeepSeek冲击相提并论，当时一款低成本的中国模型曾在单日内令英伟达市值蒸发数千亿美元。"
+    },
+    {
+      "category": "科技",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+      "titleEn": "Anthropic in early talks with Meta to acquire compute power",
+      "conclusionEn": "Meta is in early talks to lease Anthropic roughly $10 billion of computing capacity over two years, as Meta builds a new cloud business to monetize excess AI infrastructure alongside existing deals worth $1.25 billion a month with Anthropic and $920 million a month with Google.",
+      "conclusionZh": "Meta据悉洽谈向Anthropic出租百亿美元算力。",
+      "whyEn": "The talks show AI labs increasingly compete for scarce compute from any available supplier, including social-media rivals, while giving Meta a path to turn its massive AI infrastructure spending into a new revenue stream beyond advertising.",
+      "whyZh": "AI公司竞相争夺算力，Meta借此拓展云计算新业务。",
+      "detailEn": "The discussions, which began after Anthropic proposed the arrangement in June, would have Anthropic make structured monthly payments to Meta over a two-year term, with both sides able to exit early. The move mirrors Anthropic's existing deal with Elon Musk's SpaceX for access to its Colossus 1 data center in Memphis, and comes as Meta develops an internal \"Meta Compute\" business to sell excess data-center capacity to rivals such as CoreWeave and Nebius. Meta already has separate compute-supply arrangements bringing in $1.25 billion a month from Anthropic and $920 million a month from Google. The talks remain preliminary and may not result in a signed deal, but they underscore how tight AI compute supply has become even for well-funded labs.",
+      "detailZh": "该谈判由Anthropic于6月提出，若达成协议，Anthropic将在两年期限内按月向Meta支付固定费用，双方均可提前终止合作。这一安排与Anthropic此前和马斯克旗下SpaceX达成的协议类似，后者允许Anthropic使用其位于孟菲斯的Colossus 1数据中心算力；同时，Meta正在打造内部「Meta Compute」业务，向CoreWeave、Nebius等竞争对手出售富余数据中心算力。据悉，Meta已有其他算力供应协议，每月从Anthropic获得12.5亿美元、从谷歌获得9.2亿美元的收入。此次谈判仍处于早期阶段，未必能达成最终协议，但已凸显即便资金雄厚的AI实验室也面临算力紧张的局面。"
+    },
+    {
+      "category": "科技",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
+      "titleEn": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%",
+      "conclusionEn": "TSMC's second-quarter net profit jumped 77% to a record NT$706.6 billion ($22 billion) on surging AI chip demand, and the company announced a further $100 billion investment in Arizona, bringing its total US commitment to $265 billion.",
+      "conclusionZh": "台积电Q2利润暴增77%，加码美国投资至2650亿美元。",
+      "whyEn": "As the world's dominant advanced-chip manufacturer, TSMC's results and expansion plans are a direct barometer of how much real revenue the AI infrastructure boom is generating versus speculative spending, moving sentiment across the entire chip supply chain.",
+      "whyZh": "台积电业绩是AI芯片真实需求的风向标，牵动全球科技供应链。",
+      "detailEn": "Revenue for the quarter rose 36% year-over-year to a record T$1.27 trillion ($39.62 billion), driven by strong demand for TSMC's 3-nanometer and 2-nanometer process nodes and its advanced CoWoS packaging technology used in AI accelerators. High-performance computing chips, which include AI processors, accounted for 66% of total revenue in the period. Despite the record beat, TSMC shares still fell 7% the same day as the broader semiconductor sector was dragged into a bear market by the Moonshot AI selloff. The company's decision to commit another $100 billion to its Arizona operations signals continued confidence in long-term AI chip demand even as near-term investor sentiment wavers.",
+      "detailZh": "台积电第二季度营收同比增长36%，达到创纪录的1.27万亿新台币（约396.2亿美元），主要受3纳米、2纳米制程及用于AI加速器的先进CoWoS封装技术强劲需求推动。高性能计算芯片（含AI处理器）在该季度贡献了66%的总营收。尽管业绩大幅超预期，台积电股价当日仍因月之暗面引发的芯片股熊市而下跌7%。公司宣布再向亚利桑那州追加投资100亿美元（其在美总投资达2650亿美元），显示其对AI芯片长期需求依然保持信心，即便短期投资者情绪出现波动。"
+    },
+    {
+      "category": "财经",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
+      "titleEn": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+      "conclusionEn": "Morgan Stanley posted record Q2 net revenue of $21.35 billion and profit of $3.46 per share, beating estimates, as equities trading revenue surged 69% to $6.3 billion amid market turbulence from the US-Iran standoff.",
+      "conclusionZh": "摩根士丹利Q2营收创纪录，股票交易收入激增69%。",
+      "whyEn": "Record trading and dealmaking revenue at a major Wall Street bank shows that market volatility from geopolitical shocks and the AI boom is translating directly into outsized profits for financial institutions, reinforcing this earnings season's strength.",
+      "whyZh": "华尔街大行业绩创纪录，显示市场波动正转化为金融业超额利润。",
+      "detailEn": "Net income applicable to the investment bank rose to $5.58 billion, or $3.46 per share, up from $3.54 billion a year earlier, comfortably beating the $2.94 per share analysts had expected. Equities trading revenue hit a record $6.3 billion as clients ramped up activity to navigate volatility from the US-Iran conflict and broader AI-driven market swings, while investment banking revenue jumped 58% to $2.44 billion on stronger IPO underwriting and M&A advisory work. The bank also crossed $10 trillion in total client assets under wealth and investment management for the first time, aided by stock-plan proceeds from employees of companies that went public during the quarter. Morgan Stanley's board raised its quarterly dividend by 15 cents to $1.15 per share.",
+      "detailZh": "摩根士丹利本季度投行部门适用净利润升至55.8亿美元，合每股3.46美元，高于去年同期的35.4亿美元，也远超分析师预期的每股2.94美元。股票交易收入创纪录达63亿美元，因客户在美伊冲突及AI驱动的市场剧烈波动中加大交易活动；投行业务收入则受IPO承销和并购顾问业务提振，同比增长58%至24.4亿美元。财富与投资管理业务的客户总资产首次突破10万亿美元，部分得益于本季度上市公司员工股票计划带来的资金流入。摩根士丹利董事会将季度股息上调15美分至每股1.15美元。"
+    },
+    {
+      "category": "财经",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+      "titleEn": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
+      "conclusionEn": "Netflix shares fell 9% and hit a 52-week low after Q2 revenue of $12.56 billion narrowly missed estimates and the company guided Q3 revenue growth to 11.7%, below the roughly 13% Wall Street had expected.",
+      "conclusionZh": "奈飞Q2指引不及预期，股价跌至52周新低。",
+      "whyEn": "A weakening growth outlook and reduced transparency on viewer engagement from the streaming pioneer raises questions about how much further Netflix can grow against competition from YouTube and TikTok, a bellwether for the broader media and advertising industry.",
+      "whyZh": "奈飞增长放缓、透明度下降，折射流媒体行业竞争加剧。",
+      "detailEn": "Netflix's Q2 net income reached $3.4 billion, or 80 cents per share, edging past the 79-cent consensus estimate, but investors focused on the softer-than-expected Q3 revenue guidance of $12.86 billion. Shares dropped 9% after hours and extended losses to a 52-week low near $67 in Friday trading, down roughly 46% over the past year. The company also said it would stop publishing its \"What We Watched\" engagement report twice a year and instead release it only annually starting in 2027, a move critics say reduces visibility into whether the platform is losing viewing time to YouTube and TikTok. Netflix executives pointed to live events and total viewing of more than 97 billion hours in the first half of the year as evidence that engagement remains healthy despite the guidance miss.",
+      "detailZh": "奈飞第二季度净利润达34亿美元，合每股0.80美元，略高于市场预期的0.79美元，但投资者更关注低于预期的第三季度营收指引（128.6亿美元）。财报公布后股价盘后下跌9%，并在周五交易中一度跌至52周新低（约67美元），过去一年累计跌幅约46%。公司还宣布将把「观看数据」报告的发布频率从半年一次改为每年一次，自2027年起执行，批评者认为此举降低了外界了解该平台观看时长是否正被YouTube、TikTok蚕食的透明度。奈飞高管则以上半年直播活动和超970亿小时的总观看时长为例，强调用户参与度依然健康，尽管指引未达预期。"
+    },
+    {
+      "category": "科技",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+      "titleEn": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+      "conclusionEn": "Anthropic, valued at $965 billion after a May funding round, has begun scheduling investor meetings with Goldman Sachs, Morgan Stanley and JPMorgan as it targets a stock market listing as soon as October, potentially beating rival OpenAI to the public markets.",
+      "conclusionZh": "Anthropic启动IPO投资者会议，估值达9650亿美元。",
+      "whyEn": "A listing of this scale by a leading AI lab would be one of the largest tech IPOs in history, testing public-market appetite for AI valuations and setting a benchmark price for the entire generative-AI industry.",
+      "whyZh": "顶级AI公司巨型IPO将检验市场对AI估值的接受度。",
+      "detailEn": "The investor meetings follow Anthropic's confidential S-1 filing with the SEC in June and come after the company closed a $65 billion funding round in May at a $965 billion valuation, surpassing OpenAI's $852 billion valuation at the time. Goldman Sachs, Morgan Stanley and JPMorgan Chase — the three largest Wall Street banks by revenue — are leading the offering. If Anthropic lists in October as planned, it would beat OpenAI, which confidentially filed for an IPO in June but has not disclosed a timeline, to the public markets. Analysts say going public first could be an advantage for Anthropic if investor enthusiasm for AI valuations cools later in the year.",
+      "detailZh": "此次投资者会议是在Anthropic于6月向美国证券交易委员会秘密提交S-1上市申请之后展开的，此前公司已于5月完成650亿美元融资，估值达9650亿美元，超过当时OpenAI的8520亿美元估值。高盛、摩根士丹利和摩根大通——按营收计的华尔街三大投行——将主导此次发行。若Anthropic如期于10月上市，将抢先于OpenAI登陆公开市场（OpenAI已于6月秘密提交上市申请，但尚未披露具体时间表）。分析人士认为，若市场对AI估值的热情在下半年降温，率先上市对Anthropic而言将是一大优势。"
+    },
+    {
+      "category": "政治",
       "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/7/13/trump-administration-vows-to-disable-international-criminal-court",
-      "titleEn": "Trump administration vows to 'disable' International Criminal Court",
-      "conclusionEn": "US Secretary of State Marco Rubio announced a sweeping 'whole-of-government' campaign to systematically disable the ICC, including sanctions, travel bans, and pressure on other nations to withdraw support and funding.",
-      "conclusionZh": "美国国务卿鲁比奥宣布发起「全政府」行动，系统性削弱国际刑事法院，包括制裁、旅行禁令，并向其他国家施压要求撤回支持与资金。",
-      "whyEn": "A major power moving to systematically dismantle an international judicial institution reshapes the landscape of international law enforcement and could trigger diplomatic friction with allied nations that continue to support the court.",
-      "whyZh": "一个主要大国系统性打压国际司法机构，将重塑国际执法格局，也可能与继续支持该法院的盟国产生外交摩擦。",
-      "detailEn": "The State Department said the ICC poses 'an intolerable threat' to US sovereignty because it claims authority to prosecute American servicemen and officials, and it vowed to pressure other countries to withdraw from the court and cut off financial support. The move follows the Trump administration's earlier sanctions against several ICC judges over investigations into US personnel, which those judges are now challenging in a lawsuit filed in June. Amnesty International and other rights groups have condemned the campaign, calling on states to resist US pressure and continue supporting the court's mandate.",
-      "detailZh": "美国国务院表示，国际刑事法院对美国主权构成「不可容忍的威胁」，因其声称拥有起诉美国军人和官员的管辖权，并誓言向其他国家施压，要求其退出该法院并切断资金支持。此举延续了特朗普政府此前对多名国际刑事法院法官的制裁（因其调查美方人员），这些法官已于6月提起诉讼反制。国际特赦组织等人权团体谴责了这一行动，呼吁各国抵制美国的压力，继续支持该法院履行职责。"
-    },
-    {
-      "category": "国际",
-      "source": "ABC News",
-      "sourceUrl": "https://abcnews.com/International/wireStory/death-toll-bangkok-bar-fire-rises-32-2-134771862",
-      "titleEn": "Death toll from Bangkok bar fire rises to 32 as 2 more die in hospital",
-      "conclusionEn": "The death toll from Sunday night's fire at the Rong Beer Na Ladprao music bar in Bangkok rose to 32 after two more injured victims died in hospital, with more than 70 people injured and 24 still in critical condition.",
-      "conclusionZh": "曼谷Rong Beer Na Ladprao音乐酒吧周日夜间火灾死亡人数升至32人，另有两名伤者在医院不治，超70人受伤，24人仍处于危重状态。",
-      "whyEn": "The rising toll from one of Thailand's deadliest nightlife venue fires is intensifying scrutiny of fire-safety enforcement at entertainment venues in a country that depends heavily on tourism revenue.",
-      "whyZh": "死亡人数持续攀升，成为泰国娱乐场所史上最致命火灾之一，促使外界加强审视这个高度依赖旅游收入的国家在娱乐场所消防安全执法上的漏洞。",
-      "detailEn": "Most of the victims were found trapped in windowless bathrooms at the back of the venue, where police believe they had fled in an attempt to escape the smoke and flames. Thai authorities say the cause of the fire, which broke out late Sunday night, remains under investigation, with earlier reports pointing to a circuit breaker malfunction near the stage. Dozens of the injured remain hospitalized, and the Bangkok Metropolitan Administration said the death toll could still rise further as some patients remain in critical condition.",
-      "detailZh": "多数遇难者是在场馆后方没有窗户的洗手间内被发现的，警方认为他们当时试图借此躲避浓烟和火势。泰国当局表示，这场周日深夜发生的火灾起因仍在调查中，早前报道指向舞台附近的断路器故障。数十名伤者仍在住院治疗，曼谷市政府表示，由于部分患者仍处于危重状态，死亡人数可能进一步上升。"
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm",
+      "titleEn": "Burnham confirmed as leader of UK's governing Labour Party, headed for PM",
+      "conclusionEn": "Andy Burnham was confirmed as leader of Britain's Labour Party on Friday and is set to be appointed prime minister on Monday, succeeding Keir Starmer as the UK's seventh prime minister in a decade.",
+      "conclusionZh": "伯纳姆将接任英国首相，成十年内第七位。",
+      "whyEn": "A change in UK leadership shapes the country's fiscal, trade and regulatory policy at a time of economic strain, directly affecting businesses and markets exposed to British policy and the pound.",
+      "whyZh": "英国换相将影响财政、贸易政策及英镑走势。",
+      "detailEn": "Burnham, the former mayor of Greater Manchester and a figure on Labour's left, won the party leadership contest after Starmer stepped down in June under pressure from MPs concerned about poor local election results and the rising popularity of Reform UK. In his acceptance speech, Burnham pledged to put the cost-of-living crisis \"front and centre of government\" and promised the \"biggest rebalancing\" of power away from central government in modern British history; he has also said he will drop the previous government's digital ID scheme. His appointment on Monday will make him Britain's seventh prime minister in the past decade, extending a period of political turnover unmatched in nearly two centuries.",
+      "detailZh": "伯纳姆是大曼彻斯特地区前市长，属于工党左翼人物。此前，斯塔默因地方选举表现不佳及英国改革党声势上升，在党内议员压力下于6月辞职，伯纳姆随后在党魁选举中胜出。他在当选演说中承诺将生活成本危机「置于政府工作的核心」，并誓言推动英国现代史上「最大规模」的权力下放；他还表示将取消前政府的数字身份证计划。伯纳姆将于周一正式就任，成为英国过去十年间第七位首相，延续着英国近两百年来最频繁的政坛更迭。"
     }
   ],
   "businessTips": [
     {
-      "term": "Second-Order Thinking",
+      "term": "Vertical Integration",
       "category": "通用商业",
-      "explanationEn": "Second-order thinking means asking not just \"what happens next\" but \"and then what happens after that\" before making a decision — considering the consequences of the consequences, not just the immediate, obvious effect. Most people stop at first-order thinking, which looks appealing in isolation but can trigger reactions, side effects, or feedback loops that undo the initial benefit. Skilled strategists and operators train themselves to map out at least two or three moves ahead before committing to a plan.",
-      "explanationZh": "二阶思维是指做决策前不仅问「接下来会发生什么」，还要追问「那之后又会发生什么」——考虑后果的后果，而不仅是最直接、最显而易见的影响。多数人只停留在一阶思维，这类决策单独看似不错，却可能引发连锁反应、副作用或反馈循环，最终抵消最初的好处。优秀的战略家和管理者会训练自己在做出决定前至少推演两到三步。",
-      "exampleEn": "A company cuts prices to win market share — the first-order effect looks great, more customers sign up. But competitors match the cut, margins across the industry collapse, and the company ends up with the same market share but far less profit, the second-order effect that undoes the initial win.",
-      "exampleZh": "一家公司降价以争夺市场份额——一阶效果看起来不错，客户明显增多。但竞争对手随即跟进降价，全行业利润率崩溃，最终该公司市场份额没变，利润却大幅缩水，这就是抵消了最初收益的二阶效果。"
+      "explanationEn": "Vertical integration is when a company expands into stages of its supply chain it previously didn't control — either upstream toward raw materials and infrastructure, or downstream toward distribution and customers. The goal is usually to capture margin that used to go to suppliers or partners, secure access to scarce inputs, and reduce dependency on external vendors who could raise prices or cut off supply. The tradeoff is that it requires large capital investment and new operating expertise outside the company's core competency, and it can be slow to unwind if market conditions shift.",
+      "explanationZh": "垂直整合是指企业向此前不掌控的供应链环节扩张——可能是向上游延伸至原材料和基础设施，也可能是向下游延伸至分销和客户端。其目的通常是夺取原本流向供应商或合作伙伴的利润、确保获取稀缺资源的渠道，并降低对可能涨价或断供的外部供应商的依赖。代价是需要大量资本投入，以及超出企业核心能力范围的新运营专长，一旦市场环境变化，也很难快速退出。",
+      "exampleEn": "Meta building an internal \"Meta Compute\" cloud business to sell its own excess AI infrastructure — rather than just buying chips and renting cloud capacity from others — is a form of vertical integration, letting it capture revenue that would otherwise go to cloud providers like AWS or CoreWeave.",
+      "exampleZh": "Meta打造内部「Meta Compute」云计算业务，出售自身富余的AI基础设施，而不只是采购芯片、向他人租用云算力，这正是垂直整合的体现，让公司能够获取原本流向AWS、CoreWeave等云服务商的收入。"
     },
     {
-      "term": "Productized Service",
+      "term": "Customer Acquisition Cost (CAC)",
       "category": "创业副业",
-      "explanationEn": "A productized service packages a consulting or freelance offering into a fixed scope, fixed price, and fixed timeline — like a product — instead of selling open-ended hourly work. This makes the offer easier for customers to understand and buy, lets the founder systemize delivery and eventually delegate it, and removes the income ceiling that comes from trading hours for dollars. It's a common way for consultants and side-hustlers to scale into a real business without hiring a large team.",
-      "explanationZh": "产品化服务是把咨询或自由职业的服务打包成固定范围、固定价格、固定周期的「产品」，而不是按小时收费的无限期服务。这让客户更容易理解和购买，也让创始人能把交付流程标准化、日后外包给他人执行，从而摆脱「拿时间换钱」的收入天花板。这是许多顾问和副业者把业务发展成真正生意的常见路径，且不需要组建庞大团队。",
-      "exampleEn": "Instead of offering open-ended \"social media consulting\" billed hourly, a freelancer creates a fixed $1,500 \"30-Day Content Audit\" package with a defined deliverable, which she can sell repeatedly, systemize with a checklist, and eventually have an assistant partially execute.",
-      "exampleZh": "一位自由职业者没有按小时收费提供无边界的「社交媒体咨询」，而是推出固定价格1500美元的「30天内容诊断」套餐，交付内容明确，可以反复销售、用清单标准化流程，日后甚至能让助理部分代为执行。"
+      "explanationEn": "Customer acquisition cost is the total sales and marketing spend divided by the number of new customers gained in a given period — it tells a founder exactly how much it costs to win one paying customer. A side hustle or startup only becomes sustainable when CAC is comfortably lower than the lifetime value of a customer (what they'll spend over their entire relationship with the business), typically with a target ratio of at least 3:1. Tracking CAC early prevents founders from scaling a marketing channel that looks like it's growing revenue but is actually losing money on every new customer.",
+      "explanationZh": "获客成本是指某段时期内的销售与营销总支出除以新增客户数，它能精确告诉创始人获得一位付费客户需要花多少钱。副业或创业项目只有当获客成本明显低于客户终身价值（客户在与企业整个关系周期内的总消费）时才具备可持续性，通常目标比例至少是1:3。及早追踪获客成本，能避免创始人盲目扩张一个看似在增加营收、实则每获得一位新客户都在亏钱的营销渠道。",
+      "exampleEn": "A side-hustle founder spends $500 on ads and gains 10 new subscribers to a $20/month product — a CAC of $50 per customer. If those customers typically stay for only two months (a $40 lifetime value), the channel is actually losing money and should be paused rather than scaled.",
+      "exampleZh": "一位副业创始人花500美元投放广告，获得10位每月付费20美元产品的新订阅用户，获客成本为每位50美元。如果这些客户平均只留存两个月（终身价值仅40美元），这个渠道实际上是在亏钱，应该暂停而不是加大投入。"
     },
     {
-      "term": "Risk Premium",
+      "term": "Bear Market",
       "category": "投资金融",
-      "explanationEn": "Risk premium is the extra return investors demand for holding a risky asset instead of a safe one like a US Treasury bond — it compensates them for uncertainty about whether they'll actually get their money back. When geopolitical tensions or economic uncertainty rise, investors demand a bigger risk premium, which shows up as higher borrowing costs for risky assets, wider bond spreads, and lower valuations for stocks. Watching how risk premiums move helps investors gauge how nervous the market really is beneath the daily price swings.",
-      "explanationZh": "风险溢价是投资者为持有风险资产（相对于美国国债等安全资产）而要求的额外回报，用来补偿本金能否收回的不确定性。当地缘政治紧张或经济不确定性上升时，投资者会要求更高的风险溢价，这体现为风险资产借贷成本上升、债券利差扩大、股票估值下降。观察风险溢价的变化，能帮助投资者判断市场在日常价格波动背后究竟有多紧张。",
-      "exampleEn": "This week's Hormuz-driven oil spike is a textbook risk premium event: crude jumped not because global oil supply had actually shrunk yet, but because traders priced in the risk that it might, demanding compensation for that uncertainty before it even materializes.",
-      "exampleZh": "本周因霍尔木兹海峡局势引发的油价飙升就是典型的风险溢价事件：原油价格上涨并非因为全球供应已经实际减少，而是交易员为「未来可能减少」的风险提前定价，要求获得相应补偿。"
+      "explanationEn": "A bear market is conventionally defined as a decline of 20% or more from a recent peak in a stock, index or sector, distinguishing it from an ordinary pullback or correction (typically defined as a 10-19% drop). Bear markets can be broad, covering the entire market, or narrow, hitting just one sector while the rest of the market holds up — both still signal that investor confidence in that segment has deteriorated sharply. Understanding which kind you're in matters for strategy: a sector-specific bear market driven by a single news event behaves very differently than a broad, economy-wide one driven by recession fears.",
+      "explanationZh": "熊市通常是指某只股票、指数或行业板块较近期高点下跌20%或以上，以此区别于普通回调（一般指下跌10%-19%）。熊市可能是全面性的，覆盖整个市场；也可能是局部性的，仅冲击某一板块而其他市场表现平稳——但两者都意味着投资者对该领域的信心已明显恶化。分清自己所处的是哪一种熊市对制定策略很重要：由单一新闻事件引发的板块性熊市，与由经济衰退担忧驱动的全局性熊市，走势逻辑截然不同。",
+      "exampleEn": "This week's Philadelphia Semiconductor Index drop of more than 20% from its June peak, triggered specifically by Moonshot AI's Kimi K3 release, is a sector-specific bear market — it doesn't necessarily mean the broader S&P 500 or the overall economy is in trouble.",
+      "exampleZh": "本周费城半导体指数较6月高点下跌超过20%，直接由月之暗面发布Kimi K3引发，这是一次板块性熊市——并不意味着标普500指数或整体经济也陷入了麻烦。"
     }
   ]
 }
