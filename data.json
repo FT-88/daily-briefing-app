@@ -1,140 +1,116 @@
 {
-  "date": "2026-07-19",
-  "updatedAt": "2026-07-19T13:24:59+08:00",
+  "date": "2026-07-20",
+  "updatedAt": "2026-07-20T12:30:00+08:00",
   "news": [
     {
       "category": "国际",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
-      "titleEn": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
-      "conclusionEn": "US Central Command carried out a seventh straight night of strikes on Iranian military and infrastructure targets on Saturday, while Iran fired missiles and drones at Kuwait, which intercepted the attack, as the conflict over the Strait of Hormuz escalated toward all-out war.",
-      "conclusionZh": "美伊连续七晚互袭，霍尔木兹海峡冲突全面升级。",
-      "whyEn": "The conflict has escalated for a seventh straight day since the interim ceasefire collapsed, threatening a fifth of global oil shipments through the strait and rattling energy, shipping and financial markets worldwide.",
-      "whyZh": "冲突已持续七天，威胁全球五分之一石油运输，扰动全球能源与金融市场。",
-      "detailEn": "US Central Command said its latest wave of strikes hit surveillance sites, military logistics, underground weapons storage and maritime targets in Iran, including an electricity and desalination plant in Hormozgan province near the strait. Kuwait's military said it intercepted ballistic missiles and drones launched from Iran, forcing Kuwait International Airport to briefly halt flights. The escalation follows the collapse of a mid-June ceasefire and marks the seventh consecutive night of US strikes, with no diplomatic off-ramp currently in sight. Analysts warn that further disruption to the Strait of Hormuz, which carries about a fifth of the world's oil shipments, would keep pushing energy prices higher.",
-      "detailZh": "美国中央司令部表示，最新一轮空袭打击了伊朗境内的侦察设施、军事后勤基地、地下武器库以及海上目标，包括霍尔木兹海峡附近霍尔木兹甘省的一座电力及海水淡化厂。科威特军方称拦截了源自伊朗的弹道导弹和无人机，科威特国际机场一度暂停起降。此次冲突升级发生在6月中旬停火协议破裂之后，是美国连续第七晚发动空袭，目前尚未看到外交解决的迹象。分析人士警告，若承担全球约五分之一石油运输量的霍尔木兹海峡进一步受阻，能源价格恐将持续攀升。"
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies",
+      "titleEn": "Iran suggests MoU 'suspended' as 50 killed in US strikes in July",
+      "conclusionEn": "Iran says the June ceasefire memorandum with the US is effectively dead after US strikes hit civilian infrastructure including a desalination plant, killing at least 50 people and wounding over 500 since July 6.",
+      "conclusionZh": "伊朗称美伊停火协议名存实亡，本月空袭已致50人死亡。",
+      "whyEn": "Both sides now accuse each other of violating safe-passage guarantees through the Strait of Hormuz, a route carrying about a fifth of global oil shipments, keeping energy markets on edge.",
+      "whyZh": "双方互指违反霍尔木兹海峡安全通行协议，全球能源市场持续承压。",
+      "detailEn": "Iran's health ministry reported that US strikes since July 6 have hit a seawater pumping station and power transformer at the Bunji desalination plant, bridges, rail lines and weapons depots, leaving thousands without water. Iran's deputy foreign minister said Washington had 'violated and suspended all its commitments' under the Islamabad memorandum signed in June, and Tehran has reciprocally suspended its own. President Trump reimposed a naval blockade on Iranian ports and revoked oil-export sanction waivers after Iranian tanker attacks. Both governments now accuse each other of breaching commitments to keep the Strait of Hormuz open to commercial shipping, with no diplomatic off-ramp currently visible.",
+      "detailZh": "伊朗卫生部称，美国自7月6日以来的空袭已击中Bunji海水淡化厂的抽水站和变压器、桥梁、铁路及武器库，导致大量民众断水。伊朗副外长表示，华盛顿已\"违反并中止其在6月签署的伊斯兰堡备忘录中的全部承诺\"，德黑兰也相应中止了自身承诺。特朗普总统在伊朗袭击油轮后重新对伊朗港口实施海军封锁，并撤销了石油出口制裁豁免。目前双方均指责对方违反了保持霍尔木兹海峡商船通行安全的承诺，尚未看到外交解决的迹象。"
     },
     {
       "category": "财经",
       "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-16/us-drivers-are-again-paying-more-than-5-a-gallon-for-diesel",
-      "titleEn": "US Drivers Are Again Paying More Than $5 a Gallon for Diesel",
-      "conclusionEn": "US diesel prices topped $5 a gallon again on Thursday for the first time in three weeks, while gasoline climbed to $3.94, as the Iran conflict and Ukrainian strikes on Russian refineries squeezed global fuel supply.",
-      "conclusionZh": "美国柴油重回每加仑5美元，汽油涨至3.94美元。",
-      "whyEn": "Rising fuel costs directly raise shipping, trucking and manufacturing expenses across the US economy, feeding back into the inflation outlook just as markets try to gauge how durable June's cooler CPI reading really is.",
-      "whyZh": "油价上涨推高运输与制造成本，或抬升未来通胀压力。",
-      "detailEn": "The national average diesel price hit $5.005 a gallon on July 15, according to AAA, driven by the surge in crude prices after the collapse of the US-Iran ceasefire reopened fears of a Strait of Hormuz disruption. Supply pressure has been compounded by Ukrainian drone strikes that have knocked out roughly 40% of Russian refining capacity, removing a major source of diesel and other refined products from world markets. Refiners' profit margins, known as crack spreads, have hit record highs as a result. Gasoline has followed diesel higher, with the national average reaching $3.94 a gallon, adding pressure on consumers and freight-dependent businesses just as the summer driving season peaks.",
-      "detailZh": "据美国汽车协会（AAA）数据，7月15日美国柴油全国平均价格达到每加仑5.005美元，主因是美伊停火协议破裂后，市场重新担忧霍尔木兹海峡运输中断，推高原油价格。乌克兰对俄罗斯炼油设施的无人机袭击进一步加剧供应紧张，已导致俄罗斯约40%的炼油产能中断，全球成品油市场因此减少了一大供应来源。受此影响，炼厂利润率（裂解价差）升至历史高位。汽油价格也随柴油走高，全国平均达每加仑3.94美元，在夏季出行高峰期给消费者和依赖货运的企业带来额外压力。"
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-19/latest-oil-market-news-and-analysis-for-july-20",
+      "titleEn": "Brent Oil Tops $90 as Middle East Attacks Threaten Hormuz Flows",
+      "conclusionEn": "Brent crude jumped nearly 4% to above $90 a barrel, its highest since mid-June, after the US and Iran escalated strikes on vessels and infrastructure near the Strait of Hormuz over the weekend.",
+      "conclusionZh": "布伦特原油涨破90美元，为六月中旬以来最高。",
+      "whyEn": "Higher crude prices raise fuel, shipping and manufacturing costs worldwide and complicate central banks' efforts to bring inflation down just as growth outlooks are already fragile.",
+      "whyZh": "油价上涨推高全球运输与制造成本，加大各国央行抗通胀难度。",
+      "detailEn": "The rally followed attacks on vessels attempting to transit the Strait of Hormuz and a strike on a key oil facility in Kuwait, with Iran saying its ceasefire with the US had effectively collapsed. The strait carries roughly a fifth of global oil shipments, and traders are pricing in a growing risk of prolonged disruption. US Energy Secretary Chris Wright said around two-thirds of pre-conflict traffic, about 14 million barrels a day, is still moving through the strait despite the fighting. Analysts warn that further escalation could push oil prices significantly higher heading into peak summer demand season.",
+      "detailZh": "此次上涨源于有船只在试图通过霍尔木兹海峡时遭到袭击，以及科威特一处重要石油设施被击中，伊朗表示与美国的停火已实质性破裂。该海峡承担全球约五分之一的石油运输量，交易员正为长期中断风险定价。美国能源部长赖特表示，尽管冲突持续，目前仍有约相当于冲突前三分之二的运量（约每日1400万桶）经海峡运输。分析人士警告，若局势进一步升级，在夏季用油高峰期油价可能大幅走高。"
     },
     {
       "category": "科技",
-      "source": "Fortune",
-      "sourceUrl": "https://fortune.com/2026/07/17/china-moonshot-kimi-k3-markets-china-ai/",
-      "titleEn": "Markets experience new DeepSeek shock after Moonshot AI releases Kimi K3",
-      "conclusionEn": "Chinese startup Moonshot AI released Kimi K3, a 2.8-trillion-parameter open-weight model priced far below US rivals, triggering a global selloff that drove the Philadelphia Semiconductor Index into a bear market, down over 20% from its June peak.",
-      "conclusionZh": "月之暗面发布Kimi K3，引发全球芯片股进入熊市。",
-      "whyEn": "The release revived DeepSeek-style fears that China can build frontier-class AI models far more cheaply than assumed, calling into question the scale of AI infrastructure spending that has been propping up chip and hardware valuations.",
-      "whyZh": "市场担忧中国能以更低成本追赶AI前沿，冲击芯片股估值逻辑。",
-      "detailEn": "Kimi K3, unveiled July 16-17, is the world's largest open-weight AI model at launch and reportedly performs competitively with leading US systems on coding benchmarks, while being priced at roughly $3 per million input tokens versus premium pricing for top US models. The Philadelphia Semiconductor Index fell into bear-market territory, down more than 20% from its June high in its steepest weekly drop since April 2025, with Taiwan's market down 6% and Japan's down 4%. TSMC shares fell 7% despite reporting a 77% jump in quarterly profit, and Asian AI-linked stocks such as Z.ai and MiniMax dropped as much as 30%. Investors compared the reaction to the January 2025 DeepSeek shock, when a cheaply built Chinese model wiped hundreds of billions of dollars off Nvidia's market value in a single session.",
-      "detailZh": "Kimi K3于7月16日至17日发布，是目前全球规模最大的开放权重AI模型，据称在编程基准测试中可与美国主流模型竞争，而定价仅约每百万输入token 3美元，远低于美国头部模型的高端定价。费城半导体指数较6月高点回落超过20%，进入技术性熊市，创下2025年4月以来最大单周跌幅，台湾股市下跌6%，日本股市下跌4%。台积电股价当日下跌7%，尽管公司刚公布季度利润大增77%；智谱AI（Z.ai）、MiniMax等亚洲AI概念股跌幅一度高达30%。投资者将此次反应与2025年1月的DeepSeek冲击相提并论，当时一款低成本的中国模型曾在单日内令英伟达市值蒸发数千亿美元。"
-    },
-    {
-      "category": "科技",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
-      "titleEn": "Anthropic in early talks with Meta to acquire compute power",
-      "conclusionEn": "Meta is in early talks to lease Anthropic roughly $10 billion of computing capacity over two years, as Meta builds a new cloud business to monetize excess AI infrastructure alongside existing deals worth $1.25 billion a month with Anthropic and $920 million a month with Google.",
-      "conclusionZh": "Meta据悉洽谈向Anthropic出租百亿美元算力。",
-      "whyEn": "The talks show AI labs increasingly compete for scarce compute from any available supplier, including social-media rivals, while giving Meta a path to turn its massive AI infrastructure spending into a new revenue stream beyond advertising.",
-      "whyZh": "AI公司竞相争夺算力，Meta借此拓展云计算新业务。",
-      "detailEn": "The discussions, which began after Anthropic proposed the arrangement in June, would have Anthropic make structured monthly payments to Meta over a two-year term, with both sides able to exit early. The move mirrors Anthropic's existing deal with Elon Musk's SpaceX for access to its Colossus 1 data center in Memphis, and comes as Meta develops an internal \"Meta Compute\" business to sell excess data-center capacity to rivals such as CoreWeave and Nebius. Meta already has separate compute-supply arrangements bringing in $1.25 billion a month from Anthropic and $920 million a month from Google. The talks remain preliminary and may not result in a signed deal, but they underscore how tight AI compute supply has become even for well-funded labs.",
-      "detailZh": "该谈判由Anthropic于6月提出，若达成协议，Anthropic将在两年期限内按月向Meta支付固定费用，双方均可提前终止合作。这一安排与Anthropic此前和马斯克旗下SpaceX达成的协议类似，后者允许Anthropic使用其位于孟菲斯的Colossus 1数据中心算力；同时，Meta正在打造内部「Meta Compute」业务，向CoreWeave、Nebius等竞争对手出售富余数据中心算力。据悉，Meta已有其他算力供应协议，每月从Anthropic获得12.5亿美元、从谷歌获得9.2亿美元的收入。此次谈判仍处于早期阶段，未必能达成最终协议，但已凸显即便资金雄厚的AI实验室也面临算力紧张的局面。"
-    },
-    {
-      "category": "科技",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
-      "titleEn": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%",
-      "conclusionEn": "TSMC's second-quarter net profit jumped 77% to a record NT$706.6 billion ($22 billion) on surging AI chip demand, and the company announced a further $100 billion investment in Arizona, bringing its total US commitment to $265 billion.",
-      "conclusionZh": "台积电Q2利润暴增77%，加码美国投资至2650亿美元。",
-      "whyEn": "As the world's dominant advanced-chip manufacturer, TSMC's results and expansion plans are a direct barometer of how much real revenue the AI infrastructure boom is generating versus speculative spending, moving sentiment across the entire chip supply chain.",
-      "whyZh": "台积电业绩是AI芯片真实需求的风向标，牵动全球科技供应链。",
-      "detailEn": "Revenue for the quarter rose 36% year-over-year to a record T$1.27 trillion ($39.62 billion), driven by strong demand for TSMC's 3-nanometer and 2-nanometer process nodes and its advanced CoWoS packaging technology used in AI accelerators. High-performance computing chips, which include AI processors, accounted for 66% of total revenue in the period. Despite the record beat, TSMC shares still fell 7% the same day as the broader semiconductor sector was dragged into a bear market by the Moonshot AI selloff. The company's decision to commit another $100 billion to its Arizona operations signals continued confidence in long-term AI chip demand even as near-term investor sentiment wavers.",
-      "detailZh": "台积电第二季度营收同比增长36%，达到创纪录的1.27万亿新台币（约396.2亿美元），主要受3纳米、2纳米制程及用于AI加速器的先进CoWoS封装技术强劲需求推动。高性能计算芯片（含AI处理器）在该季度贡献了66%的总营收。尽管业绩大幅超预期，台积电股价当日仍因月之暗面引发的芯片股熊市而下跌7%。公司宣布再向亚利桑那州追加投资100亿美元（其在美总投资达2650亿美元），显示其对AI芯片长期需求依然保持信心，即便短期投资者情绪出现波动。"
-    },
-    {
-      "category": "财经",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
-      "titleEn": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
-      "conclusionEn": "Morgan Stanley posted record Q2 net revenue of $21.35 billion and profit of $3.46 per share, beating estimates, as equities trading revenue surged 69% to $6.3 billion amid market turbulence from the US-Iran standoff.",
-      "conclusionZh": "摩根士丹利Q2营收创纪录，股票交易收入激增69%。",
-      "whyEn": "Record trading and dealmaking revenue at a major Wall Street bank shows that market volatility from geopolitical shocks and the AI boom is translating directly into outsized profits for financial institutions, reinforcing this earnings season's strength.",
-      "whyZh": "华尔街大行业绩创纪录，显示市场波动正转化为金融业超额利润。",
-      "detailEn": "Net income applicable to the investment bank rose to $5.58 billion, or $3.46 per share, up from $3.54 billion a year earlier, comfortably beating the $2.94 per share analysts had expected. Equities trading revenue hit a record $6.3 billion as clients ramped up activity to navigate volatility from the US-Iran conflict and broader AI-driven market swings, while investment banking revenue jumped 58% to $2.44 billion on stronger IPO underwriting and M&A advisory work. The bank also crossed $10 trillion in total client assets under wealth and investment management for the first time, aided by stock-plan proceeds from employees of companies that went public during the quarter. Morgan Stanley's board raised its quarterly dividend by 15 cents to $1.15 per share.",
-      "detailZh": "摩根士丹利本季度投行部门适用净利润升至55.8亿美元，合每股3.46美元，高于去年同期的35.4亿美元，也远超分析师预期的每股2.94美元。股票交易收入创纪录达63亿美元，因客户在美伊冲突及AI驱动的市场剧烈波动中加大交易活动；投行业务收入则受IPO承销和并购顾问业务提振，同比增长58%至24.4亿美元。财富与投资管理业务的客户总资产首次突破10万亿美元，部分得益于本季度上市公司员工股票计划带来的资金流入。摩根士丹利董事会将季度股息上调15美分至每股1.15美元。"
-    },
-    {
-      "category": "财经",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-      "titleEn": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
-      "conclusionEn": "Netflix shares fell 9% and hit a 52-week low after Q2 revenue of $12.56 billion narrowly missed estimates and the company guided Q3 revenue growth to 11.7%, below the roughly 13% Wall Street had expected.",
-      "conclusionZh": "奈飞Q2指引不及预期，股价跌至52周新低。",
-      "whyEn": "A weakening growth outlook and reduced transparency on viewer engagement from the streaming pioneer raises questions about how much further Netflix can grow against competition from YouTube and TikTok, a bellwether for the broader media and advertising industry.",
-      "whyZh": "奈飞增长放缓、透明度下降，折射流媒体行业竞争加剧。",
-      "detailEn": "Netflix's Q2 net income reached $3.4 billion, or 80 cents per share, edging past the 79-cent consensus estimate, but investors focused on the softer-than-expected Q3 revenue guidance of $12.86 billion. Shares dropped 9% after hours and extended losses to a 52-week low near $67 in Friday trading, down roughly 46% over the past year. The company also said it would stop publishing its \"What We Watched\" engagement report twice a year and instead release it only annually starting in 2027, a move critics say reduces visibility into whether the platform is losing viewing time to YouTube and TikTok. Netflix executives pointed to live events and total viewing of more than 97 billion hours in the first half of the year as evidence that engagement remains healthy despite the guidance miss.",
-      "detailZh": "奈飞第二季度净利润达34亿美元，合每股0.80美元，略高于市场预期的0.79美元，但投资者更关注低于预期的第三季度营收指引（128.6亿美元）。财报公布后股价盘后下跌9%，并在周五交易中一度跌至52周新低（约67美元），过去一年累计跌幅约46%。公司还宣布将把「观看数据」报告的发布频率从半年一次改为每年一次，自2027年起执行，批评者认为此举降低了外界了解该平台观看时长是否正被YouTube、TikTok蚕食的透明度。奈飞高管则以上半年直播活动和超970亿小时的总观看时长为例，强调用户参与度依然健康，尽管指引未达预期。"
-    },
-    {
-      "category": "科技",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
-      "titleEn": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
-      "conclusionEn": "Anthropic, valued at $965 billion after a May funding round, has begun scheduling investor meetings with Goldman Sachs, Morgan Stanley and JPMorgan as it targets a stock market listing as soon as October, potentially beating rival OpenAI to the public markets.",
-      "conclusionZh": "Anthropic启动IPO投资者会议，估值达9650亿美元。",
-      "whyEn": "A listing of this scale by a leading AI lab would be one of the largest tech IPOs in history, testing public-market appetite for AI valuations and setting a benchmark price for the entire generative-AI industry.",
-      "whyZh": "顶级AI公司巨型IPO将检验市场对AI估值的接受度。",
-      "detailEn": "The investor meetings follow Anthropic's confidential S-1 filing with the SEC in June and come after the company closed a $65 billion funding round in May at a $965 billion valuation, surpassing OpenAI's $852 billion valuation at the time. Goldman Sachs, Morgan Stanley and JPMorgan Chase — the three largest Wall Street banks by revenue — are leading the offering. If Anthropic lists in October as planned, it would beat OpenAI, which confidentially filed for an IPO in June but has not disclosed a timeline, to the public markets. Analysts say going public first could be an advantage for Anthropic if investor enthusiasm for AI valuations cools later in the year.",
-      "detailZh": "此次投资者会议是在Anthropic于6月向美国证券交易委员会秘密提交S-1上市申请之后展开的，此前公司已于5月完成650亿美元融资，估值达9650亿美元，超过当时OpenAI的8520亿美元估值。高盛、摩根士丹利和摩根大通——按营收计的华尔街三大投行——将主导此次发行。若Anthropic如期于10月上市，将抢先于OpenAI登陆公开市场（OpenAI已于6月秘密提交上市申请，但尚未披露具体时间表）。分析人士认为，若市场对AI估值的热情在下半年降温，率先上市对Anthropic而言将是一大优势。"
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/chips-stocks-tumble-into-bear-market-as-105-ai-rally-fizzles",
+      "titleEn": "Chip Stocks Tumble Into Bear Market as 105% AI Rally Fizzles",
+      "conclusionEn": "Global chip stocks have erased about $3.3 trillion in market value since June 22, with the Philadelphia Semiconductor Index confirming a bear market after falling more than 20% from its June record.",
+      "conclusionZh": "全球芯片股市值蒸发3.3万亿美元，正式进入熊市。",
+      "whyEn": "The selloff signals investors are questioning whether record AI infrastructure spending can keep justifying elevated valuations, a shift that could ripple through tech-heavy indexes and retirement portfolios worldwide.",
+      "whyZh": "投资者开始质疑AI基建投入能否支撑高估值，冲击全球科技股。",
+      "detailEn": "The Philadelphia SE Semiconductor Index (SOX) sank about 10% last week, its steepest weekly drop in over a year, closing more than 20% below its late-June peak of 14,655 points. Sentiment was hit hard by the debut of Kimi K3, a large open-weight AI model from Chinese startup Moonshot AI priced far below leading US systems, which revived fears that China can build competitive AI cheaply. Memory-chip makers Micron, Samsung and SK Hynix were dragged into their own bear market, with Micron down roughly 30% from its high even as AI demand remains strong. Analysts are split between calling this a healthy 'mid-cycle reset' and a warning sign that the AI capex boom is overextended.",
+      "detailZh": "费城半导体指数（SOX）上周下跌约10%，创一年多来最大单周跌幅，较6月末14655点的高点回落超过20%，正式进入技术性熊市。中国创业公司月之暗面发布的开放权重大模型Kimi K3定价远低于美国主流模型，重燃了市场对中国能以更低成本打造有竞争力AI的担忧，拖累市场情绪。美光、三星、SK海力士等存储芯片厂商也被拖入各自的熊市，美光股价较高点回落约30%，尽管AI需求依然强劲。分析师对此看法分歧：一方认为这是健康的\"周期中段调整\"，另一方则担忧AI资本开支热潮已经过度。"
     },
     {
       "category": "政治",
+      "source": "CBS News",
+      "sourceUrl": "https://www.cbsnews.com/news/andy-burnham-uk-prime-minister-labour-party-leader/",
+      "titleEn": "Andy Burnham to become UK's prime minister after being declared Labour Party leader",
+      "conclusionEn": "Andy Burnham, the former mayor of Greater Manchester, is being installed as the UK's new prime minister, succeeding Keir Starmer after being declared Labour Party leader with near-unanimous support.",
+      "conclusionZh": "前曼彻斯特市长伯纳姆接任英国首相，接替斯塔默。",
+      "whyEn": "The leadership change follows a Labour party crisis after poor local election results, and Burnham's left-leaning, anti-austerity platform signals a potential shift in UK economic and housing policy.",
+      "whyZh": "工党换帅或预示英国经济、住房政策转向左翼路线。",
+      "detailEn": "Burnham was declared Labour leader on Friday after securing nominations from 379 of the party's 403 MPs, running effectively unopposed following Starmer's resignation announcement in June amid a party leadership crisis triggered by poor May local election results. Starmer formally resigns to King Charles III, who then invites Burnham to form a government, making him Britain's seventh prime minister in a decade. Burnham, largely unknown outside his home region, has pledged to make the cost-of-living crisis 'front and centre of government' and to pursue the 'biggest rebalancing' of power away from Westminster in modern British history. He has also criticized Donald Trump for bringing 'instability' to global politics.",
+      "detailZh": "伯纳姆在获得工党403名议员中379人的提名支持后，于上周五被正式确认为工党党魁，此前斯塔默因5月地方选举失利引发的党内危机于6月宣布辞职，伯纳姆此次几乎是在无对手情况下当选。斯塔默将正式向查尔斯三世国王递交辞呈，随后国王将邀请伯纳姆组建政府，使其成为英国十年内的第七位首相。此前长期担任大曼彻斯特市长、在英国其他地区知名度不高的伯纳姆承诺将\"把生活成本危机置于政府工作核心\"，并推动英国现代史上\"最大规模的权力下放\"。他此前还批评特朗普给全球政治带来了\"不稳定性\"。"
+    },
+    {
+      "category": "国际",
       "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm",
-      "titleEn": "Burnham confirmed as leader of UK's governing Labour Party, headed for PM",
-      "conclusionEn": "Andy Burnham was confirmed as leader of Britain's Labour Party on Friday and is set to be appointed prime minister on Monday, succeeding Keir Starmer as the UK's seventh prime minister in a decade.",
-      "conclusionZh": "伯纳姆将接任英国首相，成十年内第七位。",
-      "whyEn": "A change in UK leadership shapes the country's fiscal, trade and regulatory policy at a time of economic strain, directly affecting businesses and markets exposed to British policy and the pound.",
-      "whyZh": "英国换相将影响财政、贸易政策及英镑走势。",
-      "detailEn": "Burnham, the former mayor of Greater Manchester and a figure on Labour's left, won the party leadership contest after Starmer stepped down in June under pressure from MPs concerned about poor local election results and the rising popularity of Reform UK. In his acceptance speech, Burnham pledged to put the cost-of-living crisis \"front and centre of government\" and promised the \"biggest rebalancing\" of power away from central government in modern British history; he has also said he will drop the previous government's digital ID scheme. His appointment on Monday will make him Britain's seventh prime minister in the past decade, extending a period of political turnover unmatched in nearly two centuries.",
-      "detailZh": "伯纳姆是大曼彻斯特地区前市长，属于工党左翼人物。此前，斯塔默因地方选举表现不佳及英国改革党声势上升，在党内议员压力下于6月辞职，伯纳姆随后在党魁选举中胜出。他在当选演说中承诺将生活成本危机「置于政府工作的核心」，并誓言推动英国现代史上「最大规模」的权力下放；他还表示将取消前政府的数字身份证计划。伯纳姆将于周一正式就任，成为英国过去十年间第七位首相，延续着英国近两百年来最频繁的政坛更迭。"
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war",
+      "titleEn": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+      "conclusionEn": "Russia fired 41 ballistic missiles and 125 drones at Ukraine overnight, with the barrage on Kyiv the largest since the war began in 2022, killing at least one person and wounding 16 in the capital alone.",
+      "conclusionZh": "俄罗斯对基辅发动开战以来最大规模弹道导弹袭击。",
+      "whyEn": "The escalation underscores Ukraine's worsening shortage of Patriot air-defense interceptors and raises pressure on Western allies to approve further military aid as the war grinds into its fifth year.",
+      "whyZh": "乌克兰防空拦截弹短缺，西方盟友或面临更大援助压力。",
+      "detailEn": "Ukrainian air defenses intercepted roughly half the missiles and 108 of the 125 drones, but the barrage still sparked fires across several Kyiv districts, damaging residential buildings, offices and a dormitory, with nearly 600 emergency personnel responding. Additional casualties were reported in Kharkiv, Zaporizhzhia, Donetsk, Kherson, Dnipropetrovsk and Odesa. Acting Foreign Minister Andrii Sybiha called it 'a brutal terrorist attack' and urged 'devastating pressure on Moscow.' The attack came amid domestic political tension in Kyiv following President Zelenskyy's dismissal of his defense minister, adding strain to Ukraine's wartime leadership.",
+      "detailZh": "乌克兰防空系统拦截了约一半的导弹以及125架无人机中的108架，但袭击仍在基辅多个城区引发火灾，损毁住宅楼、写字楼及一处宿舍，近600名应急人员参与救援。哈尔科夫、扎波罗热、顿涅茨克、赫尔松、第聂伯罗彼得罗夫斯克和敖德萨等地也报告了伤亡。乌克兰代理外长西比加称此次袭击为\"残忍的恐怖袭击\"，呼吁对莫斯科施加\"毁灭性压力\"。此次袭击正值泽连斯基总统解除国防部长职务引发国内政治紧张之际，令乌克兰战时领导层面临更大压力。"
+    },
+    {
+      "category": "财经",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/07/14/treasury-yields-rise-as-fed-rate-hike-expectations-grow.html",
+      "titleEn": "June CPI report cuts Fed July rate-hike odds sharply",
+      "conclusionEn": "June US CPI rose 3.5% year-over-year, cooler than the 3.8% expected, cutting market-implied odds of a July 29 Fed rate hike from about 46% to below 17% while September rate-cut odds also fell.",
+      "conclusionZh": "6月CPI低于预期，美联储7月加息概率大幅下降。",
+      "whyEn": "The data eases near-term fears of Fed tightening that had rattled equity and bond markets, but traders still see a roughly 60% chance of a rate hike later this year under hawkish new Chair Kevin Warsh.",
+      "whyZh": "通胀数据缓和加息担忧，但年内加息可能性依然较高。",
+      "detailEn": "Core CPI slowed to 2.6% year-over-year versus an expected 2.8%, prompting the CME FedWatch tool to slash the probability of a 25-basis-point hike at the Fed's July 29 meeting from roughly 46% before the report to under 17% afterward. Odds of a September rate cut also fell, from nearly 76% to about 50%, as traders repriced the path of policy under new Fed Chair Kevin Warsh, who has repeatedly said 'prices are too high' despite the softer data. Bank of America still projects three quarter-point hikes later in 2026 if inflation reaccelerates. The Fed's next decision is scheduled for July 29.",
+      "detailZh": "核心CPI同比升至2.6%，低于市场预期的2.8%，促使芝商所FedWatch工具将7月29日美联储会议加息25个基点的概率从公布前的约46%骤降至公布后的不到17%。9月降息概率也从近76%降至约50%，交易员据此重新评估新任美联储主席沃什领导下的政策路径，尽管数据转弱，沃什仍多次强调\"物价仍然过高\"。美国银行仍预计若通胀反弹，2026年下半年美联储将加息三次，每次25个基点。美联储下一次利率决议定于7月29日公布。"
+    },
+    {
+      "category": "科技",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals",
+      "titleEn": "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals",
+      "conclusionEn": "Google has delayed the release of its flagship Gemini 3.5 Pro model by several months after internal testing showed it fell short of coding and complex-reasoning targets, despite retraining the model in June.",
+      "conclusionZh": "谷歌旗舰模型Gemini 3.5 Pro因编程能力不达标推迟发布。",
+      "whyEn": "The delay fuels investor concern that Google is losing ground to Anthropic and OpenAI in the AI race just as all major tech firms face pressure to prove their AI spending is paying off in upcoming earnings.",
+      "whyZh": "谷歌AI进度落后引发投资者担忧，加剧科技股AI支出争议。",
+      "detailEn": "Google had said in May it expected to ship Gemini 3.5 Pro in June, but the model missed internal goals on coding performance and long-horizon reasoning tasks even after engineers reset and updated its training data late last month. Ten current and former employees described internal frustration, with concern the company is losing ground as rivals ship models that outperform Gemini on key benchmarks. CEO Sundar Pichai has acknowledged Google runs 'a bit behind' on agentic coding and has formed a dedicated DeepMind coding team to close the gap. A Google spokesperson said the company is currently testing 3.5 Pro with partners alongside an upgraded Flash model.",
+      "detailZh": "谷歌今年5月曾表示预计6月发布Gemini 3.5 Pro，但即便工程师上月末重置并更新了训练数据，该模型在编程能力和长链条复杂推理任务上仍未达到内部目标。十位现任及前任员工透露公司内部存在挫败情绪，担心竞争对手的模型已在关键基准测试中超越Gemini，公司正在失去优势。CEO劈柴（Sundar Pichai）承认谷歌在智能体编程方面\"稍显落后\"，并已组建专门的DeepMind编程团队以缩小差距。谷歌发言人表示，公司目前正与合作伙伴测试3.5 Pro及升级版Flash模型。"
     }
   ],
   "businessTips": [
     {
-      "term": "Vertical Integration",
+      "term": "Network Effects",
       "category": "通用商业",
-      "explanationEn": "Vertical integration is when a company expands into stages of its supply chain it previously didn't control — either upstream toward raw materials and infrastructure, or downstream toward distribution and customers. The goal is usually to capture margin that used to go to suppliers or partners, secure access to scarce inputs, and reduce dependency on external vendors who could raise prices or cut off supply. The tradeoff is that it requires large capital investment and new operating expertise outside the company's core competency, and it can be slow to unwind if market conditions shift.",
-      "explanationZh": "垂直整合是指企业向此前不掌控的供应链环节扩张——可能是向上游延伸至原材料和基础设施，也可能是向下游延伸至分销和客户端。其目的通常是夺取原本流向供应商或合作伙伴的利润、确保获取稀缺资源的渠道，并降低对可能涨价或断供的外部供应商的依赖。代价是需要大量资本投入，以及超出企业核心能力范围的新运营专长，一旦市场环境变化，也很难快速退出。",
-      "exampleEn": "Meta building an internal \"Meta Compute\" cloud business to sell its own excess AI infrastructure — rather than just buying chips and renting cloud capacity from others — is a form of vertical integration, letting it capture revenue that would otherwise go to cloud providers like AWS or CoreWeave.",
-      "exampleZh": "Meta打造内部「Meta Compute」云计算业务，出售自身富余的AI基础设施，而不只是采购芯片、向他人租用云算力，这正是垂直整合的体现，让公司能够获取原本流向AWS、CoreWeave等云服务商的收入。"
+      "explanationEn": "A network effect occurs when a product or platform becomes more valuable to each user as more people use it, such as a marketplace, social network or messaging app. This creates a powerful moat because new entrants must overcome the existing user base to compete, and it often leads to winner-take-most market dynamics. Businesses with strong network effects can grow faster and defend pricing power more easily than those without them.",
+      "explanationZh": "网络效应指产品或平台随着用户数量增加而对每个用户变得更有价值，例如市场平台、社交网络或即时通讯应用。这构成了强大的护城河，因为新进入者必须克服现有用户基数的优势才能竞争，往往会形成\"赢家通吃\"的市场格局。拥有强网络效应的企业通常比缺乏网络效应的企业增长更快，也更容易维持定价权。",
+      "exampleEn": "A ride-hailing app becomes more useful as more drivers join, which attracts more riders, which in turn attracts more drivers, creating a self-reinforcing loop that is hard for a new competitor to replicate from scratch.",
+      "exampleZh": "网约车应用随着司机数量增加而变得更有用，这会吸引更多乘客，进而吸引更多司机加入，形成自我强化的循环，新竞争者很难从零开始复制这种优势。"
     },
     {
-      "term": "Customer Acquisition Cost (CAC)",
+      "term": "Minimum Viable Product (MVP)",
       "category": "创业副业",
-      "explanationEn": "Customer acquisition cost is the total sales and marketing spend divided by the number of new customers gained in a given period — it tells a founder exactly how much it costs to win one paying customer. A side hustle or startup only becomes sustainable when CAC is comfortably lower than the lifetime value of a customer (what they'll spend over their entire relationship with the business), typically with a target ratio of at least 3:1. Tracking CAC early prevents founders from scaling a marketing channel that looks like it's growing revenue but is actually losing money on every new customer.",
-      "explanationZh": "获客成本是指某段时期内的销售与营销总支出除以新增客户数，它能精确告诉创始人获得一位付费客户需要花多少钱。副业或创业项目只有当获客成本明显低于客户终身价值（客户在与企业整个关系周期内的总消费）时才具备可持续性，通常目标比例至少是1:3。及早追踪获客成本，能避免创始人盲目扩张一个看似在增加营收、实则每获得一位新客户都在亏钱的营销渠道。",
-      "exampleEn": "A side-hustle founder spends $500 on ads and gains 10 new subscribers to a $20/month product — a CAC of $50 per customer. If those customers typically stay for only two months (a $40 lifetime value), the channel is actually losing money and should be paused rather than scaled.",
-      "exampleZh": "一位副业创始人花500美元投放广告，获得10位每月付费20美元产品的新订阅用户，获客成本为每位50美元。如果这些客户平均只留存两个月（终身价值仅40美元），这个渠道实际上是在亏钱，应该暂停而不是加大投入。"
+      "explanationEn": "An MVP is the simplest version of a product that lets a founder test a core assumption with real customers before investing heavily in building out full features. The goal is to learn as fast and cheaply as possible whether people actually want what you're building, rather than guessing based on internal opinions. This approach reduces wasted effort and helps side-hustle founders avoid spending months on features nobody asked for.",
+      "explanationZh": "最小可行产品（MVP）是产品最简化的版本，让创始人能在投入大量资源开发完整功能之前，用真实用户来验证核心假设。其目标是尽可能快速、低成本地验证人们是否真的需要你正在打造的东西，而不是凭内部主观判断猜测。这种方法能减少无谓的投入，帮助副业创业者避免花费数月开发无人需要的功能。",
+      "exampleEn": "Instead of building a full mobile app, a founder testing a meal-planning idea could start with a simple weekly email newsletter of recipes, seeing if people actually sign up and stay engaged before writing a single line of app code.",
+      "exampleZh": "创始人想验证一个膳食规划的点子，与其直接开发完整的手机App，不如先做一份简单的每周食谱邮件订阅，观察是否有人愿意订阅并持续参与，再决定是否投入开发App。"
     },
     {
-      "term": "Bear Market",
+      "term": "Dollar-Cost Averaging (DCA)",
       "category": "投资金融",
-      "explanationEn": "A bear market is conventionally defined as a decline of 20% or more from a recent peak in a stock, index or sector, distinguishing it from an ordinary pullback or correction (typically defined as a 10-19% drop). Bear markets can be broad, covering the entire market, or narrow, hitting just one sector while the rest of the market holds up — both still signal that investor confidence in that segment has deteriorated sharply. Understanding which kind you're in matters for strategy: a sector-specific bear market driven by a single news event behaves very differently than a broad, economy-wide one driven by recession fears.",
-      "explanationZh": "熊市通常是指某只股票、指数或行业板块较近期高点下跌20%或以上，以此区别于普通回调（一般指下跌10%-19%）。熊市可能是全面性的，覆盖整个市场；也可能是局部性的，仅冲击某一板块而其他市场表现平稳——但两者都意味着投资者对该领域的信心已明显恶化。分清自己所处的是哪一种熊市对制定策略很重要：由单一新闻事件引发的板块性熊市，与由经济衰退担忧驱动的全局性熊市，走势逻辑截然不同。",
-      "exampleEn": "This week's Philadelphia Semiconductor Index drop of more than 20% from its June peak, triggered specifically by Moonshot AI's Kimi K3 release, is a sector-specific bear market — it doesn't necessarily mean the broader S&P 500 or the overall economy is in trouble.",
-      "exampleZh": "本周费城半导体指数较6月高点下跌超过20%，直接由月之暗面发布Kimi K3引发，这是一次板块性熊市——并不意味着标普500指数或整体经济也陷入了麻烦。"
+      "explanationEn": "Dollar-cost averaging means investing a fixed amount of money at regular intervals, regardless of whether prices are high or low, instead of trying to time the market with a single lump-sum purchase. Over time this smooths out the average price paid, buying more shares when prices are low and fewer when prices are high. It won't beat lump-sum investing in every scenario, but it reduces the emotional stress and timing risk that leads many investors to make poor decisions during volatile periods.",
+      "explanationZh": "定投（分批定额投资）是指按固定金额、固定周期持续投资，而不论价格高低，而不是试图通过一次性大额买入来精准择时。长期来看这能平滑平均买入成本，价格低时买入更多份额，价格高时买入更少份额。定投不一定在所有情况下都跑赢一次性投资，但能降低市场剧烈波动期间因情绪化决策而导致的择时风险。",
+      "exampleEn": "With chip stocks and oil prices swinging sharply this week on the Iran conflict and AI selloff, an investor using DCA would keep investing the same amount into their index fund on schedule rather than trying to guess the bottom.",
+      "exampleZh": "本周芯片股和油价因伊朗冲突及AI股抛售剧烈波动，采用定投策略的投资者会按计划持续投入固定金额到指数基金，而不是试图猜测市场底部。"
     }
   ]
 }
