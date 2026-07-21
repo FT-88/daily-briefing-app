@@ -83,6 +83,15 @@
   .source { font-size: 11px; color: var(--text-muted); margin-left: auto; text-decoration: none; }
   a.source { color: var(--accent-blue-text); }
   a.source:active { opacity: 0.7; }
+  .fav-btn {
+    flex-shrink: 0; border: none; background: none; padding: 0; cursor: pointer;
+    font-size: 16px; line-height: 1; color: var(--text-muted);
+  }
+  .fav-btn.active { color: #d99a1f; }
+  .news-card-top .fav-btn { margin-left: 6px; }
+  .tip-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 8px; }
+  .tip-top .tip-label { margin: 0; }
+  .fav-saved-date { font-size: 11px; color: var(--text-muted); margin: -4px 0 8px; }
   .title-en { font-size: 12px; color: var(--text-muted); margin: 0 0 6px; font-style: italic; }
   .en-line { font-size: 13px; color: var(--text-muted); margin: 0 0 2px; line-height: 1.5; font-style: italic; }
   .zh-line { font-size: 16px; font-weight: 600; margin: 0 0 8px; line-height: 1.4; }
@@ -121,11 +130,17 @@
     text-align: center; font-size: 12px; color: var(--text-muted); margin-top: 24px;
   }
   .empty-state { text-align: center; padding: 60px 20px; color: var(--text-muted); font-size: 14px; }
-  .tts-speed-bar {
+  .toolbar {
     max-width: 480px; margin: 0 auto; padding: 0 16px 10px;
-    display: flex; align-items: center; justify-content: flex-end; gap: 10px;
+    display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  }
+  .fav-view-btn {
+    font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 20px;
+    border: 1px solid var(--border); background: var(--card); color: var(--text-secondary);
+    cursor: pointer; white-space: nowrap;
   }
   .tts-speed-label { font-size: 12px; color: var(--text-muted); }
+  .speed-group { display: flex; align-items: center; gap: 8px; }
   .speed-options { display: flex; gap: 6px; }
   .speed-btn {
     font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 20px;
@@ -144,7 +159,7 @@
   }
   .tts-btn:active { background: var(--border); }
   .tts-btn.playing { color: var(--accent-blue-text); }
-  .no-tts .tts-speed-bar, .no-tts .tts-btn { display: none; }
+  .no-tts .speed-group, .no-tts .tts-btn { display: none; }
 </style>
 </head>
 <body>
@@ -157,12 +172,15 @@
   <div class="meta" id="meta-label"></div>
 </header>
 
-<div class="tts-speed-bar">
-  <span class="tts-speed-label">朗读语速</span>
-  <div class="speed-options">
-    <button class="speed-btn" data-speed="0.5">0.5x</button>
-    <button class="speed-btn" data-speed="0.7">0.7x</button>
-    <button class="speed-btn" data-speed="1">1x</button>
+<div class="toolbar">
+  <button class="fav-view-btn" id="fav-view-btn" type="button"><span id="fav-view-label">⭐ 收藏夹</span> <span id="fav-count">0</span></button>
+  <div class="speed-group">
+    <span class="tts-speed-label">朗读语速</span>
+    <div class="speed-options">
+      <button class="speed-btn" data-speed="0.5">0.5x</button>
+      <button class="speed-btn" data-speed="0.7">0.7x</button>
+      <button class="speed-btn" data-speed="1">1x</button>
+    </div>
   </div>
 </div>
 
@@ -266,6 +284,69 @@ if (ttsSupported) {
   window.speechSynthesis.onvoiceschanged = () => window.speechSynthesis.getVoices();
 }
 
+function getFavorites() {
+  try { return JSON.parse(localStorage.getItem('favorites') || '[]'); } catch (e) { return []; }
+}
+
+function setFavorites(favs) {
+  localStorage.setItem('favorites', JSON.stringify(favs));
+}
+
+function isFavorited(id) {
+  return getFavorites().some((f) => f.id === id);
+}
+
+function simpleHash(str) {
+  let h = 0;
+  for (let i = 0; i < str.length; i++) h = (Math.imul(31, h) + str.charCodeAt(i)) | 0;
+  return (h >>> 0).toString(36);
+}
+
+function newsFavId(item, date) { return 'news-' + simpleHash(date + '|' + item.titleEn); }
+function tipFavId(tip, date) { return 'tip-' + simpleHash(date + '|' + tip.term); }
+
+function updateFavCount() {
+  const countEl = document.getElementById('fav-count');
+  if (countEl) countEl.textContent = getFavorites().length;
+}
+
+function toggleFavorite(id, type, date, data, btn) {
+  const favs = getFavorites();
+  const idx = favs.findIndex((f) => f.id === id);
+  if (idx >= 0) {
+    favs.splice(idx, 1);
+    btn.textContent = '☆';
+    btn.classList.remove('active');
+  } else {
+    favs.unshift({ id, type, date, savedAt: new Date().toISOString(), data });
+    btn.textContent = '★';
+    btn.classList.add('active');
+  }
+  setFavorites(favs);
+  updateFavCount();
+  if (viewMode === 'favorites') renderFavorites();
+}
+
+let viewMode = 'today';
+let todayData = null;
+
+const favViewBtn = document.getElementById('fav-view-btn');
+const favViewLabel = document.getElementById('fav-view-label');
+favViewBtn.addEventListener('click', () => {
+  viewMode = viewMode === 'today' ? 'favorites' : 'today';
+  if (viewMode === 'favorites') {
+    favViewLabel.textContent = '← 返回今日';
+    document.getElementById('fav-count').style.display = 'none';
+    renderFavorites();
+  } else {
+    favViewLabel.textContent = '⭐ 收藏夹';
+    document.getElementById('fav-count').style.display = '';
+    updateFavCount();
+    if (todayData) renderToday();
+  }
+});
+updateFavCount();
+
 async function loadData() {
   try {
     const res = await fetch('data.json?t=' + Date.now());
@@ -277,7 +358,81 @@ async function loadData() {
   }
 }
 
+function createNewsCard(item, rank, favId, date) {
+  const card = document.createElement('div');
+  card.className = 'news-card';
+  const c = tagColor(item.category);
+  const sourceHtml = item.sourceUrl
+    ? `<a class="source" href="${item.sourceUrl}" target="_blank" rel="noopener">${item.source}</a>`
+    : `<span class="source">${item.source}</span>`;
+  const favActive = isFavorited(favId);
+  card.innerHTML = `
+    <div class="news-card-top">
+      <span class="rank">${rank}</span>
+      <span class="tag" style="background:${c.bg}; color:${c.text};">${item.category}</span>
+      ${sourceHtml}
+      <button class="fav-btn${favActive ? ' active' : ''}" type="button" aria-label="收藏">${favActive ? '★' : '☆'}</button>
+    </div>
+    <div class="tts-row">${ttsBtn(item.titleEn)}<p class="title-en">${item.titleEn}</p></div>
+    <div class="tts-row">${ttsBtn(item.conclusionEn)}<p class="en-line">${item.conclusionEn}</p></div>
+    <p class="zh-line">${item.conclusionZh}</p>
+    <div class="why-block">
+      <p class="why-label">Why it matters / 为什么重要</p>
+      <div class="tts-row">${ttsBtn(item.whyEn)}<p class="why-en">${item.whyEn}</p></div>
+      <p class="why-zh">${item.whyZh}</p>
+    </div>
+    <button class="detail-toggle">展开详情 <span class="arrow">▾</span></button>
+    <div class="detail">
+      <div class="detail-inner">
+        <div class="tts-row">${ttsBtn(item.detailEn)}<p class="detail-en">${item.detailEn}</p></div>
+        <p class="detail-zh">${item.detailZh}</p>
+      </div>
+    </div>
+  `;
+  const btn = card.querySelector('.detail-toggle');
+  const detail = card.querySelector('.detail');
+  btn.addEventListener('click', () => {
+    const isOpen = btn.classList.toggle('open');
+    if (isOpen) {
+      detail.style.maxHeight = detail.scrollHeight + 'px';
+      btn.firstChild.textContent = '收起详情 ';
+    } else {
+      detail.style.maxHeight = '0px';
+      btn.firstChild.textContent = '展开详情 ';
+    }
+  });
+  const favBtn = card.querySelector('.fav-btn');
+  favBtn.addEventListener('click', () => toggleFavorite(favId, 'news', date, item, favBtn));
+  return card;
+}
+
+function createTipCard(tip, favId, date) {
+  const card = document.createElement('div');
+  card.className = 'tip-card';
+  const favActive = isFavorited(favId);
+  card.innerHTML = `
+    <div class="tip-top">
+      <p class="tip-label">${tip.category}</p>
+      <button class="fav-btn${favActive ? ' active' : ''}" type="button" aria-label="收藏">${favActive ? '★' : '☆'}</button>
+    </div>
+    <p class="tip-term">${tip.term}</p>
+    <div class="tts-row">${ttsBtn(tip.explanationEn)}<p class="tip-explain-en">${tip.explanationEn}</p></div>
+    <p class="tip-explain-zh">${tip.explanationZh}</p>
+    <div class="tts-row">${ttsBtn(tip.exampleEn)}<p class="tip-example-en">${tip.exampleEn}</p></div>
+    <p class="tip-example-zh">${tip.exampleZh}</p>
+  `;
+  const favBtn = card.querySelector('.fav-btn');
+  favBtn.addEventListener('click', () => toggleFavorite(favId, 'tip', date, tip, favBtn));
+  return card;
+}
+
 function render(data) {
+  todayData = data;
+  renderToday();
+}
+
+function renderToday() {
+  const data = todayData;
   document.getElementById('date-label').textContent = data.date;
   document.getElementById('meta-label').textContent = data.news.length + ' 条头条 · ' + data.businessTips.length + ' 条知识';
 
@@ -287,71 +442,51 @@ function render(data) {
   const newsSection = document.createElement('section');
   newsSection.className = 'block';
   newsSection.innerHTML = '<h2 class="section-title">全球头条</h2>';
-
   data.news.forEach((item, i) => {
-    const card = document.createElement('div');
-    card.className = 'news-card';
-    const c = tagColor(item.category);
-    const sourceHtml = item.sourceUrl
-      ? `<a class="source" href="${item.sourceUrl}" target="_blank" rel="noopener">${item.source}</a>`
-      : `<span class="source">${item.source}</span>`;
-    card.innerHTML = `
-      <div class="news-card-top">
-        <span class="rank">${i + 1}</span>
-        <span class="tag" style="background:${c.bg}; color:${c.text};">${item.category}</span>
-        ${sourceHtml}
-      </div>
-      <div class="tts-row">${ttsBtn(item.titleEn)}<p class="title-en">${item.titleEn}</p></div>
-      <div class="tts-row">${ttsBtn(item.conclusionEn)}<p class="en-line">${item.conclusionEn}</p></div>
-      <p class="zh-line">${item.conclusionZh}</p>
-      <div class="why-block">
-        <p class="why-label">Why it matters / 为什么重要</p>
-        <div class="tts-row">${ttsBtn(item.whyEn)}<p class="why-en">${item.whyEn}</p></div>
-        <p class="why-zh">${item.whyZh}</p>
-      </div>
-      <button class="detail-toggle">展开详情 <span class="arrow">▾</span></button>
-      <div class="detail">
-        <div class="detail-inner">
-          <div class="tts-row">${ttsBtn(item.detailEn)}<p class="detail-en">${item.detailEn}</p></div>
-          <p class="detail-zh">${item.detailZh}</p>
-        </div>
-      </div>
-    `;
-    const btn = card.querySelector('.detail-toggle');
-    const detail = card.querySelector('.detail');
-    btn.addEventListener('click', () => {
-      const isOpen = btn.classList.toggle('open');
-      if (isOpen) {
-        detail.style.maxHeight = detail.scrollHeight + 'px';
-        btn.firstChild.textContent = '收起详情 ';
-      } else {
-        detail.style.maxHeight = '0px';
-        btn.firstChild.textContent = '展开详情 ';
-      }
-    });
-    newsSection.appendChild(card);
+    newsSection.appendChild(createNewsCard(item, i + 1, newsFavId(item, data.date), data.date));
   });
   main.appendChild(newsSection);
 
   const tipSection = document.createElement('section');
   tipSection.className = 'block';
-  const tipsHtml = data.businessTips.map((tip) => `
-    <div class="tip-card">
-      <p class="tip-label">${tip.category}</p>
-      <p class="tip-term">${tip.term}</p>
-      <div class="tts-row">${ttsBtn(tip.explanationEn)}<p class="tip-explain-en">${tip.explanationEn}</p></div>
-      <p class="tip-explain-zh">${tip.explanationZh}</p>
-      <div class="tts-row">${ttsBtn(tip.exampleEn)}<p class="tip-example-en">${tip.exampleEn}</p></div>
-      <p class="tip-example-zh">${tip.exampleZh}</p>
-    </div>
-  `).join('');
-  tipSection.innerHTML = '<h2 class="section-title">今日商业知识</h2>' + tipsHtml;
+  tipSection.innerHTML = '<h2 class="section-title">今日商业知识</h2>';
+  data.businessTips.forEach((tip) => {
+    tipSection.appendChild(createTipCard(tip, tipFavId(tip, data.date), data.date));
+  });
   main.appendChild(tipSection);
 
   const hint = document.createElement('div');
   hint.className = 'refresh-hint';
   hint.textContent = '更新于 ' + new Date(data.updatedAt).toLocaleString('zh-CN', { hour12: false });
   main.appendChild(hint);
+}
+
+function renderFavorites() {
+  const favs = getFavorites();
+  document.getElementById('date-label').textContent = '收藏夹';
+  document.getElementById('meta-label').textContent = favs.length + ' 条收藏';
+
+  const main = document.getElementById('main');
+  main.innerHTML = '';
+
+  if (!favs.length) {
+    main.innerHTML = '<div class="empty-state">还没有收藏内容，点击 ☆ 收藏感兴趣的新闻或知识点。</div>';
+    return;
+  }
+
+  const section = document.createElement('section');
+  section.className = 'block';
+  favs.forEach((fav, i) => {
+    const card = fav.type === 'news'
+      ? createNewsCard(fav.data, i + 1, fav.id, fav.date)
+      : createTipCard(fav.data, fav.id, fav.date);
+    const savedHint = document.createElement('p');
+    savedHint.className = 'fav-saved-date';
+    savedHint.textContent = fav.date + ' 收藏';
+    card.insertBefore(savedHint, card.children[1] || null);
+    section.appendChild(card);
+  });
+  main.appendChild(section);
 }
 
 loadData();
