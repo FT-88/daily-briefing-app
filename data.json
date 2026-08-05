@@ -1,128 +1,128 @@
 {
-  "date": "2026-07-27",
-  "updatedAt": "2026-07-27T12:30:00+08:00",
+  "date": "2026-08-05",
+  "updatedAt": "2026-08-05T21:33:00+08:00",
   "news": [
     {
       "category": "国际",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-      "titleEn": "US Pauses Attacks On Iran For A Second Straight Day And Tehran Does Too",
-      "conclusionEn": "The United States paused strikes on Iran for a second consecutive day on Sunday, with Tehran reciprocating, as both sides work toward reviving an interim ceasefire after nearly two weeks of nightly attacks.",
-      "conclusionZh": "美国连续第二天暂停对伊朗的军事打击，德黑兰同步回应，双方推动恢复临时停火。",
-      "whyEn": "A pause after two weeks of strikes and retaliation raises hopes of de-escalation in a conflict that has roiled oil markets, Gulf shipping and global risk sentiment.",
-      "whyZh": "持续两周的空袭与报复后突然停火，为缓和地区局势带来希望，此前该冲突已扰乱油价与全球市场情绪。",
-      "detailEn": "The pause follows nearly two weeks of nightly US strikes on Iranian military and infrastructure targets, and Iranian retaliation against US allies in the Gulf. Diplomatic sources say Washington and Tehran are negotiating a compromise centered on Iran allowing freer vessel transit through the Strait of Hormuz in exchange for an end to hostilities. White House communications director Steven Cheung said President Trump \"prefers a diplomatic solution\" but retains all options if Iran resumes attacks. Markets have responded with relief, as investors welcome any sign of an off-ramp from the nearly five-month-old conflict.",
-      "detailZh": "此次停火之前，美国已连续近两周对伊朗军事及基础设施目标发动夜间打击，伊朗则对美国在海湾地区的盟友进行报复。外交消息人士称，美伊双方正就一项折中方案展开谈判，核心是伊朗放宽对霍尔木兹海峡船只通行的限制，以换取停止敌对行动。白宫通讯主任史蒂文·郑表示，特朗普总统「更倾向于外交解决方案」，但若伊朗恢复攻击，仍保留一切选项。市场对此反应积极，投资者对这场持续近五个月冲突出现缓和迹象表示欢迎。"
-    },
-    {
-      "category": "财经",
-      "source": "24/7 Wall St",
-      "sourceUrl": "https://247wallst.com/investing/2026/07/27/stock-market-live-july-27-2026-sp-500-spy-rallying-on-u-s-iran-war-pause/",
-      "titleEn": "Stock Market Live July 27, 2026: S&P 500 Rallying on U.S.-Iran War Pause",
-      "conclusionEn": "US stock futures jumped Monday — Dow up about 1.1%, Nasdaq up over 1.5% — as oil prices sank roughly 6% following the US-Iran strikes pause, kicking off the busiest earnings week of the quarter.",
-      "conclusionZh": "美伊停火消息带动油价大跌约6%，美股周一大幅高开，道指涨1.1%，纳指涨超1.5%。",
-      "whyEn": "A relief rally across equities, oil and bonds shows how heavily markets had been pricing in Middle East escalation risk, and sets an upbeat tone heading into a week packed with megacap tech earnings and a Fed decision.",
-      "whyZh": "股票、原油、债券同步走高，显示市场此前对中东局势升级的担忧程度，也为本周科技巨头财报和美联储议息营造了乐观氛围。",
-      "detailEn": "Dow futures rose about 610 points (1.2%) and Nasdaq-100 futures gained roughly 1.4% in premarket trading, before the Dow extended gains to 1.11% and the Nasdaq to 1.51% during the session. Brent crude tumbled as much as 7.4% before paring losses, settling around $90 a barrel, while WTI fell to roughly $84. The rally lifted beaten-down memory-chip stocks including Micron, SanDisk and SK Hynix, which had been battered by weeks of AI-valuation jitters. Traders are now looking ahead to Wednesday's Federal Reserve rate decision and earnings from Microsoft, Meta, Apple and Amazon later this week.",
-      "detailZh": "道指期货早盘上涨约610点（涨幅1.2%），纳斯达克100指数期货涨约1.4%，随后道指盘中涨幅扩大至1.11%，纳指涨幅达1.51%。布伦特原油一度暴跌7.4%，随后收窄跌幅，报每桶90美元左右，WTI原油跌至约84美元。此轮反弹也带动了此前因AI估值担忧而遭重挫的美光、闪迪、SK海力士等存储芯片股走高。交易员目前将目光投向周三美联储的利率决议，以及本周晚些时候微软、Meta、苹果和亚马逊的财报。"
-    },
-    {
-      "category": "科技",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-      "titleEn": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center",
-      "conclusionEn": "Nvidia is reportedly negotiating a roughly $250 billion financial backstop to help OpenAI lease a 10-gigawatt, $500-billion-plus data center campus in Ohio, plus a separate deal to finance up to $350 billion of chip purchases.",
-      "conclusionZh": "英伟达据报正洽谈约2500亿美元的融资担保，帮助OpenAI租赁俄亥俄州一座超5000亿美元的数据中心，另有最高3500亿美元芯片融资方案在谈。",
-      "whyEn": "If completed, this would be the largest data center project ever announced, deepening Nvidia's financial entanglement with its biggest customer and intensifying scrutiny of circular financing across the AI infrastructure boom.",
-      "whyZh": "若达成，这将是史上最大规模的数据中心项目，进一步加深英伟达与最大客户之间的资金捆绑，也让市场更加关注AI基建热潮中的「循环融资」问题。",
-      "detailEn": "The guarantees would help OpenAI lease a data center campus that SoftBank subsidiary SB Energy is developing in Piketon, Ohio, on the site of a former uranium enrichment plant. Nvidia's $250 billion guarantee would cover the lease and construction debt, while a separate discussion could see Nvidia finance up to $350 billion of the chips destined for the facility. Nvidia has already invested $30 billion directly in OpenAI. The project's power supply is controlled by the US government and partly funded by Japan under a recent trade deal, with Commerce Secretary Howard Lutnick involved in allocating access, and other tech giants including Microsoft, Google and Anthropic have also discussed the site with US officials.",
-      "detailZh": "该担保将帮助OpenAI租赁软银子公司SB Energy在俄亥俄州派克顿一座前铀浓缩厂址上开发的数据中心园区。英伟达2500亿美元的担保将覆盖租赁及建设债务，另有一项在谈方案显示英伟达或将为该设施配套芯片提供最高3500亿美元的融资。英伟达此前已直接向OpenAI投资300亿美元。该项目的电力供应由美国政府掌控，并根据近期一项贸易协定部分由日本出资，商务部长卢特尼克参与电力分配决策；微软、谷歌、Anthropic等科技巨头也已就该选址与美国官员进行过接触。"
-    },
-    {
-      "category": "财经",
-      "source": "Semafor",
-      "sourceUrl": "https://www.semafor.com/article/07/23/2026/alphabets-free-cash-flow-turns-negative",
-      "titleEn": "Alphabet's Free Cash Flow Turns Negative",
-      "conclusionEn": "Alphabet posted its first-ever negative free cash flow of $5.9 billion in Q2 despite record profit, after capital spending on AI infrastructure surged 100% year-over-year to $44.9 billion in the quarter, sending shares down nearly 7%.",
-      "conclusionZh": "尽管利润创纪录，但AI基建支出同比翻倍至449亿美元，导致谷歌母公司Alphabet首次出现59亿美元自由现金流为负，股价重挫近7%。",
-      "whyEn": "Alphabet's spending surge and downbeat cash flow signal that even the most profitable tech giants are struggling to convert AI investment into near-term cash returns, fueling broader investor anxiety about whether AI capital spending across the industry is sustainable.",
-      "whyZh": "即便是盈利能力最强的科技巨头，AI投入也难以在短期内转化为现金回报，加剧了市场对整个行业AI资本支出可持续性的担忧。",
-      "detailEn": "Alphabet reported a record quarterly profit of $112 billion, aided by paper gains on investments, and Google Cloud revenue grew strongly. But core operations generated $39.1 billion in operating cash flow while the company spent $44.9 billion on AI servers, data centers and custom chips, pushing free cash flow negative for the first time since Google's 2004 IPO. Alphabet also raised its full-year 2026 capital expenditure forecast to as much as $205 billion, up from a prior $180-190 billion range, and new CFO Anat Ashkenazi warned that spending would rise \"significantly\" again in 2027.",
-      "detailZh": "Alphabet公布第二季度利润创纪录，达1120亿美元，部分得益于投资的账面收益，谷歌云业务收入也强劲增长。但核心业务仅产生390亿美元经营现金流，公司却在AI服务器、数据中心及定制芯片上投入449亿美元，导致自由现金流自2004年谷歌上市以来首次转负。Alphabet同时将2026年全年资本支出预测上调至最高2050亿美元，此前预测为1800亿至1900亿美元，新任首席财务官阿纳特·阿什肯纳齐警告称，2027年支出还将「显著」增加。"
-    },
-    {
-      "category": "科技",
-      "source": "Fortune",
-      "sourceUrl": "https://fortune.com/2026/07/26/big-tech-earnings-meta-microsoft-apple-amazon-market-revolt-ai-spending/",
-      "titleEn": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending",
-      "conclusionEn": "Microsoft and Meta report earnings on July 29, followed by Apple and Amazon on July 30, in the year's most consequential earnings week as investors scrutinize whether massive AI spending is paying off after Alphabet's cash-flow shock.",
-      "conclusionZh": "微软、Meta将于7月29日发布财报，苹果、亚马逊则于7月30日公布，本周堪称年内最关键财报周，投资者聚焦AI巨额支出能否带来回报。",
-      "whyEn": "With four of the world's most valuable companies reporting in three days, their guidance on AI capital spending and cloud growth will set the tone for the entire tech sector and broader market for months to come.",
-      "whyZh": "全球市值最高的四家公司将在三天内接连发布财报，其AI资本支出及云业务增长指引将为科技板块乃至整个市场定调。",
-      "detailEn": "Analysts expect Microsoft EPS of roughly $4.22-$4.24 on revenue near $87.6 billion, with Azure cloud growth the key metric investors are watching after guidance for 39-40% constant-currency growth. Meta is expected to post EPS between $7.18 and $7.24. Apple's fiscal Q3 report is expected to show EPS near $1.86, while Amazon's cloud performance will again draw comparisons with Microsoft's Azure. The reports follow Alphabet's roughly 7% share slide after it disclosed negative free cash flow and a $205 billion capex forecast, intensifying scrutiny of whether AI infrastructure investment across Big Tech is generating adequate returns.",
-      "detailZh": "分析师预计微软每股收益约4.22至4.24美元，营收接近876亿美元，Azure云业务增速是投资者关注的核心指标，此前公司曾指引按固定汇率计算增长39%至40%。Meta预计每股收益在7.18至7.24美元之间。苹果第三财季预计每股收益约1.86美元，亚马逊云业务表现也将再次与微软Azure进行对比。此次财报季紧随Alphabet因披露自由现金流为负及2050亿美元资本支出预测而股价重挫约7%之后，市场对科技巨头AI基建投入能否获得足够回报的审视进一步加剧。"
-    },
-    {
-      "category": "财经",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "titleEn": "Here Are the 3 Big Things We're Watching in the Stock Market in the Week Ahead",
-      "conclusionEn": "The Federal Reserve is expected to hold rates at 3.50%-3.75% at its July 28-29 meeting, but new Chair Kevin Warsh's increasingly hawkish tone — with nine of 18 officials projecting a 2026 hike amid 4.2% inflation — has markets bracing for a policy shift.",
-      "conclusionZh": "美联储预计7月28-29日会议将维持利率在3.50%-3.75%不变，但新任主席沃什立场趋鹰派，18名官员中9人预计2026年将加息，令市场警惕政策转向。",
-      "whyEn": "A pivot from expected rate cuts to possible hikes would raise borrowing costs across mortgages, credit cards and business loans just as investors are already nervous about stretched AI valuations, making the meeting one of the most closely watched of the year.",
-      "whyZh": "政策预期从降息转向可能加息，将推高房贷、信用卡及企业贷款成本，叠加市场对AI估值过高的担忧，令此次会议备受关注。",
-      "detailEn": "At his June debut meeting, Warsh held rates steady in a unanimous 12-0 vote but stripped the Fed's easing bias from its statement, surprising markets that had expected a dovish transition. Inflation has held around 4.2% year-over-year, giving hawks ammunition, and Bank of America now projects three quarter-point hikes in September, October and December if price pressures persist. The July 29 decision comes at 2 p.m. ET, followed by Warsh's press conference, in the same week as earnings from Microsoft, Meta, Apple and Amazon — creating what CNBC calls one of the most data-heavy weeks of the quarter for markets.",
-      "detailZh": "沃什在6月的首次会议上以12票对0票一致维持利率不变，但从声明中删除了「宽松倾向」表述，令原本预期政策转向鸽派的市场感到意外。通胀率维持在同比4.2%左右，为鹰派提供了论据，美国银行目前预测若价格压力持续，美联储将在9月、10月、12月各加息25个基点。7月29日的决议将于美东时间下午2点公布，随后沃什将召开记者会，恰逢微软、Meta、苹果、亚马逊财报密集发布，CNBC称这是本季度市场数据最密集的一周之一。"
+      "sourceUrl": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+      "titleEn": "Trump Says Hormuz Deal Could Be Agreed Wednesday or Thursday as He Hails 'Very Good' Iran Talks",
+      "conclusionEn": "President Trump said the US and Iran could reach a deal within days to reopen the Strait of Hormuz, after Treasury Secretary Scott Bessent said an agreement could come 'today or tomorrow.'",
+      "conclusionZh": "特朗普称美伊或数日内就重开霍尔木兹海峡达成协议。",
+      "whyEn": "A reopening deal would ease nearly two months of disrupted oil shipping through one of the world's most critical energy chokepoints, directly affecting oil prices and global trade.",
+      "whyZh": "协议若达成将缓解霍尔木兹海峡航运中断，直接影响油价与全球贸易。",
+      "detailEn": "Trump told reporters in California that talks with Iran have been 'very good' and that an agreement covering the Strait of Hormuz 'could happen... tomorrow or the next day.' Treasury Secretary Scott Bessent echoed the optimism, saying a deal to restore 'freedom of movement' through the strait could be reached within a day or two. Iran's foreign minister said separately that negotiations with Oman, acting as mediator, are in their 'final stages,' though Tehran insists the waterway will never fully return to its pre-war status. The strait has seen sharply reduced traffic since the US-Iran conflict escalated, contributing to elevated oil prices and shipping delays worldwide.",
+      "detailZh": "特朗普在加州对记者表示，与伊朗的谈判「非常顺利」，围绕霍尔木兹海峡的协议「明天或后天就可能达成」。美国财长贝森特也持乐观态度，称恢复海峡「自由通行」的协议可能在一两天内敲定。伊朗外长则表示，在阿曼斡旋下的谈判已进入「最后阶段」，但德黑兰坚称海峡不会完全恢复到战前状态。自美伊冲突升级以来，该海峡航运量大幅减少，推高全球油价并造成航运延误。"
     },
     {
-      "category": "国际",
+      "category": "财经",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-093653327.html",
+      "titleEn": "Stock Market Today: Dow and S&P 500 Edge Higher as Trump Says Hormuz Deal Is Close, Nasdaq Digests Tech Earnings",
+      "conclusionEn": "The S&P 500 and Dow extended a four-day rally toward record territory as hopes for a Strait of Hormuz deal and strong AI-driven earnings lifted sentiment, even as investors digested a mixed batch of tech results.",
+      "conclusionZh": "标普与道指延续四日涨势，逼近历史高位。",
+      "whyEn": "A multi-session rally to record highs, driven by easing Middle East tensions and continued AI investment demand, signals broad risk-on sentiment across global markets.",
+      "whyZh": "中东局势缓和及AI投资需求推动美股连续上涨，反映全球市场风险偏好回升。",
+      "detailEn": "US stock futures rose Wednesday, extending a rally that has added roughly 1,600 points to the Dow over the past two sessions, as easing Middle East tensions combined with a wave of corporate earnings dominated by AI infrastructure spending. Nvidia advanced in premarket trading after a key partner reported a sharp jump in monthly sales, while cloud-networking firm Arista Networks surged as much as 14% on a stronger-than-expected revenue forecast. Major companies including Disney, Eli Lilly, Uber and Shopify were also due to report earnings, adding to a packed trading day. Oil prices remained a key focus as traders weighed the odds of a Hormuz reopening deal.",
+      "detailZh": "周三美股期货上涨，延续过去两个交易日为道指带来约1600点涨幅的行情，中东局势缓和叠加以AI基建支出为主线的财报季共同提振市场情绪。英伟达在盘前交易中上涨，此前一家主要合作伙伴公布月度销售额大幅增长；云网络公司Arista Networks因营收预测好于预期一度飙升14%。迪士尼、礼来、Uber及Shopify等多家大型公司当日也将公布财报，令交易日更加密集。油价仍是市场焦点，交易员正在权衡霍尔木兹海峡重开协议达成的可能性。"
+    },
+    {
+      "category": "财经",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/economy/articles/world-bank-sees-weakest-global-152714585.html",
+      "titleEn": "World Bank Sees Weakest Global Growth Since the Pandemic",
+      "conclusionEn": "The World Bank cut its 2026 global growth forecast to 2.5%, citing high inflation and energy-price shocks from the Iran war, marking the weakest expansion since the COVID-19 pandemic.",
+      "conclusionZh": "世界银行下调2026年全球增速预期至2.5%，为疫情以来最弱。",
+      "whyEn": "A broad global growth downgrade driven by an active war and energy shock affects investment decisions, borrowing costs and trade flows across both developed and developing economies.",
+      "whyZh": "全球增长预期因战争及能源冲击下调，将影响各国投资、借贷成本及贸易。",
+      "detailEn": "The World Bank lowered its 2026 global growth forecast by 0.1 percentage point to 2.5%, pointing to elevated inflation and rising energy prices after shipping through the Strait of Hormuz was virtually halted by the Iran war. Developing economies have borne the brunt of the shock, with the bank projecting their growth to slow to a post-pandemic low of 3.6%, down from 4.4% in 2025. The bank warned that prolonged disruption to energy markets could further weigh on trade-dependent economies, particularly in Asia and Africa, which rely heavily on stable oil and shipping costs.",
+      "detailZh": "世界银行将2026年全球增长预期下调0.1个百分点至2.5%，原因是伊朗战争导致霍尔木兹海峡航运几近停摆，推高通胀与能源价格。发展中经济体受冲击最为严重，世行预计其增速将放缓至疫情后新低3.6%，低于2025年的4.4%。世行警告称，若能源市场持续受扰，将进一步拖累严重依赖稳定油价与航运成本的贸易依赖型经济体，尤其是亚洲和非洲国家。"
+    },
+    {
+      "category": "科技",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/05/spacex-is-falling-after-posting-first-earnings-report-since-ipo-what-wall-street-firms-are-saying.html",
+      "titleEn": "SpaceX Is Falling After Posting First Earnings Report Since IPO. What the Biggest Wall Street Firms Are Saying",
+      "conclusionEn": "SpaceX reported its first earnings as a public company with revenue up 92% to $7.8 billion, beating estimates, but shares tumbled more than 12% as AI-related capital spending soared to over $23 billion in the first half of the year.",
+      "conclusionZh": "SpaceX首份财报营收超预期增92%，但AI支出激增致股价重挫逾12%。",
+      "whyEn": "A revenue beat failing to prevent a double-digit stock drop shows investors are increasingly wary of runaway AI infrastructure spending, a concern spreading across major tech and space companies.",
+      "whyZh": "营收超预期仍股价大跌，显示投资者对AI基建支出失控的担忧正蔓延。",
+      "detailEn": "SpaceX posted second-quarter revenue of $7.8 billion, up 92% year-over-year and well above the $6.8 billion analysts expected, but the company remained unprofitable with a $541 million net loss following a $4.3 billion loss in the first quarter. Capital spending jumped to about $18.4 billion for the quarter, pushing first-half AI-related spending above $23 billion, up from just $3.3 billion a year earlier. Shares fell roughly 7% in initial after-hours trading and extended losses to more than 12% the following day as investors focused on the scale of AI investment rather than the revenue beat. Wall Street analysts remained split on whether the spending signals confidence in long-term AI demand or unsustainable cash burn.",
+      "detailZh": "SpaceX第二季度营收达78亿美元，同比增长92%，远超分析师预期的68亿美元，但公司仍未盈利，净亏损5.41亿美元，此前第一季度亏损43亿美元。当季资本支出跃升至约184亿美元，推动上半年AI相关支出超过230亿美元，较去年同期的33亿美元大幅增长。股价在盘后交易中一度下跌约7%，次日跌幅扩大至逾12%，投资者更关注AI投资规模而非营收超预期。华尔街分析师对这笔支出究竟反映对AI长期需求的信心，还是不可持续的现金消耗，看法不一。"
+    },
+    {
+      "category": "科技",
       "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-24/china-set-to-look-past-trump-s-new-tariffs-before-xi-visit-to-us",
-      "titleEn": "China Set to Look Past New Trump Tariffs Before Xi's US Trip",
-      "conclusionEn": "China is expected to avoid retaliating against new US tariffs of around 12.5% as it prioritizes stability ahead of a planned visit by President Xi Jinping to the United States, even as Beijing's trade surplus with the US remains near record levels.",
-      "conclusionZh": "中国预计不会对美国约12.5%的新关税采取报复措施，优先维护稳定以迎接习近平主席即将对美国的访问，尽管中方对美贸易顺差仍接近纪录高位。",
-      "whyEn": "A restrained Chinese response would ease fears of a fresh tit-for-tat trade escalation between the world's two largest economies, at a moment when China's export-driven recovery, boosted by AI hardware demand, is a key support for global growth.",
-      "whyZh": "中方克制回应有助于缓解全球两大经济体新一轮贸易报复升级的担忧，此时中国受AI硬件需求带动的出口复苏正是全球增长的重要支撑。",
-      "detailEn": "The new US tariffs follow the expiration of a 10% broad-based duty and come after the Supreme Court struck down an earlier round of Trump levies, prompting the administration to rebuild tariff measures through other authorities. China's June exports rose 27% year-over-year, the fastest pace since 2021, driven by AI hardware demand and exporters front-running anticipated tariff hikes, while its trade surplus with the US held near $28 billion. Analysts say Beijing calculates that absorbing the new duties without retaliation preserves the diplomatic groundwork for Xi's planned US visit and avoids disrupting its export momentum.",
-      "detailZh": "美国新一轮关税是在此前10%的普遍性关税到期、以及最高法院此前推翻特朗普早前一轮关税之后出台，促使美国政府转而通过其他授权手段重建关税措施。中国6月出口同比增长27%，创2021年以来最快增速，主要受AI硬件需求及出口商抢先应对预期关税上调所驱动，对美贸易顺差维持在近280亿美元。分析人士称，北京方面的算盘是：吸收新关税而不采取报复，既能为习近平主席计划中的访美之行保留外交基础，也能避免打断当前的出口增长势头。"
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-04/uber-s-robotaxi-ambition-to-face-scrutiny-as-shares-languish",
+      "titleEn": "Uber's Robotaxi Ambition to Face Scrutiny as Shares Languish",
+      "conclusionEn": "Uber reported second-quarter gross bookings of $58 billion, up 24% year-over-year, but forecast weak current-quarter profit and shares fell as the company committed to spending over $10 billion on autonomous vehicles.",
+      "conclusionZh": "Uber预订量强劲但盈利指引疲软，股价下跌，加码百亿美元投入自动驾驶。",
+      "whyEn": "Uber's stock decline despite strong bookings growth shows investors questioning whether heavy robotaxi investment will pay off before competitors like Waymo and Tesla gain more ground.",
+      "whyZh": "Uber预订量强劲仍股价下跌，显示投资者担忧自动驾驶巨额投入的回报前景。",
+      "detailEn": "Uber's gross bookings rose 24% year-over-year to $58 billion in the second quarter, but the company forecast current-quarter adjusted earnings below Wall Street estimates, citing foreign-exchange headwinds. Shares fell about 3% in premarket trading and have now slumped 28% since an October record high, even as the S&P 500 gained 15% over the same period. Despite the weak guidance, Uber outlined plans to spend more than $10 billion on autonomous vehicles in coming years without giving a specific timeline, and confirmed its exclusivity robotaxi partnership with Waymo in Atlanta and Austin will end by early 2028, opening the door to more competition.",
+      "detailZh": "Uber第二季度总预订额同比增长24%至580亿美元，但公司预计本季度调整后盈利将低于华尔街预期，原因是外汇因素拖累预订增速。股价在盘前交易中下跌约3%，自去年10月创下历史高位以来已累计下跌28%，同期标普500指数则上涨15%。尽管盈利指引疲软，Uber仍表示未来几年将投入逾100亿美元用于自动驾驶，但未给出具体时间表，并证实其与Waymo在亚特兰大和奥斯汀的独家机器人出租车合作将于2028年初结束，为更多竞争对手打开大门。"
+    },
+    {
+      "category": "财经",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/2026/08/05/trump-tariffs-american-manufacturing-reshoring-china-imports/",
+      "titleEn": "Trump's Tariffs Were Supposed to Boost American Manufacturing, But the New Levies Are Actually Pushing Some Companies Back to China",
+      "conclusionEn": "Some US companies that shifted production away from China during earlier tariff hikes are now reconsidering, as China's tariff rate has fallen closer to those of alternative manufacturing hubs like Vietnam and Thailand.",
+      "conclusionZh": "部分美企因中国关税降至与东南亚相近水平，正考虑重返中国生产。",
+      "whyEn": "The reversal shows tariff policy is not reliably reshoring manufacturing to the US as intended, instead just reshuffling supply chains among China and Southeast Asian countries.",
+      "whyZh": "关税政策未推动制造业回流美国，反而让供应链在中国与东南亚间转移。",
+      "detailEn": "When US tariffs on Chinese goods spiked to 145% last year, companies scrambled to find cheaper manufacturing alternatives in Vietnam, Thailand and elsewhere. But under Trump's more recent Section 301 tariffs, China and Vietnam now face a similar 12.5% rate, while Cambodia, Indonesia and Malaysia sit at 10%, narrowing the cost advantage of leaving China. Texas-based flashlight company Alliance Consumer Group, which had encouraged its Chinese manufacturer to build a Thailand factory, is now reconsidering that shift. Analysts say that for companies relying on China's dense supplier networks and established shipping channels, staying — or returning — can once again make economic sense.",
+      "detailZh": "去年美国对华关税一度飙升至145%，促使企业争相寻找越南、泰国等更低成本的替代产地。但在特朗普近期实施的301条款关税下，中国与越南关税率已趋同至12.5%，柬埔寨、印尼、马来西亚则为10%，令「撤离中国」的成本优势明显收窄。总部位于德州的手电筒企业Alliance Consumer Group此前曾推动其中国代工厂在泰国建厂，如今正重新考虑这一决定。分析师指出，对于依赖中国密集供应商网络及成熟航运渠道的企业而言，留在中国、甚至重返中国，如今又变得具有经济合理性。"
     },
     {
       "category": "国际",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/2026/07/23/nx-s1-5884947/haitians-protected-status-tps",
-      "titleEn": "Families Brace For Separation As Haitians Set To Lose Protected Status Next Week",
-      "conclusionEn": "Temporary Protected Status for hundreds of thousands of Haitians in the US formally terminates this week after a Supreme Court ruling cleared the way, and ICE has drawn up plans to ramp up arrests and deportation flights targeting Haitian communities in states including Ohio, Indiana and Florida.",
-      "conclusionZh": "在最高法院裁决扫清障碍后，数十万海地人在美的临时保护身份本周正式终止，ICE已制定计划加大对俄亥俄、印第安纳、佛罗里达等地海地社区的抓捕及遣返力度。",
-      "whyEn": "The termination immediately strips work authorization from hundreds of thousands of people and makes them eligible for deportation, with concentrated enforcement expected in cities like Springfield, Ohio, that have become politically charged flashpoints over immigration.",
-      "whyZh": "身份终止使数十万人立即丧失工作许可并可能被遣返，执法行动预计将集中在俄亥俄州斯普林菲尔德等移民议题政治化的城市。",
-      "detailEn": "Haiti's TPS designation was originally slated to end in February 2026 but was stayed by a federal district court; the Supreme Court's ruling in Mullin v. Doe reversed that stay, clearing the way for termination this week alongside Syria's TPS designation. ICE plans call for arresting migrants in Haitian community hubs such as Springfield, Ohio, and quickly processing them onto deportation flights to Haiti, a country the State Department still designates as facing a humanitarian crisis. Advocates warn the sudden loss of legal work status will separate families and disrupt local economies that depend on Haitian labor.",
-      "detailZh": "海地的临时保护身份原定于2026年2月终止，但被一家联邦地区法院叫停；最高法院在「Mullin诉Doe案」中的裁决推翻了这一暂缓令，为本周与叙利亚一同终止该身份扫清了障碍。ICE的计划是在俄亥俄州斯普林菲尔德等海地社区聚集地实施抓捕，并迅速将其安排上遣返海地的航班，而美国国务院目前仍将海地列为面临人道主义危机的国家。倡导团体警告称，合法工作身份的骤然丧失将造成家庭离散，并冲击依赖海地劳工的当地经济。"
+      "source": "The Hill",
+      "sourceUrl": "https://thehill.com/policy/healthcare/6009286-ebola-deaths-top-1700-in-eastern-congo/",
+      "titleEn": "Ebola Deaths Top 1,700 in Eastern Congo",
+      "conclusionEn": "Ebola has killed more than 1,700 people in eastern Congo out of 3,802 recorded cases, making it the second-largest outbreak of the virus on record.",
+      "conclusionZh": "刚果东部埃博拉疫情死亡人数超1700人，为史上第二大规模疫情。",
+      "whyEn": "The unusually fast spread of one of the world's deadliest viruses raises the risk of cross-border transmission and could strain international health resources already stretched by other crises.",
+      "whyZh": "疫情异常快速蔓延，增加跨境传播风险，或加重国际公共卫生资源负担。",
+      "detailEn": "The outbreak, first confirmed in May in Congo's remote Ituri province, has grown into the second-largest Ebola epidemic on record, with cases reaching current levels in a fraction of the time it took previous outbreaks. Ituri accounts for nearly 90% of all cases, but the virus has spread to five other provinces, including the major city of Kisangani. Health officials say the outbreak's rapid trajectory — surpassing 1,000 deaths by July 22 and topping 1,700 within two weeks — reflects weak local health infrastructure and difficulty reaching remote communities with vaccines and treatment.",
+      "detailZh": "该疫情于5月首次在刚果偏远的伊图里省确诊，如今已发展为有记录以来第二大埃博拉疫情，达到当前规模所用时间远短于以往历次疫情。伊图里省占全部病例近90%，但病毒已扩散至另外五个省份，包括大城市基桑加尼。卫生官员表示，疫情蔓延速度之快——7月22日死亡人数破千，两周内又突破1700——反映出当地医疗基础设施薄弱，且疫苗与治疗资源难以覆盖偏远社区。"
+    },
+    {
+      "category": "国际",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks",
+      "titleEn": "At Least 27 Killed as Russia and Ukraine Trade Heavy Attacks",
+      "conclusionEn": "Russia and Ukraine exchanged heavy drone and missile strikes over the weekend, killing at least 27 people combined, including children, as the war shows no sign of a diplomatic breakthrough.",
+      "conclusionZh": "俄乌互相发动猛烈袭击，合计至少27人死亡，战事仍无外交突破。",
+      "whyEn": "Continued heavy casualties on both sides, including strikes hitting civilian and resort areas inside Russia, underscore how far a ceasefire remains even as diplomatic attention is focused on the Middle East.",
+      "whyZh": "双方伤亡持续攀升，显示停火仍遥遥无期，即便外交焦点已转向中东。",
+      "detailEn": "Russian state news agency TASS reported five people killed and six injured in a drone attack on the Moscow region, while seven people, including three children, died and nearly 40 were wounded when drone debris struck the resort village of Arkhipo-Osipovka near Gelendzhik. Ukraine also reported casualties from Russian strikes in the same period. The exchange is part of a broader pattern of near-daily long-range strikes by both sides that have increasingly targeted energy and export infrastructure, including facilities tied to Kazakhstan's Black Sea oil exports, adding pressure to global energy markets.",
+      "detailZh": "俄罗斯国家通讯社塔斯社报道，莫斯科地区一次无人机袭击造成5人死亡、6人受伤；格连吉克附近的度假村阿尔希波-奥西波夫卡则因无人机残骸坠落造成7人死亡（含3名儿童），近40人受伤。乌克兰方面同期也报告了俄军袭击造成的伤亡。此次交火是双方近乎每日互相发动远程打击的一部分，打击范围日益扩大至能源与出口基础设施，包括与哈萨克斯坦黑海石油出口相关的设施，进一步加剧全球能源市场压力。"
     }
   ],
   "businessTips": [
     {
-      "term": "Law of Diminishing Returns",
+      "term": "Opportunity Cost",
       "category": "通用商业",
-      "explanationEn": "The law of diminishing returns describes how, past a certain point, each additional unit of investment in a factor (like labor, capital or spending) yields progressively smaller gains in output. It doesn't mean the investment stops paying off entirely — just that the marginal benefit shrinks even as the marginal cost stays the same or rises. Recognizing this point helps managers avoid over-investing in one area at the expense of better opportunities elsewhere.",
-      "explanationZh": "边际收益递减规律描述的是：超过某一临界点后，对某项投入要素（如劳动力、资本或支出）每增加一单位，产出的增量会逐渐减小。这并不意味着投资完全失去回报，只是边际收益在边际成本不变或上升的情况下持续萎缩。认清这一临界点，有助于管理者避免在某一领域过度投入，而错失其他更好的机会。",
-      "exampleEn": "A tech company doubling its AI data-center spending each year eventually finds that each new dollar of capex adds less incremental revenue than the last, even as the absolute spending and debt keep climbing — a dynamic investors are actively debating in this week's Big Tech earnings.",
-      "exampleZh": "一家科技公司每年将AI数据中心支出翻倍，最终发现每新增一美元资本支出所带来的增量收入不断减少，尽管绝对支出和债务仍在攀升——这正是投资者本周在科技巨头财报中激烈讨论的动态。"
+      "explanationEn": "Opportunity cost is the value of the next-best alternative you give up when choosing one option over another. It applies to money, time and resources alike — every decision to do one thing is implicitly a decision not to do something else. Skilled managers weigh opportunity costs explicitly rather than only counting direct expenses, since ignoring them can lead to choices that look 'free' but quietly waste resources.",
+      "explanationZh": "机会成本是指选择某一方案时，所放弃的次优方案的价值。它适用于金钱、时间和资源——做出一个选择，本质上也是放弃了其他可能性。优秀的管理者会明确权衡机会成本，而不仅仅计算直接支出，因为忽视机会成本可能导致看似「免费」实则悄悄浪费资源的决策。",
+      "exampleEn": "A company using its own warehouse space to store slow-moving inventory isn't paying rent, so the cost looks like zero. But that space could otherwise be leased out for $20,000 a month — that forgone income is the true opportunity cost of keeping the inventory there.",
+      "exampleZh": "一家公司用自有仓库存放周转缓慢的库存，因为不用付租金，看起来成本为零。但这块空间原本可以以每月2万美元出租——这笔本可赚取却放弃的收入，才是继续囤货的真实机会成本。"
     },
     {
       "term": "Minimum Viable Product (MVP)",
       "category": "创业副业",
-      "explanationEn": "A minimum viable product is the simplest version of a new offering that still lets a founder test a core assumption with real customers, rather than building every planned feature before launch. The goal is to learn quickly and cheaply whether people actually want the product, using real usage data instead of guesswork. This approach reduces wasted effort by catching a flawed idea before significant money and time are sunk into it.",
-      "explanationZh": "最小可行产品（MVP）是指新产品最简化的版本，足以让创始人用真实客户验证核心假设，而不必在发布前构建所有计划中的功能。其目标是用真实使用数据而非猜测，快速且低成本地判断人们是否真的需要这款产品。这种方法能在大量资金和时间投入之前及早发现方向性错误，从而减少浪费。",
-      "exampleEn": "Instead of spending a year building a full subscription app, a solo founder launches a bare-bones version with just one core feature and a simple payment link, testing whether 50 real users will pay for it before investing in a polished design.",
-      "exampleZh": "一位独立创始人没有花一年时间打造完整的订阅制应用，而是先上线只有一个核心功能加简单付款链接的极简版本，在投入精美设计之前，先验证是否有50名真实用户愿意为此付费。"
+      "explanationEn": "A minimum viable product is the simplest version of a new product or service that still lets a founder test a core assumption with real customers. Rather than spending months building every feature before launch, founders release something basic and use real user feedback to decide what to build next. This reduces wasted effort and capital by validating demand before over-investing.",
+      "explanationZh": "最小可行产品（MVP）是指新产品或服务的最简版本，足以让创始人用真实客户验证核心假设。创始人无需花费数月打磨所有功能才上线，而是先推出一个基础版本，再根据真实用户反馈决定接下来该做什么。这样能在过度投入前先验证需求，减少精力和资金的浪费。",
+      "exampleEn": "Instead of building a full mobile app for a meal-kit side business, a founder starts by manually taking orders through a simple online form and delivering meals herself for a few weeks. The manual process reveals which recipes sell and what customers actually want, before she invests in packaging, a real app or hired staff.",
+      "exampleZh": "一位创始人没有为她的预制菜副业开发完整手机应用，而是先用一个简单的在线表单手动接单，并亲自配送几周。这个手动流程让她摸清了哪些菜品畅销、客户真正想要什么，之后才投入包装设计、正式应用开发或雇人。"
     },
     {
-      "term": "Free Cash Flow (FCF)",
+      "term": "Safe-Haven Assets",
       "category": "投资金融",
-      "explanationEn": "Free cash flow is the cash a company generates from its operations after subtracting the capital expenditures needed to maintain or grow the business. It matters because a company can report a large accounting profit while still burning cash if it is spending heavily on infrastructure like factories or data centers. Investors watch FCF closely because it shows how much cash is actually left to pay dividends, buy back stock or pay down debt, rather than just being reinvested.",
-      "explanationZh": "自由现金流是公司经营活动产生的现金，扣除维持或扩大业务所需的资本支出后的余额。它之所以重要，是因为一家公司即便账面利润巨大，若在厂房或数据中心等基础设施上大举投入，仍可能出现现金持续流出的情况。投资者密切关注自由现金流，因为它显示的是真正可用于派发股息、回购股票或偿还债务的现金，而非仅仅被再投资消耗掉。",
-      "exampleEn": "This week Alphabet reported record accounting profit but its first-ever negative free cash flow, because AI data-center spending outpaced the cash its core business brought in — a reminder that profit and available cash are not the same thing.",
-      "exampleZh": "Alphabet本周公布账面利润创纪录，但自由现金流却首次转为负值，原因是AI数据中心支出超过了核心业务带来的现金——这提醒人们，利润和可用现金并非同一回事。"
+      "explanationEn": "Safe-haven assets are investments that investors expect to hold or gain value during periods of market stress, geopolitical conflict or economic uncertainty — commonly gold, US Treasury bonds, and certain currencies like the Swiss franc or Japanese yen. They typically have low correlation with stocks, so holding some can cushion a portfolio when riskier assets sell off. No asset is a guaranteed hedge in every crisis, so investors usually treat safe havens as one part of diversification rather than a complete solution.",
+      "explanationZh": "避险资产是指在市场动荡、地缘冲突或经济不确定时期，投资者预期能保值甚至升值的资产，常见的有黄金、美国国债，以及瑞士法郎、日元等特定货币。它们通常与股票的相关性较低，因此持有一定比例可以在风险资产抛售时为投资组合起到缓冲作用。但没有任何资产能在每次危机中都稳赚不赔，因此投资者通常将避险资产视为分散配置的一部分，而非万能解药。",
+      "exampleEn": "As Middle East tensions and oil-supply disruptions rattled markets this year, gold prices climbed as some investors shifted money out of stocks and into bullion, seeking stability while waiting for geopolitical clarity rather than trying to predict the market's next move.",
+      "exampleZh": "今年中东局势紧张及石油供应中断令市场承压，部分投资者将资金从股票转向黄金，金价随之上涨——他们并非试图预测市场下一步走势，而是在地缘局势明朗前寻求资产的稳定性。"
     }
   ]
 }
