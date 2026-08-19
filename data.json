@@ -1,128 +1,116 @@
 {
-  "date": "2026-08-17",
-  "updatedAt": "2026-08-17T13:40:30+10:00",
+  "date": "2026-08-19",
+  "updatedAt": "2026-08-19T15:17:27+10:00",
   "news": [
     {
       "category": "国际",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea",
-      "titleEn": "Trump Says US to 'Substantially Reduce' Military Drills With South Korea",
-      "conclusionEn": "President Trump ordered the Pentagon to scale back the annual Ulchi Freedom Shield joint military exercises with South Korea just as the 11-day drills were set to begin, citing his rapport with North Korea's Kim Jong Un.",
-      "conclusionZh": "特朗普下令五角大楼在为期11天的「乙支自由护盾」联合军演开始前大幅削减规模，称与朝鲜金正恩关系良好。",
-      "whyEn": "The move marks a significant shift in longstanding US-South Korea defense cooperation, comes days after North Korea's 11th ballistic missile test of the year, and could unsettle allies in the region who rely on the drills as a deterrence signal.",
-      "whyZh": "此举标志着美韩防务合作的重大转向，且发生在朝鲜今年第11次弹道导弹试射后几天，可能动摇依赖联合军演作为威慑信号的地区盟友。",
-      "detailEn": "Trump announced on social media Sunday that he had instructed Defense Secretary Pete Hegseth to \"substantially reduce\" the Joint Military Exercises with South Korea, calling them costly and \"totally inappropriate and hostile\" toward North Korea, which he described as \"unthreatening and respectful\" during his time in office. The Ulchi Freedom Shield exercises, involving about 18,000 South Korean troops, were scheduled to run for 11 days starting August 17. South Korea's Ministry of Defence said the drills would proceed as planned for now, highlighting a gap between Washington's stated intentions and Seoul's official position. The announcement came just five days after North Korea test-fired a midrange ballistic missile more than 700 kilometers into waters east of the peninsula, its 11th such test in 2026.",
-      "detailZh": "特朗普周日在社交媒体上宣布，已指示国防部长皮特·赫格塞斯「大幅削减」与韩国的联合军演，称演习成本高昂，且对朝鲜「极不恰当且带有敌意」，并称朝鲜在他任内「并无威胁、态度尊重」。涉及约1.8万名韩军的「乙支自由护盾」军演原定于8月17日起举行11天。韩国国防部表示演习目前仍按计划进行，凸显华盛顿表态与首尔官方立场之间的落差。这一宣布距朝鲜试射一枚飞行超700公里、落入半岛以东海域的中程弹道导弹仅五天，这是朝鲜今年第11次此类试射。"
-    },
-    {
-      "category": "国际",
       "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-16/israel-strikes-lebanon-as-end-of-us-iran-ceasefire-looms",
-      "titleEn": "Israel Strikes Lebanon as End of US-Iran Ceasefire Looms",
-      "conclusionEn": "Israeli strikes on southern Lebanon killed 11 people, including a senior Hezbollah commander, marking the deadliest day since a June ceasefire, as the US prepares a fresh sanctions package on Iran.",
-      "conclusionZh": "以色列对黎巴嫩南部的空袭造成11人死亡，包括一名真主党高级指挥官，为6月停火以来最致命一天，美国同时正筹备新一轮对伊朗制裁。",
-      "whyEn": "The escalation raises the risk of a wider breakdown between Israel and Hezbollah just as tensions between the US, Israel and Iran already sit near a boiling point, with implications for oil markets and Middle East stability.",
-      "whyZh": "局势升级增加以色列与真主党全面冲突的风险，叠加美伊以三方紧张关系接近临界点，将波及油价与中东局势稳定。",
-      "detailEn": "The Israeli military said it killed Abu Hassan Alaa, a senior commander in Hezbollah's \"Bader Unit,\" in a strike on what it described as a main Hezbollah headquarters in the Ansar municipality of southern Lebanon. Israel said the strike was in response to Hezbollah activity in a border \"security zone,\" a day after it said three Israeli soldiers were seriously wounded in an attack it blamed on Hezbollah. The 11 deaths from Sunday's strikes make it the deadliest day since Israel and Hezbollah agreed to a ceasefire in early June. Separately, Bloomberg reported the US is preparing a fresh package of sanctions on Iran as the informal ceasefire in the broader US-Israel war on Iran, which began in February, appears increasingly fragile, with talks over reopening the Strait of Hormuz to shipping still deadlocked.",
-      "detailZh": "以色列军方表示，其在黎巴嫩南部安萨尔市镇一处所称的真主党主要总部实施空袭，击毙真主党「巴德尔部队」高级指挥官阿布·哈桑·阿拉。以方称此次打击是对真主党在边境「安全区」活动的回应，此前一天以方称三名以军士兵在一次被其归咎于真主党的袭击中重伤。周日空袭造成的11人死亡，是以色列与真主党6月初达成停火以来最致命的一天。另据彭博社报道，美国正筹备新一轮对伊朗制裁，此时始于2月的美伊以战争非正式停火状态愈发脆弱，围绕重开霍尔木兹海峡航运的谈判仍陷僵局。"
-    },
-    {
-      "category": "科技",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
-      "titleEn": "Anthropic Revenue Ahead of IPO Surges Over 14-Fold in Second Quarter",
-      "conclusionEn": "AI startup Anthropic's preliminary second-quarter revenue surged more than 14-fold from a year earlier to over $11.5 billion, with the company also posting positive adjusted operating income as it prepares for a possible IPO.",
-      "conclusionZh": "AI初创公司Anthropic第二季度初步营收同比暴增逾14倍，超过115亿美元，并首次实现调整后营业利润为正，为可能的IPO铺路。",
-      "whyEn": "The scale of growth signals enterprise AI spending is accelerating faster than expected, intensifies competition with OpenAI for corporate customers, and could make Anthropic one of the first major private AI labs to go public as soon as this fall.",
-      "whyZh": "增长规模显示企业AI支出加速超出预期，也加剧Anthropic与OpenAI在企业客户上的竞争，公司最快今秋上市，有望成为首批上市的大型AI初创企业之一。",
-      "detailEn": "Anthropic's preliminary revenue for the quarter climbed to more than $11.5 billion, up from $787 million a year earlier and from $4.73 billion in the first quarter of 2026, according to figures reported by Bloomberg. The company also reported positive adjusted operating income for the period, a milestone for an AI lab that, like rivals, has spent heavily on computing infrastructure and talent. The figures are preliminary and could still change once finalized. The revenue jump comes as Anthropic competes head-to-head with OpenAI for corporate customers, with its Claude models gaining particular traction among software developers and other professionals for coding and workplace tasks. People familiar with the matter have said Anthropic is preparing for a potential initial public offering as soon as this fall, which would make it one of the first major AI labs to list on public markets.",
-      "detailZh": "据彭博社报道的数据，Anthropic当季初步营收攀升至超过115亿美元，较去年同期的7.87亿美元和2026年第一季度的47.3亿美元大幅增长。公司同期还首次实现调整后营业利润为正，这对一家像同行一样在计算基础设施和人才上投入巨资的AI实验室而言是一个里程碑。上述数据为初步统计，最终确认后可能有所调整。营收激增之际，Anthropic正与OpenAI在企业客户争夺上正面交锋，其Claude模型尤其在软件开发者及其他职场用户的编程与办公任务中获得青睐。知情人士称，Anthropic正为最快今年秋季的潜在首次公开募股（IPO）做准备，若成行，将使其成为首批登陆公开市场的大型AI实验室之一。"
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-18/trump-takes-hard-line-on-iran-as-hormuz-standoff-drags-on",
+      "titleEn": "Trump Refuses Iran Truce Extension, Hormuz Standoff Raises Oil Prices",
+      "conclusionEn": "President Trump said he will not extend the US-Iran ceasefire memorandum that expired Monday and threatened to \"bomb\" Oman if it interferes with US operations, sending Brent crude above $91 a barrel.",
+      "conclusionZh": "特朗普宣布不再延长已于周一到期的美伊停火备忘录，并威胁若阿曼阻挠美方行动将「轰炸」阿曼，布伦特原油随之升破每桶91美元。",
+      "whyEn": "The collapse of the truce raises the risk of renewed US-Israel-Iran military conflict and a prolonged standoff over the Strait of Hormuz, a chokepoint for roughly a fifth of global oil supply, with direct implications for energy prices and inflation worldwide.",
+      "whyZh": "停火协议破裂加剧美以伊再度爆发军事冲突的风险，也令占全球约五分之一石油供应的霍尔木兹海峡僵局持续，直接冲击全球能源价格与通胀走势。",
+      "detailEn": "Asked in the Oval Office whether he would seek an extension of the memorandum of understanding signed with Iran in mid-June, Trump said simply \"no.\" The 60-day window it created for a lasting peace deal technically lapsed Monday, and the agreement had already been largely disregarded by both sides for weeks, with military operations resuming in the region since mid-July. Trump also threatened to \"bomb\" Oman if the Gulf state obstructed US operations near the Strait of Hormuz, where a standoff over shipping access has left talks deadlocked. Brent crude climbed above $91 a barrel and West Texas Intermediate traded near $85, both near multi-month highs, as traders priced in a longer disruption to Middle East energy flows.",
+      "detailZh": "在被问及是否会延长6月中旬与伊朗签署的谅解备忘录时，特朗普在椭圆形办公室简短回答「不会」。该协议原本为达成持久和平协议设定了60天窗口期，已于周一正式到期，而实际上双方数周来已基本无视协议内容，地区军事行动自7月中旬起便已恢复。特朗普还威胁称，若海湾国家阿曼阻挠美方在霍尔木兹海峡附近的行动，将对其实施「轰炸」，该海峡的航运准入僵局已令相关谈判陷入停滞。布伦特原油升破每桶91美元，西德克萨斯中质原油报每桶约85美元，均接近数月高位，交易员正为中东能源供应的长期中断风险定价。"
     },
     {
       "category": "财经",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
-      "titleEn": "Berkshire Adds $17 Billion to Alphabet Stake",
-      "conclusionEn": "Berkshire Hathaway's Q2 13F filing showed it added more than $17 billion to its Alphabet holding, pushing Google's parent past Bank of America to become the conglomerate's fourth-largest equity position.",
-      "conclusionZh": "伯克希尔哈撒韦第二季度13F持仓报告显示，其对Alphabet的持股增加逾170亿美元，谷歌母公司超越美国银行成为该公司第四大重仓股。",
-      "whyEn": "The purchase helped make Berkshire a net buyer of stocks for the first time in fourteen quarters, a closely watched signal since Warren Buffett's team has spent years sitting on record cash reserves amid concerns markets were overvalued.",
-      "whyZh": "此次加仓令伯克希尔十四个季度以来首次成为股票净买家，这一信号备受市场关注，此前巴菲特团队因担忧市场估值过高已连续多年持有创纪录现金储备。",
-      "detailEn": "Berkshire Hathaway's quarterly 13F filing, released August 15, showed the company added roughly 48.1 million shares of Alphabet's Class A and Class C stock during the second quarter, worth more than $17 billion, bringing its total stake to nearly 106 million shares worth about $36.6 billion. About 60% of the new shares came from a $10 billion private placement Berkshire and Alphabet announced in early June, with the rest purchased on the open market. Alphabet is now Berkshire's third-largest holding in its public equity portfolio. The filing also showed Berkshire increased its stakes in Delta Air Lines and homebuilders while exiting Constellation Brands, and marked the first quarter in fourteen that Berkshire was a net buyer rather than seller of stocks.",
-      "detailZh": "伯克希尔哈撒韦8月15日发布的季度13F持仓报告显示，公司二季度增持约4810万股Alphabet A类及C类股票，价值超过170亿美元，令其总持股增至近1.06亿股，价值约366亿美元。新增股份中约60%来自伯克希尔与Alphabet今年6月初宣布的一笔100亿美元私募配售，其余则通过公开市场购入。Alphabet目前已是伯克希尔公开股票投资组合中第三大重仓股。报告还显示，伯克希尔增持了达美航空及房屋建筑商股票，同时清仓星座品牌（Constellation Brands），这也是伯克希尔十四个季度以来首次成为股票净买家而非净卖家。"
-    },
-    {
-      "category": "财经",
-      "source": "TheStreet",
-      "sourceUrl": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-13-2026",
-      "titleEn": "S&P 500 Sets New Record, Clearing 7,800 for the First Time",
-      "conclusionEn": "The S&P 500 closed at an all-time high of 7,798.99 on August 13, clearing 7,800 for the first time, powered by cooler-than-expected inflation data and a rally in AI-linked semiconductor stocks.",
-      "conclusionZh": "标普500指数8月13日收于7798.99点的历史新高，首次突破7800点，得益于低于预期的通胀数据及AI相关芯片股大涨。",
-      "whyEn": "The milestone reflects growing investor confidence that the Federal Reserve will hold off on raising rates in September, even as separate data days later showed consumer sentiment souring, highlighting a widening gap between market optimism and household anxiety.",
-      "whyZh": "该里程碑反映投资者对美联储9月不加息的信心上升，但随后数据显示消费者信心恶化，凸显市场乐观情绪与民众忧虑之间的落差正在扩大。",
-      "detailEn": "The S&P 500 climbed past 7,800 intraday and closed at a record 7,798.99 on Thursday, August 13, after both the Consumer Price Index and Producer Price Index came in below economists' forecasts, easing worries the Federal Reserve would need to raise rates at its September meeting. The Dow Jones Industrial Average also edged up to a record close near 53,840. Technology and semiconductor stocks led gains, with chipmakers benefiting from continued enthusiasm around AI infrastructure spending. The rally capped a third consecutive week of gains for the index, even as the market showed signs of fragility the following day, when the S&P slipped slightly and a separate report showed US consumer sentiment falling sharply in August.",
-      "detailZh": "标普500指数周四（8月13日）盘中突破7800点，收于7798.99点的历史新高，此前公布的消费者价格指数（CPI）和生产者价格指数（PPI）均低于经济学家预期，缓解了市场对美联储9月会议需要加息的担忧。道琼斯工业平均指数当日也创下约53840点的收盘新高。科技股与半导体股领涨，芯片制造商受益于市场对AI基础设施支出的持续热情。此次上涨也是该指数连续第三周上涨，不过次日市场已现脆弱迹象，标普小幅回落，另一份报告显示美国8月消费者信心大幅下滑。"
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-17/us-bond-selloff-drives-30-year-yields-to-the-highest-since-2007",
+      "titleEn": "US Bond Selloff Drives 30-Year Yields to Highest Since 2007",
+      "conclusionEn": "The yield on the 30-year US Treasury bond climbed to about 5.31% on August 17, its highest level since 2007, as heavy government debt issuance, sticky inflation and Middle East oil-price risk combined to push long-term borrowing costs to a near-two-decade high.",
+      "conclusionZh": "美国30年期国债收益率8月17日升至约5.31%，为2007年以来最高水平，政府发债规模庞大、通胀顽固及中东油价风险叠加，将长期借贷成本推至近20年新高。",
+      "whyEn": "Rising long-term yields raise borrowing costs for mortgages, corporate debt and government financing across the economy, and the move reflects deepening investor anxiety about US fiscal deficits and inflation just as markets are also digesting an escalating Iran conflict.",
+      "whyZh": "长期收益率上升将推高全社会的房贷、企业债与政府融资成本，此番走势也反映出投资者对美国财政赤字与通胀的担忧持续加深，恰逢市场同时消化伊朗冲突升级的影响。",
+      "detailEn": "The selloff was driven by several converging pressures: the US government continues to issue large volumes of debt to fund persistent budget deficits, requiring higher yields to attract buyers; inflation has proven stickier than the Federal Reserve hoped, with tariffs and rising energy costs keeping price pressures elevated; and oil prices above $90 a barrel amid the stalled US-Iran ceasefire have added further inflation risk. Heavy fundraising by AI infrastructure companies competing for capital in debt markets, along with softer demand for long-dated Treasuries, added additional upward pressure. Mortgage rates and other long-term borrowing costs are expected to track the move higher.",
+      "detailZh": "此轮抛售由多重因素交织推动：美国政府为填补持续的财政赤字持续大规模发债，需以更高收益率吸引买家；通胀顽固程度超出美联储预期，关税及能源成本上升持续推高物价压力；而美伊停火陷入僵局、油价升破每桶90美元，进一步加剧了通胀风险。此外，AI基础设施企业在债券市场大举融资与长期国债需求走弱，也带来额外上行压力。房贷利率及其他长期借贷成本预计将随之走高。"
     },
     {
       "category": "科技",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
-      "titleEn": "Uber Partners With China's Pony.ai for 2,000 Robotaxis in Europe",
-      "conclusionEn": "Uber and Chinese autonomous driving company Pony.ai expanded their partnership to deploy more than 2,000 robotaxis across Europe, building on their existing commercial service in Zagreb, Croatia.",
-      "conclusionZh": "Uber与中国自动驾驶公司小马智行（Pony.ai）扩大合作，计划在欧洲部署逾2000辆自动驾驶出租车，在双方已在克罗地亚萨格勒布推出的商业化服务基础上扩展。",
-      "whyEn": "The expansion signals Chinese autonomous-vehicle technology is gaining a foothold in Western markets through Uber's platform, potentially reshaping competition with US-based robotaxi operators like Waymo as the companies also eye deployment in the Middle East.",
-      "whyZh": "此次扩张显示中国自动驾驶技术正借助Uber平台进入西方市场，可能改变与Waymo等美国自动驾驶出租车运营商的竞争格局，双方还计划在中东部署车队。",
-      "detailEn": "Pony.ai and Uber announced an expanded partnership on August 14 to deploy over 2,000 robotaxis across additional European cities, building on a partnership dating back to May 2025 when the companies first agreed to bring Pony.ai vehicles onto the Uber app internationally. Earlier this year the companies worked with Croatian mobility firm Verne to launch Europe's first commercial robotaxi service in Zagreb, with Verne acting as local fleet owner and operator. The expanded deal will add robotaxis to four more European cities, though the companies have not yet named them or given a launch timeline, saying details would be revealed in phases. The partnership also includes plans to deploy robotaxis in the Middle East.",
-      "detailZh": "小马智行与Uber于8月14日宣布扩大合作，计划在欧洲更多城市部署超过2000辆自动驾驶出租车，此次合作可追溯至2025年5月，双方彼时首次同意将小马智行车辆接入Uber国际版应用。今年早些时候，两家公司曾与克罗地亚出行公司Verne合作，在萨格勒布推出欧洲首个商业化自动驾驶出租车服务，由Verne担任当地车队所有者及运营方。此次扩大的合作将在另外四个欧洲城市增设自动驾驶出租车服务，但双方尚未公布具体城市名称或上线时间表，称细节将分阶段公布。合作还包括在中东部署自动驾驶出租车的计划。"
-    },
-    {
-      "category": "财经",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
-      "titleEn": "Trump Family-Backed Crypto Firm World Liberty Gets Conditional Bank Charter Approval",
-      "conclusionEn": "The Office of the Comptroller of the Currency granted World Liberty Financial, the Trump family's crypto venture, conditional preliminary approval for a national trust bank charter, advancing its plans to issue stablecoins directly.",
-      "conclusionZh": "美国货币监理署（OCC）向特朗普家族旗下加密企业World Liberty Financial授予国家信托银行牌照的有条件初步批准，助其推进直接发行稳定币的计划。",
-      "whyEn": "The approval is controversial given the sitting president's ownership stake in the company, prompting Democratic senators to draft legislation blocking government officials from owning banks, and it sets a precedent for how crypto firms can gain access to the regulated banking system.",
-      "whyZh": "由于现任总统本人持有该公司股份，此次批准引发争议，促使多名民主党参议员起草立法禁止政府官员持有银行，也为加密企业进入受监管银行体系树立了先例。",
-      "detailEn": "The OCC said on August 14 that World Liberty Trust Co.'s application meets certain regulatory and policy requirements, granting preliminary conditional approval for a national trust bank charter. The charter would permit asset management and payment settlement activities and allow the company to issue stablecoins directly, but does not authorize deposit-taking or lending typical of traditional banks. The approval is conditional, not final — World Liberty must still raise capital and complete additional regulatory steps before the charter takes effect. The decision drew criticism from Democratic lawmakers over Trump's ownership stake in the broader World Liberty Financial entity; Senators Elizabeth Warren, Angela Alsobrooks and Ruben Gallego said they would introduce the \"Ending Presidential Corruption in Banking Act\" to bar senior government officials from owning or controlling a bank.",
-      "detailZh": "OCC于8月14日表示，World Liberty Trust Co.的申请符合部分监管与政策要求，授予其国家信托银行牌照的初步有条件批准。该牌照将允许其从事资产管理及支付结算业务，并可直接发行稳定币，但不允许开展传统银行的吸收存款或放贷业务。此次批准为有条件性质而非最终批准——World Liberty仍需完成融资及其他监管程序，牌照方可正式生效。由于特朗普在更广泛的World Liberty Financial实体中持有股份，该决定招致民主党议员批评；参议员伊丽莎白·沃伦、安吉拉·阿尔索布鲁克斯及鲁本·加列戈表示，将提出《终结总统银行业腐败法案》，禁止政府高级官员持有或控制银行。"
+      "sourceUrl": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+      "titleEn": "Nvidia Backing $105 Billion in Financing for OpenAI Data Center in Ohio",
+      "conclusionEn": "Nvidia will guarantee up to $105 billion in financing for a new SB Energy-built AI data center in Pike County, Ohio, with OpenAI as anchor tenant on a 20-year lease under the Stargate buildout.",
+      "conclusionZh": "英伟达将为SB Energy在俄亥俄州派克县新建的AI数据中心提供最高1050亿美元的融资担保，OpenAI作为主力租户签下20年租约，纳入「星际之门」计划。",
+      "whyEn": "The deal is one of the largest AI infrastructure financing commitments to date, illustrating the enormous capital scale now required to build out AI compute capacity and deepening Nvidia's financial entanglement with its biggest customer, OpenAI.",
+      "whyZh": "这是迄今为止规模最大的AI基础设施融资承诺之一，凸显了如今扩建AI算力所需的资本规模之庞大，也令英伟达与其最大客户OpenAI的财务关系进一步加深。",
+      "detailEn": "A securities filing disclosed Monday that Nvidia will provide up to $105 billion in financing for the PORTS-Pike Technology Campus data center, which SB Energy will build and manage under a 20-year lease to OpenAI. The credit will support an initial 4.25 gigawatts of computing capacity, with an option to expand by another 3.75 gigawatts, and capacity is expected to come online in phases starting in 2028. Nvidia will separately invest $1.5 billion directly in SB Energy, while SB Energy and SoftBank plan to build power sources supporting 10 gigawatts of energy and invest at least $4.2 billion in regional grid infrastructure. OpenAI said the project will support 35,000 construction jobs through 2032 and 2,500 permanent positions.",
+      "detailZh": "一份周一披露的证券文件显示，英伟达将为PORTS-Pike科技园区数据中心提供最高1050亿美元融资，该数据中心由SB Energy建设运营，并与OpenAI签订20年租约。此笔信贷将支持初期4.25吉瓦的计算容量，并可选择再扩容3.75吉瓦，产能预计从2028年起分阶段上线。英伟达还将另外向SB Energy直接投资15亿美元，SB Energy与软银计划建设可支持10吉瓦电力的电源，并向区域电网基础设施投资至少42亿美元。OpenAI表示，该项目到2032年将带来3.5万个建筑岗位及2500个长期职位。"
     },
     {
       "category": "财经",
       "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/economy/articles/u-consumer-sentiment-falls-august-171815784.html",
-      "titleEn": "US Consumer Sentiment Falls in August 2026, Ending Recovery",
-      "conclusionEn": "The University of Michigan's preliminary Index of Consumer Sentiment dropped to 51.0 in August from 55.2 in July, a 7.6% decline that reversed two months of improvement as inflation worries linked to the Middle East conflict weighed on households.",
-      "conclusionZh": "密歇根大学消费者信心指数8月初值降至51.0，较7月的55.2下滑7.6%，中断此前两个月的回升，中东冲突引发的通胀担忧拖累民众信心。",
-      "whyEn": "The steep drop, well below the 54.5 consensus estimate, suggests American households are growing more pessimistic about inflation and job prospects even as stock markets hit record highs, a divergence that could weigh on consumer spending heading into the fall.",
-      "whyZh": "此次大幅下滑远低于54.5的市场预期，显示尽管股市屡创新高，美国家庭对通胀和就业前景却日趋悲观，这种分化可能拖累今秋消费支出。",
-      "detailEn": "The preliminary August reading fell short of the 54.5 consensus forecast and sits well below August 2025's level of 58.2. The Index of Consumer Expectations dropped 8.7% to 50.6, while the Current Economic Conditions gauge slid 5.5% to 51.8. Year-ahead inflation expectations rose to 4.3% from 4.2% in July, exceeding the 3.4% reading recorded in February just before the US-Israel war on Iran began. Sentiment fell across demographic and political lines, with Republicans posting the steepest drop — now 19% below pre-conflict readings and the lowest since the 2024 election — while lower-income households, older consumers and those without college degrees were also hit hard. Only 8% of consumers now expect their income growth to outpace inflation over the coming year.",
-      "detailZh": "8月初值低于54.5的市场预期，也远低于2025年8月58.2的水平。消费者预期指数下滑8.7%至50.6，当前经济状况指数下滑5.5%至51.8。未来一年通胀预期从7月的4.2%升至4.3%，超过2月美伊以战争爆发前3.4%的水平。信心下滑覆盖各人口及政治群体，其中共和党支持者跌幅最大——较冲突前水平低19%，为2024年大选以来最低——低收入家庭、老年消费者及无大学学历人群同样受到重创。目前仅8%的消费者预计未来一年收入增速能跑赢通胀。"
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-falls-5-sandisk-134015326.html",
+      "titleEn": "Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom",
+      "conclusionEn": "Memory and storage chipmakers Micron, SanDisk and Western Digital slid sharply on August 18 as rising Treasury yields pressured the most-extended trade in the semiconductor sector, with a broader chip index down 5.5%.",
+      "conclusionZh": "受国债收益率飙升冲击，存储芯片股Micron、SanDisk及Western Digital8月18日大幅下挫，半导体板块整体指数下跌5.5%，此前该板块涨幅居前、估值偏高。",
+      "whyEn": "The selloff signals that surging borrowing costs are now spilling over into the AI-driven chip rally that has powered much of this year's stock market gains, even though analysts see no change in underlying memory-chip demand or supply.",
+      "whyZh": "此次抛售显示借贷成本飙升已开始波及今年支撑股市大涨的AI芯片行情，尽管分析师认为存储芯片的实际供需基本面并未发生变化。",
+      "detailEn": "Micron Technology fell about 5%, SanDisk sank 6% and Western Digital dropped 7% as memory and storage stocks led a broader semiconductor pullback, with a closely watched chip-sector gauge down 5.5% on the day. Analysts characterized the move as a valuation reset driven by the rising cost of capital rather than any deterioration in demand: higher Treasury yields raise the discount rate applied to future earnings, hitting hardest the stocks whose valuations depend most on distant growth, while also raising financing costs for the fabrication capacity Micron and Western Digital are building. Despite the one-day drop, all three stocks remain up sharply for the year, with Micron up 255%, SanDisk up 653% and Western Digital up 211% year-to-date through Monday's close.",
+      "detailZh": "存储芯片股领跌本轮半导体板块回调，Micron Technology下跌约5%，SanDisk重挫6%，Western Digital下跌7%，密切关注的芯片板块指数当日下跌5.5%。分析师将此轮下跌归因于资金成本上升带来的估值重估，而非需求端出现恶化：国债收益率上升会提高未来盈利的贴现率，对估值高度依赖远期增长的个股冲击最大，同时也推高了Micron、Western Digital正在扩建的晶圆产能的融资成本。尽管单日跌幅明显，但截至周一收盘，三只股票今年以来仍大幅上涨，Micron累计涨255%，SanDisk涨653%，Western Digital涨211%。"
+    },
+    {
+      "category": "国际",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+      "titleEn": "Ukraine Launches One of Its Largest Aerial Attacks of the War, Killing at Least 6 People in Russia",
+      "conclusionEn": "Ukraine launched one of its largest drone attacks of the war on August 16, sending hundreds of drones into Russia, including roughly 600 toward Moscow, killing at least six people and damaging homes, a railway station and energy infrastructure.",
+      "conclusionZh": "乌克兰8月16日发动战争以来最大规模无人机袭击之一，数百架无人机袭击俄罗斯，其中约600架飞向莫斯科方向，造成至少6人死亡，多处民宅、火车站及能源设施受损。",
+      "whyEn": "The scale of the attack, described by Russian state media as the largest since the start of the year, signals a significant escalation in Ukraine's long-range strike campaign against Russian military and energy targets, raising the risk of a harsher Russian retaliatory response.",
+      "whyZh": "俄罗斯官方媒体称此次袭击规模为今年以来最大，标志着乌克兰对俄军事及能源目标的远程打击行动明显升级，也增加俄方展开更猛烈报复的风险。",
+      "detailEn": "Russia said it shot down more than 800 Ukrainian drones overnight, with state-run TASS calling it the largest such attack since the start of the year. In Russia's southwestern Rostov region, more than 150 drones targeted three towns, killing five people and damaging homes, a railway station, and sparking a forest fire; an 83-year-old man was also killed when a drone hit a private home in the Moscow region. Roughly 600 drones were detected heading toward Moscow itself. Ukraine has increasingly targeted energy facilities and logistics hubs, including major warehouse depots, as part of a stepped-up campaign this year using long-range missiles and drone swarms against Russian military-industrial and energy infrastructure.",
+      "detailZh": "俄罗斯称一夜之间击落逾800架乌克兰无人机，俄官方媒体塔斯社称这是今年以来规模最大的一次此类袭击。在俄罗斯西南部罗斯托夫州，150余架无人机袭击了三座城镇，造成5人死亡，多处民宅及一座火车站受损，并引发森林火灾；莫斯科州一处民宅遭无人机击中，一名83岁老人身亡。另有约600架无人机被侦测到飞向莫斯科市区方向。今年以来，乌克兰持续加大对能源设施及大型物流仓储枢纽的打击力度，作为其对俄军工与能源基础设施远程导弹与无人机蜂群攻势升级的一部分。"
+    },
+    {
+      "category": "财经",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
+      "titleEn": "Home Depot Reaffirms Guidance Amid 'Frozen Housing Market Conditions'",
+      "conclusionEn": "Home Depot beat quarterly estimates with revenue up 5.7% to $47.9 billion and comparable sales up 1.7%, while reaffirming full-year guidance despite describing housing market conditions as \"frozen.\"",
+      "conclusionZh": "Home Depot季度业绩超预期，营收同比增长5.7%至479亿美元，可比销售增长1.7%，公司维持全年业绩指引，但称当前住房市场处于「冻结」状态。",
+      "whyEn": "As the largest US home improvement retailer, Home Depot's results are a closely watched barometer for consumer spending and the broader housing market, and its warning about frozen housing activity adds to signs that high borrowing costs are weighing on big-ticket household decisions.",
+      "whyZh": "作为美国最大家居建材零售商，Home Depot的业绩是观察消费支出与楼市走势的重要风向标，其对住房市场「冻结」的警示进一步印证高借贷成本正在抑制家庭大额消费决策。",
+      "detailEn": "Home Depot reported fiscal second-quarter revenue of $47.9 billion, up 5.7% from a year earlier, with adjusted earnings per share rising 5.1% to $4.92, both ahead of Wall Street estimates. Comparable sales climbed 1.7%, beating the 0.9% consensus forecast, helped by resilient demand from professional contractors even as consumer-facing renovation spending stayed soft. Executives said elevated mortgage rates continue to discourage homeowners from listing or buying homes, freezing existing-home turnover and the larger renovation projects that typically follow a sale. Despite the tough housing backdrop, management reaffirmed its full-year sales and profit guidance, citing steady demand from professional customers and smaller discretionary projects.",
+      "detailZh": "Home Depot公布截至该财季营收为479亿美元，同比增长5.7%，调整后每股收益增长5.1%至4.92美元，均超华尔街预期。可比销售增长1.7%，超过市场预期的0.9%，主要受益于专业承包商需求保持韧性，尽管面向普通消费者的装修支出仍显疲软。管理层表示，高企的房贷利率持续抑制房主挂牌出售或购房的意愿，导致二手房换手及随之而来的大型装修项目陷入「冻结」。尽管楼市环境严峻，管理层仍维持全年销售与利润指引，理由是专业客户需求及小型自主装修项目需求保持稳定。"
+    },
+    {
+      "category": "科技",
+      "source": "Reuters",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/tesla-prepares-for-cybercab-launch-in-august-starting-with-rides-to-employees-the-information-reports-4863972",
+      "titleEn": "Tesla Prepares for Cybercab Launch in August, Starting With Rides to Employees",
+      "conclusionEn": "Tesla is preparing to launch its steering-wheel-free Cybercab robotaxi in Austin as soon as this month, starting with rides for its own employees on public roads before folding the vehicles into its commercial robotaxi service.",
+      "conclusionZh": "特斯拉计划最快本月在奥斯汀推出无方向盘的Cybercab无人驾驶出租车，先在公共道路上向员工提供试乘服务，随后再将车辆纳入商业化Robotaxi车队。",
+      "whyEn": "Cybercab is central to Tesla's bet on a driverless ride-hailing network and a key pillar of its valuation, so the pace and success of its public rollout will be closely watched by investors as a test of the company's autonomous-driving technology and regulatory standing.",
+      "whyZh": "Cybercab是特斯拉押注无人驾驶出行网络的核心，也是其估值的重要支柱，此次公开落地的进度与成效将是投资者检验其自动驾驶技术及监管进展的关键节点。",
+      "detailEn": "Tesla has told staff it aims to begin Cybercab rides on public roads in Austin this month, starting with employees before opening the service to the public days later, according to a report from The Information. The internal target is the end of August, though the timeline could slip and the regulatory status of commercial Cybercab service remains unclear. Preparation has included road testing, employee rides on private roads, and emergency-response training with Austin first responders. Cybercab was designed from the ground up for autonomous driving, with no steering wheel or pedals, distinguishing it from Tesla's existing Austin robotaxi fleet of roughly 186 Model Y vehicles that still rely on human safety monitors and modified full self-driving software.",
+      "detailZh": "据The Information报道，特斯拉已告知员工，计划本月在奥斯汀公共道路上启动Cybercab试乘，先面向内部员工，数日后再向公众开放服务。公司内部目标为8月底前落地，但时间表仍可能推迟，商业化Cybercab服务的监管状态也尚不明朗。此前准备工作包括道路测试、员工在私有道路上的试乘，以及与奥斯汀急救部门联合开展的应急响应培训。Cybercab从设计之初即面向全自动驾驶场景，取消了方向盘与踏板，这与特斯拉目前在奥斯汀运营、仍配备安全员并搭载改良版FSD软件的约186辆Model Y车队有本质区别。"
     }
   ],
   "businessTips": [
     {
-      "term": "Economies of Scale",
+      "term": "Network Effects",
       "category": "通用商业",
-      "explanationEn": "Economies of scale describe how a company's average cost per unit falls as its total production volume rises, because fixed costs like factories, software licenses, or R&D get spread across more units sold. This is a core reason larger competitors can often underprice smaller rivals while still protecting margins, and why many industries naturally consolidate over time. It only holds up to a point — beyond a certain size, coordination costs and complexity can cause diseconomies of scale to set in instead.",
-      "explanationZh": "规模经济是指企业总产量增加时，单位产品的平均成本随之下降，因为工厂、软件许可、研发等固定成本可以分摊到更多产品上。这也是大公司常能在压低售价的同时仍保持利润的核心原因，也解释了为何许多行业会随时间自然走向整合。但规模经济效应并非无限——超过一定规模后，协调成本与组织复杂度上升，反而可能出现「规模不经济」。",
-      "exampleEn": "A large cloud computing provider spends billions building data centers, but because millions of customers share that infrastructure, its cost per gigabyte of storage keeps dropping — letting it undercut a small startup that has to build or rent similar infrastructure for a fraction of the customer base.",
-      "exampleZh": "一家大型云计算服务商投入数十亿美元建设数据中心，但由于数百万客户共享这些基础设施，其每GB存储的成本不断下降——这使其能够以更低价格击败一家客户基数小得多、却要为类似基础设施建设或租用买单的小型创业公司。"
+      "explanationEn": "A network effect occurs when a product or service becomes more valuable to each user as more people use it — think of a marketplace, social platform, or payment network. This dynamic can create a powerful competitive moat, because a market leader with more users naturally attracts even more users, making it hard for smaller rivals to catch up even with a better product. The flip side is that network effects can work in reverse too: once users start leaving, the product becomes less useful for those who remain, which can trigger a rapid downward spiral.",
+      "explanationZh": "网络效应是指一款产品或服务的使用者越多，它对每个用户的价值就越高——典型例子包括交易市场、社交平台或支付网络。这种动态能形成强大的竞争壁垒，因为用户越多的市场领先者会自然吸引更多新用户，使小竞争对手即便产品更优也难以追赶。但网络效应也可能反向运作：一旦用户开始流失，产品对留存用户的价值也随之下降，可能引发快速的连锁式衰退。",
+      "exampleEn": "A ride-hailing app becomes more useful to riders as more drivers join, because wait times shrink — and more riders in turn attracts more drivers chasing fares, letting the largest platform in a city keep out new entrants even if a challenger app takes a smaller commission.",
+      "exampleZh": "一款打车软件的司机越多，乘客等车时间就越短，从而对乘客越有吸引力；而乘客越多又会吸引更多司机为抢单加入平台。这使得某座城市内规模最大的平台即便收取的抽成更高，也能有效阻挡收费更低的新竞争者进入。"
     },
     {
-      "term": "Customer Acquisition Cost (CAC)",
+      "term": "Minimum Viable Product (MVP)",
       "category": "创业副业",
-      "explanationEn": "CAC is the total sales and marketing spend divided by the number of new customers gained in a given period, and it's one of the first numbers any founder should track. A side hustle or startup can look like it's growing fast, but if CAC is higher than what each customer pays over their lifetime (LTV), the business is losing money on every new signup no matter how good the top-line growth looks. Founders often only discover this problem after scaling ad spend, which is why tracking CAC from day one matters.",
-      "explanationZh": "获客成本（CAC）是指某段时期内的销售与营销总支出除以新增客户数，是创业者最早就该追踪的关键指标之一。副业或初创企业看起来增长迅猛，但如果获客成本高于每位客户带来的终身价值（LTV），那么无论表面增速多好看，每新增一个客户其实都在亏钱。许多创业者往往是在扩大广告投放后才发现这个问题，这正是为什么从第一天起就该追踪CAC。",
-      "exampleEn": "A side-hustle founder selling a $30 online course spends $40 in Instagram ads to land each new customer. Even if hundreds of people sign up, the business loses $10 per customer before accounting for any other costs — a warning sign that shows up clearly once CAC is tracked against price, but can easily hide behind a rising follower count.",
-      "exampleZh": "一位副业创业者销售一门售价30美元的在线课程，平均每获得一位新客户就要花费40美元的Instagram广告费。即便有数百人报名，在计入其他成本之前，公司实际上每单就亏损10美元——这一警讯只有在将CAC与售价对比时才会清晰显现，而单看粉丝数增长很容易将其掩盖。"
+      "explanationEn": "A minimum viable product is the simplest version of a new offering that still lets you test a core assumption with real customers, before investing time and money into building every feature you imagine it eventually needs. The goal isn't to launch something incomplete for its own sake, but to get real market feedback as cheaply and quickly as possible, so you can learn whether people actually want what you're building before committing serious resources. Many side-hustle founders skip this step and spend months polishing a product nobody has validated demand for.",
+      "explanationZh": "最小可行产品（MVP）是指新产品或服务中最精简、但足以让你用真实客户验证核心假设的版本，目的是在投入大量时间和资金打造「设想中的完整功能」之前先行测试。MVP的意义不在于故意推出不完整的东西，而是要以最低成本、最快速度获得真实的市场反馈，从而判断人们是否真的需要你正在打造的产品，再决定是否投入更多资源。许多副业创业者会跳过这一步，花费数月打磨一款尚未验证过市场需求的产品。",
+      "exampleEn": "Instead of spending six months building a full mobile app for a meal-planning side business, a founder first sells the same weekly meal plans manually through a simple landing page and email list — if 50 people pay for it, that validates demand cheaply before any code gets written.",
+      "exampleZh": "与其花六个月时间为一项餐食规划副业开发完整的手机App，创业者可以先通过一个简单的落地页和邮件订阅列表，人工提供同样的每周膳食计划——如果有50人愿意付费，就已经以极低成本验证了市场需求，之后再考虑投入开发。"
     },
     {
-      "term": "Dollar-Cost Averaging (DCA)",
+      "term": "Price-to-Earnings (P/E) Ratio",
       "category": "投资金融",
-      "explanationEn": "Dollar-cost averaging means investing a fixed amount of money at regular intervals — say, monthly — regardless of whether the market is up or down, rather than trying to time a single lump-sum purchase. Because the fixed amount buys more shares when prices are low and fewer when prices are high, it naturally lowers your average cost per share over time and removes the emotional guesswork of trying to pick the perfect entry point. It doesn't guarantee better returns than investing a lump sum all at once, but it reduces the risk of investing everything right before a downturn.",
-      "explanationZh": "定投（美元成本平均法）是指无论市场涨跌，都按固定金额定期（例如每月）投资，而不是试图一次性择时买入。由于固定金额在价格低时能买到更多份额、价格高时买到较少份额，长期下来会自然拉低平均每股成本，也省去了猜测最佳入场时机的心理负担。定投并不保证收益一定优于一次性投入，但能降低「刚好在下跌前全仓买入」的风险。",
-      "exampleEn": "An investor puts $500 into an index fund on the first of every month rather than investing $6,000 all at once in January. When the market dips in March, that month's $500 buys more shares at a lower price, smoothing out the investor's average purchase cost over the year compared with a single lump-sum bet on January's price.",
-      "exampleZh": "一位投资者选择每月1日定投500美元到指数基金，而不是在1月一次性投入6000美元。当市场在3月下跌时，当月的500美元能以更低价格买到更多份额，相比一月一次性押注单一价格，全年下来的平均购买成本被有效拉平。"
+      "explanationEn": "The P/E ratio divides a company's current share price by its earnings per share, giving a quick sense of how much investors are paying for each dollar of profit the company generates. A high P/E can mean the market expects strong future growth, or it can mean the stock is simply overpriced relative to its current earnings — the ratio alone doesn't tell you which. It's most useful when compared against a company's own historical average or against similar companies in the same industry, rather than viewed as an absolute good-or-bad number on its own.",
+      "explanationZh": "市盈率（P/E）是用公司当前股价除以每股收益计算得出，能快速反映投资者为公司每一美元利润愿意支付多少价格。较高的市盈率既可能意味着市场预期公司未来会强劲增长，也可能只是股价相对当前盈利偏贵——单看这个数字本身并无法判断是哪一种。市盈率最有参考价值的用法，是与公司自身历史均值或同行业可比公司进行比较，而不是把它当作一个绝对的「好」或「坏」的标准来看待。",
+      "exampleEn": "Two software companies both trade at $50 a share, but one earns $1 per share (a P/E of 50) while the other earns $5 per share (a P/E of 10) — on that measure alone, the second looks cheaper relative to its current profits, though an investor would still need to check why the market is willing to pay so much more for each dollar the first company earns.",
+      "exampleZh": "两家软件公司股价都是50美元，但一家每股收益为1美元（市盈率50倍），另一家每股收益为5美元（市盈率10倍）——仅从这个指标看，后者相对当前盈利显得更「便宜」，但投资者仍需进一步了解，为何市场愿意为前者每一美元的盈利支付高得多的价格。"
     }
   ]
 }
