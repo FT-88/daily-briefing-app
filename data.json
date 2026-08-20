@@ -1,116 +1,128 @@
 {
-  "date": "2026-08-19",
-  "updatedAt": "2026-08-19T15:17:27+10:00",
+  "date": "2026-08-20",
+  "updatedAt": "2026-08-20T12:15:00+10:00",
   "news": [
     {
-      "category": "国际",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-18/trump-takes-hard-line-on-iran-as-hormuz-standoff-drags-on",
-      "titleEn": "Trump Refuses Iran Truce Extension, Hormuz Standoff Raises Oil Prices",
-      "conclusionEn": "President Trump said he will not extend the US-Iran ceasefire memorandum that expired Monday and threatened to \"bomb\" Oman if it interferes with US operations, sending Brent crude above $91 a barrel.",
-      "conclusionZh": "特朗普宣布不再延长已于周一到期的美伊停火备忘录，并威胁若阿曼阻挠美方行动将「轰炸」阿曼，布伦特原油随之升破每桶91美元。",
-      "whyEn": "The collapse of the truce raises the risk of renewed US-Israel-Iran military conflict and a prolonged standoff over the Strait of Hormuz, a chokepoint for roughly a fifth of global oil supply, with direct implications for energy prices and inflation worldwide.",
-      "whyZh": "停火协议破裂加剧美以伊再度爆发军事冲突的风险，也令占全球约五分之一石油供应的霍尔木兹海峡僵局持续，直接冲击全球能源价格与通胀走势。",
-      "detailEn": "Asked in the Oval Office whether he would seek an extension of the memorandum of understanding signed with Iran in mid-June, Trump said simply \"no.\" The 60-day window it created for a lasting peace deal technically lapsed Monday, and the agreement had already been largely disregarded by both sides for weeks, with military operations resuming in the region since mid-July. Trump also threatened to \"bomb\" Oman if the Gulf state obstructed US operations near the Strait of Hormuz, where a standoff over shipping access has left talks deadlocked. Brent crude climbed above $91 a barrel and West Texas Intermediate traded near $85, both near multi-month highs, as traders priced in a longer disruption to Middle East energy flows.",
-      "detailZh": "在被问及是否会延长6月中旬与伊朗签署的谅解备忘录时，特朗普在椭圆形办公室简短回答「不会」。该协议原本为达成持久和平协议设定了60天窗口期，已于周一正式到期，而实际上双方数周来已基本无视协议内容，地区军事行动自7月中旬起便已恢复。特朗普还威胁称，若海湾国家阿曼阻挠美方在霍尔木兹海峡附近的行动，将对其实施「轰炸」，该海峡的航运准入僵局已令相关谈判陷入停滞。布伦特原油升破每桶91美元，西德克萨斯中质原油报每桶约85美元，均接近数月高位，交易员正为中东能源供应的长期中断风险定价。"
-    },
-    {
       "category": "财经",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-17/us-bond-selloff-drives-30-year-yields-to-the-highest-since-2007",
-      "titleEn": "US Bond Selloff Drives 30-Year Yields to Highest Since 2007",
-      "conclusionEn": "The yield on the 30-year US Treasury bond climbed to about 5.31% on August 17, its highest level since 2007, as heavy government debt issuance, sticky inflation and Middle East oil-price risk combined to push long-term borrowing costs to a near-two-decade high.",
-      "conclusionZh": "美国30年期国债收益率8月17日升至约5.31%，为2007年以来最高水平，政府发债规模庞大、通胀顽固及中东油价风险叠加，将长期借贷成本推至近20年新高。",
-      "whyEn": "Rising long-term yields raise borrowing costs for mortgages, corporate debt and government financing across the economy, and the move reflects deepening investor anxiety about US fiscal deficits and inflation just as markets are also digesting an escalating Iran conflict.",
-      "whyZh": "长期收益率上升将推高全社会的房贷、企业债与政府融资成本，此番走势也反映出投资者对美国财政赤字与通胀的担忧持续加深，恰逢市场同时消化伊朗冲突升级的影响。",
-      "detailEn": "The selloff was driven by several converging pressures: the US government continues to issue large volumes of debt to fund persistent budget deficits, requiring higher yields to attract buyers; inflation has proven stickier than the Federal Reserve hoped, with tariffs and rising energy costs keeping price pressures elevated; and oil prices above $90 a barrel amid the stalled US-Iran ceasefire have added further inflation risk. Heavy fundraising by AI infrastructure companies competing for capital in debt markets, along with softer demand for long-dated Treasuries, added additional upward pressure. Mortgage rates and other long-term borrowing costs are expected to track the move higher.",
-      "detailZh": "此轮抛售由多重因素交织推动：美国政府为填补持续的财政赤字持续大规模发债，需以更高收益率吸引买家；通胀顽固程度超出美联储预期，关税及能源成本上升持续推高物价压力；而美伊停火陷入僵局、油价升破每桶90美元，进一步加剧了通胀风险。此外，AI基础设施企业在债券市场大举融资与长期国债需求走弱，也带来额外上行压力。房贷利率及其他长期借贷成本预计将随之走高。"
-    },
-    {
-      "category": "科技",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-      "titleEn": "Nvidia Backing $105 Billion in Financing for OpenAI Data Center in Ohio",
-      "conclusionEn": "Nvidia will guarantee up to $105 billion in financing for a new SB Energy-built AI data center in Pike County, Ohio, with OpenAI as anchor tenant on a 20-year lease under the Stargate buildout.",
-      "conclusionZh": "英伟达将为SB Energy在俄亥俄州派克县新建的AI数据中心提供最高1050亿美元的融资担保，OpenAI作为主力租户签下20年租约，纳入「星际之门」计划。",
-      "whyEn": "The deal is one of the largest AI infrastructure financing commitments to date, illustrating the enormous capital scale now required to build out AI compute capacity and deepening Nvidia's financial entanglement with its biggest customer, OpenAI.",
-      "whyZh": "这是迄今为止规模最大的AI基础设施融资承诺之一，凸显了如今扩建AI算力所需的资本规模之庞大，也令英伟达与其最大客户OpenAI的财务关系进一步加深。",
-      "detailEn": "A securities filing disclosed Monday that Nvidia will provide up to $105 billion in financing for the PORTS-Pike Technology Campus data center, which SB Energy will build and manage under a 20-year lease to OpenAI. The credit will support an initial 4.25 gigawatts of computing capacity, with an option to expand by another 3.75 gigawatts, and capacity is expected to come online in phases starting in 2028. Nvidia will separately invest $1.5 billion directly in SB Energy, while SB Energy and SoftBank plan to build power sources supporting 10 gigawatts of energy and invest at least $4.2 billion in regional grid infrastructure. OpenAI said the project will support 35,000 construction jobs through 2032 and 2,500 permanent positions.",
-      "detailZh": "一份周一披露的证券文件显示，英伟达将为PORTS-Pike科技园区数据中心提供最高1050亿美元融资，该数据中心由SB Energy建设运营，并与OpenAI签订20年租约。此笔信贷将支持初期4.25吉瓦的计算容量，并可选择再扩容3.75吉瓦，产能预计从2028年起分阶段上线。英伟达还将另外向SB Energy直接投资15亿美元，SB Energy与软银计划建设可支持10吉瓦电力的电源，并向区域电网基础设施投资至少42亿美元。OpenAI表示，该项目到2032年将带来3.5万个建筑岗位及2500个长期职位。"
+      "sourceUrl": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+      "titleEn": "Treasury Announces Upscaled Buyback Operation for Longer-Term Debt, Sending Yields Lower",
+      "conclusionEn": "The US Treasury said August 19 it will double the size of its buyback operations for longer-dated bonds, from $2 billion to at least $4 billion per operation, sending the 30-year yield down about 10 basis points to roughly 5.19% and lifting the Dow, S&P 500 and Nasdaq.",
+      "conclusionZh": "美国财政部8月19日宣布将长期国债回购操作规模翻倍至每次至少40亿美元，30年期收益率应声下跌约10个基点至5.19%左右，带动三大股指齐涨。",
+      "whyEn": "The move is a direct government intervention to cool a bond selloff that had pushed 30-year yields to their highest since 2007, and its success or failure will shape mortgage rates, corporate borrowing costs and stock valuations worldwide in the weeks ahead.",
+      "whyZh": "此举是美国政府直接出手平息近期国债抛售——此前30年期收益率已升至2007年以来最高，其成效将左右未来数周全球房贷利率、企业融资成本及股市估值走向。",
+      "detailEn": "Treasury Secretary Scott Bessent's department said the enlarged buybacks, covering the 10-to-20-year and 20-to-30-year sectors, will run from September 9 through November 4. The announcement immediately reversed part of the recent selloff: the 10-year yield fell from 4.68% to about 4.63%, the dollar slid to a three-month low, and equities rallied, with the Dow adding about 120 points, the S&P 500 gaining 0.21% to a fresh high near 7,708 and the Nasdaq up 0.16%. The buyback expansion follows days of investor anxiety over heavy government debt issuance, sticky inflation and oil prices near $90 a barrel amid the Iran standoff, all of which had combined to drive long-term borrowing costs to a near two-decade high. Analysts said the move signals the Treasury's growing concern about market functioning at the long end of the curve, though it does not address the underlying deficit pressures driving the selloff.",
+      "detailZh": "财政部长贝森特领导的财政部表示，扩大后的回购操作将覆盖10至20年期及20至30年期国债，执行时间为9月9日至11月4日。消息公布后市场立即部分收复此前跌势：10年期收益率从4.68%降至约4.63%，美元跌至三个月低点，股市普遍上涨，道指上涨约120点，标普500指数涨0.21%创近7708点新高，纳指涨0.16%。此前受政府大规模发债、通胀顽固及伊朗局势下油价逼近每桶90美元等因素叠加影响，长期借贷成本已升至近20年高位，投资者情绪持续承压。分析师认为，此举反映财政部对国债长端市场运行状况的担忧正在加深，但并未从根本上解决推动此轮抛售的赤字压力问题。"
     },
     {
       "category": "财经",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-falls-5-sandisk-134015326.html",
-      "titleEn": "Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom",
-      "conclusionEn": "Memory and storage chipmakers Micron, SanDisk and Western Digital slid sharply on August 18 as rising Treasury yields pressured the most-extended trade in the semiconductor sector, with a broader chip index down 5.5%.",
-      "conclusionZh": "受国债收益率飙升冲击，存储芯片股Micron、SanDisk及Western Digital8月18日大幅下挫，半导体板块整体指数下跌5.5%，此前该板块涨幅居前、估值偏高。",
-      "whyEn": "The selloff signals that surging borrowing costs are now spilling over into the AI-driven chip rally that has powered much of this year's stock market gains, even though analysts see no change in underlying memory-chip demand or supply.",
-      "whyZh": "此次抛售显示借贷成本飙升已开始波及今年支撑股市大涨的AI芯片行情，尽管分析师认为存储芯片的实际供需基本面并未发生变化。",
-      "detailEn": "Micron Technology fell about 5%, SanDisk sank 6% and Western Digital dropped 7% as memory and storage stocks led a broader semiconductor pullback, with a closely watched chip-sector gauge down 5.5% on the day. Analysts characterized the move as a valuation reset driven by the rising cost of capital rather than any deterioration in demand: higher Treasury yields raise the discount rate applied to future earnings, hitting hardest the stocks whose valuations depend most on distant growth, while also raising financing costs for the fabrication capacity Micron and Western Digital are building. Despite the one-day drop, all three stocks remain up sharply for the year, with Micron up 255%, SanDisk up 653% and Western Digital up 211% year-to-date through Monday's close.",
-      "detailZh": "存储芯片股领跌本轮半导体板块回调，Micron Technology下跌约5%，SanDisk重挫6%，Western Digital下跌7%，密切关注的芯片板块指数当日下跌5.5%。分析师将此轮下跌归因于资金成本上升带来的估值重估，而非需求端出现恶化：国债收益率上升会提高未来盈利的贴现率，对估值高度依赖远期增长的个股冲击最大，同时也推高了Micron、Western Digital正在扩建的晶圆产能的融资成本。尽管单日跌幅明显，但截至周一收盘，三只股票今年以来仍大幅上涨，Micron累计涨255%，SanDisk涨653%，Western Digital涨211%。"
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+      "titleEn": "Fed Minutes July 2026: Officials Saw Need for Rate Hike if Inflation Doesn't Cool",
+      "conclusionEn": "Minutes released August 19 from the Fed's July 28-29 meeting showed a 9-3 vote to hold rates, with dissenting presidents Beth Hammack, Neel Kashkari and Lorie Logan all preferring a quarter-point hike amid broader concern that policy may not be tight enough to curb inflation.",
+      "conclusionZh": "美联储8月19日公布的7月会议纪要显示，当次会议以9比3投票维持利率不变，克利夫兰、明尼阿波利斯和达拉斯三位联储主席均主张加息25个基点，反映出更广泛的鹰派担忧。",
+      "whyEn": "The unusually fractured vote signals that a rate cut many investors had been hoping for is far from guaranteed and could instead give way to tightening if inflation stays elevated, directly affecting borrowing costs for consumers and businesses globally.",
+      "whyZh": "如此罕见的分裂投票表明市场原本期待的降息远非板上钉钉，若通胀持续高企甚至可能转向加息，将直接影响全球消费者与企业的融资成本。",
+      "detailEn": "The minutes described the Federal Open Market Committee's most fractured vote in years: Cleveland Fed President Beth Hammack, Minneapolis Fed President Neel Kashkari and Dallas Fed President Lorie Logan all dissented in favor of raising the federal funds rate by a quarter point, while the committee as a whole held its target range at 3.5%-3.75%. Minutes quoted participants saying that policy tightening would likely be necessary if inflation did not decline, with some officials worried current financial conditions were not restrictive enough to bring inflation back to the Fed's 2% goal. Separately, Fed Chair Kevin Warsh raised the idea of cutting the number of annual FOMC meetings from eight to six, arguing it would give policymakers more time to assess incoming data between decisions. The hawkish tone caught some investors off guard given market expectations for near-term rate cuts.",
+      "detailZh": "会议纪要显示，美联储联邦公开市场委员会（FOMC）此次投票为多年来分歧最大的一次：克利夫兰联储主席哈马克、明尼阿波利斯联储主席卡什卡利及达拉斯联储主席洛根均投下反对票，主张加息25个基点，而委员会整体仍维持3.5%至3.75%的联邦基金利率目标区间不变。纪要引述与会者观点称，若通胀未能回落，收紧政策很可能是必要之举，部分官员担忧当前金融条件尚不足以将通胀拉回2%的目标水平。此外，美联储主席沃什提出将FOMC年度会议次数从8次减至6次的设想，认为这样能让决策者有更多时间评估两次会议之间的最新数据。鉴于市场此前普遍预期短期内会降息，此次会议纪要的鹰派基调令部分投资者感到意外。"
+    },
+    {
+      "category": "国际",
+      "source": "NBC News",
+      "sourceUrl": "https://www.nbcnews.com/world/iran/united-arab-emirates-suspends-trade-iran-coming-renewed-missile-fire-rcna593433",
+      "titleEn": "United Arab Emirates Suspends Trade With Iran After Coming Under Renewed Missile Fire",
+      "conclusionEn": "The UAE suspended all trade and financial transactions with Iran on August 19 after two ballistic missiles were fired toward the Emirates and splashed into the Persian Gulf, triggering nationwide shelter warnings; Iran denied launching them.",
+      "conclusionZh": "阿联酋8月19日因两枚弹道导弹飞向本国海域并触发全国避难警报，宣布暂停与伊朗的一切贸易及金融往来，伊朗方面否认发射导弹。",
+      "whyEn": "The suspension further isolates Iran, which is already under US sanctions and blockade, and signals that Gulf states are hardening their stance as the wider Iran conflict continues to threaten regional shipping and trade routes near the Strait of Hormuz.",
+      "whyZh": "此举进一步孤立本已受美国制裁与封锁的伊朗，也显示海湾国家在伊朗冲突持续威胁霍尔木兹海峡周边航运与贸易通道之际，正采取更强硬立场。",
+      "detailEn": "Incoming ballistic missile fire triggered nationwide shelter-in-place warnings across the UAE on the night of August 18, the first such alarm in weeks. Two missiles were reported fired toward the Emirates and both splashed down in the Persian Gulf without causing casualties. In response, the UAE Foreign Ministry announced it would halt all trade and financial transactions with Iran \"until further notice.\" Iranian Foreign Ministry spokesperson Esmail Baghaei denied that Iran had launched any missiles toward the UAE. The incident adds the UAE, a fellow BRICS member, to the list of Gulf states directly affected by the ongoing US-Israel-Iran conflict, which has already disrupted regional flights and shipping.",
+      "detailZh": "8月18日夜间，来袭弹道导弹触发阿联酋全国范围的避难警报，为数周以来首次拉响此类警报。据报道有两枚导弹飞向阿联酋，均落入波斯湾海域，未造成人员伤亡。阿联酋外交部随即宣布，将暂停与伊朗的一切贸易及金融往来，「直至另行通知」。伊朗外交部发言人巴哈埃否认伊朗曾向阿联酋发射导弹。此事件使同为金砖国家成员的阿联酋，也加入了受美以伊冲突持续影响的海湾国家行列，该冲突此前已扰乱地区航班与航运。"
     },
     {
       "category": "国际",
       "source": "NPR",
-      "sourceUrl": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-      "titleEn": "Ukraine Launches One of Its Largest Aerial Attacks of the War, Killing at Least 6 People in Russia",
-      "conclusionEn": "Ukraine launched one of its largest drone attacks of the war on August 16, sending hundreds of drones into Russia, including roughly 600 toward Moscow, killing at least six people and damaging homes, a railway station and energy infrastructure.",
-      "conclusionZh": "乌克兰8月16日发动战争以来最大规模无人机袭击之一，数百架无人机袭击俄罗斯，其中约600架飞向莫斯科方向，造成至少6人死亡，多处民宅、火车站及能源设施受损。",
-      "whyEn": "The scale of the attack, described by Russian state media as the largest since the start of the year, signals a significant escalation in Ukraine's long-range strike campaign against Russian military and energy targets, raising the risk of a harsher Russian retaliatory response.",
-      "whyZh": "俄罗斯官方媒体称此次袭击规模为今年以来最大，标志着乌克兰对俄军事及能源目标的远程打击行动明显升级，也增加俄方展开更猛烈报复的风险。",
-      "detailEn": "Russia said it shot down more than 800 Ukrainian drones overnight, with state-run TASS calling it the largest such attack since the start of the year. In Russia's southwestern Rostov region, more than 150 drones targeted three towns, killing five people and damaging homes, a railway station, and sparking a forest fire; an 83-year-old man was also killed when a drone hit a private home in the Moscow region. Roughly 600 drones were detected heading toward Moscow itself. Ukraine has increasingly targeted energy facilities and logistics hubs, including major warehouse depots, as part of a stepped-up campaign this year using long-range missiles and drone swarms against Russian military-industrial and energy infrastructure.",
-      "detailZh": "俄罗斯称一夜之间击落逾800架乌克兰无人机，俄官方媒体塔斯社称这是今年以来规模最大的一次此类袭击。在俄罗斯西南部罗斯托夫州，150余架无人机袭击了三座城镇，造成5人死亡，多处民宅及一座火车站受损，并引发森林火灾；莫斯科州一处民宅遭无人机击中，一名83岁老人身亡。另有约600架无人机被侦测到飞向莫斯科市区方向。今年以来，乌克兰持续加大对能源设施及大型物流仓储枢纽的打击力度，作为其对俄军工与能源基础设施远程导弹与无人机蜂群攻势升级的一部分。"
-    },
-    {
-      "category": "财经",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
-      "titleEn": "Home Depot Reaffirms Guidance Amid 'Frozen Housing Market Conditions'",
-      "conclusionEn": "Home Depot beat quarterly estimates with revenue up 5.7% to $47.9 billion and comparable sales up 1.7%, while reaffirming full-year guidance despite describing housing market conditions as \"frozen.\"",
-      "conclusionZh": "Home Depot季度业绩超预期，营收同比增长5.7%至479亿美元，可比销售增长1.7%，公司维持全年业绩指引，但称当前住房市场处于「冻结」状态。",
-      "whyEn": "As the largest US home improvement retailer, Home Depot's results are a closely watched barometer for consumer spending and the broader housing market, and its warning about frozen housing activity adds to signs that high borrowing costs are weighing on big-ticket household decisions.",
-      "whyZh": "作为美国最大家居建材零售商，Home Depot的业绩是观察消费支出与楼市走势的重要风向标，其对住房市场「冻结」的警示进一步印证高借贷成本正在抑制家庭大额消费决策。",
-      "detailEn": "Home Depot reported fiscal second-quarter revenue of $47.9 billion, up 5.7% from a year earlier, with adjusted earnings per share rising 5.1% to $4.92, both ahead of Wall Street estimates. Comparable sales climbed 1.7%, beating the 0.9% consensus forecast, helped by resilient demand from professional contractors even as consumer-facing renovation spending stayed soft. Executives said elevated mortgage rates continue to discourage homeowners from listing or buying homes, freezing existing-home turnover and the larger renovation projects that typically follow a sale. Despite the tough housing backdrop, management reaffirmed its full-year sales and profit guidance, citing steady demand from professional customers and smaller discretionary projects.",
-      "detailZh": "Home Depot公布截至该财季营收为479亿美元，同比增长5.7%，调整后每股收益增长5.1%至4.92美元，均超华尔街预期。可比销售增长1.7%，超过市场预期的0.9%，主要受益于专业承包商需求保持韧性，尽管面向普通消费者的装修支出仍显疲软。管理层表示，高企的房贷利率持续抑制房主挂牌出售或购房的意愿，导致二手房换手及随之而来的大型装修项目陷入「冻结」。尽管楼市环境严峻，管理层仍维持全年销售与利润指引，理由是专业客户需求及小型自主装修项目需求保持稳定。"
+      "sourceUrl": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
+      "titleEn": "Israel Strikes an Air Base in Syria to Prevent Turkish Troops From Deploying",
+      "conclusionEn": "Israel carried out eight strikes on the Abu Duhur air base in northwest Syria on August 18, saying it was blocking a Turkish troop deployment there, while Turkey denied having any presence at the base and condemned the attack.",
+      "conclusionZh": "以色列8月18日对叙利亚西北部阿布杜胡尔空军基地实施8次打击，称此举是为阻止土耳其军队进驻，土耳其否认在该基地有驻军并谴责此次袭击。",
+      "whyEn": "The strikes raise the risk of direct friction between Israel and NATO member Turkey inside Syria, adding a new front of regional instability just as the broader US-Israel-Iran conflict is already disrupting Middle East trade and energy flows.",
+      "whyZh": "此次打击加剧了以色列与北约成员国土耳其在叙利亚境内直接摩擦的风险，为本已因美以伊冲突而动荡的中东局势再添新的不稳定因素。",
+      "detailEn": "The strikes hit the runway of the Abu Duhur air base in Idlib province, causing damage but no casualties, Syrian state TV reported. Israeli Prime Minister Benjamin Netanyahu's office said Syria had been \"on the verge of breaching\" an agreed security status quo by allowing Turkish forces to deploy at the base. Syria's foreign minister called the strikes \"an unjustified provocation\" and a violation of sovereignty, while Turkey's foreign ministry rejected Israel's claims of a Turkish presence and called for the international community to hold Israel accountable. Tom Barrack, the US ambassador to Turkey and special envoy to Syria, said Washington was \"deeply concerned\" the strikes constituted an unnecessary escalation that does not advance regional stability.",
+      "detailZh": "据叙利亚官方电视台报道，此次打击命中伊德利卜省阿布杜胡尔空军基地的跑道，造成设施受损但无人员伤亡。以色列总理内塔尼亚胡办公室表示，叙利亚允许土耳其军队进驻该基地，已「濒临破坏」双方此前商定的安全现状。叙利亚外长谴责此次打击是「不正当的挑衅」，侵犯叙主权；土耳其外交部则否认该基地有土军驻扎，并呼吁国际社会追究以色列责任。美国驻土耳其大使兼叙利亚事务特使巴拉克表示，华盛顿对此次打击「深感担忧」，认为这是无助于地区稳定的不必要升级行为。"
     },
     {
       "category": "科技",
-      "source": "Reuters",
-      "sourceUrl": "https://www.investing.com/news/stock-market-news/tesla-prepares-for-cybercab-launch-in-august-starting-with-rides-to-employees-the-information-reports-4863972",
-      "titleEn": "Tesla Prepares for Cybercab Launch in August, Starting With Rides to Employees",
-      "conclusionEn": "Tesla is preparing to launch its steering-wheel-free Cybercab robotaxi in Austin as soon as this month, starting with rides for its own employees on public roads before folding the vehicles into its commercial robotaxi service.",
-      "conclusionZh": "特斯拉计划最快本月在奥斯汀推出无方向盘的Cybercab无人驾驶出租车，先在公共道路上向员工提供试乘服务，随后再将车辆纳入商业化Robotaxi车队。",
-      "whyEn": "Cybercab is central to Tesla's bet on a driverless ride-hailing network and a key pillar of its valuation, so the pace and success of its public rollout will be closely watched by investors as a test of the company's autonomous-driving technology and regulatory standing.",
-      "whyZh": "Cybercab是特斯拉押注无人驾驶出行网络的核心，也是其估值的重要支柱，此次公开落地的进度与成效将是投资者检验其自动驾驶技术及监管进展的关键节点。",
-      "detailEn": "Tesla has told staff it aims to begin Cybercab rides on public roads in Austin this month, starting with employees before opening the service to the public days later, according to a report from The Information. The internal target is the end of August, though the timeline could slip and the regulatory status of commercial Cybercab service remains unclear. Preparation has included road testing, employee rides on private roads, and emergency-response training with Austin first responders. Cybercab was designed from the ground up for autonomous driving, with no steering wheel or pedals, distinguishing it from Tesla's existing Austin robotaxi fleet of roughly 186 Model Y vehicles that still rely on human safety monitors and modified full self-driving software.",
-      "detailZh": "据The Information报道，特斯拉已告知员工，计划本月在奥斯汀公共道路上启动Cybercab试乘，先面向内部员工，数日后再向公众开放服务。公司内部目标为8月底前落地，但时间表仍可能推迟，商业化Cybercab服务的监管状态也尚不明朗。此前准备工作包括道路测试、员工在私有道路上的试乘，以及与奥斯汀急救部门联合开展的应急响应培训。Cybercab从设计之初即面向全自动驾驶场景，取消了方向盘与踏板，这与特斯拉目前在奥斯汀运营、仍配备安全员并搭载改良版FSD软件的约186辆Model Y车队有本质区别。"
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/alibaba-sell-gaming-unit-1-070500959.html",
+      "titleEn": "Alibaba to Sell Gaming Unit for $1.5 Billion in Strategic Shift to Artificial Intelligence",
+      "conclusionEn": "Alibaba agreed to sell its gaming studio Lingxi Games to private equity firm Trustar Capital for at least $1.5 billion, exiting in-house game development entirely to redirect capital toward its AI infrastructure buildout.",
+      "conclusionZh": "阿里巴巴同意将旗下游戏工作室灵犀互娱以至少15亿美元出售给私募股权公司太盟投资，彻底退出自研游戏业务，将资金转向AI基础设施建设。",
+      "whyEn": "The sale shows how even the largest Chinese tech companies are shedding non-core, cash-generating businesses to fund an AI spending race that has already blown past original budgets, a pattern also seen recently at Micron and other tech firms.",
+      "whyZh": "此次出售显示，即便是中国最大的科技公司也在剥离非核心的现金业务，为已远超原定预算的AI支出竞赛筹措资金，这一趋势近期在美光等其他科技公司身上也有所体现。",
+      "detailEn": "Lingxi Games is best known for Three Kingdoms: Strategy Edition, a multiplayer strategy title co-developed with Japan's Koei Tecmo. A person familiar with the matter told Reuters that Alibaba stands to collect more than $2 billion from the deal, while Bloomberg valued it at no less than $1.5 billion. The divestment is part of a broader reorganization led by CEO Eddie Wu to shed non-core assets and focus on AI and cloud computing, an effort that has already pushed Alibaba's AI infrastructure spending well past its original $53 billion budget. Lingxi's current CEO and management team are expected to stay on to run the studio under its new owner.",
+      "detailZh": "灵犀互娱旗下代表作《三国志：战略版》为与日本光荣特库摩联合开发的多人策略游戏。据知情人士向路透社透露，阿里巴巴通过此次交易将获得超过20亿美元收益，彭博社则估算交易金额不低于15亿美元。此次剥离是阿里巴巴CEO吴泳铭主导的整体重组的一部分，旨在剥离非核心资产、聚焦AI与云计算业务，目前该公司AI基础设施投入已大幅超出最初530亿美元的预算。灵犀互娱现任CEO及管理团队预计将留任，在新东家旗下继续运营该工作室。"
+    },
+    {
+      "category": "科技",
+      "source": "SpaceNews",
+      "sourceUrl": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/",
+      "titleEn": "China's LandSpace Recovers Booster With Second Orbital Launch of Zhuque-3 Rocket",
+      "conclusionEn": "Chinese startup LandSpace successfully landed the first-stage booster of its Zhuque-3 rocket on August 19, becoming the first Chinese company to recover an orbital-class booster and joining SpaceX and Blue Origin in achieving the feat.",
+      "conclusionZh": "中国民营企业蓝箭航天8月19日成功回收朱雀三号火箭一级助推器，成为首家实现轨道级火箭回收的中国企业，跻身SpaceX与蓝色起源之列。",
+      "whyEn": "Reusable boosters are key to sharply cutting the cost of launching satellites, so the milestone narrows China's gap with US private space companies and could accelerate competition in the fast-growing commercial launch and satellite-constellation market.",
+      "whyZh": "可重复使用火箭是大幅降低卫星发射成本的关键，此次里程碑事件缩小了中国与美国民营航天企业的差距，也可能加速快速增长的商业发射与卫星星座市场的竞争。",
+      "detailEn": "The 66.1-meter, stainless-steel Zhuque-3 — billed as China's answer to SpaceX's Falcon 9 — lifted off from the Dongfeng Commercial Space Innovation Pilot Zone in northwestern China. Its nine-engine first stage returned and landed at a site in Gansu province, 390 kilometers southeast of the launch pad, on LandSpace's second attempt at the maneuver. The company made history in December 2025 as the first Chinese entity to conduct a reusable rocket test, and the achievement follows a separate July milestone in which a different Chinese firm used a net-capture system on a floating platform to recover a booster. Reusability is seen as essential to making China's commercial space sector cost-competitive with SpaceX as both countries race to deploy large satellite constellations.",
+      "detailZh": "全长66.1米、采用不锈钢箭体的朱雀三号被称为「中国版猎鹰9号」，此次从中国西北部东风商业航天创新试验区发射升空。其配备9台发动机的一级助推器返回并降落在距发射场东南方向390公里的甘肃省着陆点，这是蓝箭航天第二次尝试该项回收操作。该公司曾于2025年12月创下中国首次可重复使用火箭试验的纪录，此次成功回收也紧随7月另一家中国企业利用海上浮动平台网捕系统回收火箭助推器的里程碑之后。可重复使用技术被视为中国商业航天领域与SpaceX展开成本竞争的关键，两国都在加速部署大型卫星星座。"
+    },
+    {
+      "category": "财经",
+      "source": "Forbes",
+      "sourceUrl": "https://www.forbes.com/sites/conormurray/2026/08/19/gold-price-hits-two-month-high-after-mostly-stagnant-summer/",
+      "titleEn": "Gold Price Hits Two-Month High After Mostly Stagnant Summer",
+      "conclusionEn": "Gold prices climbed to a two-month high in mid-August 2026 after a largely flat summer, with the metal on pace for its strongest monthly gain since January's record run as investors sought safety amid bond-market turmoil and Middle East tensions.",
+      "conclusionZh": "2026年8月中旬黄金价格升至两个月高点，结束此前整个夏季的横盘走势，有望创下今年1月刷新纪录以来最大单月涨幅，投资者在债市动荡与中东局势紧张之际寻求避险。",
+      "whyEn": "Rising gold prices reflect investor anxiety about inflation, government debt levels and geopolitical risk, and the move matters to ordinary savers and retirement portfolios that increasingly hold gold as a hedge against currency and market volatility.",
+      "whyZh": "金价上涨反映出投资者对通胀、政府债务水平及地缘政治风险的担忧，这一走势也关乎越来越多将黄金作为货币与市场波动对冲工具的普通储户与退休投资组合。",
+      "detailEn": "Gold entered August trading near $4,000 an ounce and climbed to an intraday high of $4,557.60 by August 16, its highest level since early June, before settling slightly lower. The rally follows a relatively quiet summer for the metal after it hit an all-time intraday record of $5,589.38 in January. Analysts attributed the renewed strength to a mix of factors: the US-Iran conflict pushing oil prices higher and stoking inflation fears, a surge in long-term Treasury yields to near two-decade highs that has unsettled bond markets, and persistent concern over US fiscal deficits. Central bank buying, particularly from emerging-market institutions diversifying away from the dollar, has also provided steady underlying demand through the year.",
+      "detailZh": "黄金8月初开盘价格接近每盎司4000美元，至8月16日盘中一度升至4557.60美元，为6月初以来最高水平，随后略有回落。此轮上涨发生在金价今年1月创下每盎司5589.38美元盘中历史纪录后，整个夏季相对平静的行情之后。分析师将此次反弹归因于多重因素叠加：美伊冲突推高油价并加剧通胀担忧、长期国债收益率飙升至近20年高位扰动债市，以及市场对美国财政赤字的持续担忧。此外，各国央行尤其是新兴市场机构为分散美元资产而持续购金，也为金价全年提供了稳定的底层需求支撑。"
+    },
+    {
+      "category": "科技",
+      "source": "Forbes",
+      "sourceUrl": "https://www.forbes.com/sites/kateoflahertyuk/2026/08/19/ios-2661-and-ios-18710-update-now-warning-for-all-iphone-users/",
+      "titleEn": "iOS 26.6.1 And iOS 18.7.10 — Update Now Warning For All iPhone Users",
+      "conclusionEn": "Apple released iOS 26.6.1, iPadOS 26.6.1 and macOS Tahoe 26.6.2 on August 17 to fix a critical zero-click ImageIO vulnerability (CVE-2026-65346) that could let attackers run malicious code just by sending a crafted image.",
+      "conclusionZh": "苹果8月17日发布iOS 26.6.1、iPadOS 26.6.1及macOS Tahoe 26.6.2更新，修复一个严重的「零点击」ImageIO图像处理漏洞（CVE-2026-65346），攻击者仅需发送一张恶意图片即可远程执行代码。",
+      "whyEn": "Because the flaw can be triggered without any user interaction, such as simply receiving an image over iMessage or WhatsApp, it poses the kind of risk historically exploited to install spyware, making the update relevant to essentially every iPhone, iPad and Mac user.",
+      "whyZh": "该漏洞无需用户任何操作即可触发，例如仅通过iMessage或WhatsApp接收一张图片，这与历史上被用于植入间谍软件的攻击手法类似，几乎所有iPhone、iPad及Mac用户都应尽快更新。",
+      "detailEn": "CVE-2026-65346 is an integer-overflow bug in ImageIO, the Apple framework that processes image data across its entire device lineup, discovered and reported by Meta's Red Team X. The flaw could allow arbitrary code execution when a vulnerable device processes a maliciously crafted image, the same class of zero-click bug historically used in targeted spyware campaigns. Apple said it fixed the issue through improved input validation. The patches cover macOS Tahoe, iPhone 11 and later, and supported iPad Pro, Air, standard and mini models, and were bundled with a broader set of 28 security fixes across Apple's operating systems. Apple has not disclosed evidence of active exploitation, but security researchers urged all eligible users to install the update promptly given the severity of the flaw.",
+      "detailZh": "CVE-2026-65346是苹果ImageIO图像处理框架中的一个整数溢出漏洞，该框架被苹果全线设备用于处理图像数据，此漏洞由Meta红队Red Team X发现并报告。该漏洞可在设备处理经过恶意构造的图片时触发任意代码执行，属于历史上曾被用于定向间谍软件攻击的「零点击」漏洞类型。苹果表示已通过改进输入验证方式修复该问题。此次更新覆盖macOS Tahoe、iPhone 11及更新机型，以及受支持的iPad Pro、Air、标准版和mini机型，并与其他共28项安全修复一并发布。苹果尚未披露该漏洞被在野利用的证据，但安全研究人员仍敦促所有符合条件的用户尽快安装更新，因其严重程度较高。"
     }
   ],
   "businessTips": [
     {
-      "term": "Network Effects",
+      "term": "Second-Order Thinking",
       "category": "通用商业",
-      "explanationEn": "A network effect occurs when a product or service becomes more valuable to each user as more people use it — think of a marketplace, social platform, or payment network. This dynamic can create a powerful competitive moat, because a market leader with more users naturally attracts even more users, making it hard for smaller rivals to catch up even with a better product. The flip side is that network effects can work in reverse too: once users start leaving, the product becomes less useful for those who remain, which can trigger a rapid downward spiral.",
-      "explanationZh": "网络效应是指一款产品或服务的使用者越多，它对每个用户的价值就越高——典型例子包括交易市场、社交平台或支付网络。这种动态能形成强大的竞争壁垒，因为用户越多的市场领先者会自然吸引更多新用户，使小竞争对手即便产品更优也难以追赶。但网络效应也可能反向运作：一旦用户开始流失，产品对留存用户的价值也随之下降，可能引发快速的连锁式衰退。",
-      "exampleEn": "A ride-hailing app becomes more useful to riders as more drivers join, because wait times shrink — and more riders in turn attracts more drivers chasing fares, letting the largest platform in a city keep out new entrants even if a challenger app takes a smaller commission.",
-      "exampleZh": "一款打车软件的司机越多，乘客等车时间就越短，从而对乘客越有吸引力；而乘客越多又会吸引更多司机为抢单加入平台。这使得某座城市内规模最大的平台即便收取的抽成更高，也能有效阻挡收费更低的新竞争者进入。"
+      "explanationEn": "Second-order thinking means asking not just \"what happens next?\" but \"and then what?\" — tracing a decision's downstream consequences instead of stopping at the obvious first effect. Most people default to first-order thinking, which favors solutions that look good immediately but can create bigger problems later. Skilled managers and investors deliberately map out second- and third-order effects before committing, because the action that looks best on its face is often not the one that holds up over time.",
+      "explanationZh": "二阶思维是指不只问「接下来会发生什么」，还要追问「然后呢」——追踪一项决策的连锁后果，而不是停留在最直接的第一层影响上。大多数人默认使用一阶思维，容易选择短期看起来不错、但可能在之后引发更大问题的方案。优秀的管理者和投资者会在做决定前主动推演二阶、三阶影响，因为表面上最优的选择往往经不起时间考验。",
+      "exampleEn": "A company cuts prices to win market share (first-order: more sales). But competitors match the cut, industry margins shrink for everyone, and the company ends up worse off than before (second-order) — a outcome a manager using second-order thinking would have anticipated before triggering the price war.",
+      "exampleZh": "一家公司为抢占市场份额而降价（一阶效应：销量上升）。但竞争对手随即跟进降价，整个行业利润率被拉低，最终这家公司的处境反而比降价前更差（二阶效应）——若管理者运用二阶思维，本可在挑起价格战前预见到这一结果。"
     },
     {
-      "term": "Minimum Viable Product (MVP)",
+      "term": "Customer Acquisition Cost (CAC) vs. Lifetime Value (LTV)",
       "category": "创业副业",
-      "explanationEn": "A minimum viable product is the simplest version of a new offering that still lets you test a core assumption with real customers, before investing time and money into building every feature you imagine it eventually needs. The goal isn't to launch something incomplete for its own sake, but to get real market feedback as cheaply and quickly as possible, so you can learn whether people actually want what you're building before committing serious resources. Many side-hustle founders skip this step and spend months polishing a product nobody has validated demand for.",
-      "explanationZh": "最小可行产品（MVP）是指新产品或服务中最精简、但足以让你用真实客户验证核心假设的版本，目的是在投入大量时间和资金打造「设想中的完整功能」之前先行测试。MVP的意义不在于故意推出不完整的东西，而是要以最低成本、最快速度获得真实的市场反馈，从而判断人们是否真的需要你正在打造的产品，再决定是否投入更多资源。许多副业创业者会跳过这一步，花费数月打磨一款尚未验证过市场需求的产品。",
-      "exampleEn": "Instead of spending six months building a full mobile app for a meal-planning side business, a founder first sells the same weekly meal plans manually through a simple landing page and email list — if 50 people pay for it, that validates demand cheaply before any code gets written.",
-      "exampleZh": "与其花六个月时间为一项餐食规划副业开发完整的手机App，创业者可以先通过一个简单的落地页和邮件订阅列表，人工提供同样的每周膳食计划——如果有50人愿意付费，就已经以极低成本验证了市场需求，之后再考虑投入开发。"
+      "explanationEn": "CAC is how much you spend, on average, to win one paying customer — including ads, sales time and any discounts. LTV is the total profit that customer generates for you over the entire time they stay with your business. A side hustle or startup only becomes sustainable when LTV meaningfully exceeds CAC, typically by a ratio of at least 3:1, because that gap has to cover overhead, refunds and the customers who never convert at all. Founders who skip this math often scale ad spending that looks like growth but is quietly losing money on every customer.",
+      "explanationZh": "获客成本（CAC）是指平均获得一位付费客户所花费的成本，包括广告投放、销售人员时间及各类折扣。客户终身价值（LTV）则是该客户在整个消费周期内为你带来的总利润。一项副业或创业项目只有当LTV显著高于CAC（通常至少达到3:1的比例）时才具备可持续性，因为这部分差额需要覆盖运营开支、退款以及那些始终未能转化的潜在客户。许多创业者若忽略这项测算，很容易在看似增长的广告投放中，实际上每获得一位客户都在亏钱。",
+      "exampleEn": "A solopreneur running a $20/month subscription box spends $40 in ads to acquire each customer (CAC=$40). If the average customer stays 8 months, that's $160 in revenue, or roughly $100 in profit after costs (LTV=$100) — a healthy 2.5:1 ratio that means the ad spend is worth scaling up.",
+      "exampleZh": "一位经营月费20美元订阅盒子的独立创业者，每获取一位客户需花费40美元广告费（CAC=40美元）。若平均客户留存8个月，则可带来160美元营收，扣除成本后利润约为100美元（LTV=100美元）——2.5:1的比例较为健康，意味着可以考虑加大广告投放规模。"
     },
     {
-      "term": "Price-to-Earnings (P/E) Ratio",
+      "term": "Sequence of Returns Risk",
       "category": "投资金融",
-      "explanationEn": "The P/E ratio divides a company's current share price by its earnings per share, giving a quick sense of how much investors are paying for each dollar of profit the company generates. A high P/E can mean the market expects strong future growth, or it can mean the stock is simply overpriced relative to its current earnings — the ratio alone doesn't tell you which. It's most useful when compared against a company's own historical average or against similar companies in the same industry, rather than viewed as an absolute good-or-bad number on its own.",
-      "explanationZh": "市盈率（P/E）是用公司当前股价除以每股收益计算得出，能快速反映投资者为公司每一美元利润愿意支付多少价格。较高的市盈率既可能意味着市场预期公司未来会强劲增长，也可能只是股价相对当前盈利偏贵——单看这个数字本身并无法判断是哪一种。市盈率最有参考价值的用法，是与公司自身历史均值或同行业可比公司进行比较，而不是把它当作一个绝对的「好」或「坏」的标准来看待。",
-      "exampleEn": "Two software companies both trade at $50 a share, but one earns $1 per share (a P/E of 50) while the other earns $5 per share (a P/E of 10) — on that measure alone, the second looks cheaper relative to its current profits, though an investor would still need to check why the market is willing to pay so much more for each dollar the first company earns.",
-      "exampleZh": "两家软件公司股价都是50美元，但一家每股收益为1美元（市盈率50倍），另一家每股收益为5美元（市盈率10倍）——仅从这个指标看，后者相对当前盈利显得更「便宜」，但投资者仍需进一步了解，为何市场愿意为前者每一美元的盈利支付高得多的价格。"
+      "explanationEn": "Sequence of returns risk is the danger that the order in which you experience investment gains and losses matters just as much as the average return itself — especially for anyone withdrawing money from a portfolio, like a retiree. Two people can earn the exact same average annual return over 20 years, but if one hits a sharp market downturn right at the start of retirement while withdrawing funds, their portfolio can be permanently depleted in a way the other person's never is, because withdrawals during a downturn lock in losses that a growing portfolio never gets the chance to recover from.",
+      "explanationZh": "回报顺序风险是指：投资收益与亏损出现的先后顺序，其影响可能与平均回报率本身同等重要——对于正在从投资组合中提取资金的人（例如退休人员）尤为关键。两个人在20年间可能获得完全相同的平均年化回报率，但如果其中一人恰好在退休初期、正在提取资金时遭遇市场大幅下跌，其投资组合可能因此永久性受损，而另一人则不会——因为下跌期间的提款会将亏损「锁定」，使投资组合失去后续复苏的机会。",
+      "exampleEn": "Two retirees each invest $1 million and withdraw $50,000 a year. One retires just before a market crash and sees their portfolio shrink so fast that withdrawals eat into principal before markets recover; the other retires just after a crash and rides the recovery upward, ending up with far more money — even though both experienced identical average returns over the following decade.",
+      "exampleZh": "两位退休人员各自投入100万美元，每年提取5万美元。其中一人恰好在市场崩盘前退休，投资组合缩水速度过快，提款还未等到市场复苏就已侵蚀本金；另一人则恰好在崩盘后退休，正好搭上市场复苏的上行周期，最终积累的资金远多于前者——尽管两人在随后十年间获得的平均回报率完全相同。"
     }
   ]
 }
