@@ -1,116 +1,128 @@
 {
-  "date": "2026-08-24",
-  "updatedAt": "2026-08-24T12:07:36+10:00",
+  "date": "2026-08-25",
+  "updatedAt": "2026-08-25T12:06:17+10:00",
   "news": [
     {
-      "category": "财经",
+      "category": "国际",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-      "titleEn": "Longer-Dated Treasury Yields Rise as Bessent's Bond Buyback Rally Fizzles Out",
-      "conclusionEn": "The 30-year US Treasury yield hit 5.34% this week, its highest since 2007, and Treasury Secretary Bessent's surprise plan to double bond buybacks only calmed markets for about a day before yields climbed back.",
-      "conclusionZh": "美国30年期国债收益率本周触及5.34%，为2007年来最高，财长贝森特加倍回购的干预仅平息市场约一天。",
-      "whyEn": "Rising long-term yields raise borrowing costs across mortgages, corporate debt and the government's own $40 trillion-plus debt load, and the fact that Bessent's intervention barely worked signals investors remain deeply worried about US inflation and fiscal sustainability.",
-      "whyZh": "长期收益率上升会推高房贷、企业融资及政府自身超40万亿美元债务的成本，干预效果不佳也显示市场对美国通胀与财政可持续性的担忧根深蒂固。",
-      "detailEn": "The 30-year Treasury yield surged to 5.34% on Tuesday, its highest level since 2007, before the global financial crisis, driven by investor concern over persistent inflation, ballooning government debt, and competition from corporate AI-buildout debt sapping demand for Treasuries. In response, the Treasury Department announced Wednesday it would at least double the size of its long-dated debt buyback operations, from $2 billion to at least $4 billion per operation, with the program running from September 9 through November 4. Yields dropped sharply on the announcement, but the relief lasted roughly one day: by Thursday the 30-year yield had climbed back above 5.27%, erasing most of the improvement. The episode underscores how limited the Treasury's tools are to contain the yield spike even as total public debt has already surpassed $40 trillion.",
-      "detailZh": "30年期美债收益率周二飙升至5.34%，为2007年全球金融危机前以来最高水平，原因是投资者担忧持续通胀、政府债务膨胀，以及企业为AI建设发债分流了国债需求。财政部随后于周三宣布，将把长期债务回购操作规模至少翻倍，从每次20亿美元提高到至少40亿美元，该计划将于9月9日至11月4日执行。消息公布后收益率一度大幅回落，但缓解仅维持约一天：到周四，30年期收益率已回升至5.27%以上，此前的改善基本被抹去。这一波动凸显出，即便公共债务总额已突破40万亿美元，财政部用以遏制收益率飙升的工具仍相当有限。"
-    },
-    {
-      "category": "科技",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-      "titleEn": "Marvell Gives Google Option to Buy $12.2 Billion Stake in Custom AI Chip Deal",
-      "conclusionEn": "Marvell granted Google a warrant to purchase up to $12.2 billion worth of its shares as part of an expanded deal to help build Google's custom AI chips, sending Marvell's stock up sharply while rival Broadcom fell.",
-      "conclusionZh": "Marvell向谷歌授予认股权证，允许其购买最多122亿美元股份，以换取深化AI定制芯片合作，Marvell股价大涨，博通则下跌。",
-      "whyEn": "The deal is a major vote of confidence from a top cloud provider in Marvell's custom-chip capabilities, intensifying competition in the AI semiconductor supply chain and signaling that hyperscalers are increasingly locking in long-term chip suppliers with equity stakes rather than just purchase contracts.",
-      "whyZh": "此举是云计算巨头对Marvell定制芯片能力的重大信任投票，加剧了AI芯片供应链的竞争，也显示科技巨头正以股权而非单纯采购合同来锁定长期芯片供应商。",
-      "detailEn": "Under the agreement, Google receives a warrant to buy up to 58.97 million Marvell shares at $206.58 apiece, worth $12.18 billion if fully exercised, which would make Google one of Marvell's largest shareholders. Roughly 240,000 shares vest for every $500 million in qualifying chip purchases Google makes from Marvell, and the partnership could generate an estimated $120 billion in revenue for Marvell through fiscal 2033. The deal covers a broad range of technologies used alongside Google's TPUs, including processors that run AI models, manage data storage, and move information across data-center networks. Marvell shares jumped nearly 8-10% on the news, while shares of larger rival Broadcom, which also supplies custom AI chips to Google, fell more than 5% as investors weighed the shift in Google's supplier mix.",
-      "detailZh": "根据协议，谷歌获得以每股206.58美元价格购买最多5897万股Marvell股票的认股权证，若全部行使价值达121.8亿美元，将使谷歌成为Marvell最大股东之一。谷歌每向Marvell采购5亿美元合格芯片，即可获得约24万股归属权益，双方合作预计到2033财年可为Marvell带来约1200亿美元营收。此次合作涵盖与谷歌TPU配套使用的多种技术，包括运行AI模型、管理数据存储及数据中心网络传输的处理器。消息公布后Marvell股价大涨近8%-10%，而同样为谷歌供应定制芯片的博通股价则因投资者担忧供应商格局生变而下跌超5%。"
-    },
-    {
-      "category": "科技",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-      "titleEn": "Anthropic IPO Filing Will Show AI Backlash as Risk Factor, Sources Say",
-      "conclusionEn": "Anthropic is preparing to publicly file its IPO prospectus as soon as the end of August, with the filing expected to list growing public backlash against AI as a formal risk factor for investors.",
-      "conclusionZh": "Anthropic计划最早于8月底公开提交IPO招股书，文件预计将把公众对AI的日益反弹列为正式风险因素。",
-      "whyEn": "A public listing from Anthropic, one of the two dominant AI labs, would be among the largest tech IPOs ever and a bellwether for how public markets price AI companies' growth against real risks like regulation, safety incidents and public sentiment.",
-      "whyZh": "作为两大顶尖AI实验室之一，Anthropic上市将是史上最大规模科技IPO之一，也将检验公开市场如何在AI公司的增长与监管、安全及舆论等真实风险之间定价。",
-      "detailEn": "Anthropic confidentially submitted a draft S-1 to the SEC in June and is now preparing to publicly file its prospectus by the end of August, following investor meetings led by its CFO. The company was valued at $965 billion after a $65 billion Series H round in April, and some investors are now targeting an even larger roughly $2 trillion valuation for an IPO expected around October, led by underwriters including Morgan Stanley, Goldman Sachs and JPMorgan. Sources say the filing will explicitly flag AI backlash — including public concern over job displacement, safety and misuse — as a risk factor, a rare instance of an AI leader formally acknowledging reputational and regulatory risk from the technology it sells. If it proceeds as planned, the listing could rival or exceed SpaceX's $75 billion raise in June as the largest tech flotation on record.",
-      "detailZh": "Anthropic今年6月已向美国证券交易委员会秘密提交S-1草案，目前正在CFO主导的投资者会议后筹备最早于8月底公开提交招股书。该公司在4月完成650亿美元的H轮融资后估值达9650亿美元，部分投资者预计其IPO估值最终可能高达约2万亿美元，上市时间约在10月，承销商包括摩根士丹利、高盛和摩根大通。消息人士称，招股书将明确把「AI反弹」——包括公众对失业、安全及滥用的担忧——列为风险因素，这是AI领域领军企业罕见地正式承认其技术本身带来的声誉与监管风险。若按计划推进，此次上市规模有望媲美甚至超越SpaceX今年6月750亿美元的融资，成为史上最大规模科技上市。"
+      "sourceUrl": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+      "titleEn": "Iran Warns of Hormuz Ship Seizures Ahead of Bessent's Planned Sanctions Push",
+      "conclusionEn": "Treasury Secretary Scott Bessent launched \"Operation Economic Outcast,\" an escalating sanctions campaign he called an \"economic D-Day\" meant to sever Iran's global financial lifelines and reopen the Strait of Hormuz.",
+      "conclusionZh": "美财长贝森特启动「经济流放行动」，称之为「经济诺曼底登陆」，意在切断伊朗的全球金融命脉并重开霍尔木兹海峡。",
+      "whyEn": "The sanctions target shipping, oil, crypto, gold and aviation networks tied to Iran, raising the risk of retaliation in the Hormuz Strait — a chokepoint for roughly a fifth of global oil supply — which could spike energy prices worldwide.",
+      "whyZh": "制裁涉及与伊朗相关的航运、石油、加密货币、黄金及航空网络，可能招致伊朗在霍尔木兹海峡（承担全球约五分之一石油运输）报复，从而推高全球能源价格。",
+      "detailEn": "Bessent announced Monday that the sanctions would target international entities facilitating Iranian trade in oil, shipping, crypto, gold and aviation, framing the campaign as the endgame after the two sides missed a 60-day ceasefire window. He said the goal was to sever \"every economic lifeline\" sustaining Tehran's government. In response, Iran's top security chief Mohsen Rezaei threatened to halt oil flow through the Strait of Hormuz if neighboring countries joined the US crackdown, while Iran's Persian Gulf Strait Authority warned vessels violating transit rules could face fines or seizure. The standoff comes as the US-Iran conflict, now in its sixth month, has already rattled oil and equity markets repeatedly this summer.",
+      "detailZh": "贝森特周一宣布，制裁将针对协助伊朗石油、航运、加密货币、黄金及航空贸易的国际实体，并将此次行动定性为双方错过60天停火窗口后的「终局之战」，目标是切断维系德黑兰政府的「每一条经济命脉」。作为回应，伊朗最高安全官员礼萨伊威胁称，若周边国家加入美国的制裁行动，伊朗将阻断霍尔木兹海峡的石油运输；伊朗波斯湾海峡管理局也警告，违反通行规定的船只可能面临罚款或扣押。这场对峙发生在已持续六个月的美伊冲突背景下，今夏石油与股市已多次因此受到冲击。"
     },
     {
       "category": "财经",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-      "titleEn": "Bitcoin Surges 22% for the Week as Investor Optimism Floods Back",
-      "conclusionEn": "Bitcoin jumped about 18% in 48 hours to over $77,600, capping a weekly gain of more than 20%, fueled by the Treasury's bond buyback move and a White House push for crypto-friendly regulation.",
-      "conclusionZh": "比特币48小时内上涨约18%，突破77600美元，单周涨幅超20%，受美国财政部回购计划及白宫推动加密监管立法提振。",
-      "whyEn": "The rally, accompanied by a record $2.7 billion in short-position liquidations, shows how closely crypto prices are now tied to US fiscal and monetary policy signals, and a favorable Clarity Act outcome could reshape how digital assets are regulated for years.",
-      "whyZh": "此轮上涨伴随创纪录的27亿美元空头爆仓，显示加密货币价格已与美国财政、货币政策信号高度联动，Clarity Act若顺利通过，将长期重塑数字资产监管格局。",
-      "detailEn": "Bitcoin rose to around $77,000 on Friday, extending a rally that began after the Treasury's surprise announcement to double its long-term bond buybacks, which investors read as an early sign of looser financial conditions. The rally accelerated after President Trump pushed Congress to pass the Clarity Act, legislation that would clarify whether cryptocurrencies are regulated as securities or commodities. The move triggered a record $2.7 billion in short-position liquidations across crypto markets in a single wave, the largest since at least 2021. Despite the surge, bitcoin remains well below its 2026 high of $94,820 set in January and its all-time high of $126,198 reached last October, suggesting the rebound is a recovery from a steep summer decline rather than a fresh record run.",
-      "detailZh": "比特币周五上涨至约77000美元，延续了此前因财政部意外宣布加倍长期国债回购而启动的涨势，投资者将此解读为金融环境趋松的早期信号。特朗普推动国会通过Clarity法案（旨在明确加密货币应按证券还是大宗商品监管）后，涨势进一步加速。此举在加密货币市场引发单轮创纪录的27亿美元空头爆仓，为2021年以来规模最大。尽管涨势迅猛，比特币目前仍远低于今年1月创下的94820美元年内高点，以及去年10月创下的126198美元历史最高点，表明此轮反弹更多是对夏季深度下跌的修复，而非刷新纪录的新一轮上涨。"
-    },
-    {
-      "category": "国际",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine",
-      "titleEn": "Zelenskyy Says Wartime Elections Could 'Destroy' Ukraine",
-      "conclusionEn": "President Zelenskyy firmly rejected a call from his recently dismissed former defence minister, Mykhailo Fedorov, to hold presidential elections during the war, calling the idea a \"huge risk\" that could split the country.",
-      "conclusionZh": "泽连斯基坚决拒绝前国防部长费多罗夫提出的战时大选提议，称此举风险巨大，可能分裂国家。",
-      "whyEn": "The public rift exposes rare internal political friction inside Ukraine after four years of war, at a moment when unity is seen as critical for sustaining Western military and financial support against Russia.",
-      "whyZh": "这场公开分歧暴露出乌克兰四年战争后罕见的内部政治摩擦，而团结正被视为维系西方对乌军事与财政支持的关键。",
-      "detailEn": "Mykhailo Fedorov, who was dismissed as defence minister in July after six months in the role, posted a nine-minute video arguing that Ukraine's democracy \"cannot be held hostage by Russia\" and warning of a \"systemic crisis of governance,\" effectively calling for wartime elections. Zelenskyy responded forcefully, describing the proposal as a \"huge risk\" and a \"tsunami for the country that will split Ukraine,\" and noted that Ukrainian law currently bans elections during martial law. Analysts told Al Jazeera that holding elections during active war would be logistically near-impossible given displaced populations, occupied territory and security risks, a view most Ukrainians reportedly share. Fedorov remains popular, and his dismissal earlier this year had already triggered public protests, making his challenge a rare and closely watched test of Zelenskyy's political standing.",
-      "detailZh": "今年7月被解除国防部长职务（任职仅六个月）的费多罗夫发布一段九分钟视频，称乌克兰的民主「不能被俄罗斯挟持」，并警告国家面临「系统性治理危机」，实质上呼吁进行战时大选。泽连斯基强硬回应，称该提议「风险巨大」，是「将分裂国家的海啸」，并指出乌克兰法律目前禁止在戒严状态下举行选举。有分析人士向半岛电视台表示，鉴于人口流离失所、部分领土被占领及安全风险，战时举行选举在后勤上几乎不可能实现，多数乌克兰人似乎也认同这一看法。费多罗夫在乌克兰民众中仍颇具人气，他今年早些时候被解职就曾引发抗议，这使得他此次公开挑战成为检验泽连斯基政治地位的罕见焦点事件。"
-    },
-    {
-      "category": "国际",
-      "source": "UPI",
-      "sourceUrl": "https://www.upi.com/Top_News/World-News/2026/08/23/Netanyahu-issues-threat-Hamas-over-kites-floating/9821787528452/",
-      "titleEn": "Netanyahu, Katz Issue Threat to Hamas Over Kites Landing in Israel",
-      "conclusionEn": "Israeli Prime Minister Netanyahu and Defense Minister Katz threatened to intensify strikes on Gaza and evacuate launch-site areas after at least six children's kites crossed into Israeli territory over the past week.",
-      "conclusionZh": "以色列总理内塔尼亚胡与防长卡茨警告，将加大对加沙的打击力度并疏散发射区域，此前一周内至少6个儿童风筝飘入以色列境内。",
-      "whyEn": "The threat over what Israel calls acts of war shows how fragile the Gaza ceasefire remains a year after it took effect, raising the risk of renewed large-scale fighting over incidents that IDF officials themselves say posed no actual danger.",
-      "whyZh": "以方将风筝事件定性为战争行为并发出威胁，显示加沙停火协议生效一年后仍十分脆弱，即便以军官员自称风筝并无实际危险，仍可能触发新一轮大规模冲突。",
-      "detailEn": "Netanyahu and Katz held an assessment meeting with IDF Chief of Staff Eyal Zamir after the military identified at least six kites, some flown by children, that crossed from Gaza into Israeli border communities over the past week, including four over the weekend. IDF officials told Israeli media that nothing suspicious was found on the kites and that they posed no danger to the public, but Katz declared that \"a balloon is treated like a kite, and a kite is treated like a drone, with or without explosives,\" calling every launch \"an act of war.\" The two leaders said Israeli forces would act to increase targeted strikes against those responsible and evacuate populated areas used as launch sites. Hamas, in response, urged the US and mediating countries to press Israel over what it called the \"destruction of the ceasefire framework,\" underscoring rising strain on the truce that has been in place since October 2025.",
-      "detailZh": "内塔尼亚胡与卡茨在以军总参谋长扎米尔的陪同下召开评估会议，此前军方确认过去一周内至少有6个风筝（部分由儿童放飞）从加沙飘入以色列边境社区，其中4个是在周末发现的。以军官员对以色列媒体表示，风筝上未发现可疑物品，也未对公众构成实际危险，但卡茨仍宣称「气球等同风筝，风筝等同无人机，无论是否携带爆炸物」，并将每一次放飞都定性为「战争行为」。两位领导人表示，以军将加大对责任方的定点打击，并疏散被用作发射地点的人口聚居区。哈马斯则呼吁美国及斡旋各国向以方施压，指责其「摧毁停火框架」，凸显这份自2025年10月生效的停火协议正承受越来越大的压力。"
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
+      "titleEn": "Oil Holds Decline as US Ramps Up Economic Pressure on Iran",
+      "conclusionEn": "Oil prices held a decline Monday as the US escalated economic pressure on Iran, with WTI trading near $85 a barrel and Brent around $92 after both benchmarks fell more than 2% the prior session.",
+      "conclusionZh": "美国加大对伊朗经济施压，油价周一维持跌势，WTI报每桶85美元附近，布伦特约92美元，此前一交易日两者均跌超2%。",
+      "whyEn": "Oil price swings driven by the Hormuz standoff ripple through inflation, transportation costs and consumer prices worldwide, making this one of the most closely watched market signals of the current Iran conflict.",
+      "whyZh": "受霍尔木兹海峡对峙影响的油价波动，将波及全球通胀、运输成本及消费者物价，是当前伊朗冲突中市场最关注的信号之一。",
+      "detailEn": "Crude prices slipped as traders weighed the new US sanctions campaign against signs that a full closure of the Strait of Hormuz remains more threat than reality for now. WTI crude traded near $85 a barrel and Brent closed around $92, extending losses from the prior session's more-than-2% drop. Analysts said the market is pricing in elevated geopolitical risk premium while still assuming supply disruptions will be limited unless Iran follows through on threats to interfere with tanker traffic. Further price swings are expected as the sanctions campaign unfolds this week.",
+      "detailZh": "由于交易员在权衡美国新一轮制裁行动与霍尔木兹海峡「全面封锁」目前仍更多是威胁而非现实之间的关系，原油价格有所回落。WTI原油报每桶85美元附近，布伦特收于约92美元，延续了上一交易日跌幅超2%的走势。分析师表示，市场正在计入较高的地缘政治风险溢价，但仍假设除非伊朗真正干扰油轮通行，否则供应中断将是有限的。随着本周制裁行动的推进，预计油价还将继续波动。"
     },
     {
       "category": "科技",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
-      "titleEn": "Amazon's Prime Air Is Taking Off in Nearly 500 US Cities",
-      "conclusionEn": "Amazon announced plans to expand its Prime Air drone-delivery service to nearly 500 US cities and towns by the end of 2026, a roughly sixfold increase from its current footprint.",
-      "conclusionZh": "亚马逊宣布计划到2026年底将Prime Air无人机配送服务扩展至近500个美国城镇，较目前规模扩大约六倍。",
-      "whyEn": "The rapid scale-up signals Amazon is betting heavily on drone delivery as a mainstream logistics channel, intensifying a race with Walmart's Wing and Zipline partnerships and DoorDash's newly approved drone network for last-mile delivery dominance.",
-      "whyZh": "快速扩张显示亚马逊正押注无人机配送成为主流物流方式，这将加剧其与沃尔玛（Wing、Zipline）及刚获批的DoorDash无人机网络之间在最后一公里配送领域的竞争。",
-      "detailEn": "Prime Air currently operates across 11 metro areas in seven states — Arizona, Florida, Kansas, Louisiana, Michigan, Nebraska and Texas — with each site covering about 175 square miles, and Amazon says it has already delivered hundreds of thousands of packages by drone this year. The company plans to soon add locations in Chicago, Syracuse, Cleveland, Atlanta and Boise, with further expansion into Georgia, Ohio, Illinois, Idaho and New York later this year. The service covers items weighing 5 pounds or less and promises delivery in as fast as 30 minutes; Prime members get free delivery on orders over $50 (a $2.99 fee below that), while non-Prime customers pay $4.99. Amazon says the expansion relies on FAA Part 135 certification and a detect-and-avoid system, addressing safety concerns raised by earlier drone incidents, as rivals Walmart and DoorDash push their own competing drone-delivery networks.",
-      "detailZh": "Prime Air目前在美国7个州的11个都市区运营——亚利桑那、佛罗里达、堪萨斯、路易斯安那、密歇根、内布拉斯加和德克萨斯，每个站点覆盖约175平方英里，亚马逊称今年已通过无人机完成数十万件包裹配送。公司计划近期在芝加哥、锡拉丘兹、克利夫兰、亚特兰大和博伊西新增站点，年内还将进一步扩展至佐治亚、俄亥俄、伊利诺伊、爱达荷和纽约。该服务面向5磅以下商品，承诺最快30分钟送达；Prime会员满50美元订单免运费（不足则收2.99美元），非会员需支付4.99美元运费。亚马逊表示，此次扩张依托FAA 135部认证及「探测-规避」系统，以回应此前无人机事故引发的安全担忧，同时沃尔玛与DoorDash也在推进各自的竞争性无人机配送网络。"
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html",
+      "titleEn": "Here's What the Charts Say About Nvidia's Stock Heading Into Earnings",
+      "conclusionEn": "Nvidia reports fiscal Q2 earnings Wednesday after the close, with Wall Street expecting revenue near $92 billion and adjusted EPS of $2.09, a result widely seen as a bellwether for the entire AI trade.",
+      "conclusionZh": "英伟达将于周三盘后公布第二财季财报，市场预期营收约920亿美元、调整后每股收益2.09美元，被视为整个AI交易的风向标。",
+      "whyEn": "As the dominant supplier of AI accelerators, Nvidia's results and guidance — especially on China sales and data-center demand — could determine whether the recent chip-stock selloff deepens or reverses across the broader tech sector.",
+      "whyZh": "作为AI加速芯片的主导供应商，英伟达的业绩与指引（尤其是中国销售及数据中心需求）将决定近期芯片股抛售是否会在整个科技板块加剧或逆转。",
+      "detailEn": "Nvidia is scheduled to report second-quarter fiscal 2027 results on Wednesday after markets close, with consensus estimates calling for roughly $92 billion in revenue, implying nearly 95% year-over-year growth, and adjusted earnings per share of $2.09. The company's own guidance excluded any China data-center revenue, so any updated commentary on China chip sales could move the stock sharply in either direction. The report comes amid a broader pullback in semiconductor shares over the past week, with investors trimming AI hardware exposure ahead of the print, making Wednesday's results a critical test of whether the AI infrastructure buildout narrative still holds.",
+      "detailZh": "英伟达定于周三美股收盘后公布2027财年第二季度业绩，市场普遍预期营收约920亿美元，同比增长近95%，调整后每股收益为2.09美元。公司此前指引并未计入任何中国数据中心营收，因此关于中国芯片销售的最新表态可能引发股价大幅波动。该财报发布之际，半导体股过去一周已出现回调，投资者在财报前减持AI硬件仓位，使周三的业绩成为检验AI基础设施建设叙事是否依然成立的关键节点。"
+    },
+    {
+      "category": "科技",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/technology/articles/netlist-files-patent-infringement-action-142207121.html",
+      "titleEn": "Netlist Files Patent Infringement Action Against Micron at US International Trade Commission",
+      "conclusionEn": "Netlist filed ITC and federal court complaints accusing Micron of infringing four patents covering DDR5 server memory, seeking to block imports of Micron's DDR5 RDIMM and MRDIMM products.",
+      "conclusionZh": "Netlist向美国国际贸易委员会及联邦法院起诉美光，指控其侵犯四项DDR5服务器内存专利，并寻求禁止相关产品进口。",
+      "whyEn": "A successful exclusion order could disrupt supply of memory chips central to AI servers, adding legal risk on top of the recent chip-stock selloff and pressuring Micron shares, which fell nearly 6% on the news.",
+      "whyZh": "若禁止令生效，将扰乱AI服务器核心内存芯片的供应，在近期芯片股抛售之上再添法律风险，美光股价因此消息一度下跌近6%。",
+      "detailEn": "Netlist's ITC complaint, filed August 12, names Micron along with Supermicro, HPE and Lenovo, alleging infringement of four patents related to DDR5 RDIMM and MRDIMM memory technology. A parallel federal lawsuit in the Central District of California asserts two of the same patents against Micron directly. Rather than seeking only monetary damages, Netlist is requesting exclusion and cease-and-desist orders that would block the import of the allegedly infringing products into the US, directly targeting memory lines central to Micron's AI server business. Micron shares slid on the news, compounding a broader selloff in memory and AI-chip stocks ahead of Nvidia's earnings this week.",
+      "detailZh": "Netlist于8月12日向ITC提起申诉，将美光及美超微、HPE和联想一并列为被告，指控其侵犯四项与DDR5 RDIMM及MRDIMM内存技术相关的专利。加州中区联邦法院的平行诉讼则直接针对美光主张其中两项专利。Netlist并未仅寻求金钱赔偿，而是要求发布排除令和禁止进口令，阻止被控侵权产品进入美国市场，直接冲击美光AI服务器业务的核心内存产品线。消息公布后美光股价下跌，加剧了英伟达本周财报发布前内存与AI芯片股的整体抛售。"
+    },
+    {
+      "category": "财经",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/economy/policy/articles/warsh-first-jackson-hole-speech-200000444.html",
+      "titleEn": "Kevin Warsh to Make First Jackson Hole Speech as Fed Chair",
+      "conclusionEn": "New Federal Reserve Chair Kevin Warsh will deliver his first Jackson Hole keynote Friday, August 28, as markets look for clarity on how he will respond to inflation running near 3.4%, well above the Fed's 2% target.",
+      "conclusionZh": "美联储新任主席沃什将于8月28日周五发表其首场杰克逊霍尔主题演讲，市场期待其对逾3.4%的高通胀释放政策信号。",
+      "whyEn": "First-time keynotes by a new Fed chair are historically market-moving — Powell's 2022 speech triggered a 3.4% single-day S&P 500 drop — and Warsh has so far avoided forward guidance, leaving investors uncertain about the rate path.",
+      "whyZh": "新任美联储主席的首场演讲历来对市场影响巨大——鲍威尔2022年的演讲曾致标普500单日暴跌3.4%——而沃什此前一直回避前瞻指引，令投资者对利率路径感到不确定。",
+      "detailEn": "Warsh will speak at 10 a.m. ET on Friday at the Jackson Hole Economic Symposium, whose 2026 theme is \"Financial Innovation: Implications for Payments and Policy,\" gathering roughly 120 central bankers and economists from more than 70 countries. Since taking over from Powell in May, Warsh has removed forward-looking guidance from FOMC statements in favor of a purely data-dependent approach, and after July's meeting he offered little insight into his rate views, which some investors read as a lack of resolve on inflation — a reaction that helped push long-term bond yields to two-decade highs. With inflation still elevated and signs of consumer stress raising recession concerns, Friday's speech is one of the few extended opportunities markets will get to hear directly from the new chair before the September 15-16 FOMC meeting.",
+      "detailZh": "沃什将于周五美东时间上午10点在杰克逊霍尔经济研讨会上发表演讲，本届主题为「金融创新：对支付与政策的影响」，约120位来自70多个国家的央行官员及经济学家将出席。自5月接替鲍威尔以来，沃什已从FOMC声明中移除前瞻指引，转而采取纯数据驱动的方式；7月会议后他对利率立场几乎未作说明，部分投资者将此解读为在通胀问题上缺乏决心，这一反应曾推动长期国债收益率升至二十年高位。在通胀仍居高不下、消费者压力迹象引发衰退担忧之际，周五的演讲将是市场在9月15-16日FOMC会议前少有的直接聆听新主席表态的机会。"
+    },
+    {
+      "category": "财经",
+      "source": "U.S. News",
+      "sourceUrl": "https://www.usnews.com/news/top-news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks-bloomberg-news-reports",
+      "titleEn": "US Eyes China Overcapacity Tariffs of 7.5% Before Xi-Trump Talks",
+      "conclusionEn": "The US is considering a new 7.5% tariff on Chinese goods over allegations of industrial overcapacity, ahead of anticipated further trade discussions between Presidents Trump and Xi.",
+      "conclusionZh": "美国正考虑对中国商品加征7.5%的「产能过剩」关税，此举发生在特朗普与习近平预期展开进一步贸易磋商之前。",
+      "whyEn": "A new tariff would mark fresh friction just months after the two countries' May summit trade truce, and any escalation could ripple through global supply chains, manufacturing costs and equity markets already on edge over Fed policy and the Iran standoff.",
+      "whyZh": "在两国5月峰会达成贸易休战仅几个月后，新关税意味着摩擦再起，若局势升级，将波及全球供应链、制造成本及本已因美联储政策与伊朗对峙而承压的股市。",
+      "detailEn": "According to Bloomberg News, the US is weighing a 7.5% tariff targeting Chinese goods linked to industrial overcapacity, a measure that would layer onto existing duties imposed during this year's trade disputes. The move comes as Washington and Beijing prepare for further high-level contact following their May summit, which had produced a truce reducing some tariffs and securing US access to critical minerals in exchange for a pledge to restore agricultural purchases. Whether the new tariff proceeds may hinge on the outcome of upcoming talks, with markets watching closely for signs of renewed escalation versus a durable truce.",
+      "detailZh": "据彭博社报道，美国正考虑对与「产能过剩」相关的中国商品加征7.5%关税，此举将叠加在今年贸易争端期间已实施的关税之上。此举正值华盛顿与北京在5月峰会后筹备进一步高层接触之际——此前的峰会曾达成休战，降低部分关税并确保美国获得关键矿产供应，以换取中方恢复农产品采购的承诺。新关税能否推进，或将取决于即将举行的会谈结果，市场正密切关注局势是会重新升级还是维持稳定休战。"
+    },
+    {
+      "category": "财经",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-lead-chip-180635152.html",
+      "titleEn": "Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets",
+      "conclusionEn": "Chip stocks led Monday's market decline as Nvidia fell 2.4% and Micron dropped nearly 6% on patent and earnings jitters, even as the Dow eked out a 0.26% gain and hyperscalers Meta, Amazon and Alphabet each rose.",
+      "conclusionZh": "周一芯片股领跌，英伟达跌2.4%，美光因专利诉讼及财报前紧张情绪重挫近6%，但道指微涨0.26%，Meta、亚马逊、Alphabet等云计算巨头股价均上涨。",
+      "whyEn": "The widening gap between falling chip-hardware stocks and rising cloud-hyperscaler stocks signals investors are growing more selective about which parts of the AI trade to trust, a divergence that could reshape sector positioning heading into Nvidia's earnings.",
+      "whyZh": "芯片硬件股下跌与云计算巨头股上涨之间的差距扩大，显示投资者对AI概念股的选择趋于谨慎，这一分化可能在英伟达财报公布前重塑板块资金布局。",
+      "detailEn": "The S&P 500 fell 0.28% to 7,652.86 and the Nasdaq slid 0.76% to 25,980.19 on Monday, dragged down by semiconductor names as investors trimmed AI-hardware exposure ahead of Nvidia's Wednesday earnings and Micron faced fresh patent litigation from Netlist. Nvidia dropped 2.4%, while AMD and Broadcom each fell more than 2-3%. In contrast, hyperscalers Meta, Amazon and Alphabet gained between 0.9% and 1.7%, marking one of the widest single-session chip-versus-cloud divergences in recent weeks. Scott Bessent's newly announced Iran sanctions campaign added a macro overhang to the session, even as the Dow managed a slight 0.26% gain on strength in non-tech sectors.",
+      "detailZh": "周一标普500指数下跌0.28%，报7652.86点；纳斯达克综合指数下跌0.76%，报25980.19点，主要受半导体股拖累——投资者在英伟达周三财报公布前削减AI硬件持仓，同时美光又面临Netlist提起的新专利诉讼。英伟达下跌2.4%，AMD和博通跌幅均超过2%-3%。相比之下，云计算巨头Meta、亚马逊和Alphabet股价分别上涨0.9%至1.7%，形成近期芯片股与云计算股之间最明显的单日分化。贝森特新宣布的对伊制裁行动也为当日交易增添了宏观层面的压力，尽管道指凭借非科技板块的强势仍小幅上涨0.26%。"
+    },
+    {
+      "category": "财经",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-24-2026-prices-rising-as-investors-look-for-more-fed-clues-this-week-130538704.html",
+      "titleEn": "Bitcoin and Ethereum Prices Rising as Investors Look for More Fed Clues This Week",
+      "conclusionEn": "Bitcoin climbed toward $79,000 on Monday, its highest level since May, as traders looked ahead to Fed Chair Warsh's Jackson Hole speech and reacted to Trump's backing of crypto-friendly regulation.",
+      "conclusionZh": "比特币周一升至近79000美元，为5月以来最高水平，市场关注美联储主席沃什的杰克逊霍尔演讲，并受特朗普支持加密友好监管消息提振。",
+      "whyEn": "Crypto's rally alongside anticipation of Fed policy signals shows how tightly digital-asset prices are now linked to US monetary policy and regulatory developments like the Clarity Act, which could reshape crypto oversight for years.",
+      "whyZh": "加密货币在美联储政策信号预期中同步上涨，显示数字资产价格已与美国货币政策及Clarity法案等监管进展高度绑定，后者可能长期重塑加密监管格局。",
+      "detailEn": "Bitcoin opened around $77,700 on Monday and climbed toward $79,000 by late morning, extending a strong weekend that put it at its highest level since May, while ethereum reached its best level since late January. The rally was driven partly by optimism around President Trump's backing of the Clarity Act, which would clarify whether cryptocurrencies are regulated as securities or commodities, and partly by anticipation of Fed Chair Kevin Warsh's Jackson Hole speech this week. Analysts are now eyeing $80,000 as bitcoin's next resistance level, with some forecasts, including from Standard Chartered, projecting a run toward $100,000 by year-end if regulatory and monetary conditions stay favorable.",
+      "detailZh": "比特币周一开盘价约为77700美元，到临近中午已升至近79000美元，延续了周末以来的强势表现，创下5月以来新高，以太坊也升至1月底以来的最佳水平。此轮上涨部分受特朗普支持Clarity法案（旨在明确加密货币应按证券还是大宗商品监管）的乐观情绪推动，也受到市场对本周美联储主席沃什杰克逊霍尔演讲的预期提振。分析师目前将8万美元视为比特币的下一个阻力位，渣打银行等机构预测，若监管与货币环境保持有利，年底前有望冲击10万美元。"
     }
   ],
   "businessTips": [
     {
-      "term": "Sunk Cost Fallacy",
+      "term": "Economies of Scale",
       "category": "通用商业",
-      "explanationEn": "The sunk cost fallacy is the tendency to keep investing time, money, or effort into a decision because of what has already been spent, rather than evaluating the choice based on future costs and benefits. Sunk costs — money already spent — are gone regardless of what you do next, so they should not factor into forward-looking decisions. Recognizing this bias helps managers and individuals cut losses on failing projects instead of escalating commitment. It is one of the most common reasons companies keep funding products or strategies long after the evidence says to stop.",
-      "explanationZh": "沉没成本谬误指人们因为已经投入的时间、金钱或精力，而倾向于继续投入某个决策，而不是基于未来的成本与收益重新评估。已经花掉的钱无论接下来怎么做都无法收回，因此不应影响面向未来的决策。识破这一偏见能帮助管理者和个人及时止损，而不是对失败的项目不断加码投入。这也是许多企业明明证据已表明该止步，却仍持续为某产品或战略投钱的常见原因。",
-      "exampleEn": "A startup has spent $2 million building a feature that user testing shows nobody wants. The founders keep funding it for another six months, reasoning \"we've already put so much into this\" — instead of redirecting the remaining budget to a feature with proven demand. The rational move is to ask only: given what we know now, is continuing the best use of the next dollar?",
-      "exampleZh": "一家创业公司已花费200万美元开发一项功能，但用户测试显示几乎没人需要它。创始人却以「已经投入这么多」为由继续投入六个月，而不是把剩余预算转向已被验证有需求的功能。理性的做法应该只问一个问题：以现在掌握的信息来看，继续投入是不是下一分钱的最佳用途？"
+      "explanationEn": "Economies of scale occur when a company's average cost per unit falls as its production volume increases, because fixed costs like factories, equipment and software get spread across more units, and bulk purchasing lowers per-unit input costs. This is why larger companies can often underprice smaller rivals while still maintaining healthy margins. Understanding this concept helps explain why industries like manufacturing, cloud computing and retail tend to consolidate around a few large players, and why growing volume — not just revenue — is often a strategic priority.",
+      "explanationZh": "规模经济是指企业随着产量增加，单位产品的平均成本随之下降，原因是工厂、设备和软件等固定成本被分摊到更多产品上，同时批量采购也降低了单位投入成本。这也是为什么大企业往往能以更低价格与小竞争对手竞争，同时仍保持健康利润率。理解这一概念有助于解释为什么制造业、云计算、零售等行业容易向少数大型企业集中，也说明为什么扩大产量（而不仅是营收）常被视为战略重点。",
+      "exampleEn": "A cloud storage company's cost per gigabyte drops sharply as it scales from 1,000 to 1 million customers, because the same data centers and engineering team now serve far more users. This lets it cut prices to attract more customers while competitors running smaller operations can't match the price without losing money.",
+      "exampleZh": "一家云存储公司在用户规模从1000扩大到100万时，每GB存储成本大幅下降，因为同样的数据中心和工程团队现在服务了更多用户。这使它能够降价吸引更多客户，而规模较小的竞争对手若跟进降价则会面临亏损。"
     },
     {
-      "term": "Bootstrapping",
+      "term": "Minimum Viable Product (MVP)",
       "category": "创业副业",
-      "explanationEn": "Bootstrapping means building and growing a business using only personal savings, early revenue, and reinvested profits — without raising outside venture capital or taking on debt. It forces founders to reach profitability quickly and keep costs lean, since there is no investor cushion to fall back on. The tradeoff is slower growth compared to well-funded competitors, but founders retain full ownership and control, and the business isn't pressured to chase growth metrics that don't fit its natural pace. Many successful side hustles and small businesses stay bootstrapped permanently by choice.",
-      "explanationZh": "自筹资金创业（Bootstrapping）指仅靠个人积蓄、早期营收和滚存利润来搭建并发展业务，而不引入风险投资或举债。由于没有投资人的资金缓冲，创始人必须尽快实现盈利并严格控制成本。代价是相较于融资充足的竞争对手，成长速度会较慢，但创始人能保留完整的股权与控制权，业务也不会被迫追逐不符合自身节奏的增长指标。许多成功的副业和小企业出于主动选择，会一直保持自筹资金的状态。",
-      "exampleEn": "Someone starts a niche online course business using only a laptop and $200 in ad spend, reinvesting every dollar of profit into better content and marketing instead of seeking outside funding. Two years later it's a profitable six-figure business fully owned by the founder, having grown slower than a VC-backed rival but without ever answering to outside shareholders.",
-      "exampleZh": "有人只用一台笔记本电脑和200美元广告预算，启动了一门小众在线课程业务，把每一分利润都重新投入到内容优化和推广中，而不是寻求外部融资。两年后，这已成长为一家由创始人完全持股、年营收达六位数的盈利企业——虽然增速不及有风投支持的竞争对手，但从未需要向外部股东负责。"
+      "explanationEn": "A minimum viable product is the simplest version of a product that lets a founder test a core idea with real customers, gathering feedback before investing in full-featured development. The goal is to learn whether people actually want the product with the least amount of time and money spent, avoiding the common startup mistake of building something polished that nobody needs. An MVP can be as simple as a landing page, a manual service disguised as a product, or a bare-bones app with only one feature working. Speed to feedback matters more than polish at this stage.",
+      "explanationZh": "最小可行产品（MVP）是指产品最精简的版本，用以让创始人用尽可能少的时间和金钱，向真实客户验证核心想法并收集反馈，避免创业中常见的「打磨出一个没人需要的产品」的失误。MVP可以简单到只是一个落地页、一个「人工代劳但包装成产品」的服务，或是只有一个功能能用的简陋App。在这一阶段，获得反馈的速度比打磨程度更重要。",
+      "exampleEn": "Before building a full meal-kit delivery app, a founder manually sources ingredients, packs boxes by hand, and delivers them personally to the first 20 customers using a simple sign-up form. If customers keep ordering, that validates demand before a single line of app code is written.",
+      "exampleZh": "在开发完整的送餐包App之前，创始人先手动采购食材、亲自打包，并用一份简单的报名表单，亲自将餐盒送到最初20位客户手中。如果客户持续下单，就在还没写一行App代码之前验证了市场需求。"
     },
     {
-      "term": "Compound Interest",
+      "term": "Dollar-Cost Averaging",
       "category": "投资金融",
-      "explanationEn": "Compound interest is interest calculated not only on the original principal but also on the accumulated interest from previous periods, causing an investment to grow at an accelerating rate over time. The longer money stays invested, the more dramatic the effect, which is why starting early matters more than the size of individual contributions in many cases. This principle underlies retirement savings, index fund investing, and even debt — credit card balances compound against the borrower the same way. Understanding compounding helps explain why small, consistent investments made early can outgrow larger investments made later.",
-      "explanationZh": "复利是指利息不仅按最初本金计算，还会计入之前各期累积的利息，从而使投资随时间加速增长。资金投资时间越长，这种效应就越显著，这也是为什么在许多情况下，「尽早开始」比「单次投入金额大小」更重要。这一原理是退休储蓄、指数基金投资乃至债务（信用卡欠款对借款人同样以复利方式增长）背后的核心逻辑。理解复利有助于说明为什么较早开始的小额持续投资，长期来看可能超过较晚开始的大额投资。",
-      "exampleEn": "Someone who invests $200 a month starting at age 25 with a 7% average annual return will have significantly more at retirement than someone who invests $400 a month starting at age 35, purely because the first investor's money compounds for an extra decade. The lesson: time in the market often matters more than the amount invested at any single point.",
-      "exampleZh": "一个人从25岁起每月投资200美元，按年化7%的平均回报率计算，到退休时的资产会明显多于从35岁起每月投资400美元的人——原因仅仅是前者的资金多复利增长了整整十年。这说明：在市场中持续投资的时间长度，往往比某一时刻投入的金额大小更重要。"
+      "explanationEn": "Dollar-cost averaging is an investment strategy where a fixed amount of money is invested at regular intervals — such as monthly — regardless of whether prices are high or low, rather than trying to time the market with a single lump-sum purchase. This smooths out the average purchase price over time: buying more shares when prices are low and fewer when prices are high. The main benefit is removing emotion and guesswork from investing decisions, which is especially useful for volatile assets. It doesn't guarantee the best possible return, but it reduces the risk of investing a large sum right before a downturn.",
+      "explanationZh": "定投（成本平均法）是一种投资策略，即按固定时间间隔（如每月）投入固定金额，无论当时价格高低，而不是试图通过一次性大额投入来精准择时。这样做能随时间平摊平均买入成本：价格低时买入更多份额，价格高时买入更少。其主要好处是消除投资决策中的情绪与猜测成分，对波动较大的资产尤为有用。它不能保证获得最佳收益，但能降低在下跌前重仓投入的风险。",
+      "exampleEn": "Instead of investing $12,000 in a stock all at once, an investor puts in $1,000 every month for a year. When the price drops mid-year, that month's $1,000 buys more shares than usual, lowering the investor's overall average cost per share compared to a single lump-sum purchase at the wrong time.",
+      "exampleZh": "投资者没有一次性投入1.2万美元买入某只股票，而是选择每月投入1000美元，持续一年。年中股价下跌时，当月的1000美元能买到比平时更多的份额，从而拉低整体平均持仓成本，相比在错误时点一次性重仓买入更为稳健。"
     }
   ]
 }
