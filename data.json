@@ -1,128 +1,116 @@
 {
-  "date": "2026-08-25",
-  "updatedAt": "2026-08-25T12:06:17+10:00",
+  "date": "2026-08-26",
+  "updatedAt": "2026-08-26T12:09:02+10:00",
   "news": [
     {
-      "category": "国际",
+      "category": "贸易",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+      "titleEn": "Canada Hits Back at U.S. With Tariffs as Trade War Escalates",
+      "conclusionEn": "Canada will impose dollar-for-dollar retaliatory tariffs on about $20 billion of U.S. goods starting Sept. 8, after Washington's new 50% duties on Canadian products.",
+      "conclusionZh": "加拿大将于9月8日对等反制美国关税，贸易战升级",
+      "whyEn": "The tit-for-tat escalation between two of the world's most integrated economies threatens supply chains in steel, dairy, autos and electronics, and could push prices higher on both sides of the border.",
+      "whyZh": "涉及钢铁、乳制品等多行业，或推高两国物价并扰乱供应链",
+      "detailEn": "The U.S. imposed 50% tariffs on roughly $20 billion of Canadian goods after three days of talks in Washington collapsed ahead of a Trump-set deadline. Prime Minister Mark Carney called the breakdown a 'miscalculation' and accused Washington of using economic integration 'as a weapon.' Canada's retaliation, set to take effect September 8, will target U.S. steel, dairy, appliances, farm equipment, pulp and paper, and electronics. The dispute marks one of the sharpest breaks yet between the two historically close trading partners, and economists warn it could raise costs for manufacturers and consumers on both sides of the border.",
+      "detailZh": "美国在为期三天的华盛顿贸易谈判破裂后，对约200亿美元加拿大商品加征50%关税，谈判截止时间为特朗普设定的期限。加拿大总理卡尼称此次破裂是「误判」，并指责华盛顿把经济一体化「当作武器」。加拿大的反制关税将于9月8日生效，目标涵盖美国钢铁、乳制品、家电、农机、纸浆纸张及电子产品。这是两个历来关系紧密的贸易伙伴之间最严重的裂痕之一，经济学家警告此举可能推高两国制造商和消费者的成本。"
+    },
+    {
+      "category": "科技",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
-      "titleEn": "Iran Warns of Hormuz Ship Seizures Ahead of Bessent's Planned Sanctions Push",
-      "conclusionEn": "Treasury Secretary Scott Bessent launched \"Operation Economic Outcast,\" an escalating sanctions campaign he called an \"economic D-Day\" meant to sever Iran's global financial lifelines and reopen the Strait of Hormuz.",
-      "conclusionZh": "美财长贝森特启动「经济流放行动」，称之为「经济诺曼底登陆」，意在切断伊朗的全球金融命脉并重开霍尔木兹海峡。",
-      "whyEn": "The sanctions target shipping, oil, crypto, gold and aviation networks tied to Iran, raising the risk of retaliation in the Hormuz Strait — a chokepoint for roughly a fifth of global oil supply — which could spike energy prices worldwide.",
-      "whyZh": "制裁涉及与伊朗相关的航运、石油、加密货币、黄金及航空网络，可能招致伊朗在霍尔木兹海峡（承担全球约五分之一石油运输）报复，从而推高全球能源价格。",
-      "detailEn": "Bessent announced Monday that the sanctions would target international entities facilitating Iranian trade in oil, shipping, crypto, gold and aviation, framing the campaign as the endgame after the two sides missed a 60-day ceasefire window. He said the goal was to sever \"every economic lifeline\" sustaining Tehran's government. In response, Iran's top security chief Mohsen Rezaei threatened to halt oil flow through the Strait of Hormuz if neighboring countries joined the US crackdown, while Iran's Persian Gulf Strait Authority warned vessels violating transit rules could face fines or seizure. The standoff comes as the US-Iran conflict, now in its sixth month, has already rattled oil and equity markets repeatedly this summer.",
-      "detailZh": "贝森特周一宣布，制裁将针对协助伊朗石油、航运、加密货币、黄金及航空贸易的国际实体，并将此次行动定性为双方错过60天停火窗口后的「终局之战」，目标是切断维系德黑兰政府的「每一条经济命脉」。作为回应，伊朗最高安全官员礼萨伊威胁称，若周边国家加入美国的制裁行动，伊朗将阻断霍尔木兹海峡的石油运输；伊朗波斯湾海峡管理局也警告，违反通行规定的船只可能面临罚款或扣押。这场对峙发生在已持续六个月的美伊冲突背景下，今夏石油与股市已多次因此受到冲击。"
+      "sourceUrl": "https://www.cnbc.com/2026/08/25/nvidias-expectations-premium-dogs-the-stock-after-earnings.html",
+      "titleEn": "Nvidia's 'Expectations Premium' Dogs the Stock After Earnings",
+      "conclusionEn": "Nvidia reports fiscal Q2 2027 earnings after the close Wednesday, with Wall Street expecting revenue near $92 billion and EPS of about $2.09-2.10, roughly double year-ago levels.",
+      "conclusionZh": "英伟达周三盘后公布财报，预期营收约920亿美元",
+      "whyEn": "As the dominant AI chipmaker, Nvidia's results and guidance are seen as a bellwether for the entire AI trade; options markets are pricing in a roughly 5% share-price swing either way.",
+      "whyZh": "作为AI芯片风向标，其业绩将左右整个AI板块走势",
+      "detailEn": "Nvidia is expected to report roughly $92 billion in revenue for its fiscal second quarter, up about 97% year over year, with adjusted EPS near $2.09-2.10. The stock has fallen the day after earnings in each of the last four quarters despite beating estimates, a pattern analysts call the 'expectations premium,' as investors demand ever-larger beats to reward the stock. Analysts are watching sales of the newer Vera Rubin systems alongside current-generation Blackwell chips, with Nvidia targeting $1 trillion in cumulative sales through 2027. The report lands the same day as the Fed's preferred inflation gauge, adding to a high-stakes Wednesday for markets.",
+      "detailZh": "英伟达预计本财季营收约920亿美元，同比增长约97%，调整后每股收益约2.09至2.10美元。过去四个季度，该股均在财报公布后次日下跌，尽管业绩超出预期——分析师将这种现象称为「预期溢价」，即投资者要求业绩超出幅度越来越大才愿意给予正面回应。市场还将关注新一代Vera Rubin系统与现有Blackwell芯片的销售情况，英伟达设定了到2027年累计销售额达1万亿美元的目标。这份财报与美联储最看重的通胀数据同日公布，使本周三成为市场高度关注的一天。"
     },
     {
       "category": "财经",
       "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
-      "titleEn": "Oil Holds Decline as US Ramps Up Economic Pressure on Iran",
-      "conclusionEn": "Oil prices held a decline Monday as the US escalated economic pressure on Iran, with WTI trading near $85 a barrel and Brent around $92 after both benchmarks fell more than 2% the prior session.",
-      "conclusionZh": "美国加大对伊朗经济施压，油价周一维持跌势，WTI报每桶85美元附近，布伦特约92美元，此前一交易日两者均跌超2%。",
-      "whyEn": "Oil price swings driven by the Hormuz standoff ripple through inflation, transportation costs and consumer prices worldwide, making this one of the most closely watched market signals of the current Iran conflict.",
-      "whyZh": "受霍尔木兹海峡对峙影响的油价波动，将波及全球通胀、运输成本及消费者物价，是当前伊朗冲突中市场最关注的信号之一。",
-      "detailEn": "Crude prices slipped as traders weighed the new US sanctions campaign against signs that a full closure of the Strait of Hormuz remains more threat than reality for now. WTI crude traded near $85 a barrel and Brent closed around $92, extending losses from the prior session's more-than-2% drop. Analysts said the market is pricing in elevated geopolitical risk premium while still assuming supply disruptions will be limited unless Iran follows through on threats to interfere with tanker traffic. Further price swings are expected as the sanctions campaign unfolds this week.",
-      "detailZh": "由于交易员在权衡美国新一轮制裁行动与霍尔木兹海峡「全面封锁」目前仍更多是威胁而非现实之间的关系，原油价格有所回落。WTI原油报每桶85美元附近，布伦特收于约92美元，延续了上一交易日跌幅超2%的走势。分析师表示，市场正在计入较高的地缘政治风险溢价，但仍假设除非伊朗真正干扰油轮通行，否则供应中断将是有限的。随着本周制裁行动的推进，预计油价还将继续波动。"
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-25/jackson-hole-offers-warsh-high-profile-slot-to-rebut-his-critics",
+      "titleEn": "Jackson Hole Offers Warsh High-Profile Slot to Rebut His Critics",
+      "conclusionEn": "The Fed's preferred inflation gauge (PCE) lands Wednesday, two days before Chair Kevin Warsh delivers his first Jackson Hole keynote amid a rare 9-3 FOMC split over the rate path.",
+      "conclusionZh": "PCE通胀数据周三公布，为沃什周五演讲定调",
+      "whyEn": "Long-term Treasury yields have climbed to two-decade highs on doubts about Warsh's resolve on inflation, so his speech and today's data are among the biggest catalysts for bond and equity markets this week.",
+      "whyZh": "长债收益率处二十年高位，本周数据与演讲或引发市场波动",
+      "detailEn": "The Bureau of Economic Analysis releases July's Personal Consumption Expenditures data Wednesday, with consensus expecting headline PCE around 3.6% year-over-year and core PCE near 3.2-3.3%, following a rare negative monthly reading in June. Two days later, Fed Chair Kevin Warsh gives his first Jackson Hole keynote since taking over from Jerome Powell, at a symposium themed 'Financial Innovation: Implications for Payments and Policy.' July's FOMC minutes showed a 9-3 vote split, the widest divide among policymakers in roughly two decades, with some members pushing for a rate hike rather than a cut. Investors are watching for any hint of how Warsh will respond to inflation that has stayed above the Fed's 2% target for more than five years.",
+      "detailZh": "美国经济分析局将于周三公布7月个人消费支出（PCE）物价指数，市场预期整体PCE同比约3.6%，核心PCE约3.2%至3.3%，此前6月曾出现罕见的月度负增长。两天后，美联储主席沃什将自接替鲍威尔以来首次在杰克逊霍尔发表主题演讲，本届研讨会主题为「金融创新：对支付与政策的影响」。7月FOMC会议纪要显示投票以9比3分裂，是约二十年来政策制定者间分歧最大的一次，部分委员甚至主张加息而非降息。投资者正密切关注沃什将如何回应已连续五年多高于美联储2%目标的通胀水平。"
     },
     {
-      "category": "科技",
+      "category": "国际",
+      "source": "CBS News",
+      "sourceUrl": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/",
+      "titleEn": "US Signals Shift From Strikes to Economic Pressure on Iran, Oil Prices Swing",
+      "conclusionEn": "Secretary of State Marco Rubio has told foreign counterparts the U.S. does not currently plan new offensive strikes on Iran, shifting focus to economic sanctions and reopening the Strait of Hormuz.",
+      "conclusionZh": "鲁比奥暗示美国短期内不会对伊朗发动新打击",
+      "whyEn": "The apparent de-escalation, after months of US-Iran conflict, sent oil prices sharply lower as traders priced out fears of a full Hormuz shutdown, though Rubio did not rule out future strikes.",
+      "whyZh": "局势缓和令油价大幅下跌，但美方未排除未来军事行动",
+      "detailEn": "Rubio reportedly told foreign ministers in recent days that Washington does not expect to launch new offensive strikes against Iran for the time being, instead prioritizing economic pressure and efforts to normalize shipping through the Strait of Hormuz. The signal follows nearly six months of intermittent US-Iran conflict and comes as the Trump administration weighs additional sanctions on Iranian oil, shipping and financial networks. Oil prices fell sharply on the news, with Brent crude dropping more than 6% and WTI down roughly 5% as traders reduced the geopolitical risk premium built into prices. Analysts caution the truce remains fragile, with Rubio reportedly leaving open the possibility of military action if Iran initiates new hostilities.",
+      "detailZh": "据报道，鲁比奥近期告知多国外长，美方短期内不打算对伊朗发动新的攻击性打击，转而优先采取经济施压手段，并致力于恢复霍尔木兹海峡航运正常化。这一信号出现在美伊断续冲突持续近六个月之后，特朗普政府目前正考虑对伊朗石油、航运及金融网络追加制裁。消息公布后油价大幅下跌，布伦特原油跌幅超过6%，WTI原油跌约5%，交易员因此下调了此前计入油价的地缘政治风险溢价。分析人士提醒，这一缓和局面仍十分脆弱，据报道鲁比奥并未排除若伊朗挑起新一轮冲突，美方仍可能采取军事行动。"
+    },
+    {
+      "category": "经济",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-23/goldman-says-chinese-easing-hopes-revive-with-economy-growing-4",
+      "titleEn": "Goldman Says Chinese Easing Hopes Revive With Economy Growing 4%",
+      "conclusionEn": "China's economic growth has slowed to roughly 4% year-over-year, down from 4.3% the prior quarter and below Beijing's 4.5-5% annual target, reviving hopes for monetary stimulus.",
+      "conclusionZh": "中国经济增速放缓至约4%，宽松预期升温",
+      "whyEn": "Slower growth in the world's second-largest economy affects global trade, commodity demand and supply chains, and renewed stimulus expectations could move Asian and commodity markets.",
+      "whyZh": "中国增长放缓影响全球贸易与大宗商品需求，刺激预期升温",
+      "detailEn": "China's GDP growth has cooled to about 4% year-over-year, down from 4.3% in the prior quarter and further below the government's official target range of 4.5% to 5% for the year. Goldman Sachs said the slowdown has revived expectations that Beijing will roll out fresh monetary easing measures, such as rate or reserve-requirement cuts, to support the economy. The deceleration follows months of soft domestic consumption and a property-sector downturn that has weighed on growth despite government stimulus efforts earlier in the year. Investors are watching for signals from Chinese policymakers in the coming weeks on whether additional stimulus will be announced.",
+      "detailZh": "中国国内生产总值同比增速已放缓至约4%，低于上一季度的4.3%，与政府全年4.5%至5%的官方增长目标差距进一步拉大。高盛表示，经济放缓重新点燃了市场对北京可能推出降息、降准等新一轮货币宽松措施以支撑经济的预期。此次减速是在国内消费疲软及房地产行业持续低迷数月之后出现的，尽管今年早些时候政府已推出刺激措施，但增长仍承压。投资者正密切关注中国决策层未来几周是否会释放追加刺激的信号。"
+    },
+    {
+      "category": "市场",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html",
-      "titleEn": "Here's What the Charts Say About Nvidia's Stock Heading Into Earnings",
-      "conclusionEn": "Nvidia reports fiscal Q2 earnings Wednesday after the close, with Wall Street expecting revenue near $92 billion and adjusted EPS of $2.09, a result widely seen as a bellwether for the entire AI trade.",
-      "conclusionZh": "英伟达将于周三盘后公布第二财季财报，市场预期营收约920亿美元、调整后每股收益2.09美元，被视为整个AI交易的风向标。",
-      "whyEn": "As the dominant supplier of AI accelerators, Nvidia's results and guidance — especially on China sales and data-center demand — could determine whether the recent chip-stock selloff deepens or reverses across the broader tech sector.",
-      "whyZh": "作为AI加速芯片的主导供应商，英伟达的业绩与指引（尤其是中国销售及数据中心需求）将决定近期芯片股抛售是否会在整个科技板块加剧或逆转。",
-      "detailEn": "Nvidia is scheduled to report second-quarter fiscal 2027 results on Wednesday after markets close, with consensus estimates calling for roughly $92 billion in revenue, implying nearly 95% year-over-year growth, and adjusted earnings per share of $2.09. The company's own guidance excluded any China data-center revenue, so any updated commentary on China chip sales could move the stock sharply in either direction. The report comes amid a broader pullback in semiconductor shares over the past week, with investors trimming AI hardware exposure ahead of the print, making Wednesday's results a critical test of whether the AI infrastructure buildout narrative still holds.",
-      "detailZh": "英伟达定于周三美股收盘后公布2027财年第二季度业绩，市场普遍预期营收约920亿美元，同比增长近95%，调整后每股收益为2.09美元。公司此前指引并未计入任何中国数据中心营收，因此关于中国芯片销售的最新表态可能引发股价大幅波动。该财报发布之际，半导体股过去一周已出现回调，投资者在财报前减持AI硬件仓位，使周三的业绩成为检验AI基础设施建设叙事是否依然成立的关键节点。"
+      "sourceUrl": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+      "titleEn": "S&P 500 Rises, Treasury Yields Fall as Traders Await Nvidia, Inflation Data",
+      "conclusionEn": "US stocks closed higher Tuesday — the S&P 500 up 0.3% to 7,677, the Nasdaq up 0.7% to 26,151, and the Dow up 0.3% to 53,577 — as Treasury yields fell ahead of Wednesday's key catalysts.",
+      "conclusionZh": "美股周二收高，为财报与通胀数据公布前铺垫",
+      "whyEn": "The rally shows investors shrugging off Canada-US trade tension for now, but positioning stays cautious with Nvidia earnings and the Fed's inflation gauge both due the next day.",
+      "whyZh": "投资者暂时无视贸易紧张，但对次日数据保持谨慎",
+      "detailEn": "The S&P 500 gained 0.32% to close at 7,677.28, the Nasdaq Composite rose 0.66% to 26,151.30, and the Dow Jones Industrial Average added 160.24 points, or 0.3%, to 53,577.40 on Tuesday. The benchmark 10-year Treasury yield fell more than 7 basis points to around 4.625% as investors positioned for a heavy news day Wednesday, with Nvidia's earnings after the close and the Fed's preferred PCE inflation gauge in the morning. Nvidia shares rose about 2% ahead of its report. Traders largely looked past the escalating US-Canada tariff dispute, focusing instead on the AI trade and the path of Fed policy.",
+      "detailZh": "周二标普500指数上涨0.32%，收于7677.28点；纳斯达克综合指数上涨0.66%，报26151.30点；道琼斯工业平均指数上涨160.24点，涨幅0.3%，收于53577.40点。基准10年期美债收益率下跌逾7个基点，至约4.625%附近，投资者正为周三的密集消息面做准备——英伟达将于当日盘后公布财报，美联储最看重的PCE通胀数据也将于当天上午公布。英伟达股价在财报发布前上涨约2%。交易员大体上无视了持续升级的美加关税纠纷，将注意力集中在AI交易及美联储政策路径上。"
     },
     {
-      "category": "科技",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/technology/articles/netlist-files-patent-infringement-action-142207121.html",
-      "titleEn": "Netlist Files Patent Infringement Action Against Micron at US International Trade Commission",
-      "conclusionEn": "Netlist filed ITC and federal court complaints accusing Micron of infringing four patents covering DDR5 server memory, seeking to block imports of Micron's DDR5 RDIMM and MRDIMM products.",
-      "conclusionZh": "Netlist向美国国际贸易委员会及联邦法院起诉美光，指控其侵犯四项DDR5服务器内存专利，并寻求禁止相关产品进口。",
-      "whyEn": "A successful exclusion order could disrupt supply of memory chips central to AI servers, adding legal risk on top of the recent chip-stock selloff and pressuring Micron shares, which fell nearly 6% on the news.",
-      "whyZh": "若禁止令生效，将扰乱AI服务器核心内存芯片的供应，在近期芯片股抛售之上再添法律风险，美光股价因此消息一度下跌近6%。",
-      "detailEn": "Netlist's ITC complaint, filed August 12, names Micron along with Supermicro, HPE and Lenovo, alleging infringement of four patents related to DDR5 RDIMM and MRDIMM memory technology. A parallel federal lawsuit in the Central District of California asserts two of the same patents against Micron directly. Rather than seeking only monetary damages, Netlist is requesting exclusion and cease-and-desist orders that would block the import of the allegedly infringing products into the US, directly targeting memory lines central to Micron's AI server business. Micron shares slid on the news, compounding a broader selloff in memory and AI-chip stocks ahead of Nvidia's earnings this week.",
-      "detailZh": "Netlist于8月12日向ITC提起申诉，将美光及美超微、HPE和联想一并列为被告，指控其侵犯四项与DDR5 RDIMM及MRDIMM内存技术相关的专利。加州中区联邦法院的平行诉讼则直接针对美光主张其中两项专利。Netlist并未仅寻求金钱赔偿，而是要求发布排除令和禁止进口令，阻止被控侵权产品进入美国市场，直接冲击美光AI服务器业务的核心内存产品线。消息公布后美光股价下跌，加剧了英伟达本周财报发布前内存与AI芯片股的整体抛售。"
-    },
-    {
-      "category": "财经",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/economy/policy/articles/warsh-first-jackson-hole-speech-200000444.html",
-      "titleEn": "Kevin Warsh to Make First Jackson Hole Speech as Fed Chair",
-      "conclusionEn": "New Federal Reserve Chair Kevin Warsh will deliver his first Jackson Hole keynote Friday, August 28, as markets look for clarity on how he will respond to inflation running near 3.4%, well above the Fed's 2% target.",
-      "conclusionZh": "美联储新任主席沃什将于8月28日周五发表其首场杰克逊霍尔主题演讲，市场期待其对逾3.4%的高通胀释放政策信号。",
-      "whyEn": "First-time keynotes by a new Fed chair are historically market-moving — Powell's 2022 speech triggered a 3.4% single-day S&P 500 drop — and Warsh has so far avoided forward guidance, leaving investors uncertain about the rate path.",
-      "whyZh": "新任美联储主席的首场演讲历来对市场影响巨大——鲍威尔2022年的演讲曾致标普500单日暴跌3.4%——而沃什此前一直回避前瞻指引，令投资者对利率路径感到不确定。",
-      "detailEn": "Warsh will speak at 10 a.m. ET on Friday at the Jackson Hole Economic Symposium, whose 2026 theme is \"Financial Innovation: Implications for Payments and Policy,\" gathering roughly 120 central bankers and economists from more than 70 countries. Since taking over from Powell in May, Warsh has removed forward-looking guidance from FOMC statements in favor of a purely data-dependent approach, and after July's meeting he offered little insight into his rate views, which some investors read as a lack of resolve on inflation — a reaction that helped push long-term bond yields to two-decade highs. With inflation still elevated and signs of consumer stress raising recession concerns, Friday's speech is one of the few extended opportunities markets will get to hear directly from the new chair before the September 15-16 FOMC meeting.",
-      "detailZh": "沃什将于周五美东时间上午10点在杰克逊霍尔经济研讨会上发表演讲，本届主题为「金融创新：对支付与政策的影响」，约120位来自70多个国家的央行官员及经济学家将出席。自5月接替鲍威尔以来，沃什已从FOMC声明中移除前瞻指引，转而采取纯数据驱动的方式；7月会议后他对利率立场几乎未作说明，部分投资者将此解读为在通胀问题上缺乏决心，这一反应曾推动长期国债收益率升至二十年高位。在通胀仍居高不下、消费者压力迹象引发衰退担忧之际，周五的演讲将是市场在9月15-16日FOMC会议前少有的直接聆听新主席表态的机会。"
-    },
-    {
-      "category": "财经",
-      "source": "U.S. News",
-      "sourceUrl": "https://www.usnews.com/news/top-news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks-bloomberg-news-reports",
-      "titleEn": "US Eyes China Overcapacity Tariffs of 7.5% Before Xi-Trump Talks",
-      "conclusionEn": "The US is considering a new 7.5% tariff on Chinese goods over allegations of industrial overcapacity, ahead of anticipated further trade discussions between Presidents Trump and Xi.",
-      "conclusionZh": "美国正考虑对中国商品加征7.5%的「产能过剩」关税，此举发生在特朗普与习近平预期展开进一步贸易磋商之前。",
-      "whyEn": "A new tariff would mark fresh friction just months after the two countries' May summit trade truce, and any escalation could ripple through global supply chains, manufacturing costs and equity markets already on edge over Fed policy and the Iran standoff.",
-      "whyZh": "在两国5月峰会达成贸易休战仅几个月后，新关税意味着摩擦再起，若局势升级，将波及全球供应链、制造成本及本已因美联储政策与伊朗对峙而承压的股市。",
-      "detailEn": "According to Bloomberg News, the US is weighing a 7.5% tariff targeting Chinese goods linked to industrial overcapacity, a measure that would layer onto existing duties imposed during this year's trade disputes. The move comes as Washington and Beijing prepare for further high-level contact following their May summit, which had produced a truce reducing some tariffs and securing US access to critical minerals in exchange for a pledge to restore agricultural purchases. Whether the new tariff proceeds may hinge on the outcome of upcoming talks, with markets watching closely for signs of renewed escalation versus a durable truce.",
-      "detailZh": "据彭博社报道，美国正考虑对与「产能过剩」相关的中国商品加征7.5%关税，此举将叠加在今年贸易争端期间已实施的关税之上。此举正值华盛顿与北京在5月峰会后筹备进一步高层接触之际——此前的峰会曾达成休战，降低部分关税并确保美国获得关键矿产供应，以换取中方恢复农产品采购的承诺。新关税能否推进，或将取决于即将举行的会谈结果，市场正密切关注局势是会重新升级还是维持稳定休战。"
-    },
-    {
-      "category": "财经",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-lead-chip-180635152.html",
-      "titleEn": "Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets",
-      "conclusionEn": "Chip stocks led Monday's market decline as Nvidia fell 2.4% and Micron dropped nearly 6% on patent and earnings jitters, even as the Dow eked out a 0.26% gain and hyperscalers Meta, Amazon and Alphabet each rose.",
-      "conclusionZh": "周一芯片股领跌，英伟达跌2.4%，美光因专利诉讼及财报前紧张情绪重挫近6%，但道指微涨0.26%，Meta、亚马逊、Alphabet等云计算巨头股价均上涨。",
-      "whyEn": "The widening gap between falling chip-hardware stocks and rising cloud-hyperscaler stocks signals investors are growing more selective about which parts of the AI trade to trust, a divergence that could reshape sector positioning heading into Nvidia's earnings.",
-      "whyZh": "芯片硬件股下跌与云计算巨头股上涨之间的差距扩大，显示投资者对AI概念股的选择趋于谨慎，这一分化可能在英伟达财报公布前重塑板块资金布局。",
-      "detailEn": "The S&P 500 fell 0.28% to 7,652.86 and the Nasdaq slid 0.76% to 25,980.19 on Monday, dragged down by semiconductor names as investors trimmed AI-hardware exposure ahead of Nvidia's Wednesday earnings and Micron faced fresh patent litigation from Netlist. Nvidia dropped 2.4%, while AMD and Broadcom each fell more than 2-3%. In contrast, hyperscalers Meta, Amazon and Alphabet gained between 0.9% and 1.7%, marking one of the widest single-session chip-versus-cloud divergences in recent weeks. Scott Bessent's newly announced Iran sanctions campaign added a macro overhang to the session, even as the Dow managed a slight 0.26% gain on strength in non-tech sectors.",
-      "detailZh": "周一标普500指数下跌0.28%，报7652.86点；纳斯达克综合指数下跌0.76%，报25980.19点，主要受半导体股拖累——投资者在英伟达周三财报公布前削减AI硬件持仓，同时美光又面临Netlist提起的新专利诉讼。英伟达下跌2.4%，AMD和博通跌幅均超过2%-3%。相比之下，云计算巨头Meta、亚马逊和Alphabet股价分别上涨0.9%至1.7%，形成近期芯片股与云计算股之间最明显的单日分化。贝森特新宣布的对伊制裁行动也为当日交易增添了宏观层面的压力，尽管道指凭借非科技板块的强势仍小幅上涨0.26%。"
-    },
-    {
-      "category": "财经",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-24-2026-prices-rising-as-investors-look-for-more-fed-clues-this-week-130538704.html",
-      "titleEn": "Bitcoin and Ethereum Prices Rising as Investors Look for More Fed Clues This Week",
-      "conclusionEn": "Bitcoin climbed toward $79,000 on Monday, its highest level since May, as traders looked ahead to Fed Chair Warsh's Jackson Hole speech and reacted to Trump's backing of crypto-friendly regulation.",
-      "conclusionZh": "比特币周一升至近79000美元，为5月以来最高水平，市场关注美联储主席沃什的杰克逊霍尔演讲，并受特朗普支持加密友好监管消息提振。",
-      "whyEn": "Crypto's rally alongside anticipation of Fed policy signals shows how tightly digital-asset prices are now linked to US monetary policy and regulatory developments like the Clarity Act, which could reshape crypto oversight for years.",
-      "whyZh": "加密货币在美联储政策信号预期中同步上涨，显示数字资产价格已与美国货币政策及Clarity法案等监管进展高度绑定，后者可能长期重塑加密监管格局。",
-      "detailEn": "Bitcoin opened around $77,700 on Monday and climbed toward $79,000 by late morning, extending a strong weekend that put it at its highest level since May, while ethereum reached its best level since late January. The rally was driven partly by optimism around President Trump's backing of the Clarity Act, which would clarify whether cryptocurrencies are regulated as securities or commodities, and partly by anticipation of Fed Chair Kevin Warsh's Jackson Hole speech this week. Analysts are now eyeing $80,000 as bitcoin's next resistance level, with some forecasts, including from Standard Chartered, projecting a run toward $100,000 by year-end if regulatory and monetary conditions stay favorable.",
-      "detailZh": "比特币周一开盘价约为77700美元，到临近中午已升至近79000美元，延续了周末以来的强势表现，创下5月以来新高，以太坊也升至1月底以来的最佳水平。此轮上涨部分受特朗普支持Clarity法案（旨在明确加密货币应按证券还是大宗商品监管）的乐观情绪推动，也受到市场对本周美联储主席沃什杰克逊霍尔演讲的预期提振。分析师目前将8万美元视为比特币的下一个阻力位，渣打银行等机构预测，若监管与货币环境保持有利，年底前有望冲击10万美元。"
+      "category": "国际",
+      "source": "BBC",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/articles/cedlx0511w7o",
+      "titleEn": "Kurdish-Led SDF Agrees to Integrate With Syrian Government Forces",
+      "conclusionEn": "The Kurdish-led Syrian Democratic Forces announced its dissolution as an independent military force, completing its merger into the Syrian national army under a deal with Damascus.",
+      "conclusionZh": "库尔德主导的叙利亚民主军解散并入国家军队",
+      "whyEn": "The merger removes one of the last major independent armed factions in Syria, reshaping the country's post-war power balance and the future of Kurdish autonomy in the northeast.",
+      "whyZh": "消除叙最后一支主要独立武装，重塑战后权力格局",
+      "detailEn": "SDF commander Mazloum Abdi announced Tuesday that the Kurdish-led Syrian Democratic Forces has completed its dissolution and merger with the Syrian army, fulfilling a commitment made in an integration agreement signed with Damascus in January. The SDF had controlled much of northeast Syria but lost significant territory to a government offensive earlier this year before agreeing to the merger. In exchange for giving up independent military control, Syria's government has pledged to let Kurdish communities preserve their language and culture, though it has not agreed to any autonomous Kurdish region. The move is seen as a major step in consolidating central authority under Damascus following the country's civil war.",
+      "detailZh": "叙利亚民主军指挥官马兹卢姆·阿卜迪周二宣布，这支库尔德人主导的武装力量已完成解散，正式并入叙利亚国家军队，履行了今年1月与大马士革签署的整合协议中的承诺。叙利亚民主军此前控制着叙利亚东北部大部分地区，但今年早些时候在政府军攻势下失去大片领土，随后同意合并。作为放弃独立军事控制权的交换，叙利亚政府承诺允许库尔德社区保留自身语言与文化，但未同意设立任何库尔德自治区域。此举被视为叙利亚内战后大马士革巩固中央权力的重要一步。"
     }
   ],
   "businessTips": [
     {
-      "term": "Economies of Scale",
+      "term": "Sunk Cost Fallacy",
       "category": "通用商业",
-      "explanationEn": "Economies of scale occur when a company's average cost per unit falls as its production volume increases, because fixed costs like factories, equipment and software get spread across more units, and bulk purchasing lowers per-unit input costs. This is why larger companies can often underprice smaller rivals while still maintaining healthy margins. Understanding this concept helps explain why industries like manufacturing, cloud computing and retail tend to consolidate around a few large players, and why growing volume — not just revenue — is often a strategic priority.",
-      "explanationZh": "规模经济是指企业随着产量增加，单位产品的平均成本随之下降，原因是工厂、设备和软件等固定成本被分摊到更多产品上，同时批量采购也降低了单位投入成本。这也是为什么大企业往往能以更低价格与小竞争对手竞争，同时仍保持健康利润率。理解这一概念有助于解释为什么制造业、云计算、零售等行业容易向少数大型企业集中，也说明为什么扩大产量（而不仅是营收）常被视为战略重点。",
-      "exampleEn": "A cloud storage company's cost per gigabyte drops sharply as it scales from 1,000 to 1 million customers, because the same data centers and engineering team now serve far more users. This lets it cut prices to attract more customers while competitors running smaller operations can't match the price without losing money.",
-      "exampleZh": "一家云存储公司在用户规模从1000扩大到100万时，每GB存储成本大幅下降，因为同样的数据中心和工程团队现在服务了更多用户。这使它能够降价吸引更多客户，而规模较小的竞争对手若跟进降价则会面临亏损。"
+      "explanationEn": "The sunk cost fallacy is the tendency to keep investing time, money or effort into a decision because of what has already been spent, rather than evaluating whether continuing still makes sense going forward. Sunk costs — money or time already spent — cannot be recovered no matter what happens next, so rational decisions should only weigh future costs and benefits. Falling into this trap causes businesses to keep funding failing projects, hold onto bad hires, or maintain broken strategies simply because 'we've already put so much in.' Recognizing sunk costs helps leaders make cleaner, forward-looking decisions.",
+      "explanationZh": "沉没成本谬误是指人们因为「已经投入了很多」而倾向于继续投入时间、金钱或精力，而不是基于未来是否值得来做判断。沉没成本——已经花掉的钱或时间——无论后续如何都无法收回，因此理性决策应只权衡未来的成本与收益。陷入这一陷阱会导致企业持续为失败项目输血、留用不合适的员工，或坚持已经行不通的战略，理由仅仅是「都已经投入这么多了」。识别沉没成本有助于管理者做出更清晰、面向未来的决策。",
+      "exampleEn": "A company has spent $2 million building a software product that isn't gaining users. Instead of asking whether the $2 million is worth chasing, sound decision-making asks: given where we are now, is investing another $500,000 the best use of that money — regardless of what's already been spent?",
+      "exampleZh": "一家公司已投入200万美元开发一款用户增长乏力的软件产品。理性的决策方式不是纠结这200万美元「值不值」，而是问：抛开已经花掉的钱不谈，从现在这个起点出发，再投入50万美元是否是这笔钱的最佳用途？"
     },
     {
-      "term": "Minimum Viable Product (MVP)",
+      "term": "Fake Door Test (Smoke Test)",
       "category": "创业副业",
-      "explanationEn": "A minimum viable product is the simplest version of a product that lets a founder test a core idea with real customers, gathering feedback before investing in full-featured development. The goal is to learn whether people actually want the product with the least amount of time and money spent, avoiding the common startup mistake of building something polished that nobody needs. An MVP can be as simple as a landing page, a manual service disguised as a product, or a bare-bones app with only one feature working. Speed to feedback matters more than polish at this stage.",
-      "explanationZh": "最小可行产品（MVP）是指产品最精简的版本，用以让创始人用尽可能少的时间和金钱，向真实客户验证核心想法并收集反馈，避免创业中常见的「打磨出一个没人需要的产品」的失误。MVP可以简单到只是一个落地页、一个「人工代劳但包装成产品」的服务，或是只有一个功能能用的简陋App。在这一阶段，获得反馈的速度比打磨程度更重要。",
-      "exampleEn": "Before building a full meal-kit delivery app, a founder manually sources ingredients, packs boxes by hand, and delivers them personally to the first 20 customers using a simple sign-up form. If customers keep ordering, that validates demand before a single line of app code is written.",
-      "exampleZh": "在开发完整的送餐包App之前，创始人先手动采购食材、亲自打包，并用一份简单的报名表单，亲自将餐盒送到最初20位客户手中。如果客户持续下单，就在还没写一行App代码之前验证了市场需求。"
+      "explanationEn": "A fake door test lets a founder gauge demand for a product idea before it's actually built, by creating a landing page, ad or button that looks like the real offer and measuring how many people click, sign up or pre-order. If enough people show real interest — like entering an email or clicking 'buy now' — that's a signal the idea is worth building. If almost no one engages, the founder saves months of development time and money on an idea nobody wanted. It's one of the cheapest ways to validate a side hustle or new feature before writing a single line of product code.",
+      "explanationZh": "「假门测试」（烟雾测试）让创始人在真正开发产品之前，先通过落地页、广告或按钮来模拟真实的产品体验，测算有多少人会点击、注册或预订，从而判断需求是否存在。如果有足够多的人表现出真实兴趣——比如留下邮箱或点击「立即购买」——就说明这个想法值得开发；如果几乎无人理会，创始人就能省下几个月开发时间和资金，避免做出无人需要的产品。这是在写下第一行产品代码之前，验证副业或新功能想法最低成本的方式之一。",
+      "exampleEn": "Before building a subscription meal-planning app, a founder runs Facebook ads linking to a simple landing page describing the service and a 'Start Free Trial' button. Clicking the button just shows a 'coming soon, leave your email' message. If thousands of people sign up, that validates demand cheaply; if barely anyone clicks, the idea gets reworked before any code is written.",
+      "exampleZh": "在开发一款订阅制膳食规划App之前，创始人先投放Facebook广告，链接到一个介绍服务的简单落地页，并设置「开始免费试用」按钮。点击按钮后只会显示「即将上线，请留下邮箱」的提示。如果有成千上万人注册，就以极低成本验证了市场需求；如果几乎无人点击，创始人便可以在写代码之前重新调整这个想法。"
     },
     {
-      "term": "Dollar-Cost Averaging",
+      "term": "Core-Satellite Portfolio Strategy",
       "category": "投资金融",
-      "explanationEn": "Dollar-cost averaging is an investment strategy where a fixed amount of money is invested at regular intervals — such as monthly — regardless of whether prices are high or low, rather than trying to time the market with a single lump-sum purchase. This smooths out the average purchase price over time: buying more shares when prices are low and fewer when prices are high. The main benefit is removing emotion and guesswork from investing decisions, which is especially useful for volatile assets. It doesn't guarantee the best possible return, but it reduces the risk of investing a large sum right before a downturn.",
-      "explanationZh": "定投（成本平均法）是一种投资策略，即按固定时间间隔（如每月）投入固定金额，无论当时价格高低，而不是试图通过一次性大额投入来精准择时。这样做能随时间平摊平均买入成本：价格低时买入更多份额，价格高时买入更少。其主要好处是消除投资决策中的情绪与猜测成分，对波动较大的资产尤为有用。它不能保证获得最佳收益，但能降低在下跌前重仓投入的风险。",
-      "exampleEn": "Instead of investing $12,000 in a stock all at once, an investor puts in $1,000 every month for a year. When the price drops mid-year, that month's $1,000 buys more shares than usual, lowering the investor's overall average cost per share compared to a single lump-sum purchase at the wrong time.",
-      "exampleZh": "投资者没有一次性投入1.2万美元买入某只股票，而是选择每月投入1000美元，持续一年。年中股价下跌时，当月的1000美元能买到比平时更多的份额，从而拉低整体平均持仓成本，相比在错误时点一次性重仓买入更为稳健。"
+      "explanationEn": "A core-satellite strategy splits an investment portfolio into two parts: a large 'core' — typically 70-90% — held in low-cost, broadly diversified index funds for stable, long-term growth, and a smaller 'satellite' portion invested in more targeted or higher-conviction bets, such as individual stocks, sector funds or thematic trends. The core keeps the overall portfolio steady and low-fee, while the satellite gives investors room to pursue higher returns or specific opportunities without risking the entire portfolio. This structure balances discipline with flexibility, letting investors participate in market trends without abandoning a solid long-term foundation.",
+      "explanationZh": "核心-卫星策略将投资组合分为两部分：占比通常达70%至90%的「核心」部分配置于低成本、广泛分散的指数基金，用以实现稳健的长期增长；较小比例的「卫星」部分则投资于更具针对性或高确信度的机会，例如个股、行业基金或主题趋势投资。核心部分让整体组合保持稳定且费用低廉，卫星部分则让投资者有空间追求更高收益或把握特定机会，而不必拿整个组合去冒险。这种结构在纪律性与灵活性之间取得平衡，使投资者既能参与市场趋势，又不至于放弃稳固的长期基础。",
+      "exampleEn": "An investor puts 80% of their portfolio into a broad global index fund as the stable core, then allocates the remaining 20% across a handful of individual AI and renewable-energy stocks they believe will outperform. If those satellite picks do well, returns get a boost; if they underperform, the core still anchors the portfolio's overall stability.",
+      "exampleZh": "一位投资者将80%的资金投入一只广泛分散的全球指数基金，作为稳定的核心配置，剩余20%则分散投资于几只他看好的AI和新能源个股作为卫星仓位。如果这些卫星持仓表现出色，整体收益会得到提振；即便表现不佳，核心配置仍能为整个组合的稳定性提供支撑。"
     }
   ]
 }
