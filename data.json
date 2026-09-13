@@ -1,128 +1,104 @@
 {
-  "date": "2026-09-12",
-  "updatedAt": "2026-09-12T12:09:21+10:00",
+  "date": "2026-09-13",
+  "updatedAt": "2026-09-13T13:17:39+10:00",
   "news": [
     {
-      "category": "中东冲突",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
-      "titleEn": "Houthi rebels seize Yemen's Mokha port, threatening key Red Sea shipping route as oil extends surge",
-      "conclusionEn": "Iran-backed Houthi rebels seized Yemen's Red Sea port of Mokha and the nearby island of Mayun, extending their reach near the Bab el-Mandeb Strait as Brent crude pushed further above $100 a barrel.",
-      "conclusionZh": "胡塞武装攻占也门摩卡港，逼近曼德海峡，布伦特原油续涨突破100美元。",
-      "whyEn": "Control of chokepoints on both sides of the Arabian Peninsula raises the risk of a prolonged supply shock that could keep pushing up fuel prices, shipping costs and inflation worldwide.",
-      "whyZh": "若胡塞控制红海和霍尔木兹两大咽喉要道，恐长期推高全球油价、运费与通胀。",
-      "detailEn": "The Houthis captured the port of Mokha on Thursday and the island of Mayun, also known as Perim, on Friday, marking their biggest territorial gains in years and putting Iran-aligned forces in a position to threaten both the Bab el-Mandeb Strait and the Strait of Hormuz. Saudi Arabia has increasingly routed its crude exports through the Red Sea as an alternative to Hormuz, where Iran has targeted tankers, making the advance a direct threat to global oil supply chains. Brent crude and WTI both topped $100 a barrel this week for the first time since May, with Brent later climbing toward $108 as the conflict widened. Analysts warn that a sustained disruption to either chokepoint could send oil prices significantly higher and complicate central banks' efforts to bring down inflation.",
-      "detailZh": "胡塞武装周四攻占摩卡港，周五又占领梅云岛（又称佩里姆岛），是其多年来最大规模的领土扩张，令亲伊朗势力有能力同时威胁曼德海峡和霍尔木兹海峡。沙特近年来日益依赖红海航线出口原油，以规避伊朗屡屡袭击油轮的霍尔木兹海峡，此次胡塞的推进因而直接威胁全球原油供应链。布伦特原油和WTI本周双双自5月以来首次突破100美元，布伦特随后一度逼近108美元，冲突不断扩大。分析师警告，若两大咽喉要道之一遭遇持续性中断，油价可能大幅走高，并令各国央行抑制通胀的努力更加复杂。"
+      "category": "能源市场",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/2026/09/11/oil-prices-hormuz-diplomacy-saudi-arabia-houthis-pakistan-us-bab-al-mandab/",
+      "titleEn": "Oil prices dive on signs of Hormuz diplomacy while Saudi Arabia is left hanging in fight against an Iranian ally threatening crude's other chokepoint",
+      "conclusionEn": "Brent crude eased to near $104 a barrel after Iran agreed to meet Gulf states in Oman over Strait of Hormuz shipping, even as Saudi Arabia shut a key pipeline and Houthi forces advanced further along Yemen's Red Sea coast.",
+      "conclusionZh": "伊朗同意赴阿曼商谈霍尔木兹海峡，布伦特原油回落至约104美元。",
+      "whyEn": "The dual threat to both the Strait of Hormuz and the Bab el-Mandeb chokepoint shows how fragile global oil routes have become, with any diplomatic shift capable of swinging prices and inflation worldwide.",
+      "whyZh": "霍尔木兹与曼德海峡同时受威胁，油价对外交进展高度敏感，牵动全球通胀。",
+      "detailEn": "Brent crude, which surged more than 11% over the past week amid escalating attacks on shipping, eased to around $104 a barrel on Friday after Iranian state media said Tehran would send officials to Oman to meet Gulf Cooperation Council counterparts on Monday, the first such talks since the US and Israel's war on Iran began. The proposed meeting aims to find a temporary arrangement for managing tanker traffic through the Strait of Hormuz, through which about a fifth of global oil supply flows. Even as diplomacy over Hormuz advanced, Saudi Arabia was left more exposed on its western flank after shutting its East-West pipeline as a precaution against attacks, just as Iran-backed Houthi forces advanced to Yemen's Perim Island near the Bab el-Mandeb Strait, the Red Sea's own chokepoint. Analysts say a resolution on Hormuz would not fully calm markets unless the Houthi advance on the Red Sea route is also contained.",
+      "detailZh": "布伦特原油过去一周因航运遇袭升级暴涨逾11%，周五在伊朗官方媒体宣布德黑兰将于周一派官员赴阿曼与海湾合作委员会对口官员会谈后回落至约104美元——这是美国和以色列对伊朗开战以来双方首次举行此类会谈。此次拟议会晤旨在为经过霍尔木兹海峡（全球约五分之一原油经此运输）的油轮通行找到临时安排。然而，就在霍尔木兹海峡外交出现进展之际，沙特阿拉伯西翼却更加脆弱：该国已因预防袭击而关闭东西原油管道，与此同时，伊朗支持的胡塞武装又推进至也门梅云岛，逼近红海自身的咽喉要道曼德海峡。分析师指出，除非红海一侧的胡塞攻势也得到遏制，否则霍尔木兹问题的解决并不能完全安抚市场。"
     },
     {
-      "category": "货币政策",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/us-core-cpi-rises-more-than-forecast-bolstering-case-for-hike",
-      "titleEn": "US core inflation tops forecasts on record wireless price surge, cementing bets on a Fed rate hike",
-      "conclusionEn": "US core CPI rose 0.3% in August, hotter than the 0.2% expected, driven largely by a record 5.9% jump in wireless phone service prices, pushing odds of a Fed rate hike at next week's meeting to around 90%.",
-      "conclusionZh": "8月核心CPI环比涨0.3%超预期，手机套餐价格创纪录暴涨，加息概率升至约90%。",
-      "whyEn": "A hike at a Fed meeting already clouded by a slowing labor market and an active Middle East-driven energy shock would be historically unusual and would raise borrowing costs for consumers and businesses worldwide.",
-      "whyZh": "劳动力市场走弱叠加中东能源冲击之际加息实属罕见，将推高全球借贷成本。",
-      "detailEn": "The consumer price index excluding food and energy climbed 0.3% from July, above the median forecast of 0.2%, while headline CPI rose 0.4% for the month. Economists at Bank of America, Barclays and Pantheon Macroeconomics pointed to a 5.9% monthly jump in wireless telephone service prices, the largest on record, as carriers like AT&T and T-Mobile changed pricing plans. The surprise, on top of an already-hot August producer price report, pushed traders' implied odds of a quarter-point Fed rate hike at the Sept. 16 meeting to around 90%, up sharply from about 56% just days earlier. The report leaves the Fed weighing a hike against signs of a cooling labor market and surging oil prices tied to the Middle East conflict, a combination some economists call an unusually difficult policy setup.",
-      "detailZh": "剔除食品和能源的核心CPI环比上涨0.3%，高于市场预期的0.2%，整体CPI环比上涨0.4%。美国银行、巴克莱和Pantheon宏观经济咨询公司的经济学家指出，无线电话服务价格单月暴涨5.9%，创历史纪录，原因是AT&T、T-Mobile等运营商调整了套餐定价。这一意外数据叠加此前已偏热的8月PPI报告，令交易员对9月16日会议加息25个基点的隐含概率骤升至约90%，远高于几天前的约56%。该报告令美联储需要在劳动力市场降温迹象与中东冲突推高的油价之间权衡加息决策，部分经济学家称这是一种罕见的两难政策局面。"
+      "category": "人工智能",
+      "source": "The Washington Post",
+      "sourceUrl": "https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/",
+      "titleEn": "Anthropic's Amodei calls for AI oversight, joined by Altman and Musk",
+      "conclusionEn": "Anthropic CEO Dario Amodei published an essay calling for the AI industry to deliberately slow the pace of capability development, warning that risks including rogue AI agent swarms have grown too serious to ignore, with rivals Sam Altman and Elon Musk voicing similar concerns.",
+      "conclusionZh": "Anthropic CEO呼吁放缓AI发展步伐，Altman、马斯克罕见附议。",
+      "whyEn": "When three normally rival AI leaders converge on a warning that the technology may be outpacing safety measures, it signals mounting industry alarm that could shape upcoming AI regulation and investment.",
+      "whyZh": "三位平时对立的AI巨头罕见一致警告风险，或影响未来AI监管与投资走向。",
+      "detailEn": "In an essay published Saturday, Amodei said \"we must slow the pace at which we improve the capabilities of AI models,\" warning that recursive self-improvement combined with a recent AI agent incident made the risks too serious to ignore, including the possibility that swarms of rogue AI agents could attempt to take over parts of the internet within as little as six months. He outlined a plan he calls \"pacing the frontier,\" under which Anthropic has committed to embedding third-party evaluators inside the company with badge-level access to confirm safety commitments are honored and to flag incidents. Separately, OpenAI's Sam Altman and Tesla's Elon Musk, longtime rivals of Amodei and each other, voiced support for slowing AI development amid growing fears about its dangers, an unusual moment of alignment among competitors who have sparred publicly for years. The convergence adds pressure on lawmakers and other AI labs to consider coordinated safety measures rather than relying on individual companies' internal policies.",
+      "detailZh": "Amodei在周六发表的一篇文章中表示：「我们必须放缓提升AI模型能力的速度」，并警告称，递归式自我改进能力叠加近期一起AI代理事故，使风险已严重到不容忽视的地步，甚至可能在短短六个月内出现大批失控AI代理试图接管部分互联网的情况。他提出了一项名为「把控前沿节奏」的计划，Anthropic已承诺让第三方评估机构以类似内部员工的权限（工牌、工位等）进驻公司，以确认安全承诺得到履行并及时上报事故。与此同时，长期与Amodei及彼此不和的OpenAI的Sam Altman和特斯拉的埃隆·马斯克也表态支持放缓AI发展，在外界对AI风险的担忧日益加剧之际，这几位竞争对手罕见地达成一致。三方立场趋同，令立法者和其他AI实验室面临更大压力，需考虑协调一致的安全措施，而非仅依赖各公司自行制定的内部政策。"
+    },
+    {
+      "category": "美国政治",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/12/us-judge-rules-that-trump-plan-to-halve-fema-workforce-violated-law.html",
+      "titleEn": "US judge rules that Trump plan to halve FEMA workforce violated law",
+      "conclusionEn": "A federal judge ruled that the Trump administration's plan to cut FEMA's workforce roughly in half, from 23,000 to fewer than 12,000 employees, violated a post-Hurricane Katrina law protecting the disaster agency's staffing.",
+      "conclusionZh": "联邦法官裁定特朗普政府大砍FEMA人手计划违法，波及万余岗位。",
+      "whyEn": "With hurricane season underway, a court-ordered halt to the staffing cuts could reshape US disaster-response capacity and sets a legal precedent limiting how far the administration can restructure federal agencies.",
+      "whyZh": "飓风季当口FEMA人手争议落槌，将影响美国救灾能力及联邦机构改革边界。",
+      "detailEn": "US District Judge Susan Illston in San Francisco ruled that the Department of Homeland Security acted unlawfully by directing FEMA to slash its staff from about 23,000 to fewer than 12,000 employees, finding the move violated the Post-Katrina Emergency Management Reform Act, a 2005 law barring DHS from substantially reducing FEMA's authorities or functions. Illston wrote that the staffing target \"appears as if pulled from thin air,\" and separately criticized DHS and FEMA officials for using the disappearing-message feature of the Signal app to discuss the cuts, saying she would presume the deleted messages were unfavorable to the government's case. The ruling was a win for the American Federation of Government Employees, the union that sued over the cuts, and for now blocks the administration from proceeding with the workforce reduction as originally planned.",
+      "detailZh": "旧金山联邦地区法官苏珊·伊尔斯顿裁定，美国国土安全部下令将FEMA员工从约2.3万人削减至不足1.2万人的做法违法，认定此举违反了2005年出台、旨在防止国土安全部大幅削减FEMA职权与职能的《卡特里娜飓风后应急管理改革法》。伊尔斯顿在判决书中写道，该人员编制目标「仿佛凭空捏造」，并另外批评国土安全部和FEMA官员利用Signal应用的「阅后即焚」功能讨论裁员事宜，表示将推定这些被删除的消息对政府方不利。该判决是提起诉讼的美国政府雇员联合会工会的一次胜利，目前已阻止政府按原计划推进裁员。"
+    },
+    {
+      "category": "贸易政策",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect",
+      "titleEn": "As Canada's retaliatory tariffs on US goods take effect, tensions soar",
+      "conclusionEn": "Canada's retaliatory tariffs of 15% to 50% on over 700 American products worth nearly $20 billion took effect, and the Trump administration responded by ordering bans on Canadian dairy, motorcycles and alcohol starting September 29.",
+      "conclusionZh": "加拿大对近200亿美元美国商品加征15%-50%关税生效，美方拟9月29日反制。",
+      "whyEn": "The tit-for-tat escalation between two deeply integrated economies threatens to raise prices on hundreds of everyday goods and strain supply chains, particularly in autos, agriculture and steel, on both sides of the border.",
+      "whyZh": "两国经济高度融合，关税互加恐推高数百种日用品价格，冲击汽车、农业等供应链。",
+      "detailEn": "Canada's counter-tariffs, which took effect September 8, impose duties ranging from 15% to 50% on more than 700 US products including steel, dairy, household appliances, agricultural equipment and textiles, covering close to $20 billion in trade and matching US tariffs imposed in July dollar for dollar. The move came after US-Canada trade talks collapsed on August 22, when Canadian Prime Minister Mark Carney rejected what he called an unfavorable deal offered by Washington. In response, President Trump ordered import bans on Canadian dairy products, motorcycles and alcoholic beverages starting September 29, and directed federal agencies to strip Canadian-origin products from government procurement unless Canada offers reciprocal treatment. Canada's government has also unveiled a roughly $5.4 billion support package for domestic businesses and workers hurt by the dispute, while economists warn that the compounding tariffs could raise costs across supply chains like autos, where parts often cross the border multiple times before final assembly.",
+      "detailZh": "加拿大9月8日生效的反制关税对涵盖钢铁、乳制品、家用电器、农业设备和纺织品在内的700多种美国商品加征15%至50%不等的关税，涉及贸易额近200亿美元，与美国7月加征的关税等额对等。此举源于8月22日美加贸易谈判破裂，加拿大总理马克·卡尼当时拒绝了他称之为不利条件的华盛顿提案。作为回应，特朗普总统下令自9月29日起禁止进口加拿大乳制品、摩托车和酒类，并指示联邦机构在加拿大未提供对等待遇的情况下，将加拿大原产商品从政府采购名单中剔除。加拿大政府另外推出约54亿美元的支持方案，援助受此争端影响的本国企业和劳动者；经济学家警告，层层叠加的关税可能推高汽车等行业的供应链成本，原因是相关零部件常常需要多次跨境才能完成最终组装。"
     },
     {
       "category": "科技公司",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
-      "titleEn": "Oracle tops earnings estimates as cloud infrastructure revenue surges 121%, backlog swells to $664 billion",
-      "conclusionEn": "Oracle beat Wall Street's fiscal first-quarter estimates, posting $1.92 adjusted earnings per share on $19.35 billion in revenue as its cloud infrastructure business surged and its remaining performance backlog hit $664 billion.",
-      "conclusionZh": "甲骨文季度业绩超预期，云基础设施收入暴涨121%，积压订单达6640亿美元。",
-      "whyEn": "The results confirm that AI-driven cloud demand remains extremely strong even as capital spending soars, making Oracle a bellwether for how far the broader AI infrastructure buildout still has to run.",
-      "whyZh": "业绩证实AI驱动的云需求依然强劲，甲骨文成为观察AI基建投资热潮走向的风向标。",
-      "detailEn": "Oracle reported adjusted earnings of $1.92 per share on revenue of $19.35 billion, both ahead of analyst estimates of $1.74 and $19.14 billion. Cloud infrastructure revenue more than doubled to $7.4 billion, up 121% year over year, while the company's remaining performance obligations, a measure of future contracted revenue, jumped to $664 billion. Capital expenditures soared to $28.5 billion for the quarter, more than triple year-ago levels, as Oracle raced to build out data center capacity, delivering 850 megawatts of new capacity in the period. For fiscal 2027, Oracle guided to at least $90 billion in revenue and $8.10 in adjusted earnings per share, underscoring management's confidence that AI-related cloud demand will keep accelerating.",
-      "detailZh": "甲骨文本季度调整后每股收益1.92美元，营收193.5亿美元，均超分析师预期的1.74美元和191.4亿美元。云基础设施收入同比暴涨121%，达到74亿美元；衡量未来合同收入的「剩余履约义务」（RPO）跃升至6640亿美元。本季度资本支出飙升至285亿美元，是去年同期的三倍多，公司正加速扩建数据中心，期内新增850兆瓦容量。甲骨文对2027财年的指引为营收至少900亿美元、调整后每股收益8.10美元，显示管理层对AI相关云需求持续加速的信心。"
+      "sourceUrl": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+      "titleEn": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+      "conclusionEn": "Oracle chairman Larry Ellison cancelled a trading plan to sell up to 50 million shares worth roughly $7.5 billion, just one day after the company disclosed it, with Oracle saying he now has no plans to sell any stock.",
+      "conclusionZh": "甲骨文董事长埃里森披露套现75亿美元股票计划次日即撤销。",
+      "whyEn": "The rapid reversal, after Oracle shares had already fallen 16% since the plan was adopted in June, suggests Ellison moved to calm investor unease over the company's heavy AI-driven spending and thinning margins.",
+      "whyZh": "甲骨文股价年内已跌16%，埃里森紧急撤销减持计划意在安抚投资者担忧。",
+      "detailEn": "Ellison adopted the trading plan on June 22, giving him the option to sell up to 50 million Oracle shares, then worth about $7.5 billion, through October 24. Oracle disclosed the plan in a regulatory filing on September 11, but by September 12 the company said Ellison had cancelled it entirely, stating that no shares had been sold and that he had no other plans to sell any Oracle stock. Oracle shares had fallen roughly 16% since the plan was first adopted, driven by investor concerns over the company's ballooning capital expenditures on AI data centers and pressure on profit margins, even as cloud revenue has surged. Ellison, who controls more than 40% of Oracle and remains its largest shareholder, would still hold more than 1.1 billion shares even if he had sold the full amount under the now-cancelled plan.",
+      "detailZh": "埃里森于6月22日启动该交易计划，获授权在10月24日前出售最多5000万股甲骨文股票，当时市值约75亿美元。甲骨文于9月11日在监管文件中披露了该计划，但到9月12日，公司便宣布埃里森已彻底取消该计划，并表示尚未出售任何股票，他也没有其他出售甲骨文股票的计划。自该计划最初获批以来，甲骨文股价已下跌约16%，主要受投资者对公司AI数据中心资本支出激增及利润率承压的担忧影响，尽管其云业务收入同期大幅增长。埃里森持有甲骨文逾40%的股份，仍是公司最大股东，即便按原计划全额出售，他仍将持有逾11亿股。"
     },
     {
-      "category": "科技基建",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
-      "titleEn": "Microsoft plans to triple data center capacity to 38 gigawatts by 2032 as Pentagon weighs $5 billion supply-chain loan",
-      "conclusionEn": "Microsoft is planning to expand its global data center capacity from about 12 gigawatts today to more than 38 gigawatts by 2032, as the Pentagon separately opens talks on a $5 billion loan to shore up the US data-center supply chain.",
-      "conclusionZh": "微软计划到2032年将数据中心容量扩至38吉瓦，五角大楼拟提供50亿美元供应链贷款。",
-      "whyEn": "The scale of the buildout, larger than New York state's peak power use, shows how severe AI-driven capacity shortages have become and how deeply national security priorities are now tied to commercial cloud infrastructure.",
-      "whyZh": "该扩建规模超纽约州用电峰值，反映AI算力短缺之严重及云基建与国家安全的深度绑定。",
-      "detailEn": "Microsoft aims to more than triple its data center footprint from roughly 12 gigawatts today to over 38 gigawatts by 2032, spanning owned and leased facilities, according to people familiar with the matter. AI-specific chip capacity, currently about 2 gigawatts, is expected to grow to roughly a third of the total by 2032. The expansion follows severe hardware constraints that recently forced Microsoft to turn away some cloud and AI customers and restrict certain subscriptions. Separately, the Pentagon has opened talks on a roughly $5 billion loan aimed at preventing bottlenecks in the broader US data-center supply chain, underscoring how AI infrastructure has become a matter of national strategic concern alongside commercial competition.",
-      "detailZh": "据知情人士透露，微软计划将其全球数据中心容量从目前约12吉瓦扩大至2032年的38吉瓦以上，涵盖自建和租赁设施，规模扩大逾三倍。目前约2吉瓦容量专用于AI芯片，到2032年这一占比预计将升至总容量的三分之一左右。此次扩建源于此前严重的硬件产能瓶颈，曾迫使微软拒绝部分云计算和AI客户、并限制某些订阅服务。另外，五角大楼已就一笔约50亿美元的贷款展开谈判，旨在防止美国数据中心供应链出现瓶颈，凸显AI基础设施已不仅是商业竞争议题，也成为国家战略关切。"
-    },
-    {
-      "category": "贸易政策",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
-      "titleEn": "US-Canada trade war threatens to unravel decades-old auto supply chain",
-      "conclusionEn": "Escalating US-Canada tariffs, including Canada's new duties on over 700 American products and doubled 50% tariffs on steel and aluminum, are straining a deeply integrated auto supply chain that has operated almost tariff-free for decades.",
-      "conclusionZh": "美加关税战升级，加拿大对700余种美国商品加税，冲击两国融合数十年的汽车供应链。",
-      "whyEn": "Auto parts often cross the US-Canada border multiple times during production, so stacked tariffs raise costs for automakers and smaller suppliers alike, with the risk of higher vehicle prices and job losses on both sides.",
-      "whyZh": "汽车零部件常多次跨境加工，叠加关税推高整车厂和零部件商成本，恐推升车价并波及就业。",
-      "detailEn": "Canada's retaliatory tariffs, which took effect Sept. 8, impose 15%, 25% or 50% duties on more than 700 American goods, including doubling levies on steel and aluminum to 50%, in a package valued at roughly $20 billion meant to match US tariffs dollar for dollar. Because auto components can cross the US-Canada border several times before final assembly, each crossing can now trigger additional duties, compounding costs throughout the supply chain. Large automakers are weighing whether to redesign supply chains for the long term or absorb higher costs in the short term, while smaller parts suppliers, which typically operate on thinner margins, face a more immediate financial squeeze. The dispute threatens a cross-border manufacturing system built up over decades under free-trade arrangements, with no resolution currently in sight.",
-      "detailZh": "加拿大9月8日起生效的反制关税对700余种美国商品加征15%、25%或50%不等的关税，其中钢铁和铝关税翻倍至50%，整个反制方案价值约200亿美元，旨在与美国关税等额对等。由于汽车零部件在最终组装前常需多次跨越美加边境，如今每跨境一次都可能触发新关税，令整条供应链成本层层叠加。大型汽车制造商正评估是应长期重新设计供应链，还是短期内自行消化成本上升，而利润率通常更薄的中小零部件供应商则面临更直接的资金压力。这场争端正冲击几十年来在自由贸易框架下建立起来的跨境制造体系，目前尚看不到解决迹象。"
-    },
-    {
-      "category": "科技安全",
-      "source": "CNN",
-      "sourceUrl": "https://www.cnn.com/2026/09/10/health/anthropic-bioweapons-report",
-      "titleEn": "Anthropic says it disrupted AI misuse attempts tied to bioweapons research and state-linked cyberattacks",
-      "conclusionEn": "Anthropic disclosed it detected and blocked several attempts to misuse its Claude AI models for activity that could aid biological weapons development, alongside cyber operations and surveillance efforts linked to actors in China, Russia and Yemen.",
-      "conclusionZh": "Anthropic披露已拦截多起利用Claude协助生物武器研发及网络攻击的滥用行为。",
-      "whyEn": "As AI models grow more capable, the report is a rare public look at how close real-world actors are getting to using them for catastrophic harm, and how AI companies are trying to police misuse before regulators mandate it.",
-      "whyZh": "该报告罕见揭示了现实中不法分子借助AI造成重大危害的接近程度及企业自我监管的努力。",
-      "detailEn": "Anthropic's threat intelligence report covers activity it disrupted between December 2025 and August 2026 across seven categories, including biological misuse, cyber operations, influence campaigns, surveillance, conventional weapons development and fraud. One flagged case involved a user attempting to use Claude to prepare a grant application for gain-of-function research on the chikungunya virus, which the company's biological safety classifier blocked in May. The company also said it disrupted efforts to use its models to help develop drones and missile-related technology, allegedly involving actors based in China, Russia and Yemen, as well as AI-assisted surveillance and scam operations. Anthropic said it shared relevant findings with government authorities and other AI companies, part of a broader industry push toward voluntary safety disclosures as AI capabilities keep advancing.",
-      "detailZh": "Anthropic此次发布的威胁情报报告涵盖2025年12月至2026年8月期间被其拦截的活动，涉及生物滥用、网络行动、影响力操作、监控、常规武器研发和诈骗等七大类。其中一起案例中，有用户试图利用Claude撰写涉及基孔肯雅病毒功能获得性研究的科研经费申请，公司的生物安全分类器已于5月将其拦截。公司还表示已阻止一些试图利用其模型协助研发无人机和导弹相关技术的行为，据称涉及中国、俄罗斯和也门的相关行为者，同时也拦截了利用AI进行监控和诈骗的活动。Anthropic表示已将相关发现与政府部门及其他AI公司分享，这也是整个行业在AI能力持续提升之际推动自愿性安全信息披露的举措之一。"
-    },
-    {
-      "category": "国际冲突",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/9/11/russian-strikes-kill-two-in-kyiv-as-moscow-targets-capitals-fuel-stations",
-      "titleEn": "Russian strikes kill civilians in Kyiv and Pavlohrad as Moscow targets Ukraine's fuel stations and malls",
-      "conclusionEn": "Russian drones struck gas stations in Kyiv for a second straight day and hit a shopping mall in Pavlohrad, killing at least seven people combined, as Moscow widens a campaign targeting civilian infrastructure.",
-      "conclusionZh": "俄军无人机连续两日袭击基辅加油站，并击中帕夫洛赫拉德商场，至少7人死亡。",
-      "whyEn": "The intensified strikes on everyday civilian sites, rather than only military or energy targets, signal an effort to spread fear and pressure Ukrainian society as diplomatic efforts to end the war remain stalled.",
-      "whyZh": "袭击转向日常民生场所而非仅军事目标，意在向乌克兰社会施压，而停战外交仍陷僵局。",
-      "detailEn": "A Russian drone strike on a gas station in Kyiv killed at least two people and wounded eight others, part of a second consecutive day of strikes on the capital's fuel stations that Ukrainian officials say is aimed at rattling civilians. In Pavlohrad, a Russian drone hit a shopping mall in broad daylight, killing five people and wounding 67 others, prompting the city to observe an official day of mourning. Ukraine's foreign minister said Russia is deliberately attacking places where civilians gather to maximize casualties and spread fear, part of a broader campaign that has also hit food distribution hubs and left some supermarket shelves bare in Kyiv. The strikes come as diplomatic efforts to end the war remain stalled, with Moscow rejecting recent truce proposals.",
-      "detailZh": "俄军无人机袭击基辅一处加油站，造成至少2人死亡、8人受伤，这是俄方连续第二天袭击首都加油站，乌方官员称此举意在制造民众恐慌。在帕夫洛赫拉德，一架俄军无人机在光天化日之下击中一处商场，造成5人死亡、67人受伤，该市为此举行官方哀悼日。乌克兰外长表示，俄罗斯正蓄意袭击民众聚集场所以最大化伤亡、制造恐慌，这一更广泛的行动此前还波及食品配送枢纽，一度导致基辅部分超市货架空置。此次袭击发生之际，结束战争的外交努力仍陷入僵局，莫斯科拒绝了近期的停火提议。"
-    },
-    {
-      "category": "政治",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers",
-      "titleEn": "Hong Kong court sentences Tiananmen vigil leaders to up to seven years in prison",
-      "conclusionEn": "A Hong Kong court sentenced three former leaders of the Tiananmen vigil group to prison terms of five to more than seven years for inciting subversion under the Beijing-imposed national security law.",
-      "conclusionZh": "香港法院以「煽动颠覆国家政权罪」判处三名六四纪念活动组织者最高逾七年监禁。",
-      "whyEn": "The ruling against organizers of what was once the world's largest annual Tiananmen commemoration is widely seen as a further marker of shrinking civil liberties in Hong Kong under Beijing's national security law.",
-      "whyZh": "此案被视为北京国安法下香港公民自由持续收缩的又一标志性事件，引发国际关注。",
-      "detailEn": "Lee Cheuk-yan and Chow Hang-tung, former leaders of the Hong Kong Alliance in Support of Patriotic Democratic Movements of China, were sentenced to 7 years and 7 years and 3 months respectively, while Albert Ho received 5 years and 2 months after pleading guilty. The three were convicted of inciting subversion for their roles in the Alliance, which for three decades organized the city's annual vigil marking the 1989 Tiananmen Square crackdown, long the only large-scale public commemoration of the event on Chinese soil. Rights groups and the United Nations condemned the sentencing, while Hong Kong's government defended the ruling as a lawful application of the national security law imposed by Beijing in 2020. The case is widely viewed as another signal of the law's continued use to dismantle organized civil society in the city.",
-      "detailZh": "支联会（香港市民支援爱国民主运动联合会）前领导人李卓人和邹幸彤分别被判处7年及7年3个月监禁，何俊仁因认罪获判5年2个月。三人均被裁定犯有「煽动颠覆国家政权罪」，其所属的支联会三十年来一直组织本地纪念1989年天安门事件的年度烛光晚会，曾是中国境内唯一大规模的公开纪念活动。人权组织和联合国对判决表示谴责，香港政府则为此辩护，称这是对北京2020年颁布的国安法的合法适用。此案被广泛视为国安法持续被用于瓦解香港有组织公民社会的又一信号。"
+      "category": "俄乌冲突",
+      "source": "CBS News",
+      "sourceUrl": "https://www.cbsnews.com/news/putin-warns-europe-sending-troops-ukraine/",
+      "titleEn": "Putin warns Europe against sending troops to Ukraine: 'That means a war with Russia'",
+      "conclusionEn": "Speaking at the BRICS summit in India, Russian President Vladimir Putin warned that any deployment of European troops to Ukraine as part of a proposed peacekeeping force would amount to war with Russia.",
+      "conclusionZh": "普京在印度金砖峰会警告：欧洲若向乌克兰派兵即等于对俄开战。",
+      "whyEn": "The warning raises the stakes for European nations weighing postwar security guarantees for Ukraine and comes as Russian strikes on Ukrainian cities intensify, complicating any near-term path to a ceasefire.",
+      "whyZh": "警告加大欧洲对乌安全保障方案风险，俄军同期加大空袭，停火前景更复杂。",
+      "detailEn": "Putin told reporters at the BRICS summit that European countries \"are thinking of how to deploy troops to Ukraine,\" adding \"this would mean a war with Russia,\" while denying Russia posed any threat to Europe itself. The comments came after French President Emmanuel Macron said roughly 26 countries had pledged support for a potential postwar peacekeeping mission in Ukraine, an idea Moscow has consistently rejected. Putin's warning coincided with a fresh wave of Russian strikes across Ukraine, including drone attacks that killed civilians in Zaporizhzhia and Kyiv and a large strike on Odesa that wounded dozens and damaged apartment buildings, part of a campaign Ukrainian officials say is targeting the power grid and civilian morale ahead of winter. The exchange underscores how far apart Moscow and Western capitals remain on any security guarantees needed to end the war.",
+      "detailZh": "普京在金砖国家峰会上对记者表示，欧洲国家「正考虑如何向乌克兰部署军队」，并称「这将意味着与俄罗斯开战」，同时否认俄罗斯对欧洲本身构成任何威胁。此言论是在法国总统马克龙表示约26个国家已承诺支持一项可能的乌克兰战后维和行动之后发表的，而莫斯科一直拒绝接受这一构想。普京发出警告的同时，俄罗斯对乌克兰发动了新一轮空袭，包括在扎波罗热和基辅造成平民死亡的无人机袭击，以及对敖德萨的一次大规模打击，造成数十人受伤、多栋公寓楼受损，乌方官员称，这场攻势旨在入冬前打击电网和民众士气。此次交锋凸显出莫斯科与西方国家在结束战争所需的安全保障问题上分歧依然巨大。"
     }
   ],
   "businessTips": [
     {
-      "term": "Leading vs. Lagging Indicators",
+      "term": "The Pareto Principle (80/20 Rule)",
       "category": "通用商业",
-      "explanationEn": "Lagging indicators, like quarterly revenue or profit, tell you what already happened, while leading indicators, like sales pipeline activity or website sign-ups, predict what is likely to happen next. Relying only on lagging metrics means you find out about a problem only after it has already hurt the business, often too late to act. Good management systems track a small number of leading indicators that causally connect to the lagging outcome you actually care about. The skill is picking leading indicators that truly predict the result, not just ones that are easy to measure.",
-      "explanationZh": "滞后指标（如季度营收或利润）反映已经发生的结果，而领先指标（如销售管道活跃度或网站注册量）则能预示接下来可能发生的变化。如果只盯着滞后指标，往往等发现问题时业务已经受损，为时已晚。好的管理体系会追踪少数几个与最终结果真正存在因果关系的领先指标。关键在于选出真正能预测结果的领先指标，而不是只挑容易测量的指标。",
-      "exampleEn": "A SaaS company notices monthly revenue is flat, a lagging indicator that only confirms a problem after the fact. Digging in, they find that demo requests, a leading indicator, started dropping two months earlier because a competitor cut prices. Because they also track this leading metric, they can respond immediately with a promotion, instead of waiting another quarter to notice revenue has already slipped.",
-      "exampleZh": "一家SaaS公司发现月度营收持平——这是一个滞后指标，只能在问题已发生后加以确认。深入排查后发现，产品演示预约量（一个领先指标）早在两个月前就已开始下滑，原因是竞争对手降价。由于公司同时追踪这一领先指标，得以立即推出促销应对，而不必再等一个季度才发现营收已经下滑。"
+      "explanationEn": "The Pareto Principle observes that roughly 80% of outcomes often come from just 20% of causes, whether that's revenue from customers, bugs from code modules, or complaints from a handful of issues. It is not a precise law but a pattern that shows up often enough to be a useful diagnostic: instead of spreading effort evenly across everything, look for the small subset of inputs driving most of the results. Applying it well requires actually measuring which 20% matters, rather than assuming you already know. Teams that habitually ask \"what's the vital few here\" tend to allocate scarce time and budget far more efficiently than those who treat every task as equally important.",
+      "explanationZh": "帕累托法则（二八法则）指出，大约80%的结果往往来自仅20%的原因——无论是营收主要来自哪些客户、代码缺陷集中在哪些模块，还是投诉集中在少数几个问题上。这并非精确的定律，而是一种反复出现、具有实用诊断价值的规律：与其把精力平均分摊到所有事情上，不如找出真正驱动大部分结果的那一小部分关键因素。要用好这一原则，需要实际测量哪20%才真正重要，而不是想当然地以为自己已经知道答案。长期坚持追问「这里真正关键的少数是什么」的团队，往往比把所有任务都同等对待的团队更高效地分配稀缺的时间和预算。",
+      "exampleEn": "A small e-commerce business reviews a year of sales data and finds that just 18% of its SKUs generate 82% of total profit, while dozens of low-margin products tie up warehouse space and staff time. Instead of continuing to market everything equally, the owner reallocates advertising budget and inventory investment toward that top group of products. Within two quarters, overall profit margin improves even though the total number of products sold stays roughly the same.",
+      "exampleZh": "一家小型电商公司复盘全年销售数据，发现仅18%的SKU贡献了82%的总利润，而大量低利润商品却占用了仓储空间和人力。老板不再对所有商品一视同仁地投放营销资源，而是把广告预算和库存投入集中到这批核心产品上。两个季度后，尽管总销售件数变化不大，整体利润率却明显提升。"
     },
     {
-      "term": "Productized Service",
+      "term": "CAC vs. LTV (Customer Acquisition Cost vs. Lifetime Value)",
       "category": "创业副业",
-      "explanationEn": "A productized service takes a custom, hourly freelance offering and repackages it as a fixed-scope, fixed-price package, similar to buying a product off a shelf rather than commissioning custom work. This makes the offer easier to sell because customers instantly understand what they get and what it costs, and it makes delivery easier to systematize, delegate or eventually automate. It trades some flexibility and per-client customization for scalability and predictable margins, since you are no longer trading hours for dollars in an open-ended way. Many successful one-person and small-team businesses grow specifically by narrowing a broad service into one repeatable, well-defined package.",
-      "explanationZh": "所谓「产品化服务」，是把按小时收费的定制型自由职业服务，重新包装成范围固定、价格固定的标准套餐，就像购买一件现成商品，而不是委托一项定制工作。这样一来，客户能立刻明白自己花多少钱能得到什么，服务更容易卖出去；同时交付流程也更容易标准化、外包甚至日后自动化。代价是牺牲了部分灵活性和针对个别客户的定制空间，换来的是可规模化和更可预测的利润率，因为你不再是无限期地拿时间换钱。很多成功的个人或小团队生意，恰恰是通过把宽泛的服务收窄成一个可重复交付的明确套餐而实现增长的。",
-      "exampleEn": "A freelance web designer who used to quote every project individually by estimated hours instead creates a fixed $3,000 'five-page business website' package with a clearly defined scope and two-week turnaround. Clients can now say yes without a lengthy back-and-forth negotiation, and because the scope is fixed, the designer can eventually train an assistant to handle parts of the work using a repeatable checklist. Revenue becomes more predictable, and the business is no longer capped purely by the designer's own available hours.",
-      "exampleZh": "一位自由网页设计师原本每个项目都按预估工时单独报价，后来改为推出一款固定3000美元的「五页企业官网」套餐，范围明确、两周交付。客户现在无需反复议价便可直接下单；由于服务范围固定，设计师后续还能培训助理，按照可重复的清单流程分担部分工作。营收因此变得更可预测，业务规模也不再单纯受限于设计师个人的可用工时。"
+      "explanationEn": "Customer Acquisition Cost (CAC) is how much money and effort it takes to win one new paying customer, while Lifetime Value (LTV) is the total profit that customer is expected to generate over the entire relationship. A side hustle or startup can look busy and growing while actually losing money on every sale if CAC exceeds LTV, since each new customer costs more to acquire than they will ever be worth. A commonly cited healthy benchmark is an LTV to CAC ratio of at least 3:1, though the right number depends on the business model and how quickly cash is needed. Tracking both numbers, not just revenue or customer count, is what separates a business that scales profitably from one that scales its way into a cash crunch.",
+      "explanationZh": "获客成本（CAC）是指获得一名新付费客户所需花费的金钱和精力，而客户终身价值（LTV）则是该客户在整个合作关系期间预计能带来的总利润。一份副业或创业项目即便看起来红红火火、客户不断增长，如果CAC超过LTV，实际上每笔交易都在亏钱，因为获取新客户的成本已经超过了这名客户未来能创造的全部价值。业内常引用的健康基准是LTV与CAC之比至少达到3:1，但具体合理数值还取决于商业模式和资金周转的紧迫程度。同时追踪这两个数字，而不只是盯着营收或客户数量，正是区分「良性规模化增长」与「越做越缺钱」的关键所在。",
+      "exampleEn": "A subscription meal-kit side hustle spends $60 on ads and discounts to acquire each new customer, who on average stays subscribed for four months at a $20 monthly profit, giving an LTV of $80 and an LTV to CAC ratio of just over 1:1. After realizing growth is barely breaking even, the founder shifts spending from paid ads toward a referral program that costs less per signup and also improves retention, pushing the ratio above 3:1 within a few months.",
+      "exampleZh": "一家订阅制餐盒配送副业项目每获取一名新客户需花费60美元的广告和折扣成本，而客户平均订阅4个月、每月贡献20美元利润，对应LTV为80美元，LTV与CAC之比仅略高于1:1。创始人意识到业务增长几乎不赚钱后，将部分广告预算转向获客成本更低、还能提升留存率的推荐奖励计划，几个月内便把这一比例提升到3:1以上。"
     },
     {
-      "term": "Bond Duration Risk",
+      "term": "Safe-Haven Assets",
       "category": "投资金融",
-      "explanationEn": "Duration measures how sensitive a bond's price is to changes in interest rates; roughly speaking, a bond with a duration of 7 years will lose about 7% of its value if rates rise by 1 percentage point, and gain about 7% if rates fall by 1 point. Longer-maturity bonds generally have higher duration, meaning their prices swing more sharply than short-term bonds when yields move. This is why a rising-rate environment, like one driven by hot inflation data or a hawkish central bank, can cause real losses in a bond portfolio even though the bonds haven't defaulted. Investors who need to sell before maturity are far more exposed to this risk than those who can simply hold a bond to maturity and collect its stated interest.",
-      "explanationZh": "久期用来衡量债券价格对利率变化的敏感程度：大致而言，久期为7年的债券，若利率上升1个百分点，价格约下跌7%；利率下降1个百分点，价格则约上涨7%。期限越长的债券久期通常越高，意味着收益率变动时其价格波动也更剧烈。这正是为什么在通胀数据偏热或央行立场趋鹰、利率上升的环境下，即便债券本身并未违约，债券组合也可能出现实实在在的账面亏损。相比能够持有到期、按票面利率收取利息的投资者，需要在到期前卖出债券的投资者要承担大得多的这类风险。",
-      "exampleEn": "An investor holds a 10-year Treasury bond when the 10-year yield jumps from about 4.5% to nearly 5% on hot inflation data and rising Fed rate-hike odds, similar to the recent move to almost 4.95%. Because the bond has a duration of roughly 8 years, its market price falls by around 4%, even though the bond will still pay its full face value if held to maturity. An investor who needs the cash now must sell at a loss, while one who can hold until maturity avoids that loss entirely and simply collects the original coupon.",
-      "exampleZh": "某投资者持有一只10年期美债，在通胀数据偏热、市场加息预期升温的背景下，10年期收益率从约4.5%跳升至接近5%，与近期升至4.95%附近的走势类似。由于该债券久期约为8年，其市场价格因此下跌约4%，尽管持有到期仍能拿回全部票面本金。若投资者急需用钱，就只能折价卖出承受亏损；而能够持有到期的投资者则完全无需承受这一损失，只需按原定票息收息即可。"
+      "explanationEn": "Safe-haven assets are investments that investors expect to hold or gain value during times of market stress, geopolitical conflict or economic uncertainty, even as riskier assets like stocks sell off. Gold, the US dollar, Japanese yen, and short-term government bonds are the most commonly cited examples, because they are seen as liquid, widely trusted stores of value less tied to any single country's economic cycle. No asset is a guaranteed safe haven in every crisis, since the reaction can depend on the specific cause of the turmoil, but diversifying part of a portfolio into these assets is a common way to cushion losses when uncertainty spikes. The tradeoff is that safe havens typically offer lower long-term returns than riskier assets during calm periods, so holding too much can drag down performance when markets are stable.",
+      "explanationZh": "避险资产是指投资者预期在市场动荡、地缘冲突或经济不确定性上升时，能够保值甚至升值的资产，即便股票等风险资产同期下跌。黄金、美元、日元以及短期政府债券是最常被提及的例子，因为它们被视为流动性强、广受信任的价值储藏工具，且与单一国家的经济周期关联度较低。没有哪种资产在每一次危机中都必然是避险首选，因为市场反应往往取决于动荡的具体原因，但将部分资金配置到这些资产中，是在不确定性升高时缓冲损失的常见做法。代价在于，避险资产在市场平稳时期的长期回报通常低于风险资产，因此配置过多也会拖累整体收益表现。",
+      "exampleEn": "As Middle East conflict escalation pushes oil prices above $100 a barrel and stock markets wobble, an investor who had shifted 10% of their portfolio into gold and short-term Treasury bills months earlier sees that portion hold steady or gain value even as their equity holdings dip. This cushion does not eliminate their overall losses, but it reduces the portfolio's total volatility, illustrating the classic tradeoff of giving up some potential upside in calm markets in exchange for more stability when a crisis actually hits.",
+      "exampleZh": "随着中东冲突升级、油价突破每桶100美元且股市震荡，一位几个月前就将10%仓位配置到黄金和短期美国国债的投资者发现，即便其股票持仓下跌，这部分资产依然保值甚至小幅上涨。这并不能完全消除整体亏损，但确实降低了投资组合的整体波动性，印证了避险资产的经典权衡：平时放弃一部分潜在收益，换取危机真正来临时更强的稳定性。"
     }
   ]
 }
