@@ -1,116 +1,104 @@
 {
-  "date": "2026-09-15",
-  "updatedAt": "2026-09-15T12:30:00+10:00",
+  "date": "2026-09-16",
+  "updatedAt": "2026-09-16T12:10:00+10:00",
   "news": [
     {
       "category": "财经",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-      "titleEn": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
-      "conclusionEn": "The US 10-year Treasury yield briefly topped 5% on Monday for the first time since 2023 before easing back to around 4.94%, as inflation worries collided with heavy government borrowing needs just as the Fed's two-day policy meeting opens today.",
-      "conclusionZh": "美国10年期国债收益率一度突破5%，创2023年以来新高，美联储议息会议今日开幕。",
-      "whyEn": "A 5% long-term borrowing cost ripples through mortgages, corporate debt and stock valuations worldwide, and it lands right as the Fed must decide between holding rates or delivering its first hike since 2023.",
-      "whyZh": "长期利率触及5%将波及全球房贷、企业融资与股市估值，恰逢美联储面临是否加息的关键抉择。",
-      "detailEn": "The 10-year Treasury yield rose as high as 5.01% in New York trading on Monday, its highest level since 2023, before buyers stepped in and pushed it back down to about 4.94%. The move reflects mounting inflation anxiety combined with swelling US government and corporate borrowing needs, plus recent data showing tariffs and elevated fuel costs feeding into underlying price pressures. The Federal Reserve's Federal Open Market Committee opens its two-day meeting today, September 15, with a rate decision due Wednesday afternoon followed by a press conference. Futures markets have pushed the probability of a quarter-point hike to roughly 90%, which would be the Fed's first rate increase since 2023, a sharp reversal from expectations of a hold just weeks ago. The meeting will also produce an updated 'dot plot' showing policymakers' rate expectations into 2027.",
-      "detailZh": "周一纽约交易时段，美国10年期国债收益率一度攀升至5.01%，创2023年以来新高，随后买盘入场将其压回约4.94%。此轮上行反映出通胀担忧持续升温，叠加美国政府与企业融资需求膨胀，加上近期数据显示关税与高企的燃料成本正传导至核心物价。美联储联邦公开市场委员会今日（9月15日）起召开为期两天的会议，利率决议将于周三下午公布并举行新闻发布会。期货市场已将加息25个基点的概率推高至约90%，若成真将是美联储自2023年以来首次加息，较数周前普遍预期维持利率不变已大幅逆转。会议还将公布最新「点阵图」，揭示官员们对2027年利率路径的预期。"
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
+      "titleEn": "CNBC Fed survey: Two rate hikes seen ahead",
+      "conclusionEn": "The Federal Reserve is widely expected to raise interest rates by a quarter point to a 3.75%-4.00% range today, with a CNBC survey pointing to a further hike likely before year-end.",
+      "conclusionZh": "美联储今日料加息25基点至3.75%-4.00%，调查显示年内或再加息一次。",
+      "whyEn": "This would be the Fed's first rate hike since 2023 under new Chair Kevin Warsh, directly affecting mortgages, credit costs and stock valuations worldwide while inflation stays above target.",
+      "whyZh": "这将是美联储2023年以来首次加息，直接波及全球房贷、信贷成本与股市估值。",
+      "detailEn": "The Federal Reserve concludes its two-day policy meeting today, September 16, with the rate decision due at 2 p.m. ET followed by a press conference from Chair Kevin Warsh. A Reuters poll found 86 of 101 economists expect a quarter-point hike to 3.75%-4.00%, and a CNBC survey of economists points to a further hike before year-end as inflation stays elevated, with August CPI running at 3.4% annually. Warsh has emphasized that high inflation should be the Fed's 'predominant focus,' putting him at odds with President Trump, who has repeatedly pushed for rate cuts. Markets will watch not just the rate itself but the updated 'dot plot' of future projections and how Warsh frames risks in his press conference.",
+      "detailZh": "美联储将于今日（9月16日）结束为期两天的政策会议，利率决议将于美东时间下午2点公布，随后美联储主席凯文·沃什将召开新闻发布会。路透社调查显示，101位受访经济学家中有86位预计将加息25个基点至3.75%-4.00%区间；CNBC的调查也指出，鉴于8月通胀年率仍达3.4%，年内可能还会再加息一次。沃什强调高通胀应是美联储「首要关注点」，这一立场与一再要求降息的特朗普总统形成分歧。市场关注的不仅是利率本身，还包括最新的「点阵图」利率预测，以及沃什在发布会上如何评估风险。"
     },
     {
-      "category": "科技",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-tumble-ai-pacing-132334555.html",
-      "titleEn": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back",
-      "conclusionEn": "Semiconductor stocks sold off broadly on Monday after Anthropic CEO Dario Amodei's weekend call to slow AI development, with Intel down 7%, AMD down 6% and Nvidia off 3%, dragging a chip-sector ETF down 6%.",
-      "conclusionZh": "AI放缓呼吁引发芯片股集体抛售，英特尔跌7%、AMD跌6%、英伟达跌3%。",
-      "whyEn": "The selloff shows how sensitive AI-linked stocks remain to safety commentary from industry leaders, even though Amodei explicitly did not call for halting AI training and Anthropic itself is deploying more AMD chips.",
-      "whyZh": "抛售显示AI概念股对行业领袖安全言论极为敏感，即便言论本身并未要求停止AI训练。",
-      "detailEn": "Chip stocks fell sharply on Monday, with Intel dropping 7% to $95.96, AMD sinking 6% to $486.80 and Nvidia pulling back 3% to $212.50; the Philadelphia Semiconductor Index tumbled 5.9% and the Nasdaq 100 fell about 2%. The trigger was a weekend essay from Anthropic CEO Dario Amodei urging AI companies to deliberately pace their development of more powerful models, a call echoed by OpenAI's Sam Altman and Tesla's Elon Musk. Analysts noted an unusual pattern: less AI-exposed Intel fell hardest while Nvidia, the most AI-exposed name, fell least, suggesting the move reflects profit-taking in crowded trades rather than a genuine reassessment of AI chip demand — Amodei explicitly ruled out halting AI training, and Anthropic has committed to deploying AMD's new MI450 GPUs.",
-      "detailZh": "周一芯片股大幅下挫，英特尔股价下跌7%至95.96美元，AMD下跌6%至486.80美元，英伟达回落3%至212.50美元；费城半导体指数重挫5.9%，纳斯达克100指数下跌约2%。导火索是Anthropic首席执行官Dario Amodei周末发表文章，呼吁AI公司主动放缓更强大模型的开发节奏，OpenAI的Sam Altman与特斯拉的埃隆·马斯克均表态附和。分析师指出一个反常现象：AI关联度较低的英特尔跌幅最大，而AI关联度最高的英伟达跌幅反而最小，这表明此轮下跌更多是拥挤交易的获利了结，而非对AI芯片需求的真实重估——Amodei明确表示并非要求停止AI训练，Anthropic本身也已承诺部署AMD新款MI450 GPU。"
+      "category": "能源",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+      "titleEn": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
+      "conclusionEn": "Oil prices extended their surge, with U.S. crude topping $105 a barrel, after reports that Saudi Arabia has begun canceling some crude cargo shipments following last week's Houthi attack that shut its key East-West pipeline.",
+      "conclusionZh": "沙特输油管遇袭后传出取消部分原油出货，美国原油涨破105美元。",
+      "whyEn": "Saudi Arabia is the world's largest oil exporter, so disruption to its shipping commitments threatens global supply just as the Fed weighs a rate decision complicated by energy-driven inflation.",
+      "whyZh": "沙特是全球最大原油出口国，其供应中断威胁全球能源市场并加剧通胀压力。",
+      "detailEn": "U.S. West Texas Intermediate crude rose above $105 a barrel and Brent climbed toward $109, extending a rally that has pushed prices up roughly 20% this month. The gains followed reports that Saudi Aramco has told some customers it may not fulfill full crude cargo volumes after a Houthi drone and missile attack forced the shutdown of the kingdom's East-West pipeline, the main alternative route for bypassing the Strait of Hormuz. Iran has separately claimed a tanker struck a mine inside the strait itself, raising fears that two of the world's most critical oil corridors are simultaneously at risk. Goldman Sachs analysts said the escalation raises the probability that Brent could exceed $120 a barrel if the disruption persists.",
+      "detailZh": "美国WTI原油价格升破每桶105美元，布伦特原油逼近109美元，延续本月以来约20%的涨势。此轮上涨源于有消息称，沙特阿美已告知部分客户，因胡塞武装无人机及导弹袭击迫使沙特关闭其绕开霍尔木兹海峡的关键替代通道——东西输油管道，公司可能无法足额交付原油出货。伊朗方面另称一艘油轮在霍尔木兹海峡本身触雷，令外界担忧全球两条最关键的原油通道同时告急。高盛分析师表示，若局势持续升级，布伦特原油价格突破每桶120美元的概率正在上升。"
+    },
+    {
+      "category": "国际",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
+      "titleEn": "China bristles at Anthropic CEO's 'fearmongering' about its AI development",
+      "conclusionEn": "China's foreign ministry pushed back against Anthropic CEO Dario Amodei's essay warning that a Chinese lead in AI would be dangerous, calling it 'fearmongering' just over a week before Presidents Trump and Xi are due to meet.",
+      "conclusionZh": "中国外交部反驳Anthropic CEO「中国AI领先构成危险」言论，斥为「危言耸听」。",
+      "whyEn": "The spat adds friction to US-China tech competition right before a high-stakes summit where AI export controls and governance are expected to be major topics.",
+      "whyZh": "这为中美科技竞争再添摩擦，恰逢两国领导人即将就AI议题举行峰会。",
+      "detailEn": "In a weekend essay, Anthropic CEO Dario Amodei argued that a Chinese lead in artificial intelligence 'would pose grave danger for the United States and the world,' and called for the US to maintain export restrictions on advanced AI chips and chipmaking equipment to China. China's Ministry of Foreign Affairs responded that such warnings were counterproductive, with a spokesperson saying 'fearmongering, confrontation and vicious competition will only disrupt the process of global AI governance.' The exchange comes just over a week before Presidents Donald Trump and Xi Jinping are scheduled to meet on September 24, a summit expected to touch on AI governance among other issues. Trump has separately dismissed calls to slow US AI development, saying doing so risked letting China 'eclipse' American AI leadership.",
+      "detailZh": "Anthropic首席执行官达里奥·阿莫迪周末发文警告，「中国在人工智能领域领先将对美国及全世界构成严重威胁」，并呼吁美国继续对华限制出口先进AI芯片及芯片制造设备。中国外交部回应称，此类警告适得其反，发言人表示「危言耸听、制造对立与恶性竞争只会扰乱全球AI治理进程」。这番交锋发生在特朗普与习近平预定9月24日举行会晤前一周多，此次峰会预计将涉及AI治理等议题。特朗普此前也曾驳斥放缓美国AI发展的呼吁，称此举可能让中国在AI领域「反超」美国。"
+    },
+    {
+      "category": "俄乌冲突",
+      "source": "Euronews",
+      "sourceUrl": "https://www.euronews.com/2026/09/14/poland-and-ukraine-slam-russian-strike-on-train-near-their-border-as-escalation",
+      "titleEn": "Poland and Ukraine slam Russian strike on train near their border as 'escalation'",
+      "conclusionEn": "A Russian drone struck a Kyiv-Warsaw passenger train just two kilometers from the Polish border, prompting NATO chief Mark Rutte to pledge increased support for Ukraine and Poland to call a high-level security meeting.",
+      "conclusionZh": "俄军无人机袭击距波兰边境仅2公里的基辅至华沙客运列车，北约誓言加强援乌。",
+      "whyEn": "The strike landed dangerously close to NATO territory just after a separate train carrying senior EU officials passed through the same station, intensifying fears the war could directly draw in alliance members.",
+      "whyZh": "袭击地点极度接近北约领土，加剧战争外溢至北约成员国的担忧。",
+      "detailEn": "The drone hit a passenger train traveling from Kyiv to Warsaw near Yahodyn in Ukraine's Volyn region, about two kilometers from the Polish border, forcing an evacuation of the train's roughly 206 passengers; no injuries were reported. NATO Secretary-General Mark Rutte said the strike, occurring 'close to NATO territory,' showed Russian President Vladimir Putin's 'desperation and also his desire to sow fear and terror,' and pledged the alliance would boost support for Ukraine and strengthen its eastern border defenses. Polish Prime Minister Donald Tusk called a high-level security meeting with defense and interior ministers in response. The strike occurred shortly after a separate train carrying senior EU officials and former UK Prime Minister Boris Johnson passed through the same station, underscoring how close it came to hitting Western officials directly.",
+      "detailZh": "这架无人机袭击了一列从基辅驶往华沙的客运列车，地点靠近乌克兰沃伦州的亚戈丁，距波兰边境仅约2公里，导致列车上约206名乘客紧急疏散，所幸无人受伤。北约秘书长马克·吕特表示，此次袭击发生地「靠近北约领土」，显示出俄罗斯总统普京的「绝望，以及散布恐惧与恐怖的意图」，并承诺北约将加强对乌克兰的支持并强化东部边境防御。波兰总理图斯克随即召集国防与内政部长举行高级别安全会议。值得注意的是，就在袭击发生前不久，另一列载有欧盟高级官员及英国前首相鲍里斯·约翰逊的列车刚经过同一车站，凸显此次袭击距直接命中西方官员仅一步之遥。"
+    },
+    {
+      "category": "国际",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
+      "titleEn": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
+      "conclusionEn": "Indonesian authorities intensified their search for 129 people still missing after the ferry Virgo Transport 8, carrying more than 240 people, capsized in rough seas in the Java Sea, with six confirmed dead and 108 rescued so far.",
+      "conclusionZh": "印尼客轮「Virgo Transport 8」在爪哇海翻覆，129人仍失踪，6人遇难。",
+      "whyEn": "The disaster is one of the deadliest passenger ferry accidents in the region in years and highlights recurring maritime safety concerns across Indonesia's vast archipelago.",
+      "whyZh": "这是该地区多年来最严重的客轮事故之一，凸显印尼航运安全的长期隐患。",
+      "detailEn": "The Virgo Transport 8, a 119-meter ferry built in Japan in 1987 and now operated by PT Virgo Karya Shipping, lost contact with authorities around 2 a.m. Sunday while sailing from Surabaya to Banjarmasin on Borneo Island, before overturning in the Java Sea's Masalembo waters amid waves up to three meters high. Search teams grew to 655 personnel, deploying 17 ships and aircraft alongside navy underwater thermal drones to look for survivors. Officials said they remain hopeful of finding more people alive as the search continues, though with more than half the roughly 240 people aboard still unaccounted for, it ranks among the deadliest ferry incidents in the region in recent years.",
+      "detailZh": "「Virgo Transport 8」号客轮长119米，1987年在日本建造，现由印尼PT Virgo Karya Shipping公司运营。该船周日凌晨2时左右在从泗水驶往加里曼丹岛班贾尔马辛途中与当局失联，随后在爪哇海马萨伦博海域遭遇最高3米巨浪，不幸翻覆。搜救队伍已增至655人，出动17艘船只及飞机，并派出海军水下热成像无人设备协助搜寻幸存者。官员表示仍对找到更多幸存者抱有希望，但由于船上约240人中逾半数仍下落不明，此次事故已成为该地区近年来最惨重的客轮事故之一。"
     },
     {
       "category": "金融",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-      "titleEn": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-      "conclusionEn": "Bank of America CEO Brian Moynihan said third-quarter investment banking fees will likely come in between $1.6-1.8 billion, down more than 10% from a year earlier and below Wall Street's $2 billion estimate, sending BofA shares down 5%.",
-      "conclusionZh": "美国银行CEO警告三季度投行费用将同比下滑超10%，股价应声重挫5%。",
-      "whyEn": "As one of the largest US banks, Bank of America's dealmaking slowdown is a read-through for the whole investment-banking industry and suggests the AI-driven market jitters are already denting corporate deal activity.",
-      "whyZh": "美国银行是美国最大银行之一，其并购业务放缓预示整个投行行业活动降温。",
-      "detailEn": "Speaking at an investor conference Monday, Bank of America CEO Brian Moynihan said he now expects third-quarter investment banking fees of $1.6 billion to $1.8 billion, a more than 10% decline from a year ago and short of analysts' roughly $2 billion consensus; trading revenue is expected to be roughly flat. That marks a sharp reversal from the second quarter, when investment banking fees jumped 50% and trading revenue rose 33%. Moynihan said 'the market generally in investment banking is down 10%,' adding that Bank of America is 'not as well positioned in some of the businesses that have more activity, so we'll be down probably a bit more than that.' Shares fell about 5% in afternoon trading following the comments, part of a broader selloff in bank stocks Monday.",
-      "detailZh": "美国银行首席执行官布莱恩·莫伊尼汉周一在一场投资者会议上表示，预计三季度投行费用将在16亿至18亿美元之间，较去年同期下滑逾10%，低于分析师约20亿美元的普遍预期；交易收入预计大致持平。这较二季度投行费用大涨50%、交易收入增长33%的表现形成鲜明反差。莫伊尼汉表示「整体投行市场下滑了10%」，并补充道「我们在部分业务量较大的领域布局不够充分，因此跌幅可能会更大一些」。相关言论发布后，美国银行股价午盘一度下跌约5%，成为周一银行股整体抛售的一部分。"
-    },
-    {
-      "category": "科技",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
-      "titleEn": "Apple releases iOS 27, redesigned Siri AI",
-      "conclusionEn": "Apple rolled out iOS 27 on Monday alongside watchOS, iPadOS and visionOS 27, headlined by the long-delayed Siri AI overhaul built using Google's Gemini models, though the new assistant launches in English-only beta with a waitlist.",
-      "conclusionZh": "苹果发布iOS 27，长期延迟的Siri AI重构版正式亮相，采用谷歌Gemini模型训练。",
-      "whyEn": "The overhaul marks Apple's biggest bet yet to catch up in generative AI after repeated delays, and its partnership with rival Google to power Siri is a notable shift in the AI competitive landscape.",
-      "whyZh": "此次升级是苹果追赶生成式AI的重要一步，与对手谷歌合作训练Siri也标志着AI竞争格局的转变。",
-      "detailEn": "Apple released iOS 27 on Monday, September 14, alongside watchOS 27, iPadOS 27 and visionOS 27, with a rebuilt Siri AI as the headline feature across all four platforms. The new assistant can hold multi-turn conversations, maintain context across a session, search across a user's Mail, Messages and Photos to surface personal information, take actions inside apps, and answer general questions using live web data. Apple partnered with Google, using its Gemini models to help train the algorithms behind Siri AI — a notable alliance given the two companies compete directly in AI. The feature launches as an English-only beta that requires opting in through Settings and, in some cases, joining a waitlist; support for French, Japanese, Korean, Portuguese and Spanish is planned for October. Only iPhones as far back as the iPhone 15 Pro support the new Siri AI.",
-      "detailZh": "苹果于9月14日周一发布iOS 27，同步推出watchOS 27、iPadOS 27和visionOS 27，四大平台的核心亮点均为重构后的Siri AI。新版助手可进行多轮对话、保持会话上下文，并可跨Mail、信息与照片应用搜索调取个人信息，执行应用内操作，还能借助实时网络数据回答一般性问题。苹果与谷歌合作，使用后者的Gemini模型协助训练Siri AI背后的算法——鉴于两家公司在AI领域直接竞争，这一合作颇为引人注目。该功能目前仅提供英语测试版，需通过设置手动开启，部分用户还需加入等候名单；法语、日语、韩语、葡萄牙语和西班牙语支持预计10月上线。仅iPhone 15 Pro及以后机型支持新版Siri AI。"
-    },
-    {
-      "category": "俄乌冲突",
-      "source": "Malay Mail",
-      "sourceUrl": "https://www.malaymail.com/news/world/2026/09/15/kim-jong-un-vows-unwavering-support-for-putin-calls-russias-ukraine-war-sacred/235241",
-      "titleEn": "Kim Jong Un vows unwavering support for Putin, calls Russia's Ukraine war sacred",
-      "conclusionEn": "North Korean leader Kim Jong Un pledged 'invariable support' to Russia in a letter to Vladimir Putin, calling the war in Ukraine a 'sacred war,' as Ukraine seeks South Korean air defenses and speculation grows over further North Korean troop deployments.",
-      "conclusionZh": "金正恩致信普京承诺「不变的支持」，称俄乌战争为「神圣战争」。",
-      "whyEn": "North Korea's deepening military alignment with Russia has direct battlefield consequences, with thousands of North Korean troops already killed or wounded, and raises the stakes for South Korea and Western governments weighing further military support to Ukraine.",
-      "whyZh": "朝俄军事同盟持续深化，已有数千朝鲜士兵伤亡，牵动韩国及西方对乌军援决策。",
-      "detailEn": "In a letter to Russian President Vladimir Putin published by state media on Monday, Kim Jong Un promised North Korea's 'invariable support' for Russia, describing the war in Ukraine as a 'sacred war for defending the security interests of the country and international justice.' The letter, sent in reply to Putin's congratulations on North Korea's founding anniversary, pledged to broaden cooperation with Russia 'in a comprehensive way' based on alliance ties formalized since 2022. South Korea's intelligence agency estimates roughly 6,000 North Korean soldiers have been killed or wounded fighting alongside Russian forces, and Kyiv has warned that tens of thousands more North Korean troops could eventually be deployed. Ukraine has asked South Korea for air defense systems to counter Russian missile strikes, a request Seoul has yet to answer.",
-      "detailZh": "朝鲜官方媒体周一公布金正恩致俄罗斯总统普京的信件，信中承诺朝鲜将给予俄罗斯「不变的支持」，并将俄乌战争称为「捍卫国家安全利益与国际正义的神圣战争」。这封信是对普京祝贺朝鲜建国纪念日的回复，信中承诺将基于2022年以来确立的同盟关系「全面」深化对俄合作。韩国情报机构估计，约有6000名朝鲜士兵在随俄军作战中伤亡，基辅方面警告称未来可能有多达数万名朝鲜士兵被派往俄罗斯。乌克兰已向韩国请求提供防空系统以应对俄罗斯导弹袭击，首尔方面尚未回应这一请求。"
-    },
-    {
-      "category": "国际",
-      "source": "WHBL",
-      "sourceUrl": "https://whbl.com/2026/09/14/eu-envoys-extend-russia-sanctions-by-seven-days-to-debate-six-month-renewal-eu-presidency-says/",
-      "titleEn": "EU envoys extend Russia sanctions by seven days to debate six-month renewal, EU presidency says",
-      "conclusionEn": "EU ambassadors postponed the expiry of Russia sanctions covering roughly 3,000 entities and individuals by just seven days, after France joined Slovakia in pushing to delist Russian-Uzbek billionaire Alisher Usmanov on national security grounds.",
-      "conclusionZh": "欧盟因法国、斯洛伐克要求将寡头乌斯马诺夫除名而受阻，制裁仅延长7天。",
-      "whyEn": "Since EU sanctions require unanimous approval from all 27 members and lapse without renewal, this dispute shows how a single contested name can threaten the entire Russia sanctions regime, with implications for Western unity on Ukraine.",
-      "whyZh": "欧盟制裁续期需27国一致同意，单一人物的争议凸显对俄制裁体系的脆弱性。",
-      "detailEn": "European Union ambassadors agreed on Monday to extend the bloc's Russia sanctions regime by only seven days, until midnight on September 22, after member states failed to reach consensus on the standard six-month renewal. The sticking point is Alisher Usmanov, a Russian-Uzbek metals tycoon sanctioned in 2022 over his 'particularly close ties' to President Vladimir Putin; France has now joined Slovakia in calling for his removal from the list, with a French diplomatic source citing 'a specific national security issue.' The other 25 member states have not agreed to the delisting. EU sanctions require unanimous approval among all 27 members and must be renewed every six months, meaning disputes over even a single individual can repeatedly delay the entire package, which covers about 3,000 entities and individuals through asset freezes and travel bans.",
-      "detailZh": "欧盟大使周一同意将对俄制裁机制仅延长7天，至9月22日午夜，此前成员国未能就常规的六个月续期达成一致。争议焦点是俄裔乌兹别克金属大亨阿利舍尔·乌斯马诺夫，他因与俄总统普京「关系特别密切」而于2022年被列入制裁名单；法国如今加入斯洛伐克的行列，要求将其除名，一名法国外交消息人士称此举涉及「特定的国家安全问题」。其余25个成员国尚未同意将其除名。欧盟制裁续期需27个成员国一致同意，且每六个月需重新审批，这意味着哪怕围绕单一人物的争议，也可能反复拖延整套制裁方案的续期，该方案通过资产冻结和旅行禁令覆盖约3000个实体与个人。"
-    },
-    {
-      "category": "能源",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-14/latest-oil-market-news-and-analysis-for-sept-15",
-      "titleEn": "Latest Oil Market News and Analysis for Sept. 15",
-      "conclusionEn": "Oil prices climbed further, with Brent crude near $108 a barrel, after Saudi Arabia's East-West pipeline — a key workaround for Strait of Hormuz flows — remained shut following an attack, and Iran claimed a tanker struck a mine in the strait.",
-      "conclusionZh": "沙特东西输油管道遇袭停运，伊朗称有油轮在霍尔木兹海峡触雷，油价持续攀升。",
-      "whyEn": "With two major supply routes now under threat simultaneously, sustained high oil prices add to global inflation pressure just as central banks including the Fed weigh interest rate decisions this week.",
-      "whyZh": "两大原油运输通道同时承压，油价高企将加剧全球通胀，恰逢美联储本周议息。",
-      "detailEn": "Oil prices extended their climb, with Brent crude rising to around $108 a barrel and US crude near $102, as traders weighed compounding risks to Middle East supply. Saudi Arabia's East-West pipeline, a critical alternative route that lets crude bypass the Strait of Hormuz, remained offline after being shut down last week following an attack, with state oil giant Saudi Aramco yet to say when it will resume operations. Adding to the tension, Iran claimed that a tanker had struck a mine in the Strait of Hormuz itself, the world's most important oil chokepoint, through which about a fifth of global crude supply normally passes. Brent prices are now up more than 19% over the past month and over 60% higher than a year ago, underscoring how the extended disruption is feeding directly into global energy costs.",
-      "detailZh": "油价持续攀升，布伦特原油升至约每桶108美元，美国原油接近102美元，交易员正评估中东供应面临的多重风险。沙特阿拉伯东西输油管道——一条可绕开霍尔木兹海峡的关键替代通道——自上周遇袭关闭后仍未恢复，国家石油巨头沙特阿美尚未说明何时能恢复运营。局势进一步升级的是，伊朗方面称一艘油轮在全球最重要的原油咽喉要道霍尔木兹海峡触雷，该海峡通常承载全球约五分之一的原油运输量。布伦特原油价格过去一个月已上涨逾19%，较去年同期上涨超60%，凸显这场持续的供应中断正直接推高全球能源成本。"
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
+      "titleEn": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
+      "conclusionEn": "The US Senate failed to advance the Digital Asset Market Clarity Act, with only 49 of the needed 60 votes, effectively ending crypto market-structure legislation for 2026 and sending Bitcoin down toward $76,000.",
+      "conclusionZh": "美国参议院加密监管法案未获足够票数通过，比特币跌至7.6万美元附近。",
+      "whyEn": "The bill would have been the first comprehensive US framework for regulating crypto markets, and its failure removes regulatory certainty the industry had spent years lobbying for.",
+      "whyZh": "该法案原将成为美国首个全面加密监管框架，失败令行业多年游说落空。",
+      "detailEn": "The Digital Asset Market Clarity Act, which would have clarified how the SEC and CFTC oversee crypto markets, fell short in a Senate cloture vote, with 49 senators voting yes against 50 no votes, including all Democrats plus four Republicans. Opponents cited insufficient ethics provisions to restrain conflicts of interest, pointing to President Trump's crypto business ties, which generated an estimated $1.4 billion in revenue in 2025. The failure effectively ends market-structure legislative work in the Senate for 2026, a significant setback for an industry that lobbied heavily for the bill. Bitcoin slipped toward $76,000 and crypto-linked stocks including Coinbase, Circle and Bullish extended losses following the vote.",
+      "detailZh": "《数字资产市场明晰法案》原本将明确美国证券交易委员会（SEC）与商品期货交易委员会（CFTC）对加密市场的监管权责划分，但在参议院终止辩论投票中未能过关，仅获49票赞成，不敌50票反对，反对方包括全体民主党议员及4名共和党议员。反对者认为该法案的道德操守条款不足以约束利益冲突，并指出特朗普总统本人的加密货币业务在2025年创造了约14亿美元收入。此次失败实际上意味着参议院年内的加密市场结构立法工作已经终结，对多年来大力游说推动该法案的行业而言是重大挫折。投票结果公布后，比特币跌至7.6万美元附近，Coinbase、Circle、Bullish等加密概念股跌幅进一步扩大。"
     }
   ],
   "businessTips": [
     {
-      "term": "Moat (Competitive Advantage)",
+      "term": "Sunk Cost Fallacy",
       "category": "通用商业",
-      "explanationEn": "A moat is a durable competitive advantage that protects a company's profits from competitors over the long run, much like a castle's moat keeps out invaders. Common sources of moats include network effects (a product gets more valuable as more people use it), high switching costs (it is painful or expensive for customers to leave), brand strength, economies of scale, and proprietary technology or data. Businesses without a moat may grow quickly but tend to see profits eroded as competitors copy their approach and undercut prices. Understanding what actually protects a business, rather than just its current growth rate, is central to evaluating whether a company's success can last.",
-      "explanationZh": "护城河是指能长期保护企业利润、抵御竞争对手侵蚀的持久竞争优势，就像城堡的护城河能阻挡入侵者一样。常见的护城河来源包括网络效应（使用的人越多产品越有价值）、高转换成本（客户离开的代价很高）、品牌力、规模经济，以及专有技术或数据。没有护城河的企业可能增长很快，但往往会随着竞争对手模仿其模式、压低价格而利润被侵蚀。真正评估一家企业能否维持成功，关键不在于当下的增长速度，而在于它究竟拥有什么样的护城河。",
-      "exampleEn": "Two food delivery apps grow at similar rates, but one has built a large driver network and loyal restaurant partnerships that make it hard for a new entrant to replicate quickly, while the other has no real barrier beyond a temporary price advantage. When a well-funded competitor enters offering steep discounts, the app without a moat loses market share fast, while the one with strong network effects holds its ground.",
-      "exampleZh": "两家外卖平台增速相近，但其中一家已建立起庞大的骑手网络和稳固的餐厅合作关系，新进入者很难快速复制；另一家除了暂时的价格优势外并无真正壁垒。当一个资金雄厚的竞争对手以大幅折扣入场时，没有护城河的平台市场份额迅速流失，而拥有强网络效应的平台则能稳住阵脚。"
+      "explanationEn": "The sunk cost fallacy is the tendency to keep investing time, money or effort into a decision because of what has already been spent, rather than because of what makes sense going forward. Sunk costs — money already spent, hours already worked — are gone no matter what happens next, so rational decisions should only weigh future costs and benefits. Managers fall into this trap when they keep funding a failing project 'because we've already put so much into it,' rather than asking whether they would start that project today knowing what they now know. Recognizing sunk cost thinking is one of the simplest ways to make faster, clearer business decisions.",
+      "explanationZh": "沉没成本谬误是指人们因为已经投入的时间、金钱或精力，而继续投入某项决策，而不是基于未来是否值得继续做出判断的倾向。沉没成本——已经花掉的钱、已经付出的工时——无论接下来怎么做都无法收回，因此理性决策应只考虑未来的成本与收益。管理者常陷入这一陷阱：因为「已经投入这么多了」而继续为一个失败的项目输血，而不是反问自己，如果以今天掌握的信息重新出发，是否还会启动这个项目。识别沉没成本思维，是让商业决策更快、更清晰的最简单方法之一。",
+      "exampleEn": "A company has spent $500,000 building an internal software tool over a year, but a much cheaper off-the-shelf product now does the job better. A manager influenced by sunk cost thinking argues 'we can't stop now, we've already spent so much,' while a clear-eyed one asks only whether finishing the internal build is the best use of the next dollar, regardless of the $500,000 already gone.",
+      "exampleZh": "一家公司花了一年时间、投入50万美元开发内部软件工具，但如今市面上有更便宜的现成产品能更好地完成同样的工作。受沉没成本思维影响的管理者会说「都投了这么多，不能现在停下」，而思路清晰的管理者只会问：不论已经花掉的50万美元，继续完成这个内部项目是否是下一笔钱最值得的用途。"
     },
     {
-      "term": "Customer Acquisition Cost (CAC)",
+      "term": "Minimum Viable Product (MVP)",
       "category": "创业副业",
-      "explanationEn": "Customer Acquisition Cost is the total amount a business spends on marketing and sales, divided by the number of new customers gained over the same period, and it is one of the most important numbers for any founder to track. A side hustle or startup can look successful in terms of sales growth while quietly losing money if CAC is higher than what each customer is actually worth over time. Founders typically compare CAC against customer lifetime value (LTV) to judge whether their growth is sustainable, with a common rule of thumb being that LTV should be at least three times CAC. Tracking CAC by channel also reveals which marketing efforts, such as paid ads versus referrals, are actually worth scaling.",
-      "explanationZh": "获客成本（CAC）是指企业在营销和销售上的总支出，除以同期获得的新客户数量，这是每位创业者都应密切关注的核心指标之一。一项副业或初创项目即便销售额在增长，看起来一片繁荣，但如果获客成本高于客户带来的实际长期价值，实际上可能在暗中亏损。创业者通常会将获客成本与客户终身价值（LTV）进行对比，以判断增长是否可持续，常见的经验法则是LTV至少应为CAC的3倍。按渠道分别追踪获客成本，还能揭示哪些营销方式（例如付费广告与转介绍）真正值得加大投入。",
-      "exampleEn": "A founder running a subscription skincare side business spends $3,000 on Instagram ads in a month and gains 100 new subscribers, giving a CAC of $30 per customer. If the average subscriber only stays two months and spends $40 total, the business is losing money on every new customer despite steady sign-ups, prompting the founder to shift budget toward cheaper referral incentives instead.",
-      "exampleZh": "一位经营订阅制护肤品副业的创业者，一个月在Instagram广告上花费3000美元，获得100名新订阅用户，获客成本为每人30美元。若平均订阅用户只维持两个月、总消费40美元，那么尽管注册数据稳定，这家企业实际上每获得一名新客户就在亏钱，这促使创业者将预算转向成本更低的转介绍激励计划。"
+      "explanationEn": "A minimum viable product is the simplest version of a product that still lets a founder test a core assumption with real customers, before investing heavily in building out every feature. The goal of an MVP is not to launch something impressive, but to learn as cheaply and quickly as possible whether people actually want what you're building. Many side-hustle founders waste months polishing a product no one asked for; an MVP approach forces them to get real feedback early, even if the first version is embarrassingly basic. Common MVP formats include a landing page that measures signup interest, a manually-run service before any software is built, or a single-feature app.",
+      "explanationZh": "最小可行产品（MVP）是指产品最简化的版本，足以让创业者在大规模投入开发全部功能之前，用真实客户验证核心假设是否成立。MVP的目标不是打造一个令人惊艳的产品，而是以最低成本、最快速度弄清楚人们是否真的需要你正在做的东西。许多做副业的创业者会花费数月打磨一个根本没人需要的产品；而MVP方法则迫使他们尽早获得真实反馈，哪怕第一版简陋到有些「拿不出手」。常见的MVP形式包括用来测试注册意愿的落地页、在开发软件之前先靠人工提供服务，或者只做单一功能的App。",
+      "exampleEn": "Before building a full meal-planning app, a side-hustle founder creates a simple landing page describing the idea and asks visitors to sign up for early access. If only a handful of people sign up after real marketing effort, the founder learns cheaply that demand may be weak, saving months of development time compared to building the full app first and finding out later.",
+      "exampleZh": "在开发完整的膳食规划App之前，一位做副业的创业者先做了一个简单的落地页，介绍产品创意并邀请访客注册抢先体验。如果在真实推广后只有寥寥数人注册，创业者就能以极低成本提前意识到需求可能不足，相比先把完整App做出来才发现问题，节省了数月的开发时间。"
     },
     {
-      "term": "Yield Curve",
+      "term": "Bond Duration",
       "category": "投资金融",
-      "explanationEn": "The yield curve plots interest rates on government bonds of different maturities, from short-term bills to long-term bonds, and its shape offers a widely watched signal about investor expectations for the economy. Normally, longer-term bonds pay higher yields than short-term ones to compensate investors for tying up money longer, producing an upward-sloping curve; when short-term yields rise above long-term ones, the curve is said to 'invert,' which has historically preceded recessions. Investors also watch how quickly the curve moves and reshapes around major events like central bank meetings, since a sharp rise in long-term yields can signal inflation concerns even when short-term rates stay anchored by policy decisions. Reading the yield curve alongside the actual policy rate helps investors judge whether the market believes a central bank is ahead of or behind the inflation problem.",
-      "explanationZh": "收益率曲线描绘的是政府债券在不同期限（从短期国库券到长期债券）上的利率水平，其形态是市场广泛关注的经济预期信号。通常情况下，长期债券收益率高于短期债券，以补偿投资者资金被更长时间占用的风险，从而形成向上倾斜的曲线；当短期收益率超过长期收益率时，曲线便出现「倒挂」，历史上这一现象往往预示经济衰退将至。投资者还会关注曲线在央行会议等重大事件前后变动与重塑的速度，因为长期收益率的急剧上升即便在短期利率被政策锚定的情况下，也可能预示通胀担忧正在加剧。将收益率曲线与实际政策利率结合解读，有助于投资者判断市场是否认为央行在应对通胀问题上「领先」还是「落后」。",
-      "exampleEn": "As the 10-year Treasury yield pushes toward 5% while the Fed debates whether to hike its short-term policy rate, an investor watching the yield curve can gauge whether long-term rates are rising because the market expects the Fed to fall behind on inflation, versus because growth expectations are improving. If the curve steepens sharply around the Fed decision, the investor may shift away from long-duration bonds to limit exposure to further rate-driven price declines.",
-      "exampleZh": "在美联储商议是否上调短期政策利率之际，10年期美债收益率逼近5%，关注收益率曲线的投资者可以借此判断长期利率上升，究竟是因为市场认为美联储在通胀问题上「落后」，还是因为增长预期正在改善。若曲线在美联储决议前后急剧变陡，投资者可能会减持长久期债券，以降低进一步因利率变动而遭受价格下跌的风险。"
+      "explanationEn": "Duration measures how sensitive a bond's price is to changes in interest rates, expressed roughly as the percentage a bond's price will move for each one-percentage-point change in rates. A bond with a duration of 7 will lose approximately 7% of its value if rates rise by one percentage point, and gain roughly 7% if rates fall by the same amount. Longer-maturity bonds generally have higher duration and are more volatile, while shorter-term bonds have lower duration and are more stable when rates move. Understanding duration helps investors judge how exposed their bond holdings are to a central bank decision, rather than just looking at the bond's stated interest rate.",
+      "explanationZh": "久期衡量的是债券价格对利率变动的敏感程度，大致可理解为：利率每变动一个百分点，债券价格会相应变动的百分比。久期为7的债券，若利率上升1个百分点，其价值大约会下跌7%；若利率下降1个百分点，价值则大约上涨7%。期限越长的债券，久期通常越高、价格波动也越大；期限越短的债券久期越低，利率变动时价格相对更稳定。理解久期能帮助投资者判断自己持有的债券在央行决策前后究竟面临多大的价格风险，而不只是看债券票面利率高低。",
+      "exampleEn": "An investor holding a 20-year Treasury bond with a duration of around 15 watches the Fed prepare to raise rates by a quarter point; that single move could push the bond's price down by roughly 3-4%. A second investor holding a 2-year note with a duration near 2 would see a much smaller price drop from the same rate hike, illustrating why long-duration bonds are riskier when a rate decision is uncertain.",
+      "exampleZh": "一位投资者持有久期约为15的20年期美国国债，当美联储准备加息25个基点时，这一举动可能导致该债券价格下跌约3%-4%。而另一位持有久期约为2的2年期国债的投资者，面对同样的加息，价格跌幅则要小得多，这说明在利率决策存在不确定性时，长久期债券的风险更高。"
     }
   ]
 }
