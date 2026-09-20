@@ -1,104 +1,128 @@
 {
-  "date": "2026-09-19",
-  "updatedAt": "2026-09-19T12:04:58+10:00",
+  "date": "2026-09-20",
+  "updatedAt": "2026-09-20T12:04:47+10:00",
   "news": [
     {
       "category": "财经",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
-      "titleEn": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
-      "conclusionEn": "The Fed raised rates and Chair Kevin Warsh flagged persistent inflation, pushing the 10-year Treasury yield back to about 5%.",
-      "conclusionZh": "美联储加息且沃什强调通胀风险，10年期美债收益率回升至约5%。",
-      "whyEn": "A 5% benchmark yield lifts mortgage, corporate and government borrowing costs and pressures equity valuations globally.",
-      "whyZh": "5%的基准收益率推高房贷、企业和政府融资成本，并压制全球股市估值。",
-      "detailEn": "After the Fed's first rate hike in about three years, Warsh said this summer's inflation readings do not show underlying improvement and suggested more hikes could be warranted. Bond yields jumped in response, with the 10-year note moving above the 5% mark that had been a key threshold for markets. Higher yields compete with stocks for investor money and raise financing costs across the economy. Markets will now watch upcoming inflation data for signs of whether further tightening is coming.",
-      "detailZh": "这是美联储约三年来首次加息。沃什表示今夏通胀数据并未显示基本面改善，并暗示可能需要继续加息。债市随之下挫，10年期收益率升破市场关注的5%关口。高收益率会分流股市资金并抬高全社会融资成本。接下来市场将紧盯通胀数据，判断是否会继续收紧。"
-    },
-    {
-      "category": "财经",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html",
-      "titleEn": "Stock market today: Dow, S&P 500 post weekly losses as 10-year Treasury yield hovers near 5%",
-      "conclusionEn": "Wall Street ended a choppy week mixed, with the Dow down about 1.5% on the week while the Nasdaq gained.",
-      "conclusionZh": "华尔街本周震荡收官，道指周跌约1.5%，纳指周涨。",
-      "whyEn": "Rising yields and oil-driven inflation worries are shaping the outlook for stocks, rates and the dollar worldwide.",
-      "whyZh": "收益率上行与油价推动的通胀担忧正在左右全球股市、利率和美元走势。",
-      "detailEn": "On Friday the S&P 500 rose 0.17% to about 7,650 and the Nasdaq added 0.39%, while the Dow slipped 0.18% and finished the week down over 1.5%. The 10-year yield hovered near 5% as traders priced in more Fed hikes. JPMorgan CEO Jamie Dimon said it is not clear inflation has been beaten. Oil dipping below $100 offered some relief but did not change the broader rate worries.",
-      "detailZh": "周五标普500上涨0.17%至约7650点，纳指涨0.39%，道指微跌0.18%，全周下跌逾1.5%。10年期美债收益率在5%附近徘徊，交易员预期美联储将继续加息。摩根大通CEO戴蒙称通胀是否被战胜尚不明确。油价跌破100美元带来些许缓解，但未改变利率担忧。"
+      "sourceUrl": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+      "titleEn": "Fed approves interest rate hike, signals one more to come this year",
+      "conclusionEn": "The Fed raised rates by 25 basis points to 3.75%-4%, its first hike since July 2023.",
+      "conclusionZh": "美联储加息25个基点至3.75%-4%，为2023年7月以来首次加息。",
+      "whyEn": "It marks a policy reversal that raises borrowing costs for households, businesses and governments worldwide.",
+      "whyZh": "政策转向推高全球家庭、企业和政府的借贷成本。",
+      "detailEn": "The decision was unanimous and is the first major move under new Fed Chair Kevin Warsh, who said inflation is too high and has been for too long. Inflation has picked up this year, partly because of the war with Iran. The Fed signalled one more hike could come before year-end. The move could put Warsh at odds with President Trump, who appointed him after pushing for lower rates.",
+      "detailZh": "这次决议全票通过，是新任美联储主席沃什上任后的首个重大动作，他称通胀「过高且持续太久」。今年通胀回升，部分原因是对伊朗的战争。美联储暗示年内可能再加息一次。此举可能使沃什与曾施压要求降息并提名他的特朗普产生分歧。"
     },
     {
       "category": "财经",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
-      "titleEn": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
-      "conclusionEn": "The Bank of Japan lifted its policy rate to 1.25% from 1.0%, the highest in 31 years, by a 7-2 vote.",
-      "conclusionZh": "日本央行以7比2投票将利率从1.0%上调至1.25%，为31年来最高。",
-      "whyEn": "Japan's shift away from ultra-low rates affects the yen, global bond yields and carry trades funded in yen.",
-      "whyZh": "日本告别超低利率，将影响日元、全球债券收益率及日元融资的套利交易。",
-      "detailEn": "The BOJ said inflation risks overshooting its 2% target and that it is moving closer to what it considers a neutral rate. It was the first hike since June and was widely expected. Two board members appointed under Prime Minister Sanae Takaichi dissented. The move comes as rising wages and inflation, plus pressure from Washington, push Japan further from decades of ultra-low rates.",
-      "detailZh": "日本央行称通胀有超出2%目标的风险，并正逐步接近其认为的中性利率。这是6月以来首次加息，符合市场预期。两名由首相高市早苗任命的委员投了反对票。工资和通胀上升以及来自美国的压力，正推动日本进一步告别数十年的超低利率。"
+      "sourceUrl": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+      "titleEn": "Stock market news for Sept. 18, 2026",
+      "conclusionEn": "Wall Street ended a volatile week mixed as the 10-year Treasury yield topped 5%.",
+      "conclusionZh": "华尔街在动荡一周后涨跌不一，美国10年期国债收益率突破5%。",
+      "whyEn": "Yields at their highest since 2007 raise financing costs and pressure equity valuations.",
+      "whyZh": "收益率升至2007年以来最高，抬高融资成本并压制股票估值。",
+      "detailEn": "The Dow fell 95.40 points, or 0.18%, to 51,682.64, while the S&P 500 rose 0.17% to 7,650.50 and the Nasdaq gained 0.39% to 26,522.55. The 10-year yield hit its highest level since July 2007 earlier in the week and was around 5.0% on Friday. Traders are weighing the Fed's first hike in three years against elevated oil prices.",
+      "detailZh": "道指下跌95.40点（0.18%）至51,682.64，标普500上涨0.17%至7,650.50，纳指上涨0.39%至26,522.55。10年期收益率本周早些时候触及2007年7月以来最高水平，周五约为5.0%。交易员正在权衡美联储三年来首次加息与高企的油价。"
     },
     {
       "category": "能源",
       "source": "CNBC",
       "sourceUrl": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
       "titleEn": "Oil prices today: Brent, WTI, Saudi Arabia, Houthi",
-      "conclusionEn": "Oil fell for a third day, with WTI closing near $100 and Brent near $104, as fears of lasting Saudi supply disruption eased.",
-      "conclusionZh": "油价连跌三日，WTI收于约100美元，布伦特约104美元，市场对沙特供应中断的担忧缓解。",
-      "whyEn": "Oil near $100 keeps inflation elevated and shapes central bank decisions, while the Saudi-Houthi fighting widens the Middle East war.",
-      "whyZh": "接近100美元的油价使通胀居高不下并影响央行决策，沙特与胡塞武装的交火也扩大了中东战事。",
-      "detailEn": "Prices had climbed toward four-month highs after Yanbu loadings were suspended and Riyadh cancelled some deliveries to Europe following damage to its East-West pipeline. Saudi Arabia is reportedly seeking to restore about half the pipeline capacity within days and is offering cargoes to Asian refiners via ship-to-ship transfers off Oman. Saudi Arabia and the Iran-backed Houthis exchanged fresh strikes, but markets largely shrugged them off.",
-      "detailZh": "此前因延布港装载暂停、沙特取消部分对欧交付且东西输油管道受损，油价一度逼近四个月高位。据报道，沙特正设法在数日内恢复约一半管道产能，并通过阿曼附近海域的船对船转运向亚洲炼厂供货。沙特与伊朗支持的胡塞武装再度互相袭击，但市场基本无视。"
+      "conclusionEn": "Oil fell as China asked Iran to curb Houthi attacks on Saudi oil facilities; Brent settled near $105.",
+      "conclusionZh": "中国要求伊朗约束胡塞武装袭击沙特油设施，油价下跌，布伦特收于105美元附近。",
+      "whyEn": "Crude above $100 feeds inflation and complicates central bank policy globally.",
+      "whyZh": "油价高于100美元推高通胀，并使各国央行政策更复杂。",
+      "detailEn": "Brent settled at $104.87, down 0.93%, and WTI at $100.30, down 1.58%. China acted on a request from Saudi Arabia to ask Iran to limit Houthi strikes that threaten a second Middle East export route. The Strait of Hormuz remains constrained, with only four commodity vessels passing on Thursday versus a 10-day average of about 16.",
+      "detailZh": "布伦特原油收于104.87美元，下跌0.93%；WTI收于100.30美元，下跌1.58%。中国应沙特请求，要求伊朗限制胡塞武装对第二条中东出口通道构成威胁的袭击。霍尔木兹海峡仍受限，周四仅有4艘大宗商品船通过，而10日均值约为16艘。"
+    },
+    {
+      "category": "医药政策",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-19/pfizer-to-share-revenue-with-hhs-in-deal-on-overseas-drug-prices",
+      "titleEn": "Pfizer, HHS to Share Revenue in Deal on Overseas Drug Prices",
+      "conclusionEn": "Released documents show HHS gets a share of Pfizer's extra revenue if it charges higher prices abroad.",
+      "conclusionZh": "公开文件显示，若辉瑞在海外提价，美国卫生部将分享其增收部分。",
+      "whyEn": "It shows how Washington ties lower US drug prices to higher prices overseas.",
+      "whyZh": "显示美国政府把压低国内药价与提高海外药价挂钩。",
+      "detailEn": "The 'most favored nation' contract was obtained by watchdog Public Citizen through a FOIA lawsuit. The revenue-share percentage and covered medicines are redacted. Related documents indicate the Pfizer and Eli Lilly deals also included undisclosed tariff protections. The White House says the design ensures added income benefits American patients rather than drugmakers.",
+      "detailZh": "这份「最惠国」合同由监督组织Public Citizen通过信息自由法诉讼获得，分成比例和涉及药品均被涂黑。相关文件显示辉瑞和礼来的协议还包含未公开的关税保护。白宫称这一设计让新增收入惠及美国患者而非药企。"
+    },
+    {
+      "category": "科技",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+      "titleEn": "AI cloud provider Nscale files to go public",
+      "conclusionEn": "London-based AI cloud firm Nscale filed for a NYSE IPO under ticker NSCL, seeking up to $3 billion.",
+      "conclusionZh": "伦敦AI云服务商Nscale申请在纽交所上市，代码NSCL，拟募资最多30亿美元。",
+      "whyEn": "It is a test of investor appetite for AI infrastructure amid heavy losses.",
+      "whyZh": "检验投资者在巨额亏损下对AI基础设施的胃口。",
+      "detailEn": "Nscale reported a $1.02 billion net loss on $140.6 million revenue in the first half of 2026, with revenue up 1,252% year on year. Goldman Sachs, JPMorgan and Morgan Stanley lead the offering. OpenAI and Anthropic are customers, including a $45 billion Anthropic agreement for its West Virginia campus.",
+      "detailZh": "2026年上半年Nscale净亏损10.2亿美元，营收1.406亿美元，同比增长1,252%。高盛、摩根大通和摩根士丹利牵头发行。OpenAI和Anthropic都是客户，包括Anthropic价值450亿美元、涉及西弗吉尼亚园区的协议。"
+    },
+    {
+      "category": "航天",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html",
+      "titleEn": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
+      "conclusionEn": "NASA added about $946 million for three more SpaceX crewed ISS missions.",
+      "conclusionZh": "NASA追加约9.46亿美元，让SpaceX再执行三次载人空间站任务。",
+      "whyEn": "It deepens NASA's reliance on SpaceX while the company heads toward a possible IPO.",
+      "whyZh": "加深NASA对SpaceX的依赖，而后者正迈向可能的IPO。",
+      "detailEn": "The modification covers Crew-15, Crew-16 and Crew-17, raising SpaceX's mission count under the contract to 17 and its total value to $5.92 billion. Performance runs through 2030. Crew-13 is expected to launch in October.",
+      "detailZh": "合同修改涵盖Crew-15、16、17任务，使SpaceX在该合同下的任务总数达17次，总价值增至59.2亿美元，履约期至2030年。Crew-13预计10月发射。"
     },
     {
       "category": "商业",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-      "titleEn": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-      "conclusionEn": "Warren Buffett stepped down as Berkshire Hathaway chairman, handing the role to his son Howard and becoming chairman emeritus.",
-      "conclusionZh": "巴菲特卸任伯克希尔董事长，由儿子霍华德接任，自己出任名誉董事长。",
-      "whyEn": "It marks the next step in the succession of a $1 trillion conglomerate that Buffett led for more than six decades.",
-      "whyZh": "这是这家万亿美元集团在执掌逾六十年的巴菲特之后，权力交接的又一步。",
-      "detailEn": "In a letter to shareholders, Buffett wrote that 'Father Time always wins' and said CEO Greg Abel has exceeded his expectations. Howard Buffett becomes chairman effective immediately, with a mandate to guard the company's culture and values. Abel already succeeded Warren Buffett as CEO. Coverage noted the stock has lagged the S&P 500 recently.",
-      "detailZh": "巴菲特在致股东信中写道「时间终将获胜」，并称CEO格雷格·阿贝尔的表现超出预期。霍华德·巴菲特即日起出任董事长，负责守护公司文化与价值观。阿贝尔此前已接任CEO。报道指出伯克希尔股价近期跑输标普500。"
+      "sourceUrl": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+      "titleEn": "Nike parts ways with Kylian Mbappé; soccer superstar signs with On",
+      "conclusionEn": "Mbappé left Nike after about 20 years and signed a 10-year deal with Swiss brand On.",
+      "conclusionZh": "姆巴佩结束与耐克约20年合作，与瑞士品牌On签下10年合约。",
+      "whyEn": "It is a marketing win for challenger On and another setback for Nike.",
+      "whyZh": "这是挑战者On的营销胜利，也是耐克的又一次打击。",
+      "detailEn": "Nike chose not to renew as the contract expired. The deal, On's first with a soccer player, includes cash and equity, and Mbappé will work with On's product teams on footwear and apparel. It signals On's push into soccer, a market dominated by larger rivals.",
+      "detailZh": "耐克在合同到期时选择不续约。这是On首次签约足球运动员，包含现金和股权，姆巴佩将参与On鞋服产品开发。此举标志On进军由大品牌主导的足球市场。"
     },
     {
-      "category": "科技",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/technology/article/apples-iphone-18-pro-line-hits-stores-with-a-100-price-bump-amid-memory-crunch-ai-pressure-155709106.html",
-      "titleEn": "Apple's iPhone 18 Pro line hits stores with a $100 price bump amid memory crunch, AI pressure",
-      "conclusionEn": "Apple's iPhone 18 Pro and Pro Max went on sale $100 pricier, at $1,199 and $1,299, as AI demand drives a memory shortage.",
-      "conclusionZh": "苹果iPhone 18 Pro系列涨价100美元开售，起价1199和1299美元，AI需求推高内存短缺。",
-      "whyEn": "It shows AI-driven memory shortages passing through to consumer electronics prices and squeezing device makers' margins.",
-      "whyZh": "这表明AI推动的内存短缺正传导至消费电子价格，并挤压设备厂商利润。",
-      "detailEn": "These are the first new iPhones to launch amid a global AI-driven memory and storage shortage. Memory costs for the 256GB Pro are estimated to be nearly 400% higher than a year earlier, yet Apple is reportedly absorbing much of the increase. Delivery waits of about three weeks suggest demand remains strong. Apple is also said to be exploring alternative memory suppliers.",
-      "detailZh": "这是首批在AI带动的全球内存与存储短缺中发售的新iPhone。256GB Pro机型的内存成本预计同比上涨近400%，但据报道苹果自行消化了大部分涨幅。约三周的交付等待显示需求依然强劲。苹果据称也在寻找替代内存供应商。"
+      "category": "国际",
+      "source": "CNN",
+      "sourceUrl": "https://www.cnn.com/2026/09/18/europe/russia-parliamentary-elections-2026-ukraine-intl",
+      "titleEn": "Russian Parliamentary elections: empty podiums, prizes for e-voting, no opposition",
+      "conclusionEn": "Russia began a three-day State Duma vote with the outcome widely expected to favour Kremlin-aligned United Russia.",
+      "conclusionZh": "俄罗斯开始为期三天的国家杜马选举，普遍预期亲克里姆林宫的统一俄罗斯党胜出。",
+      "whyEn": "It is the first parliamentary vote since the 2022 invasion and includes annexed Ukrainian regions.",
+      "whyZh": "这是2022年入侵乌克兰后的首次议会选举，且包含被吞并的乌克兰地区。",
+      "detailEn": "Voting runs 18-20 September for 450 seats. Critical opposition is effectively absent, and United Russia polls near 40 percent. For the first time, residents of regions Moscow annexed from Ukraine take part, a move widely condemned as illegal.",
+      "detailZh": "投票于9月18日至20日举行，争夺450个议席。有力的反对派实际上缺席，统一俄罗斯党支持率约40%。莫斯科吞并的乌克兰地区居民首次参与投票，此举被广泛谴责为非法。"
     }
   ],
   "businessTips": [
     {
-      "term": "Opportunity Cost",
+      "term": "Theory of Constraints (Bottleneck)",
       "category": "通用商业",
-      "explanationEn": "Opportunity cost is the value of the best alternative you give up when you choose one option. Every decision on time, money or people has one, even if no cash changes hands. Naming it makes trade-offs explicit and prevents low-value work from crowding out high-value work.",
-      "explanationZh": "机会成本是你选择某一方案时所放弃的最佳替代方案的价值。时间、资金、人员上的每个决定都有机会成本，即使没有现金流出。把它说清楚能让取舍更透明，避免低价值工作挤占高价值工作。",
-      "exampleEn": "A manager spends 10 hours a week on manual reporting that a $200/month tool could automate. Those hours could go to winning clients worth far more, so the true cost of not automating is the lost sales.",
-      "exampleZh": "经理每周花10小时手工做报表，而每月200美元的工具就能自动完成。这些时间本可用来拓展价值更高的客户，所以不自动化的真实代价是错失的销售额。"
+      "explanationEn": "Every system's output is limited by its single slowest step, the bottleneck. Improving anything else barely changes total output. Find the constraint, exploit it fully, then move to the next one.",
+      "explanationZh": "任何系统的产出都受限于最慢的那个环节，即瓶颈。优化其他环节几乎不会提高总产出。先找到瓶颈，充分利用它，再去处理下一个瓶颈。",
+      "exampleEn": "A bakery can bake 100 loaves an hour but decorate only 40. Hiring another baker changes nothing; adding a decorator lifts output toward 100.",
+      "exampleZh": "面包店每小时能烤100个面包，但只能装饰40个。再请一个烘焙师没用，增加一个装饰师才能把产出提升到接近100个。"
     },
     {
-      "term": "Customer Discovery Interviews",
+      "term": "Unit Economics (CAC vs LTV)",
       "category": "创业副业",
-      "explanationEn": "Customer discovery means talking to potential customers before building, to learn their real problems and what they already do about them. Ask about past behavior rather than pitching your idea. It is the cheapest way to avoid building something nobody pays for.",
-      "explanationZh": "客户发现访谈是在开发产品前先与潜在客户交流，了解他们真实的痛点以及现有解决办法。要问过去的行为，而不是推销你的想法。这是避免做出没人付费产品的最低成本方式。",
-      "exampleEn": "Before launching a side-hustle meal-prep service, interview 15 busy parents: how do they handle dinner now, what do they pay, what annoys them? If none has paid for a solution before, reconsider.",
-      "exampleZh": "开展备餐副业前，先访谈15位忙碌的家长：现在怎么解决晚饭、花多少钱、最烦什么。如果没有人为此付过费，就该重新考虑。"
+      "explanationEn": "Unit economics measures profit on a single customer: lifetime value (LTV) minus the cost to acquire them (CAC). A common rule of thumb is LTV should be at least 3x CAC. It tells you whether growing will make or lose money.",
+      "explanationZh": "单位经济模型衡量单个客户的盈利：客户终身价值（LTV）减去获客成本（CAC）。常见经验是LTV至少为CAC的3倍。它能告诉你规模扩大后是赚钱还是亏钱。",
+      "exampleEn": "If a side-business spends $30 on ads per customer who then spends $60 in total, it barely breaks even after costs. Fix pricing or retention before scaling ad spend.",
+      "exampleZh": "如果副业每获得一个客户花30美元广告费，而客户总共只消费60美元，扣除成本后几乎不赚钱。应先改进定价或复购，再加大广告投入。"
     },
     {
-      "term": "Yield Curve",
+      "term": "Duration Risk",
       "category": "投资金融",
-      "explanationEn": "The yield curve plots bond yields across maturities, from short-term bills to 30-year bonds. Normally longer bonds yield more; when short-term yields exceed long-term ones it is called inversion and has often preceded recessions. It also reflects expectations for rates, inflation and growth.",
-      "explanationZh": "收益率曲线描绘了从短期国债到30年期债券各期限的收益率。通常期限越长收益率越高；短端高于长端称为倒挂，历史上常先于经济衰退出现。它也反映市场对利率、通胀和增长的预期。",
-      "exampleEn": "With the 10-year yield near 5% after a Fed hike, investors watch whether it rises faster than short rates. A steepening curve can signal inflation worries and raise mortgage rates, which are tied to long yields.",
-      "exampleZh": "美联储加息后10年期收益率接近5%，投资者关注它是否比短端利率上升更快。曲线变陡可能意味着通胀担忧，并推高与长期收益率挂钩的房贷利率。"
+      "explanationEn": "Duration estimates how much a bond's price falls when interest rates rise. The longer the duration, the bigger the loss per percentage point increase in yields. It is why long-dated bonds suffer most in a rate-hiking cycle.",
+      "explanationZh": "久期用来估算利率上升时债券价格的下跌幅度。久期越长，收益率每上升一个百分点，损失越大。这就是加息周期中长期债券受伤最重的原因。",
+      "exampleEn": "A bond fund with a duration of 8 years would lose roughly 8% in value if yields rose 1 percentage point. Investors worried about rising yields often shorten duration.",
+      "exampleZh": "久期为8年的债券基金，若收益率上升1个百分点，价值大约下跌8%。担心收益率上升的投资者常会缩短组合久期。"
     }
   ]
 }
