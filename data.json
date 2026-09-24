@@ -1,116 +1,128 @@
 {
-  "date": "2026-09-23",
-  "updatedAt": "2026-09-23T12:10:03+10:00",
+  "date": "2026-09-24",
+  "updatedAt": "2026-09-24T12:10:00+10:00",
   "news": [
     {
-      "category": "中美关系",
-      "source": "U.S. News & World Report",
-      "sourceUrl": "https://www.usnews.com/news/world/articles/2026-09-21/chinas-xi-to-visit-the-us-from-september-23-25",
-      "titleEn": "China's Xi to Visit the US From September 23-25",
-      "conclusionEn": "Chinese President Xi Jinping arrives in Washington on September 23 for a three-day state visit, with the main summit with President Trump set for September 24.",
-      "conclusionZh": "习近平抵达华盛顿，24日与特朗普举行峰会",
-      "whyEn": "The meeting could shape trade tariffs, rare-earth export controls, Taiwan tensions and global AI policy, all of which move markets worldwide.",
-      "whyZh": "会谈将影响关税、稀土出口管制、台海局势及全球AI政策走向",
-      "detailEn": "Xi and his wife Peng Liyuan will land at Joint Base Andrews on September 23, where Trump plans to personally greet them in an unusual protocol gesture. Formal state visit events continue September 24-25, including a Rose Garden ceremony, the main bilateral summit, and a state dinner attended by tech executives. Agenda items include easing tariffs under the fragile trade truce reached at last year's Busan summit, rare-earth export controls set to expire in November, a stalled Taiwan arms package, and rival approaches to AI regulation. Analysts expect incremental progress on trade but no breakthroughs on Taiwan or tech.",
-      "detailZh": "习近平将携夫人彭丽媛于9月23日抵达安德鲁斯联合基地，特朗普将罕见地亲自到机场迎接。9月24日至25日为正式国事访问活动，包括玫瑰园欢迎仪式、主要双边峰会以及有科技高管出席的国宴。议题包括去年釜山峰会达成的脆弱贸易休战如何巩固、11月即将到期的稀土出口管制、搁置中的对台军售，以及中美在AI监管上的分歧。分析人士预计贸易问题会有渐进进展，但台湾和科技议题难有突破。"
-    },
-    {
-      "category": "国际政治",
-      "source": "NBC News",
-      "sourceUrl": "https://www.nbcnews.com/politics/trump-administration/trump-address-united-nations-general-assembly-iran-war-rcna599085",
-      "titleEn": "Trump tells U.N. he could 'annihilate' Iran but expects a deal after the midterm elections",
-      "conclusionEn": "In his UN General Assembly address, Trump said he must decide whether to strike a deal with Iran or \"annihilate\" it, predicting an agreement only after November's US midterms.",
-      "conclusionZh": "特朗普联大演讲：或\"消灭\"伊朗，或等中期选举后达成协议",
-      "whyEn": "The remarks keep the seven-month Iran war's endgame uncertain, injecting fresh volatility risk into oil markets and Gulf security.",
-      "whyZh": "伊朗战局走向未定，为油价和海湾地区安全带来新的不确定性",
-      "detailEn": "Trump told world leaders he faces a stark choice on Iran: negotiate a deal that lets the country \"rebuild and create a far greater nation,\" or \"annihilate the Islamic Republic.\" He said he expects a deal only after November's midterm elections, arguing it \"doesn't make sense\" for Iran to refuse indefinitely. On AI, Trump rejected any global effort to restrict development, proposing the field be renamed \"superintelligence\" and pledging to \"encourage it, not rein it in.\" Delegates from Cuba and Iran walked out at points during the speech.",
-      "detailZh": "特朗普对各国领导人表示，他在伊朗问题上面临抉择：要么达成协议让伊朗「重建并变得更强大」，要么「消灭伊斯兰共和国」。他预计协议只会在11月中期选举后达成，称伊朗没道理无限期拒绝谈判。在AI议题上，特朗普拒绝任何全球性监管努力，提议将该领域改称为「超级智能」，并承诺「鼓励而非约束」其发展。演讲过程中，古巴和伊朗代表团一度退场。"
-    },
-    {
-      "category": "伊朗局势",
-      "source": "The Times of Israel",
-      "sourceUrl": "https://www.timesofisrael.com/us-and-iranian-negotiators-hold-talks-at-un-that-trump-says-went-very-well/",
-      "titleEn": "US and Iranian negotiators hold talks at UN that Trump says 'went very well'",
-      "conclusionEn": "US envoys Steve Witkoff and Jared Kushner held three hours of indirect talks with an Iranian delegation at the UN on September 22, which Trump called a success.",
-      "conclusionZh": "美伊代表在联大举行三小时会谈，特朗普称\"进展很好\"",
-      "whyEn": "It's the most substantive US-Iran contact since the war began, raising hopes of de-escalation that could ease oil markets and Gulf tensions.",
-      "whyZh": "是伊朗战争爆发以来美伊最实质性接触，或缓解油价与海湾紧张",
-      "detailEn": "Trump said his envoys met Iranian officials for three hours on the sidelines of the UN General Assembly and that another meeting is planned \"in the very near future,\" though he noted the Iranian representatives were \"not the highest level.\" Witkoff later clarified the talks were indirect, with mediators shuttling between the two delegations rather than face-to-face negotiation. Iran's foreign minister reportedly conveyed conditions for reopening the Strait of Hormuz, including lifting the naval blockade and releasing frozen Iranian assets. Trump again warned Iran faces \"potential greatness, or obliteration\" depending on the outcome.",
-      "detailZh": "特朗普表示，其特使与伊朗官员在联大边会上举行了三小时会谈，并计划「近期内」再次会面，但他也提到伊朗代表「级别不是最高」。威特科夫随后澄清，此次会谈为间接接触，由中间人在双方之间穿梭传话，而非直接面对面谈判。据报道，伊朗外长向美方转达了重开霍尔木兹海峡的条件，包括解除海军封锁、释放被冻结的伊朗资产。特朗普再次警告，伊朗面临的结果要么是「巨大机遇」，要么是「彻底毁灭」。"
-    },
-    {
-      "category": "美股",
+      "category": "中美贸易",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
-      "titleEn": "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally",
-      "conclusionEn": "AMD shares surged about 10% on September 21 to a record high near $615, pushing its market cap above $1 trillion for the first time.",
-      "conclusionZh": "AMD股价飙升近10%，市值首次突破1万亿美元",
-      "whyEn": "It signals investors' continued conviction in the AI infrastructure boom and directly affects portfolios and index funds tracking major tech stocks.",
-      "whyZh": "反映市场对AI基建热潮的信心，影响追踪科技股的基金与养老金",
-      "detailEn": "AMD became the fourth US chipmaker to cross $1 trillion in market value, joining Nvidia, Broadcom and Micron, as its stock extended a five-day winning streak to roughly 25% and is up more than 180% for the year. The rally was part of a broader chip-sector surge that also lifted Intel and Arm Holdings by around 10-12%, fueled partly by enthusiasm over Meta's new Muse AI agent. The Nasdaq Composite closed at a record high the same day, with the S&P 500 within 0.4% of its own record, as falling oil prices and optimism ahead of the Trump-Xi summit boosted risk appetite.",
-      "detailZh": "AMD成为继英伟达、博通、美光之后第四家市值突破1万亿美元的美国芯片公司，股价延续五连涨、涨幅约25%，年内累计涨幅超180%。此轮上涨属于芯片板块整体走强的一部分，英特尔和Arm股价也上涨约10%至12%，部分受到Meta新推出的Muse AI助手带动。同日纳斯达克综合指数创收盘历史新高，标普500距历史高点仅差0.4%，油价回落及市场对中美峰会的乐观情绪提振了风险偏好。"
+      "sourceUrl": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "titleEn": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "conclusionEn": "US Treasury Secretary Scott Bessent announced the US-China tariff truce, due to expire November 10, has been extended to January 10, 2027, just as Xi Jinping's state visit and summit with Trump got underway.",
+      "conclusionZh": "美中关税休战延长至2027年1月10日，恰逢习近平访美峰会启幕",
+      "whyEn": "Extending the truce removes an imminent tariff-escalation risk for global markets and gives both sides more time to negotiate a broader deal, directly affecting supply chains, tariffs and investor sentiment worldwide.",
+      "whyZh": "推迟关税升级风险，为更大贸易协议争取时间，影响全球供应链与市场情绪",
+      "detailEn": "Bessent said the extension, which he called the 'Busan Agreement,' came after an unscheduled meeting with Chinese Vice Premier He Lifeng in Washington, ahead of the formal Trump-Xi summit on September 24. He said the extra two months could allow a larger economic package to be finalized by January. The move came alongside continued negotiations over rare-earth export controls, which remain a separate and unresolved sticking point. Markets had been watching closely for signs of renewed tariff conflict given the truce's looming November deadline.",
+      "detailZh": "贝森特表示，这项被他称为「釜山协议」的延期，是在与中国国务院副总理何立峰在华盛顿举行的一次临时会晤后达成的，此时距9月24日特朗普与习近平的正式峰会仅一步之遥。他称多出的两个月时间或能让双方在明年1月前敲定一份更大规模的经济协议。与此同时，围绕稀土出口管制的谈判仍在继续，这仍是尚未解决的独立症结。此前，随着11月休战截止期临近，市场一直密切关注关税冲突是否会重燃。"
     },
     {
-      "category": "科技",
+      "category": "美债市场",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
-      "titleEn": "Alibaba shares jump as new AI chip, data center buildout plans unveiled",
-      "conclusionEn": "Alibaba unveiled its Zhenwu V900 chip, claimed to be China's most powerful AI chip, alongside plans to expand global data center capacity to over 20 gigawatts by 2032.",
-      "conclusionZh": "阿里发布新一代AI芯片\"玄武V900\"及数据中心扩张计划",
-      "whyEn": "It underscores China's push for AI chip self-sufficiency amid US export controls, a key factor in the broader US-China tech rivalry.",
-      "whyZh": "显示中国在美国出口管制下加速AI芯片自主，牵动中美科技博弈",
-      "detailEn": "Alibaba said the Zhenwu V900 delivers three times the performance of its predecessor and is slated for mass production in the first quarter of 2027. The company also confirmed its next-generation Qwen 4 model is in training, with plans for Qwen 4.5 and Qwen 5 versions and an eventual goal of training a model with 5 to 10 trillion parameters. Alibaba shares rose about 3% in Hong Kong trading on the news. The announcement comes as Chinese tech firms race to reduce reliance on Nvidia chips amid ongoing US export restrictions.",
-      "detailZh": "阿里表示，玄武V900芯片性能是上一代产品的三倍，计划2027年第一季度量产。公司同时确认新一代通义千问Qwen 4模型正在训练中，后续还将推出Qwen 4.5和Qwen 5，目标是最终训练出参数规模达5万亿至10万亿的模型。消息公布后，阿里巴巴港股股价上涨约3%。此次发布正值中国科技企业在美国出口管制下加速摆脱对英伟达芯片依赖之际。"
+      "sourceUrl": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+      "titleEn": "10-year Treasury yield rockets to 19-year high as oil, inflation fears mount",
+      "conclusionEn": "The 10-year US Treasury yield surged to about 5.1% on September 23, its highest since 2007, as surging oil prices and strong economic data fueled inflation worries.",
+      "conclusionZh": "美国10年期国债收益率飙至5.1%，创2007年以来新高",
+      "whyEn": "Higher long-term yields raise borrowing costs for mortgages, corporate debt and governments worldwide, and signal markets expect the Fed to keep rates elevated for longer.",
+      "whyZh": "长期利率上升推高房贷与企业融资成本，反映市场预期美联储将维持高利率更久",
+      "detailEn": "The yield spike followed a weak $70 billion five-year Treasury note auction, stronger-than-expected US business activity data, and hawkish comments from a senior Federal Reserve official. Rising Brent crude prices, which climbed above $103 a barrel amid Middle East tensions, added to inflation concerns. The 20-year and 30-year yields also pushed above 5% for the first time since 2023. The 30-year mortgage rate rose to 7.26%, its highest in nearly two years, squeezing US homebuyers just as the Fed weighs further rate moves.",
+      "detailZh": "此次收益率飙升，源于一场认购疲软的700亿美元五年期美债拍卖、强于预期的美国商业活动数据，以及美联储一位高级官员的鹰派表态。受中东局势紧张影响，布伦特原油价格升破每桶103美元，进一步加剧了通胀担忧。20年期和30年期国债收益率也自2023年以来首次升破5%。30年期抵押贷款利率升至7.26%，为近两年最高水平，在美联储权衡是否进一步加息之际，给美国购房者带来更大压力。"
     },
     {
       "category": "能源",
       "source": "Fortune",
-      "sourceUrl": "https://fortune.com/article/price-of-oil-09-22-2026/",
-      "titleEn": "Current price of oil as of September 22, 2026",
-      "conclusionEn": "Brent crude fell to $99.27 a barrel on September 22, down more than 2% from the previous day, extending a multi-day decline.",
-      "conclusionZh": "布伦特原油跌至99.27美元，单日跌幅超2%",
-      "whyEn": "Falling oil eases inflation pressure on consumers and central banks, though prices remain nearly 49% higher than a year ago due to the Iran war.",
-      "whyZh": "油价回落缓解通胀压力，但仍比去年同期高近49%，因伊朗战争推高溢价",
-      "detailEn": "Brent crude dropped from $101.61 to $99.27 a barrel, a 2.3% decline, as investors weighed signs of possible US-Iran de-escalation following talks at the UN General Assembly. Despite the pullback, oil remains up nearly 49% year-over-year, reflecting the risk premium built up during the seven-month Iran war and related Middle East supply disruptions, including attacks on Saudi Arabia's East-West pipeline. Analysts caution that prices could reverse quickly if diplomatic efforts falter or the conflict escalates further.",
-      "detailZh": "布伦特原油从101.61美元跌至99.27美元，单日跌幅2.3%，市场正在消化联大期间美伊会谈释放出的局势缓和迹象。尽管近期回落，油价较去年同期仍高出近49%，反映出七个月伊朗战争及沙特东西输油管道遭袭等中东供应中断带来的风险溢价。分析师提醒，若外交努力受挫或冲突升级，油价可能迅速反弹。"
+      "sourceUrl": "https://fortune.com/article/price-of-oil-09-23-2026/",
+      "titleEn": "Current price of oil as of September 23, 2026",
+      "conclusionEn": "Brent crude jumped 3.8% to $103.08 a barrel on September 23, snapping a five-day losing streak as renewed US-Iran tensions revived fears of a Middle East supply disruption.",
+      "conclusionZh": "布伦特原油单日上涨3.8%至103.08美元，中断五日跌势",
+      "whyEn": "Oil at multi-decade-relative highs feeds directly into inflation, central bank policy and consumer costs worldwide, and remains highly sensitive to any shift in the Iran conflict.",
+      "whyZh": "高油价直接推高全球通胀与消费成本，且对伊朗局势变化高度敏感",
+      "detailEn": "The rebound came as fears grew that a fragile de-escalation in the seven-month Iran war could unravel, threatening tanker traffic through the Strait of Hormuz. Prices remain nearly 49% above year-ago levels because of the ongoing conflict and prior attacks on Saudi Arabia's East-West pipeline. Saudi Arabia is reportedly preparing to restart pipeline exports that bypass the Strait, which could ease supply risk in coming days. Analysts say prices could swing sharply in either direction depending on how the parallel Iran ceasefire talks at the UN progress.",
+      "detailZh": "此轮反弹的背景是市场担忧持续七个月的伊朗战争脆弱的缓和局面可能再度破裂，威胁经霍尔木兹海峡的油轮运输。由于冲突持续及此前沙特东西输油管道遭袭，油价目前仍比去年同期高出近49%。据报道，沙特阿拉伯正准备重启绕开霍尔木兹海峡的管道出口，未来几天或能缓解供应风险。分析师表示，随着联大期间伊朗停火谈判的进展，油价可能出现大幅波动。"
+    },
+    {
+      "category": "伊朗局势",
+      "source": "The National",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/09/23/iran-us-meeting-new-york/",
+      "titleEn": "Iran presents US with road map for regionwide ceasefire and Hormuz reopening",
+      "conclusionEn": "Iranian officials handed the US a proposed road map at UN-sidelines talks in New York on September 23, offering a regionwide ceasefire of up to 60 days and phased reopening of the Strait of Hormuz.",
+      "conclusionZh": "伊朗在联大边会向美方提出地区停火及分阶段重开霍尔木兹海峡方案",
+      "whyEn": "A credible path to ending the seven-month Iran war would be one of the biggest de-escalation events of the year, directly affecting oil markets, Gulf shipping and global security risk.",
+      "whyZh": "若伊朗战争走向实质缓和，将是年内最大规模的地缘降温事件，直接影响油价与海湾航运",
+      "detailEn": "The talks, mediated by Qatar, Pakistan and Egypt, produced a detailed Iranian proposal described as an agenda for future substantive negotiations rather than a final deal. Iran is seeking an end to the US naval blockade and the release of frozen Iranian assets as part of any de-escalation. Trump has ruled out lifting the blockade until Iran shows sufficient goodwill, keeping the outcome uncertain. Both sides described the meeting as constructive, with another round of talks expected soon.",
+      "detailZh": "此次由卡塔尔、巴基斯坦和埃及斡旋的会谈，产生了一份详细的伊朗方案，被形容为未来实质性谈判的议程草案，而非最终协议。伊朗方面寻求解除美国海军封锁，并释放被冻结的伊朗资产，作为局势缓和的一部分条件。特朗普则表示，在伊朗展现足够诚意之前不会解除封锁，使结果仍存变数。双方均称此次会谈具有建设性，预计短期内还将举行新一轮谈判。"
+    },
+    {
+      "category": "企业并购",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
+      "titleEn": "Paramount reaches settlement with states, clearing path for $110 billion Warner Bros. Discovery merger",
+      "conclusionEn": "Paramount Skydance reached a settlement with a 12-state antitrust coalition on September 21-22, removing a key legal obstacle to its roughly $110 billion acquisition of Warner Bros. Discovery.",
+      "conclusionZh": "派拉蒙与12州达成和解，扫清收购华纳兄弟探索1100亿美元的法律障碍",
+      "whyEn": "The deal would combine two major film studios, two streaming platforms (Paramount+ and HBO Max) and two news networks (CBS News and CNN), reshaping the global media and entertainment industry.",
+      "whyZh": "合并将整合两大电影公司、两大流媒体平台及两家新闻机构，重塑全球媒体格局",
+      "detailEn": "The settlement resolves a legal challenge from a coalition of state attorneys general who had raised antitrust concerns about the combined company's market power. Shareholders approved the merger back in April, and the transaction is expected to close around Q3 2026; if it hasn't closed by September 30, WBD shareholders are entitled to a quarterly 'ticking fee.' The combined entity would blend Paramount and Warner Bros. film studios, Paramount+ and HBO Max streaming services, and CBS News and CNN. Analysts expect the deal to yield roughly $6 billion in cost synergies once integration is complete.",
+      "detailZh": "此次和解化解了一批州检察长此前对合并后公司市场支配力提出的反垄断质疑。该并购已于今年4月获股东批准，交易预计于2026年第三季度左右完成；若未能在9月30日前完成，华纳兄弟探索股东将有权获得按季计算的「计时费」补偿。合并后的公司将整合派拉蒙与华纳兄弟两大电影厂牌、Paramount+与HBO Max两大流媒体平台，以及CBS新闻和CNN两家新闻机构。分析师预计，整合完成后每年可实现约60亿美元的成本协同效应。"
     },
     {
       "category": "乌克兰",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit",
-      "titleEn": "Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit",
-      "conclusionEn": "Russia launched 212 drones and cruise missiles at Ukrainian industrial and energy sites overnight, killing three, as Zelenskyy pushed for an energy-infrastructure strike moratorium at the UN.",
-      "conclusionZh": "俄军空袭乌克兰致3死，泽连斯基在联大推动能源设施停火",
-      "whyEn": "It shows the war's toll continues even as diplomacy advances, with implications for European energy security and Western military support.",
-      "whyZh": "显示战争代价持续，牵动欧洲能源安全及西方对乌军援走向",
-      "detailEn": "Russia's overnight barrage of 212 drones and several cruise and ballistic missiles struck Dnipropetrovsk region industrial sites, including Zelenskyy's hometown of Kryvyi Rih, killing at least three people and cutting power to about 100,000 residents in Chernihiv. Zelenskyy traveled to New York for roughly 20 meetings during the UN General Assembly, including with Trump, and announced a new air-defense \"drone deal.\" French President Macron said France and the US had agreed to pursue a moratorium on strikes targeting energy networks and civilian infrastructure in Ukraine.",
-      "detailZh": "俄罗斯一夜之间出动212架无人机及多枚巡航导弹和弹道导弹，袭击第聂伯罗彼得罗夫斯克州多处工业设施，包括泽连斯基家乡克里维里赫，造成至少3人死亡，切尔尼戈夫约10万居民断电。泽连斯基赴纽约出席联大期间安排约20场会晤，其中包括与特朗普的会面，并宣布达成新的防空「无人机协议」。法国总统马克龙表示，法美已同意推动就停止打击乌克兰能源网络及民用设施达成停火协议。"
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
+      "titleEn": "Zelenskyy says Ukraine ready for 'energy ceasefire,' calls for trilateral meeting with Putin, Trump",
+      "conclusionEn": "President Zelenskyy told the UN General Assembly on September 23 that Ukraine is ready for an energy-infrastructure ceasefire and urged Trump to arrange a trilateral meeting with Putin, hours after Russian drones killed two people in Kyiv.",
+      "conclusionZh": "泽连斯基在联大呼吁能源设施停火并促成与普京三方会谈，同日基辅遭无人机袭击致2死",
+      "whyEn": "A potential energy-infrastructure truce could ease Europe's winter energy security risks and signal a shift toward de-escalation in a war that has run since Russia's invasion, though continued strikes show the conflict remains active.",
+      "whyZh": "能源设施停火或缓解欧洲冬季能源安全风险，但持续空袭显示冲突仍在延续",
+      "detailEn": "Russia struck Kyiv with drones in a daylight attack hours before Zelenskyy's UN address, killing two people and wounding 23, part of what he said was evidence Russia is preparing a new mass attack on Ukraine. In his speech, Zelenskyy called Putin 'patient zero' for spreading war and instability, and urged the world to keep squeezing Russia's oil-and-gas revenues. He said Ukraine would accept a ceasefire on strikes against energy and civilian infrastructure if Russia reciprocates, and separately, France and the US said they would pursue such a moratorium. Trump and Zelenskyy held talks on the sidelines of the summit, though no trilateral meeting with Putin has yet been scheduled.",
+      "detailZh": "在泽连斯基联大演讲前几小时，俄罗斯出动无人机对基辅发动白昼袭击，造成2人死亡、23人受伤，他称这是俄罗斯正在准备对乌克兰发动新一轮大规模袭击的迹象。演讲中，泽连斯基称普京为散布战争与动荡的「零号病人」，并呼吁国际社会继续压缩俄罗斯的石油天然气收入。他表示，若俄方对等回应，乌克兰愿意就停止打击能源和民用设施达成停火；法国与美国也分别表示将推动这一停火协议。特朗普与泽连斯基在峰会期间举行了会谈，但与普京的三方会晤尚未确定日期。"
+    },
+    {
+      "category": "科技",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "titleEn": "Everything new coming to Meta's AI agent Muse",
+      "conclusionEn": "Meta's Muse personal AI agent, launched in September and expanded to macOS on September 19, has become the top free app on the iPhone App Store with more than 2.5 million downloads.",
+      "conclusionZh": "Meta个人AI助手Muse登顶iPhone免费榜，下载量已超250万",
+      "whyEn": "Muse's rapid adoption shows strong consumer demand for AI agents that can act on a user's behalf across email, calendar, payments and shopping, intensifying competition among Big Tech's AI assistants.",
+      "whyZh": "Muse的快速走红显示消费者对可代为执行任务的AI助手需求强劲，加剧科技巨头AI竞赛",
+      "detailEn": "Muse connects to categories including email, calendar, payments, health, shopping and smart home, and can carry out multi-step tasks with minimal supervision, sold on $20 and $100 monthly tiers with a free weekly token allowance. Meta released a macOS version on September 19, letting the agent complete tasks directly on a user's computer for the first time. The rapid uptake comes as rivals including OpenAI and Google race to ship their own agentic AI products. Meta has kept the rollout US-only and restricted to adults amid ongoing scrutiny of AI agents' access to sensitive personal data.",
+      "detailZh": "Muse可接入邮件、日历、支付、健康、购物及智能家居等多个类别，能在较少人工干预下完成多步骤任务，提供每月20美元和100美元两档订阅，并附带每周免费额度。Meta已于9月19日推出macOS版本，首次让该助手能直接在用户电脑上完成任务。在OpenAI、谷歌等竞争对手争相推出各自的智能体AI产品之际，Muse的快速走红格外引人注目。出于对AI助手接触敏感个人数据的持续审视，Meta目前仅在美国上线，且限成年用户使用。"
+    },
+    {
+      "category": "全球经济",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/economy/global-economy/article/3368552/led-china-and-us-borrowing-world-now-owes-record-us365-trillion-debt-iif",
+      "titleEn": "Led by China and US borrowing, the world now owes a record US$365 trillion debt: IIF",
+      "conclusionEn": "Global debt rose more than $10 trillion in the first half of 2026 to a record above $365 trillion, led by borrowing in China and the US, according to the Institute of International Finance.",
+      "conclusionZh": "国际金融协会：今年上半年全球债务激增逾10万亿美元，创365万亿美元新高",
+      "whyEn": "Record debt combined with rising interest rates raises the risk of fiscal strain for governments and corporations worldwide, and could constrain future spending and growth.",
+      "whyZh": "高债务叠加利率上升，加大全球政府与企业财政压力，或制约未来增长空间",
+      "detailEn": "Emerging-market debt drove much of the increase, rising $6.5 trillion to exceed $110 trillion, with China accounting for the largest share of that growth. Governments and non-financial corporations recorded the biggest increases, while advanced-economy borrowing growth slowed sharply compared with 2025. Global debt now stands at about 310% of GDP, still well below its 2021 peak, but average G7 government borrowing costs have hit their highest level since mid-2008. The IIF said high interest rates, energy prices and the Iran conflict are all constraining new borrowing even as debt-servicing costs climb.",
+      "detailZh": "新兴市场债务是此轮增长的主要推手，上半年增加6.5万亿美元，突破110万亿美元，其中中国贡献了最大增幅。政府部门和非金融企业的债务增幅最为显著，而发达经济体的举债增速较2025年明显放缓。目前全球债务规模约为GDP的310%，仍明显低于2021年的峰值，但七国集团政府平均借贷成本已升至2008年年中以来最高水平。国际金融协会表示，高利率、高能源价格及伊朗冲突都在抑制新增借贷，即便偿债成本持续攀升。"
     }
   ],
   "businessTips": [
     {
-      "term": "Opportunity Cost",
+      "term": "Network Effects",
       "category": "通用商业",
-      "explanationEn": "Opportunity cost is the value of the next-best alternative you give up when making a choice. Every decision — whether spending money, time, or resources — has a hidden cost beyond the price tag: what you could have done instead. Smart managers weigh not just the direct cost of an option, but what they're sacrificing by not choosing something else. Ignoring opportunity cost often leads to sticking with a \"safe\" but suboptimal path simply because its cost isn't visible on a balance sheet.",
-      "explanationZh": "机会成本是指做出某个选择时，所放弃的次优选项的价值。任何决策——无论是花钱、花时间还是投入资源——除了标价之外，都有一个隐藏成本：本可以用来做别的事情。精明的管理者不仅要看一个选项的直接成本，还要看放弃其他选项所付出的代价。忽视机会成本，往往会让人只因为看不到账面成本，就固守一条「安全」但并非最优的路径。",
-      "exampleEn": "A founder spends $50,000 and six months building an in-house app instead of using a $500/month off-the-shelf tool. The opportunity cost isn't just the $50,000 — it's the six months of product development the team gave up while building instead of selling. A retailer keeping cash in a 2% savings account also pays an opportunity cost if reinvesting in inventory could have generated a 20% return.",
-      "exampleZh": "一位创业者花费5万美元、六个月时间自建内部应用，而不是使用每月500美元的现成工具。机会成本不只是这5万美元，还包括团队本可以用来做产品迭代和拓展市场的六个月时间。一家零售商把现金存在收益2%的储蓄账户里，如果这笔钱本可以投入库存获得20%回报，那么这也是一种机会成本。"
+      "explanationEn": "A network effect occurs when a product or service becomes more valuable to each user as more people use it. This creates a powerful moat because a large, established network is hard for competitors to replicate — new entrants must convince users to switch to a product that starts out less useful simply because fewer people are on it. Businesses that achieve strong network effects often see growth compound rapidly once they reach critical mass.",
+      "explanationZh": "网络效应是指一款产品或服务的价值会随着使用人数增加而对每个用户变得更高。这会形成强大的护城河，因为一个庞大成熟的网络很难被竞争对手复制——新进入者必须说服用户转向一个起步时因用户少而价值更低的产品。一旦达到临界规模，具备强网络效应的企业往往能实现快速的复合增长。",
+      "exampleEn": "A messaging app is nearly useless if none of your friends use it, but becomes essential once most of your contacts are on it — making it very hard for a new competing app to gain traction even with better features. Marketplaces like eBay show the same dynamic: more buyers attract more sellers, and more sellers attract more buyers, reinforcing the platform's dominance over time.",
+      "exampleZh": "一款即时通讯软件如果没有朋友在用，几乎毫无价值；但一旦大多数联系人都在用，它就变得不可或缺——这使得新的竞争对手即便功能更好，也很难获得用户。像eBay这样的交易平台也呈现同样的动态：买家越多吸引越多卖家，卖家越多又吸引更多买家，从而不断强化平台的主导地位。"
     },
     {
-      "term": "Minimum Viable Product (MVP)",
+      "term": "Bootstrapping",
       "category": "创业副业",
-      "explanationEn": "An MVP is the simplest version of a product that lets you test a core idea with real customers before investing heavily in building it out. Rather than spending months perfecting every feature, founders release a bare-bones version to learn what users actually want and whether they'll pay for it. This reduces wasted effort and lets you pivot quickly based on real feedback instead of assumptions.",
-      "explanationZh": "最小可行产品（MVP）是产品最简化的版本，让你能在投入大量资源前，先用真实客户验证核心想法是否成立。创业者不必花几个月打磨每一个功能，而是先推出一个基础版本，了解用户真正想要什么、是否愿意付费。这样可以减少无谓的投入，并能根据真实反馈而非主观假设快速调整方向。",
-      "exampleEn": "A side-hustler wanting to sell a meal-planning app could first launch a simple spreadsheet template or a landing page collecting email sign-ups, instead of building a full app immediately. If enough people sign up or pay for the spreadsheet, that validates demand before writing a single line of app code. Dropbox famously started with just an explainer video to gauge interest before building the product.",
-      "exampleZh": "一位想做副业的人如果打算卖一款膳食规划App，可以先推出一个简单的表格模板或收集邮箱订阅的落地页，而不是立刻开发完整App。如果有足够多人注册或愿意为这个表格付费，就说明需求确实存在，之后再动手写代码也不迟。Dropbox当年就是先做了一段演示视频来验证用户兴趣，之后才开始真正开发产品。"
+      "explanationEn": "Bootstrapping means building and growing a business using only personal savings and revenue the company generates itself, without raising outside investment. It forces founders to reach profitability quickly and keep costs lean, since there's no investor cash cushion to fall back on. The trade-off is slower growth compared to a well-funded competitor, but founders retain full ownership and control, and never have to answer to investors about strategy.",
+      "explanationZh": "自我筹资（Bootstrapping）是指仅依靠个人积蓄和公司自身产生的收入来构建和发展业务，而不引入外部融资。由于没有投资人的资金缓冲，这迫使创始人必须尽快实现盈利并严格控制成本。其代价是相比获得充足融资的竞争对手，成长速度可能较慢，但创始人能保留完整的所有权和控制权，无需就战略方向向投资人交代。",
+      "exampleEn": "A freelance designer launches a side-hustle selling website templates, reinvesting each month's profit into better marketing and new templates instead of taking out a loan or seeking investors. Companies like Mailchimp famously bootstrapped for over a decade before becoming a multi-billion-dollar business, proving that outside funding isn't always necessary to scale.",
+      "exampleZh": "一位自由设计师开启副业，销售网站模板，把每月利润重新投入更好的营销和新模板开发，而不是申请贷款或寻找投资人。像Mailchimp这样的公司就曾自我筹资长达十多年，之后才成长为市值数十亿美元的企业，证明外部融资并非规模化发展的必要条件。"
     },
     {
-      "term": "Dollar-Cost Averaging (DCA)",
+      "term": "Yield Curve",
       "category": "投资金融",
-      "explanationEn": "Dollar-cost averaging means investing a fixed amount of money at regular intervals, regardless of the asset's price, rather than trying to time the market with one lump sum. This spreads your purchases across market highs and lows, naturally buying more shares when prices are low and fewer when prices are high. Over time, it lowers the average cost per share and reduces the emotional stress of guessing the \"right\" moment to invest.",
-      "explanationZh": "定投（Dollar-Cost Averaging）是指按固定金额、固定频率投资，而不去猜测市场高低点、一次性投入全部资金。这样做能把买入时机分散在市场的高点和低点，价格低时自然买入更多份额，价格高时买入更少。长期来看，这能降低平均持有成本，也减少了因猜测「最佳时机」而产生的心理压力。",
-      "exampleEn": "An investor puts $500 into an index fund on the first of every month, regardless of whether the market is up or down that day. During a market dip, that $500 buys more shares; during a rally, it buys fewer — smoothing out the average purchase price over the year. This is why many retirement plans, like automatic 401(k) contributions, are structured as recurring investments rather than one-time bets.",
-      "exampleZh": "一位投资者每月1号固定投入500美元到指数基金，无论当天市场涨跌。市场下跌时，这500美元能买到更多份额；市场上涨时买到的份额较少，从而拉平全年的平均购买成本。许多退休金计划（比如401(k)的自动扣款）之所以采用定期定额的方式，而不是一次性押注，正是基于这个原理。"
+      "explanationEn": "The yield curve plots interest rates on government bonds of different maturities, from short-term to long-term. Normally, longer-term bonds pay higher yields to compensate investors for locking up money longer, producing an upward-sloping curve. When short-term yields rise above long-term yields — an 'inverted' curve — it often signals investors expect economic slowdown or rate cuts ahead, and has historically preceded many recessions.",
+      "explanationZh": "收益率曲线描绘的是不同期限（从短期到长期）政府债券的利率水平。通常情况下，期限越长的债券收益率越高，以补偿投资者资金被长期占用的机会成本，因此曲线呈向上倾斜状态。当短期收益率高于长期收益率时——即「倒挂」——往往意味着投资者预期经济将放缓或未来会降息，历史上这种倒挂常常是经济衰退的前兆。",
+      "exampleEn": "In late September 2026, long-term Treasury yields surged to multi-decade highs alongside rising oil prices and inflation fears, steepening the yield curve as investors demanded more compensation for holding long-dated bonds. Investors watch shifts like this closely because a steepening curve can signal expectations of stronger growth or persistent inflation, while a flattening or inverted curve often points to caution ahead.",
+      "exampleZh": "2026年9月下旬，受油价上涨和通胀担忧影响，美国长期国债收益率飙升至数十年高位，收益率曲线随之变陡，因为投资者要求持有长期债券获得更多补偿。投资者密切关注这类变化，因为曲线变陡可能预示经济增长强劲或通胀持续，而曲线变平或倒挂则往往意味着需要保持警惕。"
     }
   ]
 }
