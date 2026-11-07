@@ -1,104 +1,128 @@
 {
-  "date": "2026-11-06",
-  "updatedAt": "2026-11-06T14:55:00+11:00",
+  "date": "2026-11-07",
+  "updatedAt": "2026-11-07T12:06:38+11:00",
   "news": [
     {
       "category": "财经",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+      "titleEn": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+      "conclusionEn": "US stocks partly rebounded on Friday after Thursday's AI-led crash, with the Nasdaq up 1.1% and the S&P 500 up 0.3% while the Dow fell 0.5%.",
+      "conclusionZh": "AI股暴跌次日美股反弹，纳指涨1.1%，道指仍跌",
+      "whyEn": "Thursday's selloff erased about $3 trillion in value; whether chip stocks stabilize will shape global tech and AI-linked portfolios.",
+      "whyZh": "前一天蒸发约3万亿美元，芯片股能否企稳影响全球科技持仓",
+      "detailEn": "The semiconductor index, which dropped 12% on Thursday in its worst day since March 2020, recovered about 4% as Nvidia, AMD and Micron bounced. The selloff was triggered by fears that Democrats' midterm wins will bring tighter rules on AI data center construction. Even with Friday's gains, the S&P 500 logged its worst week since June. Investors are now watching CoreWeave and Nebius earnings next week as a test of AI infrastructure demand.",
+      "detailZh": "费城半导体指数周四暴跌12%，创2020年3月以来最差单日表现，周五随英伟达、AMD、美光反弹回升约4%。此轮抛售源于市场担心民主党中期选举获胜后会收紧AI数据中心建设监管。即便周五反弹，标普500仍录得6月以来最差单周。下周CoreWeave和Nebius财报将检验AI基础设施需求是否依旧强劲。"
+    },
+    {
+      "category": "经济",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-      "titleEn": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
-      "conclusionEn": "US stocks crashed on Thursday as the AI trade unraveled: the Nasdaq fell 5.5% into correction, the S&P 500 lost 4.4% and the Dow dropped about 1,800 points.",
-      "conclusionZh": "AI股崩盘，纳指暴跌5.5%进入回调，道指跌约1800点。",
-      "whyEn": "Investors fear the Democratic midterm sweep will slow the AI data-center buildout that has powered global stock gains all year.",
-      "whyZh": "市场担心民主党掌控国会后会拖慢AI数据中心建设，动摇全年牛市的核心支柱。",
-      "detailEn": "Nvidia fell more than 9% and lost almost $450 billion in market value, while AMD, Micron and Applied Materials posted double-digit drops; the Philadelphia chip index fell about 12%, its second-worst day on record. Qualcomm added to the pain with weak guidance, and Musk's Tesla and SpaceX each fell more than 9%. Voters also rejected 40 of 41 local data-center ballot measures across 10 states, reinforcing worries about a political backlash against AI infrastructure. The VIX fear gauge jumped nearly 70%, and attention now turns to whether the selloff spreads into credit and the broader economy.",
-      "detailZh": "英伟达跌超9%，单日市值蒸发近4500亿美元；AMD、美光、应用材料跌幅都超过10%，费城半导体指数跌约12%，创史上第二大单日跌幅。高通疲弱的业绩指引雪上加霜，马斯克旗下特斯拉和SpaceX也都跌超9%。在10个州的41项地方数据中心公投中，有40项被否决，加深了市场对AI基础设施遭政治反弹的担忧。恐慌指数VIX飙升近70%，接下来要看抛售是否蔓延到信贷市场和实体经济。"
+      "sourceUrl": "https://www.cnbc.com/2026/11/06/treasury-yields-inch-lower-as-investors-look-ahead-to-key-jobs-data-.html",
+      "titleEn": "10-year Treasury yield rises after much stronger-than-expected October jobs report",
+      "conclusionEn": "The US added 165,000 jobs in October, nearly triple forecasts, unemployment fell to 4.1%, and Treasury yields rose.",
+      "conclusionZh": "美国10月新增16.5万就业远超预期，美债收益率上升",
+      "whyEn": "A hot labor market raises the odds of a Fed rate hike in December to about 77%, pressuring stocks, mortgages and borrowing costs.",
+      "whyZh": "就业强劲令美联储12月加息概率升至约77%，压制股市和贷款成本",
+      "detailEn": "Economists had expected only about 59,000 new jobs, after a weak 29,000 gain in September. The 10-year yield climbed to about 4.86% and the 2-year to about 4.52%. Fed funds futures now price a 77% chance of a quarter-point hike at the December 9 meeting, up from 66% a day earlier. A strong labor market gives the Fed little reason to ease while inflation remains sticky.",
+      "detailZh": "经济学家原本预期仅新增约5.9万个岗位，9月更只有2.9万。10年期美债收益率升至约4.86%，2年期升至约4.52%。联邦基金期货显示，美联储12月9日会议加息25个基点的概率升至77%，前一日为66%。在通胀仍顽固的情况下，强劲的就业市场让美联储几乎没有放松的理由。"
     },
     {
-      "category": "财经",
-      "source": "Reuters",
-      "sourceUrl": "https://www.investing.com/news/economy-news/asia-stocks-to-drop-after-ai-rout-rocks-us-markets-5006125",
-      "titleEn": "Asia stocks crumble after AI rout rocks US markets",
-      "conclusionEn": "Asian markets plunged on Friday after Wall Street's AI rout, with South Korea's Kospi falling about 8% and triggering a circuit breaker while Japan's Nikkei dropped about 6%.",
-      "conclusionZh": "亚股周五暴跌，韩国Kospi跌约8%触发熔断，日经跌约6%。",
-      "whyEn": "Asia's chip giants are the core suppliers of the AI boom, so any slowdown in US data-center spending hits Korea, Taiwan and Japan hardest.",
-      "whyZh": "亚洲芯片巨头是AI浪潮的核心供应商，美国数据中心投资放缓对日韩台冲击最大。",
-      "detailEn": "SK Hynix fell 11.7%, Samsung Electronics nearly 10% and TSMC 8.5%, while Taiwan's main index also sank more than 8% and SoftBank Group slid 11%. Trading on the Kospi was halted for 20 minutes after the circuit breaker kicked in. Reuters said investors fear tighter regulatory scrutiny and a slowdown in AI build-out after Democrats won control of Congress. With these markets heavily concentrated in a few chip stocks, further volatility is likely until the AI demand outlook becomes clearer.",
-      "detailZh": "SK海力士跌11.7%，三星电子跌近10%，台积电跌8.5%，台湾加权指数跌超8%，软银集团跌11%。Kospi触发熔断后暂停交易20分钟。路透指出，投资者担心民主党掌控国会后会加强监管并放缓AI建设。由于这些市场高度集中于少数芯片股，在AI需求前景明朗之前，波动可能持续。"
-    },
-    {
-      "category": "央行",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-unanimously-hikes-rates-warns-of-4-9-inflation",
-      "titleEn": "Bank of England Unanimously Hikes Rates, Warns of 4.9% Inflation",
-      "conclusionEn": "The Bank of England raised its key rate by a quarter point to 4%, its first hike since 2023, and warned UK inflation will climb to nearly 5% next year.",
-      "conclusionZh": "英国央行加息25基点至4%，为2023年以来首次加息。",
-      "whyEn": "It shows the Iran-war energy shock is pushing major central banks back toward tightening, which raises mortgage and borrowing costs for UK households and firms.",
-      "whyZh": "说明伊朗战争带来的能源冲击正把主要央行推回加息路径，英国房贷和融资成本上升。",
-      "detailEn": "All nine policymakers voted to raise rates, with external member Catherine Mann pushing for a bigger half-point move. UK inflation was 3.5% in September, and the BOE now expects it to peak close to 5% in the second quarter of 2027, driven by months of high energy prices. Governor Andrew Bailey said he could see the argument for a further increase before taking a more conditional approach. The next decision is due on December 17, and markets will watch energy prices and the Iran talks for clues on another hike.",
-      "detailZh": "九名委员全部投票支持加息，其中外部委员凯瑟琳·曼主张一次加息50个基点。英国9月通胀为3.5%，央行预计受长期高能源价格推动，通胀将在2027年第二季度升至接近5%的峰值。行长贝利表示，有理由再加息一次，之后再采取更依赖数据的做法。下一次议息会议在12月17日，市场将关注能源价格和伊朗谈判进展，判断是否会再次加息。"
-    },
-    {
-      "category": "地缘政治",
-      "source": "CBS News",
-      "sourceUrl": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
-      "titleEn": "Iran War Updates: More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge",
-      "conclusionEn": "Several tankers were hit by mines or projectiles near the Strait of Hormuz and off Qatar, and Brent crude rebounded 2.2% to about $96.70.",
-      "conclusionZh": "霍尔木兹海峡附近多艘油轮遇袭，布伦特油价反弹至约96.7美元。",
-      "whyEn": "Attacks on shipping undercut hopes that the midterm results would quickly bring a deal to reopen Gulf shipping lanes, keeping energy prices and inflation high.",
-      "whyZh": "航运遇袭打击了中期选举后快速达成协议、重开海湾航道的期待，能源和通胀压力难降。",
-      "detailEn": "Iran's Revolutionary Guards said a tanker hit a mine and caught fire east of the Strait of Hormuz, and another tanker was struck by two projectiles about 50 nautical miles north of Qatar. The oil rebound followed a nearly 9% plunge on Wednesday, when markets bet the midterm results would speed up an end to the war. On the diplomatic side, Oman is discussing a joint traffic-control system for the strait with Iran, and Iranian officials held talks with Russia's Putin. Oil prices will stay highly sensitive to any sign of a ceasefire or fresh escalation.",
-      "detailZh": "伊朗革命卫队称，一艘油轮在霍尔木兹海峡以东触雷起火，另一艘油轮在卡塔尔以北约50海里处被两枚不明飞行物击中。油价反弹前，周三曾因市场押注中期选举会加速结束战争而暴跌近9%。外交方面，阿曼正与伊朗商讨海峡联合通航管控机制，伊朗官员还与普京会面。油价接下来仍会对停火信号或冲突升级高度敏感。"
-    },
-    {
-      "category": "财经",
+      "category": "能源",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
-      "titleEn": "Stock futures fall after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates",
-      "conclusionEn": "US stock futures kept falling Thursday night, and the October jobs report due Friday is now the next big test for markets.",
-      "conclusionZh": "美股期货继续下跌，周五10月非农就业报告成为下一关键考验。",
-      "whyEn": "After a historic tech selloff, weak jobs data could add recession fears on top of AI worries, while strong data could revive rate-hike bets.",
-      "whyZh": "科技股暴跌之后，就业数据偏弱会叠加衰退担忧，偏强则可能重燃加息预期。",
-      "detailEn": "S&P 500 futures fell 0.6% and Nasdaq-100 futures dropped 0.8% after the cash session, while Japan's Nikkei 225 slid into a bear market, more than 20% below its June peak. The Magnificent Seven lost more than $1 trillion in market value on Thursday, and Nvidia turned negative for 2026. Economists expect the October payrolls report to show only about 59,000 jobs added with unemployment at 4.2%. Together with the BOE hike and high oil prices, the data will shape expectations for the Federal Reserve's next move.",
-      "detailZh": "收盘后标普500期货跌0.6%，纳指100期货跌0.8%；日经225指数较6月高点下跌超20%，正式进入熊市。「七巨头」周四合计市值蒸发超1万亿美元，英伟达年内涨幅转负。经济学家预计10月新增就业仅约5.9万人，失业率维持4.2%。结合英国央行加息和高油价，这份数据将影响市场对美联储下一步动作的判断。"
+      "sourceUrl": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+      "titleEn": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
+      "conclusionEn": "Brent fell about 16% this week to around $98 a barrel, its steepest weekly drop in years, as hopes for US-Iran diplomacy grew.",
+      "conclusionZh": "布伦特原油本周大跌约16%，收于约98美元",
+      "whyEn": "Oil drives inflation, airline and shipping costs, and energy stocks; prices could spike back above $100 if fighting resumes.",
+      "whyZh": "油价牵动通胀和航运成本，若战事重启可能再破100美元",
+      "detailEn": "Brent settled at $98.32 and WTI at $90.83 on Friday, with WTI down nearly 13% for the week. Iran reportedly sent a nuclear proposal to Washington via Qatar, fueling hopes of a deal. But Iran also reported three more tanker attacks in the Strait of Hormuz on Thursday. Rapidan Energy's Bob McNally put the chance of fighting resuming at 80%, which could push prices above $100 again.",
+      "detailZh": "周五布伦特收于98.32美元，WTI收于90.83美元，WTI单周跌近13%。据报伊朗通过卡塔尔向华盛顿递交了核问题方案，提振了达成协议的希望。但伊朗也报告周四霍尔木兹海峡又有三艘油轮遇袭。Rapidan能源的McNally认为战事重启概率达80%，届时油价可能重回100美元以上。"
+    },
+    {
+      "category": "国际",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know",
+      "titleEn": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
+      "conclusionEn": "Iran sent a new peace proposal via Qatar and courted Russia and Gulf states, while Trump said the US may have to \"destroy the rest\" of Iran.",
+      "conclusionZh": "伊朗经卡塔尔递交和平方案，特朗普威胁再度打击",
+      "whyEn": "Whether talks or strikes win out will decide the fate of the Strait of Hormuz, global oil supply and Gulf stability.",
+      "whyZh": "谈判还是开战，将决定霍尔木兹海峡与全球原油供应走向",
+      "detailEn": "Tehran's proposal is conditional on seven demands, including sanctions relief, unfrozen assets and an end to the US naval blockade around Hormuz. Foreign Minister Araghchi held calls with the UAE, Saudi Arabia, Kuwait, Turkey, Qatar and Oman. A senior Iranian envoy met Putin, and Russia reportedly agreed to supply missile launchers. Qatar's emir urged Trump on Friday to pursue a comprehensive agreement.",
+      "detailZh": "伊朗的方案附带七项条件，包括解除制裁、解冻资产、结束美国对霍尔木兹海峡周边的海上封锁。外长阿拉格齐与阿联酋、沙特、科威特、土耳其、卡塔尔和阿曼通话。伊朗高级特使会见普京，据报俄方同意提供导弹发射装置。卡塔尔埃米尔周五与特朗普通话，敦促达成全面协议。"
+    },
+    {
+      "category": "政治",
+      "source": "PBS NewsHour",
+      "sourceUrl": "https://www.pbs.org/newshour/nation/opposition-to-ai-data-centers-in-the-midterms-foreshadows-tougher-regulations-ahead",
+      "titleEn": "Opposition to AI data centers in the midterms foreshadows tougher regulations ahead",
+      "conclusionEn": "Democratic governors who won on anti-data-center platforms, plus local referendums, point to tighter limits on AI data center construction.",
+      "conclusionZh": "中期选举反数据中心情绪高涨，AI建设或迎更严监管",
+      "whyEn": "This is the policy risk behind the AI stock selloff; it could slow capex for chipmakers, cloud providers and power utilities.",
+      "whyZh": "这是AI股暴跌的政策根源，或拖慢芯片、云和电力投资",
+      "detailEn": "Newly elected Democratic governors in Texas, Ohio, Georgia, Nevada and Iowa campaigned heavily against data centers' energy and water use. Of 34 winning governors, 32 back stronger regulation and 12 support bans or moratoriums. In local votes, 44 of 45 completed referendums approved restrictions. Texas, projected to be the world's largest data center market by 2030, makes the shift especially significant for the industry.",
+      "detailZh": "德州、俄亥俄、佐治亚、内华达和爱荷华新当选的民主党州长都曾猛烈抨击数据中心的耗电与耗水问题。34位胜选州长中32位支持加强监管，12位支持禁令或暂停建设。地方公投中，已完成的45项里有44项通过了限制措施。德州预计到2030年将成为全球最大数据中心市场，其政治转向对行业影响尤为重大。"
     },
     {
       "category": "公司",
-      "source": "MT Newswires",
-      "sourceUrl": "https://www.marketscreener.com/news/airbnb-q3-earnings-revenue-rise-shares-jump-after-hours-ce785fddda88f521",
-      "titleEn": "Airbnb Q3 Earnings, Revenue Rise; Shares Jump After Hours",
-      "conclusionEn": "Airbnb beat third-quarter forecasts with $4.87 billion in revenue and $3.16 EPS, raised guidance and announced a $12 billion buyback, sending shares higher after hours.",
-      "conclusionZh": "Airbnb三季度营收和利润均超预期，宣布120亿美元回购。",
-      "whyEn": "It is a rare bright spot amid the tech rout and signals that global travel demand remains resilient despite the war and high energy prices.",
-      "whyZh": "是科技股暴跌中的少见亮点，说明战争和高油价下全球旅游需求依然坚挺。",
-      "detailEn": "Revenue grew at its fastest pace in more than three years, beating the FactSet estimate of $4.75 billion, and earnings per share topped the $2.85 consensus. Airbnb guided fourth-quarter revenue to $3.22 billion to $3.28 billion, above the $3.16 billion expected, and raised its full-year growth forecast. The company also unveiled a $12 billion share repurchase program, a sign of confidence in its cash flow. CNBC reported the stock jumped about 11% in extended trading, a sharp contrast with AI-linked names.",
-      "detailZh": "营收增速创三年多来最快，高于FactSet预期的47.5亿美元，每股收益也超过2.85美元的市场预期。公司给出的四季度营收指引为32.2亿至32.8亿美元，高于预期的31.6亿美元，并上调全年增长预测。Airbnb还宣布120亿美元股票回购计划，显示对现金流的信心。据CNBC报道，股价盘后大涨约11%，与AI相关股票形成鲜明对比。"
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
+      "titleEn": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+      "conclusionEn": "Moderna posted Q3 revenue of $1.31 billion and a surprise profit, and raised its 2026 revenue growth outlook to 15%-25%.",
+      "conclusionZh": "Moderna三季度意外盈利，上调全年营收增长指引",
+      "whyEn": "It signals a possible turnaround for a vaccine maker that had been shrinking since the pandemic, lifting biotech sentiment.",
+      "whyZh": "疫情后持续萎缩的疫苗公司或迎拐点，提振生物科技板块",
+      "detailEn": "Revenue beat forecasts of about $885 million, and earnings of 38 cents a share compared with an expected loss of $1.25. The company had previously guided to growth of up to 10%. CEO Stéphane Bancel credited new products, including its next-generation Covid vaccine, and expansion in Canada, the UK and Asia. Shares rose about 7% midday.",
+      "detailZh": "营收大幅超过约8.85亿美元的预期，每股盈利0.38美元，而市场原本预期每股亏损1.25美元。公司此前的全年增长指引为最多10%。CEO班塞尔将业绩归功于新一代新冠疫苗等新产品，以及在加拿大、英国和亚洲的扩张。股价盘中上涨约7%。"
+    },
+    {
+      "category": "公司",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-midday-nvda-mrna-ionq-abnb-fly.html",
+      "titleEn": "Stocks making the biggest moves midday: Nvidia, Moderna, IonQ, Airbnb, Firefly Aerospace & more",
+      "conclusionEn": "Earnings split sharply: Lam Research jumped 9% on a $25 billion buyback, while DraftKings fell 27%, Axon 18% and Microchip 14% on weak results.",
+      "conclusionZh": "财报季分化：Lam涨9%，DraftKings跌27%",
+      "whyEn": "In a jittery market, companies that miss or guide lower are being punished heavily, so stock-specific risk is high.",
+      "whyZh": "市场情绪脆弱，业绩不及预期的公司遭重罚，个股风险高",
+      "detailEn": "Lam Research's board authorized a $25 billion share buyback, helping chip-equipment stocks recover. IonQ rose 17% after raising its revenue outlook, and Firefly Aerospace soared 30% on a $1.3 billion engine deal with AST SpaceMobile. On the downside, DraftKings posted a wider-than-expected loss, Axon missed estimates and gave weak guidance, and Microchip's outlook disappointed. The swings show investors rewarding clear growth and punishing any shortfall.",
+      "detailZh": "Lam Research董事会批准250亿美元股票回购，带动半导体设备股回升。IonQ上调营收指引后大涨17%，Firefly Aerospace因与AST SpaceMobile签下13亿美元发动机合同飙升30%。下跌方面，DraftKings亏损扩大超预期，Axon业绩不及预期且指引疲弱，Microchip的展望也令人失望。这种剧烈分化说明投资者奖励确定增长、严惩任何不及预期。"
+    },
+    {
+      "category": "国际",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+      "titleEn": "Hoax bomb threats repeatedly disrupt flights across Europe this week. Here's what we know",
+      "conclusionEn": "At least 27 European flights were hit by hoax bomb threats on Thursday alone, forcing diversions and fighter-jet escorts.",
+      "conclusionZh": "欧洲单日至少27个航班遭炸弹恐吓，多架被迫备降",
+      "whyEn": "The wave disrupts travel and airlines, and authorities are weighing whether it is part of Russia-linked hybrid attacks.",
+      "whyZh": "冲击航空出行，当局正评估是否与俄罗斯混合战有关",
+      "detailEn": "Aer Lingus, Finnair, Wizz Air, LOT and Air France were among the carriers affected, with incidents around London, Copenhagen, Dublin, Helsinki and Prague. Security checks found no explosives in any case. The EU activated an aviation-security information-sharing mechanism, and police in several countries are investigating. It followed a similar wave targeting seven planes on Tuesday.",
+      "detailZh": "受影响的航司包括爱尔兰航空、芬兰航空、威兹航空、波兰航空和法航，涉及伦敦、哥本哈根、都柏林、赫尔辛基和布拉格等地。安检均未发现爆炸物。欧盟启动了航空安全信息共享机制，多国警方展开调查。此前周二已有7架客机遭到类似威胁。"
     }
   ],
   "businessTips": [
     {
-      "term": "Anchoring Effect",
+      "term": "Chesterton's Fence",
       "category": "通用商业",
-      "explanationEn": "The anchoring effect is the tendency to rely too heavily on the first number or piece of information we see when making judgments. In business, the first price, salary figure or estimate mentioned often sets the reference point for the whole discussion. Knowing this helps you set smart anchors in negotiations and spot when you are being anchored by someone else.",
-      "explanationZh": "锚定效应是指人在做判断时，会过度依赖最先看到的数字或信息。在商业中，最先提出的价格、薪资或预估，往往会成为整场讨论的参照点。理解它，既能帮你在谈判中主动设定有利的「锚」，也能察觉自己是否被别人的锚牵着走。",
-      "exampleEn": "A cleaning company that lists a premium deep-clean package at $400 next to a standard clean at $180 makes the standard option feel like good value. In a salary talk, naming a well-researched number first usually pulls the final offer closer to it.",
-      "exampleZh": "清洁公司把400澳元的深度清洁套餐放在180澳元标准清洁旁边，标准套餐就显得很划算。谈薪资时，先报出一个有依据的数字，最终结果通常会更靠近它。"
+      "explanationEn": "Chesterton's Fence says you should not remove a rule, process or policy until you understand why it was put there. Many seemingly pointless rules exist to prevent a problem that is now invisible precisely because the rule works. Understanding the original reason lets you decide whether it still applies. It is a useful check against over-eager \"efficiency\" changes.",
+      "explanationZh": "「切斯特顿的栅栏」指出：在弄清楚一条规则、流程或政策当初为何设立之前，不要贸然取消它。很多看似多余的规定，恰恰是因为它在起作用，所以它要防范的问题才看不见。弄清初衷后，才能判断它是否仍然必要。这是防止为了「提效」而草率改动的好方法。",
+      "exampleEn": "A new manager wants to scrap the rule that every refund over $200 needs a second sign-off. Before cutting it, they learn it was added after a staff member issued fake refunds. They keep the check but automate it, saving time without reopening the risk.",
+      "exampleZh": "新经理想取消「200元以上退款需第二人审批」的规定。动手前他了解到，这条规则是在一名员工伪造退款后才加上的。于是他保留审批、改为系统自动提醒，既省时间又不重新打开漏洞。"
     },
     {
-      "term": "Minimum Order Quantity (MOQ)",
+      "term": "Good-Better-Best Pricing",
       "category": "创业副业",
-      "explanationEn": "MOQ is the smallest number of units a supplier will produce or sell in one order. It directly decides how much cash you must tie up in stock before you sell anything. For small side businesses, negotiating a low MOQ or finding suppliers with flexible MOQs is key to testing products without overcommitting money.",
-      "explanationZh": "最小起订量（MOQ）是供应商一次愿意生产或出售的最少数量。它直接决定你在卖出任何东西之前要压多少现金在库存上。对小副业来说，争取较低的起订量或找到起订灵活的供应商，是低风险测试新产品的关键。",
-      "exampleEn": "If a factory demands 1,000 custom mugs at $4 each, you risk $4,000 before knowing demand; a print-on-demand supplier with no MOQ costs more per unit but lets you test with zero inventory. Many sellers start with on-demand, then switch to bulk orders once sales are proven.",
-      "exampleZh": "如果工厂要求定制杯子起订1000个、每个4美元，你在验证需求前就要押上4000美元；而无起订量的按需印刷供应商单价更高，却能零库存试水。很多卖家先用按需生产，销量验证后再转为批量采购。"
+      "explanationEn": "Good-Better-Best pricing offers the same product or service in three tiers instead of one price. The basic tier captures price-sensitive buyers, the middle tier is designed to be the most popular, and the premium tier makes the middle look reasonable and captures customers willing to pay more. It raises average order value without forcing anyone to pay more. For small sellers, it is one of the easiest ways to increase revenue from the same traffic.",
+      "explanationZh": "「好-更好-最好」定价是把同一产品或服务分成三档，而不是只给一个价格。基础档吸引价格敏感的客户，中间档设计成最受欢迎的主力，高端档让中间档显得划算，同时拿下愿意多付钱的客户。它能在不强迫任何人多花钱的前提下提高客单价。对小卖家来说，这是用同样流量多赚钱的最简单方法之一。",
+      "exampleEn": "A home-cleaning side business offers Standard ($120), Deep Clean with oven and fridge ($180), and Premium with linen change and restocking ($240). Most customers pick the middle tier, and average revenue per job rises from $120 to about $170.",
+      "exampleZh": "一个家政副业推出三档：标准清洁120元、含烤箱冰箱的深度清洁180元、含换床品和补货的尊享档240元。多数客户选中间档，每单平均收入从120元升到约170元。"
     },
     {
-      "term": "VIX (Volatility Index)",
+      "term": "Maximum Drawdown",
       "category": "投资金融",
-      "explanationEn": "The VIX measures the market's expectation of S&P 500 volatility over the next 30 days, based on options prices, and is often called Wall Street's fear gauge. Readings below about 15 usually signal calm markets, while readings above 30 signal stress. It helps investors judge sentiment and the cost of hedging, but it does not predict the market's direction.",
-      "explanationZh": "VIX根据期权价格计算市场对标普500未来30天波动率的预期，常被称为华尔街「恐慌指数」。一般低于15代表市场平静，高于30代表市场紧张。它能帮助投资者判断情绪和对冲成本，但并不能预测涨跌方向。",
-      "exampleEn": "On November 5, 2026, the VIX jumped nearly 70% to about 28 as tech stocks crashed. Long-term investors often treat VIX spikes as a reminder to stick to their plan rather than panic-sell, since extreme fear has historically appeared near short-term lows.",
-      "exampleZh": "2026年11月5日科技股暴跌时，VIX单日飙升近70%至约28。长期投资者常把VIX飙升视为坚持原定计划、不恐慌抛售的提醒，因为历史上极度恐慌往往出现在短期低点附近。"
+      "explanationEn": "Maximum drawdown measures the largest peak-to-trough fall in an investment's value before it reaches a new high. It shows the worst loss an investor would have suffered by buying at the top and selling at the bottom. Returns alone can hide how painful a strategy is to hold; drawdown reveals that. Large drawdowns also need much bigger gains to recover: a 50% loss requires a 100% gain to break even.",
+      "explanationZh": "最大回撤衡量的是一项投资从最高点跌到最低点的最大跌幅（在创新高之前）。它反映了一个在高点买入、在低点卖出的投资者最多会亏多少。只看收益率会掩盖持有过程有多煎熬，而回撤能揭示这一点。回撤越大，回本越难：亏50%需要涨100%才能回到原点。",
+      "exampleEn": "After this week's AI rout, a chip-heavy fund may be down 25% from its peak while a balanced fund is down 6%. Even if both earned similar returns over five years, the first requires much stronger nerves. Checking drawdown helps you choose a portfolio you can actually hold through a selloff.",
+      "exampleZh": "本周AI股暴跌后，一只重仓芯片的基金可能较高点回撤25%，而股债平衡基金只回撤6%。即使两者五年收益相近，前者需要强大得多的心理承受力。看最大回撤能帮你选出在暴跌中真正拿得住的组合。"
     }
   ]
 }
