@@ -1,116 +1,116 @@
 {
-  "date": "2026-11-23",
-  "updatedAt": "2026-11-23T13:55:00+11:00",
+  "date": "2026-11-24",
+  "updatedAt": "2026-11-24T12:09:38+11:00",
   "news": [
-    {
-      "category": "财经",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.swissinfo.ch/eng/us-stock-futures-open-higher-after-tech-selloff:-markets-wrap/92421262",
-      "titleEn": "US Stock Futures Bounce After Rout, Havens Drop: Markets Wrap",
-      "conclusionEn": "US stock futures opened sharply higher on Sunday evening, with S&P 500 contracts up about 2.1% and Nasdaq 100 contracts up 2.8%, after a seven-day losing streak pushed the S&P 500 into a correction.",
-      "conclusionZh": "美股期货周日晚大幅反弹，纳指期货涨约2.8%",
-      "whyEn": "It is the first test of whether last week's AI-driven rout is exhausting itself, and sets the tone for global markets in a holiday-shortened week.",
-      "whyZh": "检验AI抛售潮是否见底，决定感恩节短周全球市场基调",
-      "detailEn": "The rebound follows a week in which the S&P 500 fell for seven straight sessions and the VIX closed Friday at its highest level since April 2025. Safe havens eased: the 10-year Treasury yield slipped to about 4.94%, while spot gold rose about 1% to roughly $3,575 an ounce and Brent dipped to around $91.80. MSCI's Asia-Pacific gauge sits near bear-market territory, about 18% below its June peak. Whether futures gains hold into the cash session will show if dip buyers are back or this is just a relief bounce.",
-      "detailZh": "此前标普500连跌七个交易日进入回调区间，VIX恐慌指数周五收于2025年4月以来最高。避险资产方面，10年期美债收益率降至约4.94%，现货黄金涨约1%至每盎司约3575美元，布伦特原油小跌至约91.8美元。MSCI亚太指数较6月高点下跌约18%，逼近熊市。期货涨幅能否延续到正式交易时段，将显示抄底资金是否回归，还是仅为技术性反弹。"
-    },
-    {
-      "category": "亚太市场",
-      "source": "Investing.com",
-      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/asian-countries-steps-aid-stock-154243324.html",
-      "titleEn": "Asian countries take steps to aid stock markets after AI rout",
-      "conclusionEn": "Taiwan, South Korea and China rolled out emergency measures over the weekend, including short-selling curbs, a stabilization fund and looser margin rules, to shore up stock markets hit by the AI selloff.",
-      "conclusionZh": "台韩中周末密集出手救市，限制做空并放宽融资",
-      "whyEn": "Asia's chip-heavy markets have been hit hardest by the AI rout; coordinated policy support signals how serious regulators think the damage is.",
-      "whyZh": "亚洲芯片股市受AI抛售冲击最重，多地同步救市说明监管层高度紧张",
-      "detailEn": "Taiwan banned short sales below the previous close on all stocks from Monday and raised the minimum short-sale margin to 150% from 130%, after its benchmark suffered its worst week since August 1990. South Korea, whose KOSPI fell more than 5% on Friday and is down nearly 47% from its June record, readied a market stabilization fund and eased share-buyback limits. Shanghai and Shenzhen exchanges cut the margin financing ratio to 80% from 100% to encourage leveraged buying. Such measures can slow selling but rarely reverse a trend unless the underlying AI earnings concerns ease.",
-      "detailZh": "台股基准指数录得1990年8月以来最差单周，台湾自周一起禁止所有股票以低于前一日收盘价放空，并把融券保证金比例由130%提高到150%。韩国KOSPI周五跌逾5%，较6月高点累计下跌近47%，当局准备启用股市稳定基金并放宽回购限制。沪深交易所把融资保证金比例从100%下调至80%，鼓励杠杆买入。这类措施能减缓抛压，但若AI盈利担忧不消退，很难扭转趋势。"
-    },
-    {
-      "category": "美股前瞻",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
-      "titleEn": "3 big things we're watching in the market this Thanksgiving week",
-      "conclusionEn": "Heading into Thanksgiving week, markets face Dell and HPE earnings, a wave of retail reports, and futures pricing more than 90% odds of a Fed rate hike on Dec. 9.",
-      "conclusionZh": "感恩节周看点：戴尔财报、零售财报及12月加息预期",
-      "whyEn": "A near-certain Fed hike on top of the AI selloff tightens financial conditions further; Dell's results are a key read on AI server demand.",
-      "whyZh": "AI抛售叠加美联储大概率加息，戴尔财报将检验AI服务器需求",
-      "detailEn": "The S&P 500 ended Friday on its longest losing streak since February 2020, the Nasdaq turned negative for 2026, and all 11 sectors fell last week. HPE reports Monday after the bell and Dell on Tuesday, while Best Buy, Dick's, Kohl's and Abercrombie & Fitch report Tuesday morning ahead of Black Friday. CME FedWatch shows over 90% odds of a quarter-point hike at the Dec. 9 meeting, and Governor Christopher Waller has floated a half-point move. Markets close Thursday for Thanksgiving and at 1 p.m. ET on Friday, so thin liquidity could amplify swings.",
-      "detailZh": "标普500周五录得2020年2月以来最长连跌，纳指年内转跌，上周11个板块全部下跌。HPE周一盘后、戴尔周二盘后发布财报，百思买、Dick's、Kohl's和Abercrombie & Fitch周二盘前公布业绩，正值黑色星期五前夕。CME FedWatch显示12月9日加息25个基点的概率超过90%，理事沃勒甚至提出可能加息50个基点。周四感恩节休市、周五提前至美东下午1点收盘，成交清淡可能放大波动。"
-    },
-    {
-      "category": "中东局势",
-      "source": "France 24",
-      "sourceUrl": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
-      "titleEn": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
-      "conclusionEn": "Bahrain said an Iranian strike set fire to a civilian industrial site on Sitra Island, while two tankers were hit near the Strait of Hormuz and Iran claimed to have downed a US drone.",
-      "conclusionZh": "巴林指伊朗袭击工业设施，霍尔木兹两艘油轮遇袭",
-      "whyEn": "Renewed attacks on Gulf infrastructure and shipping end a weeks-long lull and threaten oil supply through the world's most important energy chokepoint.",
-      "whyZh": "海湾设施与航运再遭袭击，威胁全球最关键石油通道的供应",
-      "detailEn": "Residents reported smoke over Sitra Island, home to several industrial sites including a refinery run by state oil firm Bapco; Iran's Revolutionary Guards said they targeted US facilities in Bahrain. UK maritime agency UKMTO said one tanker was struck by an unknown projectile and another was hit in its engine room, with no casualties reported. Iran also said it shot down a US drone over Qeshm Island. The escalation, part of a conflict that began with US-Israeli strikes on Iran in February, keeps a risk premium in oil even as Brent trades near $92.",
-      "detailZh": "居民称看到锡特拉岛上空浓烟，该岛有国营巴林石油公司炼油厂等多处工业设施；伊朗革命卫队称其目标是美国在巴林的设施。英国海事机构UKMTO称一艘油轮被不明飞行物击中，另一艘机舱受损，暂无伤亡报告。伊朗还宣称在格什姆岛上空击落一架美国无人机。这场冲突始于今年2月美以对伊朗的打击，局势再度升级使油价中的风险溢价难以消退。"
-    },
-    {
-      "category": "科技公司",
-      "source": "Fox News",
-      "sourceUrl": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26",
-      "titleEn": "Anthropic imposed rival non-competes, 2 a.m. sign-offs on Wall Street banks ahead of record IPO",
-      "conclusionEn": "Citing Reuters, Fox News reported that Anthropic made unusual demands on its 22 IPO underwriters, including six-month bans on bankers working with rivals such as OpenAI.",
-      "conclusionZh": "Anthropic上市前对承销投行提出罕见苛刻要求",
-      "whyEn": "It shows how much bargaining power top AI companies hold over Wall Street, even as Anthropic's shares slid after a record listing.",
-      "whyZh": "显示头部AI公司对华尔街的议价力，尽管其上市后股价下跌",
-      "detailEn": "According to the report, Anthropic asked some banks to bar deal-team members from working with OpenAI, Cursor, DeepSeek and Hugging Face for six months. It also capped several banks' deal teams at four senior bankers and shared watermarked documents. After a law firm sent incorrect figures, Anthropic circulated a corrected filing around 2 a.m. New York time and gave banks only hours to sign off. The underwriters still earned more than half a billion dollars in fees, though the stock fell about 9% in its second session amid the broader AI selloff.",
-      "detailZh": "报道称，Anthropic要求部分投行禁止交易团队成员在6个月内为OpenAI、Cursor、DeepSeek和Hugging Face服务，还把多家投行的核心团队限制在4名资深银行家，并使用带水印的文件。律所发错数据后，Anthropic在纽约时间凌晨2点左右发出更正文件，只给投行几小时签字确认。承销商仍赚取超过5亿美元费用，但在AI板块抛售中，该股上市第二个交易日下跌约9%。"
-    },
-    {
-      "category": "国际",
-      "source": "RFE/RL",
-      "sourceUrl": "https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html",
-      "titleEn": "Iran To Ration Electricity Amid Warnings Power Grid Battered by US, Israeli Strikes",
-      "conclusionEn": "Iran began rolling power cuts of up to two hours a day and limited subsidized bread in several provinces, as President Trump said he wants a \"permanent\" deal with Tehran.",
-      "conclusionZh": "伊朗开始轮流限电并限购补贴面包，民生压力加剧",
-      "whyEn": "Energy and food shortages raise domestic pressure on Tehran and could shape whether the US pursues new strikes or a negotiated deal.",
-      "whyZh": "能源与粮食短缺加大伊朗国内压力，影响美伊走向谈判还是再战",
-      "detailEn": "Iran's state electricity company said outages would last up to two hours a day depending on location, citing fuel supply problems. President Pezeshkian said attacks on gas infrastructure had worsened the situation and warned of a difficult winter. Subsidized bread has been rationed in at least three provinces, with buyers paying more than five times the price once monthly quotas run out. Trump told Fox News he wants a permanent deal, while CBS reported the US and Israel are weighing new strikes.",
-      "detailZh": "伊朗国家电力公司表示，因燃料供应问题，各地每天停电最长两小时。总统佩泽什基安称天然气设施遇袭令情况恶化，并警告今冬将十分艰难。至少三个省份对补贴面包实行限购，超出月度配额后价格高出五倍以上。特朗普对福克斯新闻表示希望与伊朗达成「永久」协议，而CBS报道美以正考虑新一轮打击。"
-    },
     {
       "category": "科技",
       "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-      "titleEn": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-      "conclusionEn": "US intelligence chief Jay Clayton warned more tech outages may follow a string of failures that grounded flights and disrupted Microsoft Outlook and bank transactions, but officials say there is no sign of a coordinated cyberattack.",
-      "conclusionZh": "美国情报总监警告科技故障或将持续，排除网络攻击",
-      "whyEn": "Repeated outages in aviation, email and banking during the Thanksgiving travel rush raise questions about the resilience of critical infrastructure.",
-      "whyZh": "航空、邮件和银行系统接连故障，正值感恩节出行高峰，暴露关键基础设施脆弱性",
-      "detailEn": "Speaking on CNN, Clayton said outages may continue as companies and government agencies upgrade their systems. The FAA said router upgrades caused a data flood behind a nationwide ground stop just over a week ago, while Microsoft blamed its Outlook outage on an earlier network capacity upgrade. The disruptions also slowed some bank transactions. Treasury Secretary Scott Bessent said Americans should not worry about the security of their financial institutions.",
-      "detailZh": "克莱顿在CNN节目中表示，随着企业和政府升级系统，故障可能还会出现。美国联邦航空局称，一周多前导致全国航班停飞数小时的事故源于路由器升级引发的数据洪流；微软则把Outlook宕机归因于此前的网络扩容升级。这些故障还拖慢了部分银行交易。财政部长贝森特表示，民众无需担心金融机构的安全。"
+      "sourceUrl": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "titleEn": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+      "conclusionEn": "Nvidia's board unanimously voted to bring Jensen Huang back as CEO, president and director, and the stock jumped about 31% in a single session.",
+      "conclusionZh": "英伟达董事会一致决定让黄仁勋复任CEO，股价单日暴涨约31%。",
+      "whyEn": "Nvidia is the bellwether of the AI trade; its leadership crisis had helped drag global tech stocks into a correction, so his return reset sentiment across markets.",
+      "whyZh": "英伟达是AI行情风向标，其领导层危机曾拖累全球科技股，黄仁勋回归扭转市场情绪。",
+      "detailEn": "Huang resigned earlier this month after admitting to personal misconduct, with CFO Colette Kress named interim CEO, and the stock lost roughly a third of its value. The board said it reinstated him after a series of discussions, and the one-day gain added close to $1 trillion in market value, Nvidia's best day in more than two decades. Critics in Congress say questions over export controls remain unanswered, and the board's independent investigation is still a governance overhang.",
+      "detailZh": "黄仁勋本月早些时候承认个人行为不当后辞职，CFO科莱特·克雷斯暂代CEO，股价期间累计蒸发约三分之一。董事会表示经过多轮沟通后决定让其复职，单日市值增加近1万亿美元，创二十多年来最佳单日表现。国会部分议员仍要求就出口管制问题作出解释，董事会的独立调查也仍是公司治理上的隐患。"
+    },
+    {
+      "category": "财经",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "titleEn": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia",
+      "conclusionEn": "US stocks staged a huge rebound on Monday, with the S&P 500 up about 4.7% and the Nasdaq up about 6.5%, recovering roughly half of last week's plunge.",
+      "conclusionZh": "美股周一大反弹，标普涨约4.7%、纳指涨约6.5%，收复上周近半跌幅。",
+      "whyEn": "The rally snapped the S&P 500's seven-day losing streak after a correction, easing fears of a deeper AI-led bear market for global investors.",
+      "whyZh": "此轮反弹终结标普七连跌，缓解了市场对AI引发深度熊市的担忧。",
+      "detailEn": "Last week the Nasdaq fell about 10%, its worst week in more than six years, as Nvidia's leadership turmoil and AI-spending worries hit tech. The VIX volatility index dropped sharply and Brent crude fell below $90 a barrel on Monday. Strategists are split on whether the correction is over, and markets still face a likely Federal Reserve rate hike in December and inflation data during the Thanksgiving-shortened week.",
+      "detailZh": "上周纳指下跌约10%，为六年多来最差单周表现，英伟达领导层动荡和AI支出担忧重创科技股。周一波动率指数VIX大幅回落，布伦特原油跌破每桶90美元。策略师对调整是否结束看法分歧，市场仍需面对美联储12月大概率加息以及感恩节缩短交易周内公布的通胀数据。"
+    },
+    {
+      "category": "并购",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "titleEn": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "conclusionEn": "CrowdStrike agreed to acquire Zscaler in an all-stock deal worth about $43.9 billion, a 34% premium, creating a security giant with over $10 billion in combined ARR.",
+      "conclusionZh": "CrowdStrike以约439亿美元全股票收购Zscaler，溢价34%。",
+      "whyEn": "It is one of the largest cybersecurity deals ever and signals consolidation as AI-driven attacks push customers toward single-platform vendors.",
+      "whyZh": "这是网络安全史上最大并购之一，显示AI时代行业正加速整合为平台化巨头。",
+      "detailEn": "Zscaler holders will receive 1.135 CrowdStrike shares per share, valuing Zscaler at about $260 a share. CrowdStrike shares fell around 9-10% on dilution concerns despite beating quarterly estimates, while Zscaler jumped about 13-15%. The company targets $500 million in annual cost savings and about $1 billion in revenue synergies; the deal still needs Zscaler shareholder and regulatory approval and is expected to close in the second half of CrowdStrike's fiscal 2028.",
+      "detailZh": "Zscaler股东每股可换得1.135股CrowdStrike股票，对应每股约260美元。尽管季度业绩超预期，CrowdStrike股价因摊薄担忧下跌约9-10%，Zscaler则上涨约13-15%。公司目标实现每年5亿美元成本节省和约10亿美元收入协同；交易仍需Zscaler股东及监管批准，预计在CrowdStrike 2028财年下半年完成。"
+    },
+    {
+      "category": "亚洲市场",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+      "titleEn": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
+      "conclusionEn": "Asian chip stocks surged on Tuesday, with SK Hynix and Samsung leading the Kospi up around 6% and Advantest and Tokyo Electron jumping about 12% in Tokyo.",
+      "conclusionZh": "亚洲芯片股周二大涨，韩国KOSPI涨约6%，东京芯片股涨约12%。",
+      "whyEn": "Asian suppliers were among the hardest hit in the AI selloff, so the rebound matters for Korean, Japanese and Taiwanese markets and retail investors.",
+      "whyZh": "亚洲供应链股此前跌得最惨，反弹直接影响日韩台股市和散户。",
+      "detailEn": "Samsung Electronics and SK Hynix together make up more than 40% of the Kospi, so their gains drove the index sharply higher. Tokyo was closed on Monday, making Tuesday its first chance to price in Huang's return. Regional regulators had rolled out stabilisation steps such as short-selling curbs and buyback relaxations last week, and investors will watch whether the rebound holds.",
+      "detailZh": "三星电子和SK海力士合计占KOSPI权重超过40%，二者大涨带动指数飙升。东京股市周一休市，周二是首次反映黄仁勋回归的交易日。上周亚洲各地监管机构已推出限制做空、放宽回购等稳市措施，投资者将关注此次反弹能否持续。"
+    },
+    {
+      "category": "地缘政治",
+      "source": "France 24",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
+      "titleEn": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
+      "conclusionEn": "Bahrain said Iran struck a civilian industrial site near its refinery hub, while tankers were hit in or near the Strait of Hormuz over the weekend.",
+      "conclusionZh": "巴林指伊朗袭击其工业设施，霍尔木兹海峡周末再有油轮遇袭。",
+      "whyEn": "Attacks on Gulf energy sites and Hormuz shipping threaten a key oil chokepoint and keep a risk premium in energy markets.",
+      "whyZh": "海湾能源设施和霍尔木兹航运遇袭威胁全球石油要道，影响油价。",
+      "detailEn": "Smoke was seen over Sitra Island, home to a Bapco refinery, and Bahrain said two people were injured; Iranian media claimed attacks on US bases in Bahrain. Iran's navy said two tankers hit sea mines near the strait, while Saudi Arabia, Kuwait, Qatar and the Arab League condemned the strikes. Oil prices nonetheless fell on Monday as Hormuz flows approached pre-war levels and surplus forecasts dominated, but further escalation could quickly reverse that.",
+      "detailZh": "巴林国营炼油厂所在的锡特拉岛上空可见浓烟，巴林称两人受伤；伊朗媒体称袭击了美国驻巴林基地。伊朗海军称两艘油轮在海峡附近触雷，沙特、科威特、卡塔尔及阿拉伯联盟均予以谴责。不过由于霍尔木兹航运量接近战前水平、市场预期供应过剩，周一油价仍下跌，但局势若进一步升级可能迅速逆转。"
+    },
+    {
+      "category": "气候",
+      "source": "CNN",
+      "sourceUrl": "https://www.cnn.com/2026/11/22/climate/cop31-summit-collapses-in-fossil-fuel-failure",
+      "titleEn": "Global climate summit collapses as countries fail to agree on moving away from fossil fuels",
+      "conclusionEn": "The COP31 UN climate summit in Antalya ended without an overarching agreement after record-long overtime talks deadlocked over fossil fuels and finance.",
+      "conclusionZh": "安塔利亚COP31气候大会因化石燃料分歧未能达成整体协议。",
+      "whyEn": "The failure weakens global decarbonisation signals for energy investors and leaves poorer nations without new adaptation finance commitments.",
+      "whyZh": "失败削弱全球减碳政策信号，影响能源投资方向，穷国也拿不到新资金承诺。",
+      "detailEn": "Saudi Arabia and other OPEC members opposed any mention of a fossil-fuel transition, while the EU, Norway and several island states rejected a text that omitted it. Some technical items, such as the adaptation goal and carbon-market rules, were still adopted, so analysts debate whether it was a total collapse. Unresolved issues, including a proposed $120 billion adaptation finance target, move to the Bonn session next June.",
+      "detailZh": "沙特等欧佩克成员反对文本提及摆脱化石燃料，欧盟、挪威和多个岛国则拒绝不含该内容的草案。适应目标、碳市场规则等部分技术议题仍获通过，因此分析人士对是否属于彻底失败存在争议。包括1200亿美元适应资金目标在内的未决问题将推至明年6月波恩会议继续谈判。"
+    },
+    {
+      "category": "国际",
+      "source": "CNN",
+      "sourceUrl": "https://www.cnn.com/2026/11/22/africa/russian-vessel-libya-suspected-drone-attack-intl",
+      "titleEn": "Ukrainian drones sink Russian warship in North Africa",
+      "conclusionEn": "Ukraine said its drones sank a Russian corvette at a Libyan port and hit a Russian cargo ship, as a separate drone strike set a Russian freighter ablaze in the Baltic.",
+      "conclusionZh": "乌克兰称在利比亚击沉俄军舰，波罗的海另有俄货轮遭无人机袭击。",
+      "whyEn": "Ukraine's long-range strikes are widening the war's maritime front, raising risks for shipping and insurance in the Mediterranean and Baltic.",
+      "whyZh": "乌克兰远程打击扩大海上战线，地中海和波罗的海航运及保险风险上升。",
+      "detailEn": "Zelensky said the cargo ship off Libya was being used by Russia to move weapons. In the Baltic, the Russian freighter Sparta II caught fire and drifted into Finnish waters, and the Kremlin accused Kyiv of 'terrorist activity' and warned of painful consequences. The incidents could complicate ongoing peace diplomacy and prompt Russia to escort or reroute vessels.",
+      "detailZh": "泽连斯基称利比亚附近被击中的货轮被俄方用于运输武器。在波罗的海，俄罗斯货轮Sparta II起火并漂入芬兰海域，克里姆林宫指责基辅从事「恐怖活动」并警告将付出代价。这些事件可能给正在进行的和平外交增添变数，并促使俄方为船只护航或改变航线。"
     }
   ],
   "businessTips": [
     {
-      "term": "Pre-mortem",
+      "term": "Key Person Risk",
       "category": "通用商业",
-      "explanationEn": "A pre-mortem is a planning exercise where a team imagines a project has already failed and works backward to list the reasons why. Popularized by psychologist Gary Klein, it gives people permission to voice doubts that groupthink or optimism usually suppress. It surfaces risks before money and time are committed, when they are still cheap to fix.",
-      "explanationZh": "事前验尸是一种规划练习：团队先假设项目已经失败，再倒推列出失败原因。这个方法由心理学家加里·克莱因推广，让成员敢于说出平时被乐观情绪或群体思维压下去的疑虑。它能在投入时间和资金之前发现风险，此时修正成本最低。",
-      "exampleEn": "Before launching a new service line, a manager asks everyone to spend 10 minutes writing: \"It's one year later and this launch flopped — why?\" The answers reveal staffing gaps and an unrealistic pricing assumption, which are fixed before launch.",
-      "exampleZh": "上线新业务前，经理请每个人花10分钟写下：「一年后这个项目失败了，原因是什么？」大家的答案暴露出人手不足和定价假设过于乐观的问题，团队在上线前就做了调整。"
+      "explanationEn": "Key person risk is the danger that a company's value or operations depend heavily on one individual, such as a founder or star executive. If that person leaves, falls ill or faces scandal, strategy, relationships and investor confidence can all suffer at once. Boards manage it with succession plans, deputies who can step up, documented processes and sometimes key-person insurance.",
+      "explanationZh": "关键人物风险指公司价值或运营高度依赖某一个人（如创始人或明星高管）。一旦此人离职、生病或陷入丑闻，战略、客户关系和投资者信心可能同时受挫。董事会通常通过继任计划、培养可顶上的副手、流程文档化以及关键人物保险来管理这一风险。",
+      "exampleEn": "Nvidia lost about a third of its market value after Jensen Huang resigned, then regained much of it in one day when he was reinstated. Even a small business faces the same issue if only the owner knows the suppliers and pricing.",
+      "exampleZh": "黄仁勋辞职后英伟达市值蒸发约三分之一，他复职当天又收复大半。即使是小生意，如果只有老板一个人掌握供应商和定价信息，也面临同样的风险。"
     },
     {
-      "term": "Loss Leader",
+      "term": "Minimum Viable Audience",
       "category": "创业副业",
-      "explanationEn": "A loss leader is a product sold at or below cost to attract customers who then buy other, higher-margin items. Retailers lean on it heavily around Black Friday and Cyber Monday. It works only if you can reliably capture the follow-on purchase or customer relationship; otherwise you simply lose money on every sale.",
-      "explanationZh": "引流品是指以成本价甚至亏本出售的商品，用来吸引顾客购买其他高利润产品。零售商在黑五和网一期间大量使用这一策略。前提是你能稳定拿到后续购买或客户关系，否则只是每卖一单亏一单。",
-      "exampleEn": "An online candle shop sells a sample set at cost during Black Friday but requires an email sign-up and includes a discount code for full-size candles. Repeat orders from that list over the next three months make the promotion profitable.",
-      "exampleZh": "一家线上香薰小店在黑五以成本价卖试用装，但要求留下邮箱，并附上正装折扣码。之后三个月里这批客户的复购，让这次促销整体实现盈利。"
+      "explanationEn": "A minimum viable audience is the smallest group of people who care enough about your work to keep a side project or small business alive. Instead of chasing mass reach, you focus on a narrow niche whose problems you understand deeply. A few hundred engaged followers who trust you can support paid products, while thousands of passive followers often cannot.",
+      "explanationZh": "最小可行受众是指足以支撑一个副业或小生意持续运转的最小人群。与其追求大范围曝光，不如聚焦一个你深刻理解其痛点的细分群体。几百个信任你、愿意互动的粉丝就能支撑付费产品，而几千个被动关注者往往做不到。",
+      "exampleEn": "A food blogger in Australia might target Chinese-speaking international students in one city rather than all foodies. With 500 loyal readers, a paid dining guide or restaurant partnership can already cover costs.",
+      "exampleZh": "一位澳洲美食博主可以专注某个城市的华人留学生，而不是所有吃货。有了500名忠实读者，一份付费探店指南或餐厅合作就足以覆盖成本。"
     },
     {
-      "term": "Short Selling & Short-Selling Bans",
+      "term": "Exchange Ratio & Dilution in All-Stock Deals",
       "category": "投资金融",
-      "explanationEn": "Short selling means borrowing shares, selling them, and buying them back later, profiting if the price falls. Regulators sometimes restrict it during crashes — as Taiwan did this week — to slow panic selling. Research suggests bans can reduce liquidity and widen bid-ask spreads, and often fail to stop declines driven by fundamentals.",
-      "explanationZh": "卖空是借入股票卖出、之后再买回归还，股价下跌即可获利。市场暴跌时监管机构有时会限制卖空（如本周台湾的做法）以减缓恐慌性抛售。研究显示，禁空往往会降低流动性、扩大买卖价差，而且通常挡不住由基本面驱动的下跌。",
-      "exampleEn": "If you short 100 shares at $50 and buy back at $40, you make $1,000 before borrowing fees. But if the stock rises to $70, you lose $2,000 — and losses on a short are theoretically unlimited, which is why short sellers use stop-losses.",
-      "exampleZh": "以50美元卖空100股、在40美元买回，扣除借券费用前赚1000美元；但若股价涨到70美元，就亏2000美元。卖空的潜在亏损理论上没有上限，所以卖空者通常会设置止损。"
+      "explanationEn": "In an all-stock acquisition, the buyer pays with its own newly issued shares at a fixed exchange ratio instead of cash. Target shareholders gain upside if the buyer's stock rises, but existing buyer shareholders are diluted because the share count grows. Markets often push the acquirer's price down on announcement if they doubt synergies will outweigh that dilution.",
+      "explanationZh": "在全股票收购中，收购方用新发行的自家股票按固定换股比例支付，而不是现金。被收购方股东可分享收购方股价未来上涨，但收购方原股东会因总股本增加而被摊薄。如果市场怀疑协同效应不足以弥补摊薄，收购方股价往往在公告后下跌。",
+      "exampleEn": "CrowdStrike offered 1.135 of its shares for each Zscaler share, adding roughly 19% to its share count, and its stock fell about 10% on the news. Investors holding either stock should check the ratio and whether the target's value moves with the acquirer's price.",
+      "exampleZh": "CrowdStrike按每股Zscaler换1.135股的比例收购，总股本增加约19%，消息公布后股价下跌约10%。持有任一方股票的投资者应关注换股比例，以及被收购方价值会随收购方股价波动这一点。"
     }
   ]
 }
